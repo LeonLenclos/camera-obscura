@@ -22,6 +22,3 @@ AVANT RESIDENCE QUAI 9/5/2023
 - Fabriquer planchettes pour les differents objectifs et lentilles.
 - Avancer sur les plans de la remorque.
 - Rendez-vous Arnaud pour conseils construction remorque
-
-APRÈS RESIDENCE QUAI 9/5/2023
-- réparer gramophone
