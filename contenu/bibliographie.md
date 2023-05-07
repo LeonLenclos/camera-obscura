@@ -10,6 +10,7 @@
 
 ## Gramophone
 
+- [forum Talking machine](https://forum.talkingmachine.info/)
 - [Vidéo à propos du HMV 102](https://www.youtube.com/watch?v=AYn7aZZBMRA)
 
 ## Soufflets
