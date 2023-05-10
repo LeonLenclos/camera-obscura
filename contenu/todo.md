@@ -5,7 +5,7 @@
 ### Production
 
 - Relance courrier partenaires avec dossier + lien du site
-
+- Trouver lieu construction (usine/plasticiens volants ?)
 
 ### Courses
 
