@@ -9,7 +9,7 @@
 
 ### Courses
 
-AVANT RESIDENCE QUAI 9/5/2023
+- Talkie-walkie 
 - bache pour le camion
 - 1 miroir ultra clair pour essais double-image et essai 2D
 
