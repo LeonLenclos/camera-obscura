@@ -1,5 +1,6 @@
 # TODO
 
+- se renseigner sur le Permis
 
 ### Production
 
