@@ -7,7 +7,8 @@
 - [geogebra](https://www.geogebra.org/calculator/hahmryyn)
 - [logiciel (payant) pour créer des optiques](https://www.zemax.com/)
 - [bouquins théoriques](https://www.babelio.com/livres/Houard-Optique/898680)
-
+- [Peut on considérer qu'un objectif (assemblage de lentilles) est géométriquement équivalent à une lentille mince](https://www.galerie-photo.com/un-objectif-photo.html)
+- 
 ## Gramophone
 
 - https://forum.talkingmachine.info/viewtopic.php?f=3&t=30997
