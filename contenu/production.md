@@ -61,12 +61,11 @@ Interlocuteurices :
 
 
 ### du 9/5/2023 au 12/5/2023 : Toulouse (31) - QDS
-- Rencontre Airbus ?
-- Finissions soufflet
-- Test anamorphose
-- Test camera sprinter
-- Test objectifs et lentilles
-- Test double mirroir
+- Finissions soufflet OK
+- Test anamorphose OK. On renonce à la projection frontale depuis le toit car la déformation est ingérable.
+- Test camera sprinter OK. Ecran inadapté, à tester avec Grey +
+- Test objectifs et lentilles OK. Les objectif ne remplissent pas l'écran. Les lentilles offrent un résultat exploitable.
+- Test double mirroir OK. ON fix l'angle de prise de vue à 53° max. Ce qui correspond à 35mm en 4/3 sur le boitier 24/36. Soit un tirage de 2 m pour un écran de 2 m.
 - màj doc et contact Gérard
 
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
