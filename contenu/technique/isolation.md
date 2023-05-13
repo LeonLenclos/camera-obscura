@@ -11,7 +11,7 @@ Camera Obscura est un spectacle de rue, diffusé en été, et nécessitant une b
 ### Renouvellement de l’air
 - Mise en place d'un système de renouvellement de l’air à l’intérieur de la remorque. Nous imaginons un système d'extraction d'air composé de 2 gaines équipées de bouches d'aération placées sur les côtés en haut sur tout le long de la remorque et qui débouchent sur l'extérieur.
 L'arrivée d'air se ferait par le sol à travers des bouches d'aération individuelles sous chaque siège.
-Cette implantation permettrait une convection naturelle. Mais peut-être faut-il imaginer un ventilation mécanique pour forcer l'extraction et accélérer le renouvellement de l'air (manivelle ou pédalier et volant d’inertie ?).
+Cette implantation permettrait une convection naturelle. Mais peut-être faut-il imaginer un ventilation mécanique pour forcer l'extraction et accélérer le renouvellement de l'air. L'hélice de l'extracteur pourrait être animée par un système de poids enrainant un engrenage et remonté entre chaque représentation.
 
 ### Raffraichissement de l’air
 
