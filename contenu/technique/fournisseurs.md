@@ -9,6 +9,7 @@
 - [amazing camera obscura](http://www.amazingcameraobscura.co.uk/shop.htm)
 - [truemirror](https://store.truemirror.com/collections/all?page=1)
 - [bohroptics](http://bohroptics.com/en)
+- [Legrand-Optique](https://www.legrand-optique.fr/)
 
 
 ## Ecran, tissus, tulle
