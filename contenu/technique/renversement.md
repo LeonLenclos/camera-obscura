@@ -1,11 +1,11 @@
 
-# Renversement de l’image
+# Renversement de Renversement de l’image de l’imageimage
 
-En utilisant un objectif ou une lentille simple, sur l’image projetée le haut et le bas sont inversés. Il faut réussir à retourner l’image pour rétablir son orientation haut-bas. 
+En utilisant un objectif ou une lentille simple, sur l’image projetée le haut et le bas sont inversés. Il faut réussir à retourner l’image pour rétablir son orientation haut-bas.
+
 L’idéal serait d’éviter aussi une inversion droite-gauche mais ce n’est pas prioritaire.
 
 ## Tour d'horizon des solutions pour régler le problème du renversement
-
 
 ![prisme en toit](../photos/toit_amici_1.jpg)
 *Un prisme en toit d'Amici réalisé avec deux miroirs*
@@ -26,13 +26,30 @@ Artistiquement très intéressante, cette option sera utilisée pour certaines s
 
 ### Retourner l'image
 
-- Nous n’avons pas trouvé de solution fiable pour régler ce problème en dehors de l’utilisation de prismes géants de Dove, de Poro-Abbe ou en toit d'Amici ou avec des miroirs de grande taille.
-- Nous nous demandons si une solution sans prisme ou miroir est possible ? Si nous sommes contraints d’utiliser des prismes de grande taille, comment et où se procurer de tels objets.
+Pour retourner l'image plusieurs solutions ont étés envisagés :
+- Les prismes (de Dove, de Poro-Abbe ou en toit d'Amici)
+- Une solution sans prisme ni miroir par un agencement de lentille.
+- Les agencements de mirroirs (avec 2, 3 ou 4 mirroirs, qui s'inspirent des prismes de Poro-Abbe ou en toit d'Amici)
+
+L'option prisme a été abandonnée du fait de la taille excessive des prismes qu'il nous faudrait. Les essais sans prismes ni mirroirs (agencement de lentilles) n'ont pas été concluants.
+
+La solution la plus simple que l’on ai trouvé est un dispositif à 2 miroirs inspiré du prisme en toit d’Amici.
+
+#### Simulation
+
+Voici une [simulation des solutions envisagées avec des miroirs](/contenu/simulation/mirrors/). Utilisez le clic gauche et la molette pour naviguer dans la scène. Utilisez la petite fenêtre en haut à droite pour sélectionner une scène et régler l'angle du champ de vision.
+
+## Qualité des mirroirs
+
 - Si nous devons utiliser des grands miroirs, comment limiter les défauts optiques observés lors des essais : perte de luminosité, double image, trait central dans le prisme en toit d'Amici... (miroir extra clair anti reflet, miroir first face..?)
 
 
-## Les solutions à miroirs
+## Le système à deux mirroirs en toit.
 
-### Simulation
+Pour concevoir ce dispositif, on est parti d'un agencement de deux mirroirs avec des tailles arbitraires. On a placé devant la FX3 en 4:3 avec un 35mm (ça correspond à un angle de champ de 45°) et on a tracé au feutre, sur les mirroir, les limites de la surface utile.
 
-Voici une [simulation des solutions envisagées avec des miroirs](/contenu/simulation/mirrors/). Utilisez le clic gauche et la molette pour naviguer dans la scène. Utilisez la petite fenêtre en haut à droite pour sélectionner une scène et régler l'angle du champ de vision.
+La forme ainsi obtenue est assez surprenante.
+
+Eventuellement, la forme des miroirs doit pouvoir se calculer en fonction de l'angle de champ, de l'inclinaison du toit et de la position (et la taille ?) de la lentille.
+
+

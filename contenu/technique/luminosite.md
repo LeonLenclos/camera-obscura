@@ -22,7 +22,6 @@ Ces conditions sont contraignantes, nous souhaitons les assouplir au maximum en 
 
 ### Obscurité de la salle
 
-
 La salle où le public est installé doit être la plus obscure possible. Cela ne changera pas la luminosité réelle de l’image mais la luminosité ressentie.
  Cela implique :
 
@@ -31,6 +30,6 @@ La salle où le public est installé doit être la plus obscure possible. Cela n
 
 ### Rendement de l'écran
 
-L'image est projetée en rétroprojecion (par l'arriére de l'écran). Differentes qualités de toiles de rétroprojection existent. Après plusieurs essais nous avons selectionné le Teviloj Retro Translucide.
+L'image est projetée en rétroprojecion (par l'arriére de l'écran). Differentes qualités de toiles de rétroprojection existent. Après plusieurs essais nous avons selectionné le Teviloj Retro Translucide, il est très lumineux, malheureusement l'image s'assombrit dès qu'on s'éloigne de le l'axe. Nous allons peut-être nous rabattre sur le GrayPlus.
 
 ![test toiles retroproj](../img/test-toiles-retroproj.jpg)

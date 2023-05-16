@@ -6,11 +6,6 @@ Or, quelque soit la position de l'optique par rapport à l'écran, il faut que l
 Pour concilier étancheité du dispositif et possibilité varier la position relative des deux parties,
 la solution traditionnellement utilisée pour les chambres noires photographiques (mais aussi pour les accordéons et les autobus articulés) est celle du soufflet.
 
-Bien que le choix du soufflet vienne apporter une solution très satisfaisante au problème décrit ci-dessus, il apporte aussi son lot de soucis :
-- Le patron d'un soufflet est difficile à dessiner.
-- Le choix des materiaux est délicat (robustesse, souplesse, étanchéité, couleur)
-- La construction d'un soufflet est chronophage.
-
 <div style="padding-bottom: 56.25%; max-width: 100%; position: relative;"><iframe src="https://player.vimeo.com/video/816255116?title=0&portrait=0&byline=0" width="800px" height="450px" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>
 
 *Timelapse de la construction d'un soufflet pour la [camera 03](../prototypes/camera03.md)*
@@ -20,9 +15,19 @@ Bien que le choix du soufflet vienne apporter une solution très satisfaisante a
 
 *Maquette de soufflet en papier*
 
+## Le grand soufflet
 
+Le soufflet qui sera utilisé pour la remorque sera certainement le grand soufflet. sa base mesure 1000mm x 733mm et, à l'arrivée il mesure 740mm x 540mm.
+
+En comptant les cadres en bois, sa longueur naturelle est de 700 mm il peut s'ouvrir à 1100mm et se fermer à 300mm (débatement +/- 400mm)
 
 ## Processus de fabrication
+
+Bien que le choix du soufflet vienne apporter une solution très satisfaisante au problème décrit dans l'introci-dessus, il apporte aussi son lot de soucis :
+- Le patron d'un soufflet est difficile à dessiner.
+- Le choix des materiaux est délicat (robustesse, souplesse, étanchéité, couleur)
+- La construction d'un soufflet est chronophage.
+
 
 ### Dessiner un soufflet
 

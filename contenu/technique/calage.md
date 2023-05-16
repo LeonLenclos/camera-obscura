@@ -1,33 +1,84 @@
 
 ## Calage des éléments optiques
+
 Les dimensions limitées de la remorque nous imposent un léger gradinage (20 cm par rang) et une rétroprojection. C'est avec cette configuration que nous obtenons le meilleur confort de vision pour une taille de remorque raisonnable.
 
 ### Contraintes liées au spectacle
-- Nous aurions aimé une distance entre objectif et écran d'au minimum 1 m pour des raisons pratiques d’implantation de l’écran dans la remorque et de positionnement du comédien/opérateur qui est à l'intérieur. 
 
-- Nous visons une taille d’image de 2 m de diamètre ce qui nous permet de cadrer sur un écran de 1,80 m x 1,31 m (1.37) sans trop de vignettage.
+- La régie : Nous voulons un espace de jeu d'1 m dans la remorque à l'arrière de l'écran.
+
+- Nous visons une taille d’image de 2 m × 1,46 m (format 1,37) sans trop de vignettage.
+
 
 ### Choix des objectifs
-- Nous aimerions utiliser plusieurs objectifs avec des focales différentes, voire des renvois d’angle, et alterner leur usage avec un système de caches manuels afin de reproduire l’illusion d’un montage type cinéma où plusieurs plans différents s’enchaînent. Il faudrait donc trouver le moyen de rendre compatible l'utilisation de ces différents objectifs, en particulier le tirage et la taille des images obtenues.
 
-### liste des objectifs en notre possession :
+- Nous aimerions utiliser plusieurs objectifs avec des focales différentes et des renvois d’angle, et alterner leur usage avec un système de caches manuels afin de reproduire l’illusion d’un montage type cinéma où plusieurs plans différents s’enchaînent.
+
+- Nous n'avons pas rencontrés d'objectifs qui nous permetterait d'obtenir une image assez grande malgrès plusieurs essais, nous envisageons d'utiliser des lentilles simples qui produisent une image de moins bonne qualité mais qui couvrent toute l'image, et sont plus simple à faire fabriquer sur mesure.
+
+
+### liste des objectifs et lentilles mis en oeuvre dans les essais :
+
+Objectifs :
 
 - Process lens Wray Lustrar 1060 mm - F16
-
 - Process lens Nikon APO Nikkor 610 mm - F9
-
 - Process lens Ilex Paragon 380 mm - F9 
-
 - Process lens Apo Ronar Rodenscock 360 mm - F9
-
 - Process lens Zeiss S-tessar 300 mm f5,6
-
 - Process lens 	Fax Rokkor 150mm F4.5
 
-- [Sur cette page](abaque.md), des abaques permettent de corréler distance de mise au point et tirage
+Lentilles :
+
+- Lentille brut d’opticien 1500 mm - f/25 (convergeante ménisque)
+
+[Sur cette page](abaque.md), des abaques permettent de corréler distance de mise au point et tirage
 
 ### Réglage de la mise au point
 
-- Le réglage de la mise au point sur le sujet qui se trouve à l’extérieur dépend donc directement de la distance objectif/écran (tirage) et semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
+- Le réglage de la mise au point sur le sujet qui se trouve à l’extérieur dépend directement de la distance objectif/écran (tirage) et de la focale.
 
-- [Sur cette page](soufflet.md), une étude préparatoire à la fabrication des soufflets.
+- Nous changeons de focale (changement d'objectif) pour changer radicalement la mise au point.
+
+- Nous déplacons la planchette (l'objectif) sur son axe pour un réglage plus fin de la mise au point. Ce mouvement est possible grace à l'utilisation d'un [soufflet](soufflet.md) d'un débatement de 80 cm.
+
+- Ces deux réglage (selection de l'objectif et translation de la planchette) devront  être commandé depuis la régie.
+
+### Angle de champ
+
+- Pour des raisons pratiques et artistiques nous avons fixé l’angle de champ horizontal à 45°, ce qui correspond à un tirage de 2,4 m pour notre écran de 2 m.
+
+- Contre-intuitivement, le changement de focale n'affecte pas l'angle de champ si le tirage reste le même.
+
+- Cet angle correspond à un objectif de 35mm en photo (format 24x36) et à un objectif de 24mm en cinéma (format 35mm)
+
+### Valeur de plan
+
+- L'option choisie pour obtenir differentes valeurs de plan est de maintenir un tirage constant et de changer la focale.
+
+- Contre-intuitivement, les longues focales nous permetteront de faire les plans large et les courtes focales, les plans serrés.
+
+### Résumé et formules
+
+Valeurs :
+
+- Largeur écran : 2 m
+- Angle de champ : 45°
+- Tirage (t) : 2,4 m
+
+Formules :
+- Relation de conjugaison : `1/2,4 + 1/d = 1/f`
+- Distance objet en fonction de la largeur objet : `d = l/(2*tan(22.5)) = l/0.83`
+- Focale en fonction de la distance objet : `f = 1/(1/2,4 - 1/d) = 1/(0.42-1/d)`
+- Largeur objet en donction de la distance objet : `l = d*(2*tan(22.5)) =  d*0.83`
+
+### Tableaux des focales
+
+Pour un tirage de 2,4 m et un écran de 2 m :
+
+| focale (f) | vergence (1/f)| valeur de plan  | distance objet (d) | largeur objet (l)|
+|------------|---------------|-----------------|--------------------|------------------|
+| 2,4 m      | 0,42 dioptrie | plan large      | infini             | infini           |
+| 1,8 m      | 0,56 dioptrie |  plan moyen     | 7,2 m              | 6 m              |
+| 1,2 m      | 0,83 dioptrie |  plan serré     | 2,4 m              | 2 m              |
+| 0,8 m      | 1,25 dioptrie |  gros plan      | 1,2 m              | 1 m              |
