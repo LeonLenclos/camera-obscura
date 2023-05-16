@@ -23,7 +23,9 @@ Interlocuteurices :
 - Eric Amblard
 - Evelyne Salançon
 - Gérard Tayeb
-- Juan P. Martínez Pastor 
+- Juan P. Martínez Pastor
+- Ronan Bouvier
+- Marc Reynaud
 
 
 # Calendrier des résidences
