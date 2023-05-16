@@ -1,6 +1,6 @@
-Pour le Apo-Nikkor 610mm posé contre la vitre à l'interieur de la CO
+Pour le Apo-Nikkor 610mm posé contre la vitre à l'intérieur de la CO
 
-| Distance Objet-vitre | Distance Vitre-Image |
+| Distance Objet-Vitre | Distance Vitre-Image |
 |----------------------|----------------------|
 | 70 cm                | 320 cm               |
 | 100 cm               | 155 cm               |
@@ -17,9 +17,9 @@ Pour le Apo-Nikkor 610mm sur la planchette du soufflet de la caméra 04 (sprinte
 | 110 cm               | 125 cm                |
 | 97 cm                | 150 cm                |
 
-Pour le Rotenstock 360mm posé contre la vitre à l'interieur de la CO
+Pour le Rotenstock 360mm posé contre la vitre à l'intérieur de la CO
 
-| Distance Objet-vitre | Distance Vitre-Image |
+| Distance Objet-Vitre | Distance Vitre-Image |
 |----------------------|----------------------|
 | 40 cm                | 172 cm               |
 | 70 cm                | 72 cm                |
