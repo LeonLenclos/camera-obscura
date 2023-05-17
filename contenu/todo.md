@@ -14,10 +14,12 @@
 - Talkie-walkie 
 - bache pour le camion
 - 1 miroir ultra clair pour essais double-image et essai 2D
+- écran grey +
 
 ### Construction
 
 - Avancer sur les plans de la remorque.
+- concevoir chassis verre + mirroir
 - Rdv plasticiens volants (local de construction)
 - Réparation Yeux dans le dos
 - Changer écran antotype
