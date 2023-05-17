@@ -1,4 +1,4 @@
-# Camera Obscura
+![Typo](contenu/img/typo.gif)
 
 ### travail en cours
 
