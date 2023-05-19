@@ -78,3 +78,5 @@ largeur accoudoir : 60
 ![plan cotes remorque](../plans/dim_chambre_remorque_v3.jpeg)
 
 ![plan jonction remorque/soufflet](../plans/Largeur utile planchette.jpeg)
+
+![plan jonction remorque/soufflet](../plans/base plan remorque.jpeg)
