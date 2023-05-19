@@ -80,3 +80,5 @@ largeur accoudoir : 60
 ![plan jonction remorque et soufflet](../plans/Largeur utile planchette.jpeg)
 
 ![base remorque](../plans/base plan remorque.jpeg)
+
+![base remorque dessus](../plans/base plan remorque dessus.jpeg)
