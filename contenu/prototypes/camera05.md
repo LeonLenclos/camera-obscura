@@ -83,4 +83,4 @@ largeur accoudoir : 60
 
 ![base remorque dessus](../plans/base plan remorque dessus.jpeg)
 
-![base remorque dessus](../plans/Fauteuil V1)
+![base remorque dessus](../plans/Fauteuil V1.jpeg)
