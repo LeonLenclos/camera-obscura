@@ -60,15 +60,15 @@ dimension utile intérieur : 5800 x 2250 x 2300
 
 épaisseur isolation sol : 120
 
-entraxe siège mini : 500
+entraxe siège mini : 450
 
 largeur traversée mini : 350
 
-assise mini : 500
+assise mini : 450
 
 hauteur dossier : 700
 
-largeur accoudoir : 60
+largeur accoudoir : 40
 
 
 [plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
