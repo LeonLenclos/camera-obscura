@@ -85,6 +85,8 @@ largeur accoudoir : 40
 
 ![remorque face](../plans/remorque face.jpeg)
 
+![remorque poteaux et structure gradins](../plans/remorque poteaux et structure gradins.jpeg)
+
 ![plan jonction remorque et soufflet](../plans/Largeur utile planchette.jpeg)
 
 ![fauteuil profil](../plans/Fauteuil V1.jpeg)
