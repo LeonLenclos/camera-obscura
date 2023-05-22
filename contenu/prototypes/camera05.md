@@ -75,16 +75,18 @@ largeur accoudoir : 40
 
 ![plan chassis remorque](../plans/doc_bw_tiny_house_ch600.jpg)
 
-![base remorque](../plans/base plan remorque.jpeg)
+![base remorque profil](../plans/base plan remorque.jpeg)
 
 ![base remorque dessus](../plans/base plan remorque dessus.jpeg)
 
-![plan cotes remorque](../plans/Remorque V2.jpeg)
+![base remorque face](../plans/remorque base face.jpeg)
+
+![remorque profil](../plans/Remorque V2.jpeg)
 
 ![plan jonction remorque et soufflet](../plans/Largeur utile planchette.jpeg)
 
-![base remorque dessus](../plans/Fauteuil V1.jpeg)
+![fauteuil profil](../plans/Fauteuil V1.jpeg)
 
-![base remorque dessus](../plans/Fauteuil V1 face.jpeg)
+![fauteuil face](../plans/Fauteuil V1 face.jpeg)
 
-![base remorque dessus](../plans/Fauteuil V1 dessus.jpeg)
+![fauteuil dessus](../plans/Fauteuil V1 dessus.jpeg)
