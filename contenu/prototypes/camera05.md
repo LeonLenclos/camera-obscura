@@ -87,4 +87,4 @@ largeur accoudoir : 40
 
 ![plan jonction remorque et soufflet](../plans/planchette_largeur_utile_V02.jpeg)
 
-![fauteuil V02](../plans/Fauteuil V02.jpeg)
+![fauteuil V02](../plans/fauteuil_V02.jpeg)
