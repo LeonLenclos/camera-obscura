@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="fr">
+<div id="agrandisseur"></div>
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -29,5 +30,25 @@
     <p>Ce travail est placé sous <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p>
     <p><a href="https://cienokill.fr">Cie NOKILL</a> 2022 - {{"now" | date: "%Y"}}</p>
   </footer>
+  <script>
+    let images = document.querySelectorAll('article img')
+    let agrandisseur = document.getElementById('agrandisseur');
+    images.forEach((img, i)=>img.addEventListener('click', ()=> show(img, i)))
+    agrandisseur.addEventListener('click', ()=>show());
+    document.onkeydown = (e)=>{
+        e = e || window.event;
+        if (e.keyCode == 27) show();
+    };
+
+    function show(image, i){
+      if(image == undefined){
+        agrandisseur.style.display = 'none';
+        agrandisseur.innerHTML='';
+        return;
+      }
+      agrandisseur.style.display = 'flex';
+      agrandisseur.appendChild(image.cloneNode());
+    }
+  </script>
 </body>
 </html>
