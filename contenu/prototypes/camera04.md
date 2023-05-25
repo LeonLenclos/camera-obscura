@@ -9,16 +9,17 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 ![proto_04](../plans/proto_04.jpg)
 
 ![Sprinter au Quai des savoirs](../photos/sprinter_1.jpg)
-## Matériaux
 
 ### Chassis
 - Sprinter Mercedes
 
-### Écran
+### Écrans testés
 - Toile de rétroprojection (translucide/dépoli) tendue sur cadre
 
-### Objectif
-- Process lens Wray Lustrar 16/1075mm Apo
+### Objectifs testés
+- Process lens Wray Lustrar 1060 mm - f/16
+- Process lens Nikon APO Nikkor 610 mm - f/9
+- Lentille brut d’opticien 1500 mm - f/25 (ménisque)
 
 ![wray_lustrar_16_1075mm_1](../photos/wray_lustrar_16_1075mm_1.jpg)
 
@@ -42,4 +43,4 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 printemps 2023
 
 ## Détails de construction et description technique
-![cotes proto02](../plans/dim_panneau_sprinter.jpg)
+![cotes proto02](../plans/dim_panneau_sprinter.jpeg)
