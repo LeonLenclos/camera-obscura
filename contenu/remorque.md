@@ -4,7 +4,7 @@
 Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 2 m x 1,46 m (format 1,37) est installé à l'intérieur de la remorque. 20 personnes assisent sur un gradinage peuvent assister simultanémant à la projection.
 
 
-![Dessin de la remorque](../dessins/remorque.png)
+![Dessin de la remorque](/contenu/dessins/remorque.png)
 *Vue de la remorque, un&middot;e opérateurice sur le toit pour les effets spéciaux et les marionnettes ; un&middot;e derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
 
 
