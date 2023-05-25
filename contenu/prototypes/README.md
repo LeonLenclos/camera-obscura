@@ -18,5 +18,5 @@ D'ici, on peut accéder aux fiches des différents protos de chambres noires (ca
 ## Chambres collectives
 
 - [Camera obscura 04 - Chambre sprinter](camera04.md)
-- [Camera obscura 05 - Chambre remorque](camera05.md)
+- [Camera obscura 05 - Chambre remorque](/remorque.md)
 
