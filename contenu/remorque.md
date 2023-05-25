@@ -11,7 +11,7 @@ Une remorque est transformée en cinéma itinérant en adaptant l'arrière du v�
 ## Allure
 Une remorque avec un soufflet qui dépasse à l'arrière.
 
-![proto_05](../plans/proto_05.jpg)
+![proto_05](/contenu/plans/proto_05.jpg)
 ## Matériaux
 
 ### Chassis
@@ -71,20 +71,20 @@ hauteur dossier : 700
 largeur accoudoir : 40
 
 
-[plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
+[plan chassis remorque](/contenu/plans/doc_bw_tiny_house_ch600.pdf)
 
-![plan chassis remorque](../plans/doc_bw_tiny_house_ch600.jpg)
+![plan chassis remorque](/contenu/plans/doc_bw_tiny_house_ch600.jpg)
 
-![base remorque](../plans/remorque_base_V02.jpeg)
+![base remorque](/contenu/plans/remorque_base_V02.jpeg)
 
-![extérieur remorque](../plans/remorque_ext_V02.jpeg)
+![extérieur remorque](/contenu/plans/remorque_ext_V02.jpeg)
 
-![intérieur remorque](../plans/remorque_int_V02.jpeg)
+![intérieur remorque](/contenu/plans/remorque_int_V02.jpeg)
 
-![structure remorque](../plans/remorque_structure_V02.jpeg)
+![structure remorque](/contenu/plans/remorque_structure_V02.jpeg)
 
-![régie remorque](../plans/remorque_regie_V01.jpeg)
+![régie remorque](/contenu/plans/remorque_regie_V01.jpeg)
 
-![plan jonction remorque et soufflet](../plans/planchette_largeur_utile_V02.jpeg)
+![plan jonction remorque et soufflet](/contenu/plans/planchette_largeur_utile_V02.jpeg)
 
-![fauteuil V02](../plans/fauteuil_V02.jpeg)
+![fauteuil V02](/contenu/plans/fauteuil_V02.jpeg)
