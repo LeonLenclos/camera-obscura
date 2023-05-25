@@ -277,6 +277,11 @@ footer p {
   align-items: center;
 }
 
+#agrandisseur img {
+  max-width: 95%;
+  max-height: 95%;
+}
+
 article img {
   cursor:zoom-in;
 }
