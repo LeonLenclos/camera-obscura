@@ -10,7 +10,7 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 
 - [Dossier de création](contenu/dossier/dossier-camera-obscura-2024-web.pdf), télécharger le dossier en pdf.
 - [Prototypes](contenu/prototypes), liste des prototypes de chambres construites pendant la création.
-- [Remorque](contenu/remorque.md), construction du théâtre optique "Camera Obscura" dans une remorque.
+- [Remorque](contenu/remorque.md), construction du théâtre optique "Camera Obscura".
 - [Écriture](contenu/ecriture), textes, scenarios, découpages et références.
 - [Technique](contenu/technique), questions et réponses concernant les differents défis techniques. 
 - [Production](contenu/production.md), partenaires du projet et calendrier des résidences.
