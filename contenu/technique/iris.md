@@ -31,6 +31,8 @@ Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris �
 - Principe : en bout de course, une lame de grande dimension vient occulter le diaphragme minimum restant.
 - Remarque : pas trouvé de plan de ce système pour l'instant.
 ![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
+#### Modèle à lame ocultante
+Doublet iris/obturateur
 ## Fabrication
 ### Matériaux
 - lames en métal
