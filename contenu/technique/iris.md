@@ -31,12 +31,13 @@ Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris �
 Comme expliqué plus haut, il faut qu'il soit à fermeture totale.
 Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
 
-Modèle à double iris
+#### Modèle à double iris
+
 [Un article sur les modèles à double iris](https://iris-calculator.com/full-closure/)
 ![iris double plan](/contenu/plans/dual_plane_iris.jpg)
 ![iris double plan](/contenu/photos/iris_double.jpg)
     
-Modèle à lame ocultante
+####Modèle à lame ocultante
 ![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
 
 ## Fabrication
