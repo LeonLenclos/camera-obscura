@@ -15,7 +15,7 @@ Principales contraintes :
 - Apperture max = 150 mmm
 - Apperture min = 0 mmm
 - Outside diameter max = 225 mm
-- Remarque : plus il y a de lames, moyen le diametre hors-tout est grand.
+- Remarque : plus il y a de lames, plus le diametre hors-tout est réduit.
 Un outil en ligne pour dessiner un iris :
 [iris-calculator.com](https://iris-calculator.com/)
 ### type d'iris
@@ -27,7 +27,7 @@ Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris �
 ![iris double plan](/contenu/plans/dual_plane_iris.jpg)
 ![iris double plan](/contenu/photos/iris_double.jpg)  
 #### Modèle à lame ocultante
-- Principe : en bout de course, une lame de grande dimension vient occulter le diaphragme minimum.
+- Principe : en bout de course, une lame de grande dimension vient occulter le diaphragme minimum restant.
 - Remarque : pas trouvé de plan de ce système pour l'instant.
 ![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
 ## Fabrication
