@@ -15,6 +15,12 @@ Une solution consiste à fabriquer des iris spéciquement pour notre usage
 ### Dessiner un iris
 
 Un outil en ligne pour dessiner un iris :
-[iris-calculator.com](https://iris-calculator.com/full-closure/)
+[iris-calculator.com](https://iris-calculator.com/)
+
+### Les iris à fermeture totale
+
+Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
+
+[Un article sur les modèles à double iris](https://iris-calculator.com/full-closure/)
 
 
