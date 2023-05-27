@@ -19,9 +19,7 @@ Principales contraintes :
 Un outil en ligne pour dessiner un iris :
 [iris-calculator.com](https://iris-calculator.com/)
 ### type d'iris
-- Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris à lames.
-- Comme expliqué plus haut, il faut qu'il soit à fermeture totale.
-- Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
+Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris à lames. Comme expliqué plus haut, il faut qu'il soit à fermeture totale. Donc voici plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
 #### Modèle à double iris
 - Principe : 2 jeux de lames décentrés se supperposent pour empêcher la lumière de passer.
 - Remarque : l'obturation n'est pas "étanche" ce qui la rend suffisante pour les objectifs mais probablement pas pour les hublots.
