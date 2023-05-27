@@ -27,9 +27,9 @@ Un outil en ligne pour dessiner un iris :
 
 ### type d'iris
 
-Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris à lames
-Comme expliqué plus haut, il faut qu'il soit à fermeture totale.
-Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
+- Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris à lames.
+- Comme expliqué plus haut, il faut qu'il soit à fermeture totale.
+- Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
 
 #### Modèle à double iris
 
@@ -41,8 +41,8 @@ Remarque : l'obturation n'est pas "étanche" ce qui la rend suffisante pour les 
     
 #### Modèle à lame ocultante
 
-Principe : en bout de course, une lame de grande dimension vient occulter le diaphragme minimum.
-Remarque : pas trouvé de plan de ce système pour l'instant.
+- Principe : en bout de course, une lame de grande dimension vient occulter le diaphragme minimum.
+- Remarque : pas trouvé de plan de ce système pour l'instant.
 
 ![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
 
@@ -50,7 +50,7 @@ Remarque : pas trouvé de plan de ce système pour l'instant.
 
 ### Matériaux
 
-lames en métal
-cadres métal ou bois
+- lames en métal
+- cadres métal ou bois
 
 
