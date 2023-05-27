@@ -8,19 +8,42 @@ Les diaphragmes à iris peuvent aussi être utilisés pour occulter les hublots 
 
 Pour l'instant aucun modèle du commerce ne correspond aux dimensions des lentilles (Apperture max = 150 mmm). Par ailleurs les modèles à fermeture totale (Apperture min = 0 mmm) sont assez rares et très chers.
 
-Une solution consiste à fabriquer des iris spéciquement pour notre usage
+Une solution consiste à fabriquer des iris spéciquement pour notre usage.
 
-## Processus de fabrication
+## Conception
 
-### Dessiner un iris
+### Dimensions
+
+Principales contraintes :
+
+Apperture max = 150 mmm
+Apperture min = 0 mmm
+Outside diameter max = 225 mm
+
+Remarque : plus il y a de lames, moyen le diametre hors-tout est grand.
 
 Un outil en ligne pour dessiner un iris :
 [iris-calculator.com](https://iris-calculator.com/)
 
-### Les iris à fermeture totale
+### type d'iris
 
+Pour des raisons esthétiques et pratiques, le projet est de concevoir un iris à lames
+Comme expliqué plus haut, il faut qu'il soit à fermeture totale.
 Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris simple.
 
+Modèle à double iris
 [Un article sur les modèles à double iris](https://iris-calculator.com/full-closure/)
+![iris double plan](/contenu/plans/dual_plane_iris.jpg)
+![iris double plan](/contenu/photos/iris_double.jpg)
+    
+Modèle à lame ocultante
+![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
+
+## Fabrication
+
+### Matériaux
+
+lames en métal
+cadres métal ou bois
 
 
