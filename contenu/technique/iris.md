@@ -37,7 +37,8 @@ Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris
 ![iris double plan](/contenu/plans/dual_plane_iris.jpg)
 ![iris double plan](/contenu/photos/iris_double.jpg)
     
-####Modèle à lame ocultante
+#### Modèle à lame ocultante
+
 ![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
 
 ## Fabrication
