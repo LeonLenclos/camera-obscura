@@ -16,6 +16,7 @@ Principales contraintes :
 - Apperture min = 0 mmm
 - Outside diameter max = 225 mm
 - Remarque : plus il y a de lames, plus le diametre hors-tout est réduit.
+
 Un outil en ligne pour dessiner un iris :
 [iris-calculator.com](https://iris-calculator.com/)
 ### type d'iris
