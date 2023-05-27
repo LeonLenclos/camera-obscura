@@ -33,11 +33,16 @@ Plusieurs solutions pour concevoir une fermeture totale, infaisable avec un iris
 
 #### Modèle à double iris
 
+Principe : 2 jeux de lames décentrés se supperposent pour empêcher la lumière de passer.
+Remarque : l'obturation n'est pas "étanche" ce qui la rend suffisante pour les objectifs mais probablement pas pour les hublots.
 [Un article sur les modèles à double iris](https://iris-calculator.com/full-closure/)
 ![iris double plan](/contenu/plans/dual_plane_iris.jpg)
 ![iris double plan](/contenu/photos/iris_double.jpg)
     
 #### Modèle à lame ocultante
+
+Principe : en bout de course, une lame de grande dimension vient occulter le diaphragme minimum.
+Remarque : pas trouvé de plan de ce système pour l'instant.
 
 ![iris lame occultante](/contenu/dessins/iris_lame_occultante.jpg)
 
