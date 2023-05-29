@@ -3,10 +3,10 @@
 
 ## Optiques, objectifs, prismes, verre
 
-- [Camley](www.camleyphotographic.com/)
-- [Coprover](https://www.coprover.fr/)
-- [bonfoton](https://bonfoton.com/products/bonfoton-camera-obscura-lens)
-- [amazing camera obscura](http://www.amazingcameraobscura.co.uk/shop.htm)
+- [Camley - UK](www.camleyphotographic.com/)
+- [Coprover - FRANCE](https://www.coprover.fr/)
+- [bonfoton - Finland](https://bonfoton.com/products/bonfoton-camera-obscura-lens)
+- [amazing camera obscura - UK](http://www.amazingcameraobscura.co.uk/shop.htm)
 - [truemirror](https://store.truemirror.com/collections/all?page=1)
 - [bohroptics](http://bohroptics.com/en)
 - [Legrand-Optique - France](https://www.legrand-optique.fr/)
