@@ -20,7 +20,7 @@
 ## Ecran, tissus, tulle
 - [Showtex](https://www.showtex.com/fr/produits/ecrans-de-projection?page=1)
 - [Teviloj](https://www.azur-scenic.com/produit/retro-translucide-depoli/)
-- [Gerrietsj(]https://www.gerriets.com/fr_fr/)
+- [Gerrietsj](https://www.gerriets.com/fr_fr/)
 
 ## Carton
 - [hermet](https://www.hermet.fr/)
