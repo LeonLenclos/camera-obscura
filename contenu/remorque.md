@@ -5,7 +5,7 @@ Une remorque est transformée en cinéma itinérant en adaptant l'arrière du v�
 
 
 ![Dessin de la remorque](/contenu/dessins/remorque.png)
-*Vue de la remorque, un&middot;e derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
+*Vue de la remorque, un&middot;e opérateriste derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
 
 
 ## Allure
