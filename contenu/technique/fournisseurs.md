@@ -18,7 +18,7 @@
 - [Istar - USA](https://www.istar-optical.com/achromatic.html)
 
 ## Isolation
-- [liège](https://www.natureliege.fr/146-plaques-isolation-en-liege-isolation-phonique-et-thermique)
+- [Nature liège](https://www.natureliege.fr/146-plaques-isolation-en-liege-isolation-phonique-et-thermique)
 
 ## Ecran, tissus, tulle
 - [Showtex](https://www.showtex.com/fr/produits/ecrans-de-projection?page=1)
