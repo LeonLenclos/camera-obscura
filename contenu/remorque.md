@@ -50,6 +50,8 @@ automne 2023
 
 ## Détails de construction et description technique
 
+Prévision poids et coûts : https://lite.framacalc.org/remorque_camera_obscura-a19l
+
 dimension hors-tout caisse + chassis : 7473 x 2450 x 3048
 
 dimension hors-tout caisse : 6000 x 2450 x 24000
