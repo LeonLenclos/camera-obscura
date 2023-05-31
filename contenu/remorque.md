@@ -52,21 +52,21 @@ automne 2023
 
 Prévision poids et coûts : https://lite.framacalc.org/remorque_camera_obscura-a19l
 
-dimension hors-tout caisse + chassis : 7473 x 2450 x 3048
+dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
 
-dimension hors-tout caisse : 6000 x 2450 x 24000
+dimension hors-tout caisse : 6600 x 2450 x 2452
 
-dimension utile intérieur : 5800 x 2250 x 2300
+dimension utile intérieur : 6400 x 2250 x 2252
 
 épaisseur isolation plafond ou mur : 100
 
 épaisseur isolation sol : 120
 
-entraxe siège mini : 450
+entraxe siège : 450
 
-largeur traversée mini : 350
+largeur traversée : 450
 
-assise mini : 450
+assise : 450
 
 hauteur dossier : 700
 
