@@ -17,6 +17,9 @@
 - [Fresnel Lens shop - Chine](https://www.ebay.fr/str/niu4705)
 - [Istar - USA](https://www.istar-optical.com/achromatic.html)
 
+## Isolation
+- [liège](https://www.natureliege.fr/146-plaques-isolation-en-liege-isolation-phonique-et-thermique)
+
 ## Ecran, tissus, tulle
 - [Showtex](https://www.showtex.com/fr/produits/ecrans-de-projection?page=1)
 - [Teviloj](https://www.azur-scenic.com/produit/retro-translucide-depoli/)
