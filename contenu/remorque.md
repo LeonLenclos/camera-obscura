@@ -1,7 +1,7 @@
 #  Chambre Remorque
 
 ## Description générale
-Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 2 m x 1,46 m (format 1,37) est installé à l'intérieur de la remorque. 20 personnes assisent sur un gradinage peuvent assister simultanémant à la projection.
+Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 2 m x 1,46 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradinage peuvent assister simultanémant à la projection.
 
 
 ![Dessin de la remorque](/contenu/dessins/remorque.png)
@@ -48,27 +48,17 @@ automne 2023
 
 ## Détails de construction et description technique
 
-Prévision poids et coûts : [Framacalc remorque_camera_obscura](https://lite.framacalc.org/remorque_camera_obscura-a19l)
+- Prévision poids et coûts : [Framacalc remorque_camera_obscura](https://lite.framacalc.org/remorque_camera_obscura-a19l)
+- Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
-dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
+- dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
+- dimension hors-tout caisse : 6600 x 2450 x 2452
+- dimension utile intérieur : 6400 x 2250 x 2252
+- épaisseur isolation plafond ou mur : 100
+- épaisseur isolation sol : 120
+- entraxe siège : 450
+- largeur traversée : 450
 
-dimension hors-tout caisse : 6600 x 2450 x 2452
-
-dimension utile intérieur : 6400 x 2250 x 2252
-
-épaisseur isolation plafond ou mur : 100
-
-épaisseur isolation sol : 120
-
-entraxe siège : 450
-
-largeur traversée : 450
-
-assise : 450
-
-hauteur dossier : 700
-
-largeur accoudoir : 40
 
 
 [plan chassis remorque](/contenu/plans/doc_bw_tiny_house_ch600.pdf)
@@ -86,5 +76,3 @@ largeur accoudoir : 40
 ![régie remorque](/contenu/plans/remorque_regie_V01.jpeg)
 
 ![plan jonction remorque et soufflet](/contenu/plans/planchette_largeur_utile_V02.jpeg)
-
-![fauteuil V02](/contenu/plans/fauteuil_V04.jpeg)
