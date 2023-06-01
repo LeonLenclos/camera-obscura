@@ -30,10 +30,14 @@
 - concevoir chassis verre + mirroir
 - Fabriquer toit d'amici
 - Doubler la bache avec le skai
-
+- Entrer plan amici dans librecad
+- Rassembler/bricoler marionettes
+- Découpage sequence a travailler
 
 ### À prendre pour MIMA
 
+- Equipement escalade a emprunter à Fabien ou Coco
+- Pont elektra pour se suspendre
 - Prendre rotule sac de sable gueuse
 - De quoi Faire une planchette pour accueillir les 4 lentilles brut
 
