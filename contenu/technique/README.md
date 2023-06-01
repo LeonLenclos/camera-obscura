@@ -21,6 +21,7 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 
 ## Accueil public
 - [Isolation et climatisation](isolation.md), faire du frais dans la remorque
+- [Fauteuils](fauteils.md), Garantir un max de confort avec un minimum d'encombrement et de poid.
 - Vendre des pop-corns cuits au four solaire.
 
 ## Divers
