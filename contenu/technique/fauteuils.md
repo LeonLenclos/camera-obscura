@@ -28,7 +28,7 @@ Les acoudoirs sont amovibles pour plus de modularité.
 ![fauteuil V02](/contenu/plans/fauteuil_V04.jpeg)
 
 
-## Siéges amovibles
+## Siéges amovibles
 
 Au bord des marches on pense à des poufs (h 200) ou tabourets (h 400). Il en faudrait 4.
 
