@@ -72,6 +72,9 @@ Interlocuteurices :
 
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
 - test camion
+- Tester 4 lentilles avec du montage.
+- Tester lentilles avec miroir.
+- Tester bouts de séquence.
 
 ### en juillet 2023 (du 11 au 13) : Ramonville (31) - Arto
 - test camion
@@ -95,6 +98,7 @@ Chez les Plasticiens volants
 ### printemps 2024 : Nimes (30) - Périscope
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
+
 ### Juin juillet 2024 : Tarbes (65) - Le Parvis
 - mise en scène
 
