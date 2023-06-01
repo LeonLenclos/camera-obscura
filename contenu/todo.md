@@ -5,37 +5,36 @@
 ### Production
 
 - Relance courrier partenaires avec dossier + lien du site
-- Trouver lieu construction (usine/plasticiens volants ?)
 - Refaire le dossier PDF en deux versions Zou et Ninon commédienne
 - Dossier Adami
 
 ### Courses
 
-- Talkie-walkie 
-- bache pour le camion
-- 1 miroir ultra clair pour essais double-image et essai 2D
-- écran grey +
+- Acheter 4 lentilles brut.
 
 ### Construction
 
 - Avancer sur les plans de la remorque.
-- concevoir chassis verre + mirroir
-- Rdv plasticiens volants (local de construction)
 - Réparation Yeux dans le dos
 - Changer écran antotype
+- Proto chaise
+
+### Améliorations Camion
+
+- Installer des rangements dans le camion ??
+- Trouver une solution pour maintenir les portes arrieres du camion ouvertes ??
+- Obturation du camion (gaf alu) ??
 
 ### Avant résidence MIMA Juin
 
-- Trouver lentille 2400mm 200mm de diam
-- Installer des rangements dans le camion
-- Commander écran gray plus
-- Fixer écran sur cadre
+- concevoir chassis verre + mirroir
+- Fabriquer toit d'amici
 - Doubler la bache avec le skai
-- Trouver une solution pour maintenir les portes arrieres du camion ouvertes
-- Obturation du camion (gaf alu)
+
+
+### À prendre pour MIMA
+
 - Prendre rotule sac de sable gueuse
-- Faire une planchette pour accueillir la nouvelle lentille 2400mm, la lentille brut 1500mm et le 610mm
+- De quoi Faire une planchette pour accueillir les 4 lentilles brut
 
-### Matos
 
-POUR
