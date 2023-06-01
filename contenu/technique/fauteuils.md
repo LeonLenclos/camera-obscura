@@ -4,7 +4,7 @@ Des fauteuils extrêmement confortables bien que très compacts et légers. Il n
 
 ## Revêtement
 
-Cuir trop cher, skaï pas confortable (collant sous la sueur), donc on part sur un tissu. **Couleur : bordeau**.
+Cuir trop cher, skaï pas confortable (collant sous la sueur), donc on part sur un tissus. **Couleur : bordeaux**.
 
 * [Tissu velours Alisa](https://www.mondialtissus.fr/tissu-velours-alisa-bordeaux-230308.html) (mondial tissus)
 * [Suédine Souple Bordeaux](https://quartierdestissus.com/suedine-souple/2366-2905-suedine-souple-bordeaux-3700808623667-suedine-souple-bordeaux-520-69.html) (quartierdestissus)
