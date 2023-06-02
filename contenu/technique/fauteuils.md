@@ -33,3 +33,8 @@ Les accoudoirs sont amovibles pour plus de modularité. Ils peuvent se rabattre 
 Au bord des marches on pense à des poufs (h 200) ou tabourets (h 400). Il en faudrait 4.
 
 Au sol devant le premier rang, peut-être 5 poufs en plus pour enfants ??.
+
+
+## Implantation dans la remorque
+
+![fauteuil V02](/contenu/plans/remorque_implantation_fauteuil_V01.jpeg)
