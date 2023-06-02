@@ -20,6 +20,7 @@
 - Proto chaise
 - Support prisme en toit V2
 - Support miroir + vitre
+- Castelet
 
 ### Améliorations Camion
 
