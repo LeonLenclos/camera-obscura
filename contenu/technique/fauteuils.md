@@ -11,7 +11,7 @@ Cuir trop cher, skaï pas confortable (collant sous la sueur), donc on partirait
 
 ## Structure
 
-En alu pour la légereté avec une épaisseur de bois (ep minimum à définir) fixée contre pour simplifier le travail de la tapisserie.
+En alu pour la légereté avec une épaisseur de bois fixée contre l'alu (ep minimum à définir) pour simplifier le travail de la tapisserie.
 
 Facilement démontable et hauteur facilement réglable (Deux pieds qui se manchonnent au sol dans la structure de la remorque).
 
