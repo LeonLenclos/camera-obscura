@@ -42,7 +42,7 @@ Possible aussi d'en enchaîner en disant un truc du genre "Non je rigole. C'est 
 
 Bienvenue dans la camera obscura.
 
-Une camera obscura c'est un phénomène optique naturel, qui se produit quand il fait jour, et que l'on se trouve dans une chambre totalement obscure avec un petit trou dans le mur qu'un petit trou est percé dans le mur. La lumière s'engouffre dans ce petit trou et une image de l'exterieur est créée à l'interieur.
+Une camera obscura c'est un phénomène optique naturel, qui se produit quand il fait jour, et que l'on se trouve dans une chambre totalement obscure avec un petit trou percé dans le mur. La lumière s'engouffre dans ce petit trou et une image de l'exterieur est créée à l'interieur.
 
 Pour que ce miracle se produise il être dans une pièce totalement obscure et il faut que vos yeux soient habitués à cette obscurité.
 
