@@ -24,6 +24,8 @@ Les accoudoirs sont amovibles pour plus de modularité. Ils peuvent se rabattre 
 * hauteur dossier : 700
 * largeur accoudoir : 40
 * largeur traversée : 450
+* épaisseur de l'assise : 100 < ep < 120
+* épaisseur du dossier : 50 < ep < 75
 
 ![fauteuil V02](/contenu/plans/fauteuil_V04.jpeg)
 
