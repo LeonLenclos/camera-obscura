@@ -5,7 +5,7 @@
 ### Production
 
 - Relance courrier partenaires avec dossier + lien du site
-- Refaire le dossier PDF en deux versions Zou et Ninon commédienne
+- Refaire le dossier PDF en deux versions Zou et Ninon comédienne
 - Dossier Adami
 
 ### Courses
@@ -18,6 +18,9 @@
 - Réparation Yeux dans le dos
 - Changer écran antotype
 - Proto chaise
+- Support prisme en toit V2
+- Support miroir + vitre
+- Castelet
 
 ### Améliorations Camion
 

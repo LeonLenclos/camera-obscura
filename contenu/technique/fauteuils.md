@@ -4,18 +4,18 @@ Des fauteuils <del>extrêmement</del> confortables, compacts et légers. Il nous
 
 ## Revêtement
 
-Cuir trop cher, skaï pas confortable (collant sous la sueur), donc on part sur un tissus. **Couleur : bordeaux**.
+Cuir trop cher, skaï pas confortable (collant sous la sueur), donc on partirait sur du tissus. **Couleur : bordeaux**.
 
 * [Tissu velours Alisa](https://www.mondialtissus.fr/tissu-velours-alisa-bordeaux-230308.html) (mondial tissus)
 * [Suédine Souple Bordeaux](https://quartierdestissus.com/suedine-souple/2366-2905-suedine-souple-bordeaux-3700808623667-suedine-souple-bordeaux-520-69.html) (quartierdestissus)
 
 ## Structure
 
-En alu pour la legereté avec du bois comme base pour la tapisserie.
+En alu soudé pour la légereté avec une épaisseur de bois fixée contre l'alu (ep minimum à définir) pour simplifier le travail de la tapisserie.
 
 Facilement démontable et hauteur facilement réglable (Deux pieds qui se manchonnent au sol dans la structure de la remorque).
 
-Les acoudoirs sont amovibles pour plus de modularité.
+Les accoudoirs sont amovibles pour plus de modularité. Ils peuvent se rabattre le long du dossier.
 
 ## Quelle base pour la tapisserie
 
@@ -29,6 +29,8 @@ Les acoudoirs sont amovibles pour plus de modularité.
 * hauteur dossier : 700
 * largeur accoudoir : 40
 * largeur traversée : 450
+* épaisseur de l'assise : 100 < ep < 125
+* épaisseur du dossier : 50 < ep < 75
 
 ![fauteuil V04](/contenu/plans/fauteuil_V04.jpeg)
 
@@ -42,3 +44,7 @@ Au sol devant le premier rang, peut-être 5 poufs en plus pour enfants ??.
 ## Plan avec sections
 
 ![fauteuil](/contenu/plans/fauteuil.png)
+
+## Implantation dans la remorque
+
+![fauteuil V02](/contenu/plans/remorque_implantation_fauteuil_V01.jpeg)
