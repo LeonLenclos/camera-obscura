@@ -6,9 +6,10 @@ Des fauteuils <del>extrêmement</del> confortables, compacts et légers. Il nous
 
 Cuir trop cher, skaï pas confortable (collant sous la sueur), donc on partirait sur du tissus. **Couleur : bordeaux**.
 
-* [Tissu velours Alisa](https://www.mondialtissus.fr/tissu-velours-alisa-bordeaux-230308.html) (mondial tissus)
-* [Suédine Souple Bordeaux](https://quartierdestissus.com/suedine-souple/2366-2905-suedine-souple-bordeaux-3700808623667-suedine-souple-bordeaux-520-69.html) (quartierdestissus)
-
+* [Tissu velours Alisa](https://www.mondialtissus.fr/tissu-velours-alisa-bordeaux-230308.html)
+* [Suédine Souple Bordeaux](https://quartierdestissus.com/suedine-souple/2366-2905-suedine-souple-bordeaux-3700808623667-suedine-souple-bordeaux-520-69.html) (Bof)
+* Alcantara Bordeau 
+* 
 ## Structure
 
 En alu soudé pour la légereté avec une épaisseur de bois fixée contre l'alu (ep minimum à définir) pour simplifier le travail de la tapisserie.
