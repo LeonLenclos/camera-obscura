@@ -53,3 +53,4 @@ La forme ainsi obtenue est assez surprenante.
 Eventuellement, la forme des miroirs doit pouvoir se calculer en fonction de l'angle de champ, de l'inclinaison du toit et de la position (et la taille ?) de la lentille.
 
 
+![forme miroir](/contenu/plans/forme_miroir_amici.jpeg)

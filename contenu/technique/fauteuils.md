@@ -1,6 +1,6 @@
 # Les fauteuils
 
-Des fauteuils extrêmement confortables bien que très compacts et légers. Il nous en faudra 21.
+Des fauteuils <del>extrêmement</del> confortables, compacts et légers. Il nous en faudra 21.
 
 ## Revêtement
 
@@ -17,6 +17,11 @@ Facilement démontable et hauteur facilement réglable (Deux pieds qui se mancho
 
 Les acoudoirs sont amovibles pour plus de modularité.
 
+## Quelle base pour la tapisserie
+
+![fauteuil V04](/contenu/plans/base-fauteuils.png)
+
+
 ## Dimensions
 
 * entraxe siège : 450
@@ -25,7 +30,7 @@ Les acoudoirs sont amovibles pour plus de modularité.
 * largeur accoudoir : 40
 * largeur traversée : 450
 
-![fauteuil V02](/contenu/plans/fauteuil_V04.jpeg)
+![fauteuil V04](/contenu/plans/fauteuil_V04.jpeg)
 
 
 ## Siéges amovibles
@@ -33,3 +38,7 @@ Les acoudoirs sont amovibles pour plus de modularité.
 Au bord des marches on pense à des poufs (h 200) ou tabourets (h 400). Il en faudrait 4.
 
 Au sol devant le premier rang, peut-être 5 poufs en plus pour enfants ??.
+
+## Plan avec sections
+
+![fauteuil](/contenu/plans/fauteuil.png)
