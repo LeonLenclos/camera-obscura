@@ -35,7 +35,7 @@ L'option prisme a été abandonnée du fait de la taille excessive des prismes q
 
 La solution la plus simple que l’on ai trouvé est un dispositif à 2 miroirs inspiré du prisme en toit d’Amici.
 
-#### Simulation
+#### Simulation
 
 Voici une [simulation des solutions envisagées avec des miroirs](/contenu/simulation/mirrors/). Utilisez le clic gauche et la molette pour naviguer dans la scène. Utilisez la petite fenêtre en haut à droite pour sélectionner une scène et régler l'angle du champ de vision.
 
@@ -44,7 +44,7 @@ Voici une [simulation des solutions envisagées avec des miroirs](/contenu/simul
 - Si nous devons utiliser des grands miroirs, comment limiter les défauts optiques observés lors des essais : perte de luminosité, double image, trait central dans le prisme en toit d'Amici... (miroir extra clair anti reflet, miroir first face..?)
 
 
-## Le système à deux mirroirs en toit.
+## Le système à deux mirroirs en toit.
 
 Pour concevoir ce dispositif, on est parti d'un agencement de deux mirroirs avec des tailles arbitraires. On a placé devant la FX3 en 4:3 avec un 35mm (ça correspond à un angle de champ de 45°) et on a tracé au feutre, sur les mirroir, les limites de la surface utile.
 
