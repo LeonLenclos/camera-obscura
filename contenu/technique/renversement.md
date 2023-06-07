@@ -54,3 +54,5 @@ Eventuellement, la forme des miroirs doit pouvoir se calculer en fonction de l'a
 
 
 ![forme miroir](/contenu/plans/forme_miroir_amici.jpeg)
+
+![découpe miroir](/contenu/plans/decoupe-miroir-en-toit.png)
