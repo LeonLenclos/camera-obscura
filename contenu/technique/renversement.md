@@ -50,9 +50,8 @@ Pour concevoir ce dispositif, on est parti d'un agencement de deux mirroirs avec
 
 La forme ainsi obtenue est assez surprenante.
 
-Eventuellement, la forme des miroirs doit pouvoir se calculer en fonction de l'angle de champ, de l'inclinaison du toit et de la position (et la taille ?) de la lentille.
+![forme miroir](/contenu/plans/toit-amici-decoupe-miroir.png)
 
+![forme miroir](/contenu/plans/toit-amici-structure.png)
 
-![forme miroir](/contenu/plans/forme_miroir_amici.jpeg)
-
-![découpe miroir](/contenu/plans/decoupe-miroir-en-toit.png)
+![découpe miroir](/contenu/plans/toit-amici-forme.jpeg)
