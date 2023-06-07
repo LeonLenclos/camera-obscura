@@ -55,3 +55,7 @@ La forme ainsi obtenue est assez surprenante.
 ![forme miroir](/contenu/plans/toit-amici-structure.png)
 
 ![découpe miroir](/contenu/plans/toit-amici-forme.jpeg)
+
+## Le système à un miroir pour filmer le ciel
+
+![découpe miroir](/contenu/plans/miroir-a-45.png)
