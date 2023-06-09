@@ -25,5 +25,6 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 - Vendre des pop-corns cuits au four solaire.
 
 ## Divers
+- [Marionettes](marionettes.md)
 - [Fournisseurs](fournisseurs.md), liste de fournisseurs.
 - [Vrac](vrac.md), idées à creuser.

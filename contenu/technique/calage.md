@@ -82,3 +82,13 @@ Pour un tirage de 2,4 m et un écran de 2 m :
 | 1,8 m      | 0,56 dioptrie |  plan moyen     | 7,2 m              | 6 m              |
 | 1,2 m      | 0,83 dioptrie |  plan serré     | 2,4 m              | 2 m              |
 | 0,8 m      | 1,25 dioptrie |  gros plan      | 1,2 m              | 1 m              |
+
+
+### Focales pouir la planchette d'essais avec verres d'opticien.
+
+| focale (f) | vergence (1/f)| valeur de plan  | distance objet (d) | largeur objet (l)|
+|------------|---------------|-----------------|--------------------|------------------|
+| 2 m        | 0,5 dioptrie  |  plan large     |                    |                  |
+| 1,5 m      | 0,75 dioptrie |  plan moyen     |                    |                  |
+| 1 m        | 0,1 dioptrie  |  plan serré     |                    |                  |
+| 0,750 m    | 1,5 dioptrie  |  gros plan      |                    |                  |

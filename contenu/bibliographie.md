@@ -1,7 +1,18 @@
-# Livres/Papiers
+# La bibliothèque du spectacle
+
+(Livre que l'on a en physique)
 
 - [*Bases d'optique géométrique*, Olivier Morizot, aux Presses Universitaires de Provence, 2016](https://presses-universitaires.univ-amu.fr/bases-doptique-geometrique-0)
+- [*Bases d'optique géométrique*, Olivier Morizot, aux Presses Universitaires de Provence, 2016](https://presses-universitaires.univ-amu.fr/bases-doptique-geometrique-0)
+
+
+# Papiers scientifique / Thèses / Mémoires
+
 - [Claude Martin-Rainaud. *Dans le regard de la chambre*. Art et histoire de l’art. Université d’Avignon, 2015](https://theses.hal.science/tel-01248530)
+- [*Le végétal est photographie*, Mariève Pelletier (Mémoire)](https://www.esam-c2.fr/IMG/UserFiles/docs/memoires/2017_pelletier_marieve.pdf)
+
+- [*Lanterne magique, Avant le cinéma*, Jérôme Prieur, aux éditions fario, 2021](https://editionsfario.fr/livre/lanterne-magique/)
+- [*Optique, Une approche experimentale et pratique*, Sylvain Houard, aux éditions de boeck,  2011](https://www.deboecksuperieur.com/ouvrage/9782804163396-optique)
 
 # Liens
 
@@ -11,7 +22,6 @@
 - [chaîne youtube de photo avec pas mal de contenus intéressants](https://youtube.com/@PhotoGraal)
 - [geogebra](https://www.geogebra.org/calculator/hahmryyn)
 - [logiciel (payant) pour créer des optiques](https://www.zemax.com/)
-- [bouquins théoriques](https://www.babelio.com/livres/Houard-Optique/898680)
 - [Peut on considérer qu'un objectif (assemblage de lentilles) est géométriquement équivalent à une lentille mince](https://www.galerie-photo.com/un-objectif-photo.html)
 - 
 ## Gramophone
@@ -88,7 +98,7 @@
 
 - [Lanternes magiques](https://en.wikipedia.org/wiki/Magic_lantern)
 - [petit Doc en anglais](https://youtu.be/w1XkqtzLfKo)
-- [Collection de jouets optique de Dick Blazer, notament lanternes magiques (archive)](https://wayback.archive-it.org/12244/20190603142755/https://www.dickbalzer.com/)
+- [Collection de jouets optique de Dick Balzer, notament lanternes magiques (archive)](https://wayback.archive-it.org/12244/20190603142755/https://www.dickbalzer.com/)
 
 ## Historique
 
@@ -98,5 +108,4 @@
 
 - [Anthotypes: explore the darkroom in your garden - Le livre de ref](http://leonlenclos.net/pro/pirate/anthotypes-explore-the-darkroom-in-your-garden-and-make-photographs-using-plants-1466261005-9781466261006_compress.pdf)
 - [Recette à base d'épinard](http://wiki.scienceamusante.net/index.php/Les_anthotypes)
-- [Le végétal est photographie (Mémoire)](https://www.esam-c2.fr/IMG/UserFiles/docs/memoires/2017_pelletier_marieve.pdf)
 - [Mary Somerville, inventeuse oubliée de l'anthotypie ](https://en.wikipedia.org/wiki/Mary_Somerville)
