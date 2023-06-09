@@ -7,7 +7,7 @@ Ce sont des figures en 2D qui peuvent être articulées.
 Les techniques existantes similaires :
 
 - [Poupées en papier (wikipedia)](https://fr.wikipedia.org/wiki/Poup%C3%A9e_en_papier)
-- [Pantin / Jumping Jack (wikipedia)](https://fr.wikipedia.org/wiki/Poup%C3%A9e_en_papier)
+- [Pantin / Jumping Jack (wikipedia)](https://fr.wikipedia.org/wiki/Pantin_(figurine))
 - [Standee (wikipedia en)](https://en.wikipedia.org/wiki/Standee)
 - [Animation en papier découpé (wikipedia)](https://fr.wikipedia.org/wiki/Animation_de_papiers_d%C3%A9coup%C3%A9s)
 
