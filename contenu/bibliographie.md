@@ -1,3 +1,8 @@
+# Livres/Papiers
+
+- [*Bases d'optique géométrique*, Olivier Morizot, aux Presses Universitaires de Provence, 2016](https://presses-universitaires.univ-amu.fr/bases-doptique-geometrique-0)
+- [Claude Martin-Rainaud. *Dans le regard de la chambre*. Art et histoire de l’art. Université d’Avignon, 2015](https://theses.hal.science/tel-01248530)
+
 # Liens
 
 ## Théorie
@@ -83,6 +88,7 @@
 
 - [Lanternes magiques](https://en.wikipedia.org/wiki/Magic_lantern)
 - [petit Doc en anglais](https://youtu.be/w1XkqtzLfKo)
+- [Collection de jouets optique de Dick Blazer, notament lanternes magiques (archive)](https://wayback.archive-it.org/12244/20190603142755/https://www.dickbalzer.com/)
 
 ## Historique
 
