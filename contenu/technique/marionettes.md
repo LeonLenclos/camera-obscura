@@ -27,7 +27,7 @@ Dessin au feutre sur fond blanc avec des couleurs claires ou des nuances de gris
 
 ![Figurine en papier](../img/figurine1.gif) ![Alt text](../img/figurine2.gif)
 
-## Fabrication
+## Fabrication
 
 Pour les articulation on est pas trop fan des ataches parisienne, on fait des proto avec des punaises et après on veut partir sur de la vis de ceinture (voir aussi écrou de reliure, rivet de reliure)
 
