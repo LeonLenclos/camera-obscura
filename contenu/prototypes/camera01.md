@@ -41,6 +41,10 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 
 ![zeiss_tessar_5,6_300](../photos/zeiss_tessar_5,6_300.jpg)
 
+### Miroirs
+
+- Deux miroirs de 350×270mm
+
 ### accessoires
 - L'objectif fixé sur un clamp coulisse sur 2 rails
 - Un soufflet en tissu fixé entre la planchette et le chassis maintient l'obscurité.
@@ -63,3 +67,4 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 printemps 2023
 
 ## Détails de construction et description technique
+
