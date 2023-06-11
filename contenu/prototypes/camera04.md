@@ -1,7 +1,7 @@
 #  Chambre Sprinter
 
 ## Description générale
-Un vehicule type Sprinter Mercedes est transformé en camera obscura en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,40 m x 1,02 m (format 1,37) est installé à l'intérieur du camion. 3 personnes peuvent visionner simultanément l'image.
+Un vehicule type Sprinter Mercedes est transformé en camera obscura en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,30 m x 0,95 m (format 1,37) est installé à l'intérieur du camion. 3 personnes peuvent visionner simultanément l'image.
 
 ## Allure
 Un utilitaire avec un soufflet qui dépasse à l'arrière.
@@ -40,7 +40,8 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 ## Améliorations envisagées
 
 ## Moment envisagé pour la construction et/ou les améliorations
-printemps 2023
+Essais en résidence au quai des savoirs et à MIMA avec un écran dépoli.
+À MIMA, l'ecran testé est un GREY plus de 1300 x 840 mm.
 
 ## Détails de construction et description technique
 ![cotes proto02](../plans/dim_panneau_sprinter_ultralight.jpeg)
