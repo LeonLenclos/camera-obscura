@@ -6,7 +6,7 @@
 | début construction          |            mars 2023 |
 | nombre de spectateur·ices   |                    1 |
 | taille de l'image           |               4×4 cm |
-| distance de tirage min-max  |                    ? |
+| distance de tirage min-max  |               45.5mm |
 | dimensions exterieures      |                    ? |
 | objectif monté              | Helios 44-2 / 2/58mm |
 
