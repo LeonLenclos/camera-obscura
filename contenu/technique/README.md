@@ -15,6 +15,7 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 - [Soufflets](soufflets.md) : comment et pourquoi faire des soufflets.
 - [Iris](iris.md) : comment et pourquoi faire des iris.
 - [Abaque](abaque.md) : abaque des distances de tirage pour quelques objectifs.
+- [Vitres](vitres.md) : travailler avec des vitres et des miroirs.
 
 ## Audio
 - [diffusion du son dans la remorque](son.md) : comment donner l'illusion du son cinéma
