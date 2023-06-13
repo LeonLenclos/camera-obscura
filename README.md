@@ -1,4 +1,4 @@
-![Typo](contenu/img/typo.gif)
+# Camera Obscura
 
 ### travail en cours
 
@@ -8,15 +8,16 @@ Sur ce site nous rassemblons au fur et à mesure de la création, tous les conte
 
 Même si à la base cette documentation est un outil de travail personnel, nous avons décidé de la mettre à disposition de toute personne intéressée par ce projet.
 
-- [Dossier de création](contenu/dossier/dossier-camera-obscura-2024-web.pdf), télécharger le dossier en pdf.
+
 - [Prototypes](contenu/prototypes), liste des chambres construites pendant la création.
 - [Remorque](contenu/remorque.md), construction du théâtre optique "Camera Obscura".
 - [Écriture](contenu/ecriture), textes, scenarios, découpages et références.
 - [Technique](contenu/technique), questions et réponses concernant les differents défis techniques. 
 - [Production](contenu/production.md), partenaires du projet et calendrier des résidences.
 - [Bibliographie](contenu/bibliographie.md), liens et documents utiles.
-- [Todo](contenu/todo.md), bloc-notes des trucs à faire.
+- [Dossier de création](contenu/dossier/dossier-camera-obscura-2024-web.pdf), télécharger le dossier en pdf.
 - [Présentation du projet](contenu/presentation-partenaires.md), à l’intention des partenaires techniques et scientifiques.
+- [Todo](contenu/todo.md), bloc-notes des trucs à faire.
 - [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
 
 
