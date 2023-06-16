@@ -84,8 +84,10 @@ Interlocuteurices :
 ### en juillet 2023 (du 11 au 13) : Ramonville (31) - Arto
 - test camion
 
-### en été 2023 : Graulhet (81) - Nokill ou Marseille (13) - Nokill
-- plans remorque 
+### du 24/07/2023 au 28/07/2023 : Marseille (13) - Nokill
+- plans remorque
+- plans planchettes
+- Mario
 
 ### octobre 2023
 Chez les Plasticiens volants
