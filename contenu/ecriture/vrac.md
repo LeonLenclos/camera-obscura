@@ -17,15 +17,16 @@
 - Un personnage joué par deux personnes pour pouvoir enchaîner deux valeurs de plan.
 - Astuces pour passer d'un acteur à l'autre : Se cacher derrière le journal le temps de la transition et le temps que l'autre vienne prendre sa place.
 - Utiliser la scène du masque d'alien dans le même but.
-- Costume de voiture attaché par la ceinture.
+- En voiture (Costume de voiture attaché par la ceinture) 3 monologues sur la pratique de l'imagination au quotidien, le dernier est un accident. Il continue à tenter de transformer la réalité.
 
 ### Troisième vague
 
 - Quel super pouvoir je choisierai si je pouvais choisir ou j'ai le pouvoir d'être invisible mais j'ai toujours rêvé d'avoir tel autre pouvoir.
 - Je me suis cassé un ongle, trop chiant. Mais en vrai ça aurait pu être pire j'aurai pu (...) surenchère
-- Accident de voiture et la personne qui fais que imaginer des choses doit redescendre sur terre.
-- Les imaginaires de quel serait le monde idéal permet de le viser
+- Accident de voiture et la personne qui fait que imaginer des choses doit redescendre sur terre.
+- S'imaginer quel serait le monde idéal permet de l'atteindre
 - Peur du noir est créée par l'imagination mais peut aussi être combattue grace à l'imagination
+- incrustation de feu
 
 # Vrac à élements de langage
 
