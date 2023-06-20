@@ -95,6 +95,7 @@ Chez les Plasticiens volants
 
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
+- Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
