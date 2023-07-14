@@ -49,7 +49,6 @@ Interlocuteurices :
 
 
 ### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons et au Fablab de la MJC de Graulhet
-
 - construction soufflets des cameras 2 et 3
 - construction du prisme de miroirs en toit d'Amici
 - début construction camera 4
@@ -68,19 +67,27 @@ Interlocuteurices :
 - màj doc et contact Gérard, Marc et Ronan
 - pas de retour du Fablab Airbus
 
-## Résidences à venir
+
 
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
+- Arrivée de Zou
 - test camion
-- Tester 4 lentilles avec du montage.
-- Tester lentilles avec miroir.
-- Tester bouts de séquence.
+- test lentille achromatique Dia : 154 mm / focale : 2250 mm
+- Tester 4 lentilles Dia 60 mm (focale : 2000 mm / 1500 mm / 850 mm / 660 mm) avec du montage.
+- Tester lentilles avec miroir Amici.
+- Tester bouts de séquence (ouverture, le pire).
+- ecriture
+- construction et test de marios
+- 
+## Résidences à venir
 
 ### en juillet 2023 (du 11 au 13) : Ramonville (31) - Arto
 - test camion
 
-### en été 2023 : Graulhet (81) - Nokill ou Marseille (13) - Nokill
-- plans remorque 
+### du 24/07/2023 au 28/07/2023 : Marseille (13) - Nokill
+- plans remorque
+- plans planchettes
+- Mario
 
 ### octobre 2023
 Chez les Plasticiens volants
@@ -88,6 +95,7 @@ Chez les Plasticiens volants
 
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
+- Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
