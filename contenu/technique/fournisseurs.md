@@ -36,4 +36,4 @@
 
 ## Alu, tôle, mécanique
 - [Plaques Alu avec finition - Arcelormittal](https://e-steel.arcelormittal.com/FR/fr/Aluminium/T%C3%B4le-Aluminium/T%C3%B4le-aluminium-laqu%C3%A9e/T%C3%B4le-aluminium-laqu%C3%A9e-poudre/p/P610030040)
-- https://www.ici-composants.com/
+- [ICI comp - paliers](https://www.ici-composants.com/)
