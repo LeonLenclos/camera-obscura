@@ -16,5 +16,5 @@ Cette implantation permettrait une convection naturelle. Mais peut-être faut-il
 
 ### Raffraichissement de l’air
 
-- Installation de systèmes de rafraichissement d'air sur le trajet du flux. En s'inspirant des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide (RAF : rafraîchisseur d'air évaporatif) imaginer des caissons de paille régulièrement humidifiés sur le chemin de l'air. Le plus simple semble être des caissons placés sous les sièges des spectateurs.
+- Installation de systèmes de rafraichissement d'air sur le trajet du flux. En s'inspirant des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide (RAE : [rafraîchisseur d'air évaporatif](https://fr.wikipedia.org/wiki/Refroidisseur_par_%C3%A9vaporation) imaginer des caissons de paille régulièrement humidifiés sur le chemin de l'air. Le plus simple semble être des caissons placés sous les sièges des spectateurs.
 
