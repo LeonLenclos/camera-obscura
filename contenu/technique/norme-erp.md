@@ -9,4 +9,9 @@ En raison de leur plus faible effectif admissible, les ERP de 5e catégorie sont
 
 Pour les ERP de 5e catégorie recevant 19 personnes ou moins, ces règles sont allégées. 
 
-Les ERP de 5e catégorie, comme tous les ERP, doivent également respecter les règles d’accessibilité. En effet, les ERP doivent être accessibles à toute personne handicapée, peu importe la nature du handicap. De plus, les ERP sont contrôlés par la commission consultative départementale de sécurité et d'accessibilité pour assurer le respect de ces règles. 
+Les ERP de 5e catégorie, comme tous les ERP, doivent également respecter les règles d’accessibilité. En effet, les ERP doivent être accessibles à toute personne handicapée, peu importe la nature du handicap. De plus, les ERP sont contrôlés par la commission consultative départementale de sécurité et d'accessibilité pour assurer le respect de ces règles.
+
+Demande de dérogation :
+
+ - Disposer d’une ligne de téléphone urbain pour joindre les secours 
+
