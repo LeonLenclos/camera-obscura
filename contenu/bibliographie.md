@@ -23,7 +23,11 @@
 - [geogebra](https://www.geogebra.org/calculator/hahmryyn)
 - [logiciel (payant) pour créer des optiques](https://www.zemax.com/)
 - [Peut on considérer qu'un objectif (assemblage de lentilles) est géométriquement équivalent à une lentille mince](https://www.galerie-photo.com/un-objectif-photo.html)
-- 
+- [Calculer l'equation d'un plan](https://onlinemschool.com/math/assistance/cartesian_coordinate/plane/)
+- [Calculer l'angle entre deux plans](https://onlinemschool.com/math/assistance/cartesian_coordinate/plane_angl/)
+- [Calculer l'angle entre deux vecteurs 3D](https://openclassrooms.com/forum/sujet/mathsespace-3d-calculer-l-angle-entre-2-vecteurs-87922)
+
+
 ## Gramophone
 
 - https://forum.talkingmachine.info/viewtopic.php?f=3&t=30997
