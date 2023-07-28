@@ -24,7 +24,8 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 - [Isolation et climatisation](isolation.md), faire du frais dans la remorque
 - [Fauteuils](fauteuils.md), Garantir un max de confort avec un minimum d'encombrement et de poid.
 - Vendre des pop-corns cuits au four solaire.
-
+- [Norme ERP cat 5](norme-erp.md), les obligations des ERP de 5e catégorie (< 50 spectacteurs)
+  
 ## Divers
 - [Marionettes](marionettes.md)
 - [Fournisseurs](fournisseurs.md), liste de fournisseurs.
