@@ -22,7 +22,7 @@ Utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Le
 | Liège expansé                    | 20mm  | Isolant + Rigide | [lien](https://www.eco-logis.com/boutique/isolation/liege-panneaux-isolation-thermique-phonique/?attribute_epaisseur=20+mm) |
 | kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
 
-L'épaisseur totale est de 95mm
+L'épaisseur totale réelle est de 98,5mm
 
 Pour le faux plafond
 
