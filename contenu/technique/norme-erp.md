@@ -16,10 +16,10 @@ Demande de dérogation :
  - Disposer d’une ligne de téléphone urbain pour joindre les secours
 
 > Contrôle réalisé par la commission de sécurité
-
+> 
 > - La commission consultative départementale de sécurité et d'accessibilité (CCDSA) effectue des visites de contrôle à la construction, à l'ouverture et au cours de l'exploitation de l'ERP: titleContent. Elle relève tous les manquements à la réglementation.
-
+> 
 > - Les exploitants sont tenus d'assister à la visite de leur établissement ou de s'y faire représenter par une personne qualifiée. Le maire ou son représentant est également présent.
-
+> 
 > - La commission contrôle tous les 3 ou 5 ans les ERP du 1er groupe (catégories 1,2,3 et 4) et les ERP de 5e catégorie avec locaux à sommeil (hôtel, pension de famille...).
 
