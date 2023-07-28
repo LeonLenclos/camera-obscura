@@ -18,30 +18,28 @@ Utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Le
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
 | Tôle alu laquée           | 1.5mm | Finition + Rigide + Réflecteur | [lien](https://e-steel.arcelormittal.com/FR/fr/Aluminium/T%C3%B4le-Aluminium/T%C3%B4le-aluminium-laqu%C3%A9e/T%C3%B4le-aluminium-laqu%C3%A9e-poudre/p/000000000002120158) |
-| Panneau chanvre coton lin | 80mm  | Isolant | [lien](https://www.materiaux-naturels.fr/produit-decl/8298-biofib-trio-panneau-isolant-chanvre-coton-lin-60mm-1.25x0.6m-léchissant) |
-| Film Aluminisé isolant    | 3mm   | Isolant + Réflecteur | [lien](https://www.leroymerlin.fr/produits/film-isolant-double-face-en-film-aluminise-isolant-isolation-du-toit-thermique-a-bulles-film-isolation-1x10m-3-4mm-10-88888846.html) |
-| Isorel                    | 10mm  | Isolant + Rigide | [lien](https://www.materiaux-naturels.fr/produit/400-steico-isorel-panneau-acoustique-fibre-de-bois) |
-| Moleton   | 0.6mm | Finition | [lien](https://www.azur-scenic.com/produit/molleton/) |
+| Panneau coton BUTEX | 75mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
+| Liège expansé                    | 20mm  | Isolant + Rigide | [lien](https://www.eco-logis.com/boutique/isolation/liege-panneaux-isolation-thermique-phonique/?attribute_epaisseur=20+mm) |
+| kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
 
-L'épaisseur totale est de 95mm
+L'épaisseur totale réelle est de 98,5mm
 
 Pour le faux plafond
 
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
-| Isorel    | 10mm  | Isolant + Rigide | [lien](https://www.materiaux-naturels.fr/produit/400-steico-isorel-panneau-acoustique-fibre-de-bois) |
-| Moleton                   | 0.6mm | Finition | [lien](https://www.azur-scenic.com/produit/molleton/) |
+| Liège expansé                    | 20mm  | Isolant + Rigide | [lien](https://www.eco-logis.com/boutique/isolation/liege-panneaux-isolation-thermique-phonique/?attribute_epaisseur=20+mm) |
+| kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
 
 
 Pour l'isolation du sol
 
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
-| Tôle alu brut | 1mm | Rigide |  |
-| Film Aluminisé isolant    | 3mm   | Isolant + Réflecteur | [lien](https://www.leroymerlin.fr/produits/film-isolant-double-face-en-film-aluminise-isolant-isolation-du-toit-thermique-a-bulles-film-isolation-1x10m-3-4mm-10-88888846.html) |
-| Panneau chanvre coton lin  | 2×80mm | Isolant | [lien](https://www.materiaux-naturels.fr/produit-decl/8298-biofib-trio-panneau-isolant-chanvre-coton-lin-60mm-1.25x0.6m-léchissant) |
+| Tôle galva brut | 0,8mm | Rigide |  |
+| Panneau coton BUTEX | 2 x 75mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
 | Contreplaqué antidérapant | 9mm | Rigide | [lien](https://www.dispano.fr/p/panneaux/contreplaque-rigatex-tout-bouleau-antiderapant-w-i-f-i-face-antiderapante-A7577743) |
-| Moquette | | Finition + Isolant | |
+| Moquette | 6 mm | Finition + Isolant | [lien](https://www.saint-maclou.com/produit/moquette-velours-roxane-col-noir-rouleau-4-00-m-002109-00098#photos) |
 
 
 #### Overtures
