@@ -37,16 +37,11 @@
 - Rassembler/bricoler marionettes
 - Découpage sequence a travailler
 
-### À prendre pour MIMA
-
-- Equipement escalade a emprunter à Fabien ou Coco
-- Pont elektra pour se suspendre
-- Prendre rotule sac de sable gueuse
-- De quoi Faire une planchette pour accueillir les 4 lentilles brut
-
 
 ### Plan
 
 - Les marches gradins
 - passer à 16 cm / marche
 - rectifier gradin (arches) / plancher (contre marche) / arrière (croisillons et trappes) / caisson clim
+- Reajuster la hauteur des supports de siège
+
