@@ -45,3 +45,8 @@
 - De quoi Faire une planchette pour accueillir les 4 lentilles brut
 
 
+### Plan
+
+- Les marches gradins
+- passer à 16 cm / marche
+- rectifier gradin (arches) / plancher (contre marche) / arrière (croisillons et trappes) / caisson clim
