@@ -43,9 +43,3 @@ Une boite noire de forme parallélépipédique. L'image est projetée sur un dé
 
 ### Inconvénients
 - image petite et tronquée
-## Améliorations envisagées
-
-## Moment envisagé pour la construction et/ou les améliorations
-printemps 2023
-
-## Détails de construction et description technique
