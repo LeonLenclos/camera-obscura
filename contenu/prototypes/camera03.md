@@ -55,12 +55,9 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 
 ![chambre_grand_format](../img/cam03-ouvert-vs-ferme.png)
 
-
 ### Inconvénients
 - encombrement (ne passe pas les portes)
 - à l'envers
-
-
 
 ## Usage
 
