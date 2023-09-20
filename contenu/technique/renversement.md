@@ -31,7 +31,7 @@ Pour retourner l'image plusieurs solutions ont étés envisagés :
 - Une solution sans prisme ni miroir par un agencement de lentille.
 - Les agencements de mirroirs (avec 2, 3 ou 4 mirroirs, qui s'inspirent des prismes de Poro-Abbe ou en toit d'Amici)
 
-L'option prisme a été abandonnée du fait de la taille excessive des prismes qu'il nous faudrait. Les essais sans prismes ni mirroirs (agencement de lentilles) n'ont pas été concluants.
+L'option prisme a été abandonnée du fait de la taille excessive des prismes nécessaires. Les essais sans prismes ni mirroirs (agencement de lentilles) n'ont pas été concluants.
 
 La solution la plus simple que l’on ai trouvé est un dispositif à 2 miroirs inspiré du prisme en toit d’Amici.
 
