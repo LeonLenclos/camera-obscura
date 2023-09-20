@@ -1,12 +1,13 @@
 # TODO
 
-- se renseigner sur le Permis
+- se renseigner sur le Permis pour Zou
 
 ### Production
 
 - Relance courrier partenaires avec dossier + lien du site
 - Refaire le dossier PDF en deux versions Zou et Ninon comédienne
 - Dossier Adami
+- Contact Louis Lumière
 
 ### Courses
 
@@ -21,17 +22,6 @@
 - Support prisme en toit V2
 - Support miroir + vitre
 - Castelet
-
-
-### Avant résidence MIMA Juin
-
-- concevoir chassis verre + mirroir
-- Fabriquer toit d'amici
-- Doubler la bache avec le skai
-- Entrer plan amici dans librecad
-- Rassembler/bricoler marionettes
-- Découpage sequence a travailler
-
 
 ### Plan
 
