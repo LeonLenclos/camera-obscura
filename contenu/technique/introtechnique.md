@@ -16,7 +16,7 @@ Le dispositif doit être mobile et sera construit sur un châssis de remorque. C
 
 ### Le parti pris énergétique
 
-Une des idées fondatrices du spectacle est de s’imposer la contrainte de n’utiliser aucun apport d’énergie autre que la lumière du soleil et la force humaine. Cette contrainte est au coeur même du projet et permettra au spectacle d’être diffusé même dans des endroits sans accès à l’electricité : au milieu du désert, sur une plage, etc.
+Une des idées fondatrices du spectacle est de s’imposer la contrainte de n’utiliser, au moment du spectacle, aucun apport d’énergie autre que la lumière du soleil et la force humaine. Cette contrainte est au coeur même du projet et permettra au spectacle d’être diffusé même dans des endroits sans accès à l’electricité : au milieu du désert, sur une plage, etc.
 
 En outre, l’utilisation d’énergie électrique de source photovoltaïque ou mécanique (force humaine ou éolien) ne s’oppose pas directement à cette contrainte mais nous souhaitons si possible nous en passer pour ce spectacle.
 
