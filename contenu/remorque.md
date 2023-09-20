@@ -3,10 +3,8 @@
 ## Description générale
 Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
-
 ![Dessin de la remorque](/contenu/dessins/remorque.png)
 *Vue de la remorque, un&middot;e opérateurice derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
-
 
 ## Allure
 Une remorque avec un soufflet qui dépasse à l'arrière.
@@ -50,7 +48,6 @@ automne 2023
 
 Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
-
 - dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
 - dimension hors-tout caisse : 6600 x 2450 x 2452
 - dimension utile intérieur : 6400 x 2250 x 2252
@@ -58,8 +55,6 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 - épaisseur isolation sol : 100
 - entraxe siège : 450
 - largeur traversée : 450
-
-
 
 [plan chassis remorque](/contenu/plans/doc_bw_tiny_house_ch600.pdf)
 
