@@ -17,9 +17,9 @@ Facilement démontable et hauteur facilement réglable (Deux pieds qui se mancho
 
 Les accoudoirs sont amovibles pour plus de modularité. Ils peuvent se rabattre le long du dossier.
 
-## Quelle base pour la tapisserie
+## Quelle base pour la garniture
 
-![fauteuil V04](/contenu/plans/base-fauteuils.png)
+- solution envisagée : mousse bultex prédécoupée et housse en tissus amovible.
 
 
 ## Dimensions
