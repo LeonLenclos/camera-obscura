@@ -10,7 +10,7 @@
 
 ### Courses
 
-- Acheter 4 lentilles brut.
+- Couses construction
 
 ### Construction
 
@@ -22,11 +22,6 @@
 - Support miroir + vitre
 - Castelet
 
-### Améliorations Camion
-
-- Installer des rangements dans le camion ??
-- Trouver une solution pour maintenir les portes arrieres du camion ouvertes ??
-- Obturation du camion (gaf alu) ??
 
 ### Avant résidence MIMA Juin
 
