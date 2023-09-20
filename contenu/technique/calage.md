@@ -66,7 +66,7 @@ Valeurs :
 - Tirage (t) : 2,2 m
 
 Formules :
-- Relation de conjugaison : `1/2,4 + 1/d = 1/f`
+- Relation de conjugaison : `1/2,2 + 1/d = 1/f`
 - Distance objet en fonction de la largeur objet : `d = l/(2*tan(22.5)) = l/0.83`
 - Focale en fonction de la distance objet : `f = 1/(1/2,2 - 1/d) = 1/(0.45-1/d)`
 - Largeur objet en donction de la distance objet : `l = d*(2*tan(22.5)) =  d*0.83`
