@@ -18,11 +18,11 @@ Utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Le
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
 | Tôle alu laquée           | 1.5mm | Finition + Rigide + Réflecteur | [lien](https://e-steel.arcelormittal.com/FR/fr/Aluminium/T%C3%B4le-Aluminium/T%C3%B4le-aluminium-laqu%C3%A9e/T%C3%B4le-aluminium-laqu%C3%A9e-poudre/p/000000000002120158) |
-| Panneau coton BUTEX | 75mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
-| Liège expansé                    | 20mm  | Isolant + Rigide | [lien](https://www.eco-logis.com/boutique/isolation/liege-panneaux-isolation-thermique-phonique/?attribute_epaisseur=20+mm) |
+| Panneau coton METISSE | 100mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
+| Isorel                    | 2,5mm  |
 | kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
 
-L'épaisseur totale réelle est de 98,5mm
+L'épaisseur totale réelle est de 102,5mm
 
 Pour le faux plafond
 
