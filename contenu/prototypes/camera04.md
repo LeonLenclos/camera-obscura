@@ -3,6 +3,10 @@
 ## Description générale
 Un vehicule type Sprinter Mercedes est transformé en camera obscura en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,30 m x 0,95 m (format 1,37) est installé à l'intérieur du camion. 3 personnes peuvent visionner simultanément l'image.
 
+[une vidéo de test de la chambre sprinter au Quai des savoirs :](https://vimeo.com/showcase/10324493/video/826499165)
+
+<div style="padding-bottom: 56.25%; max-width: 100%; position: relative;"><iframe src="https://player.vimeo.com/video/826499165?title=0&portrait=0&byline=0" width="800px" height="450px" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>
+
 ## Allure
 Un utilitaire avec un soufflet qui dépasse à l'arrière.
 
