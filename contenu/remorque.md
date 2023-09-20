@@ -48,14 +48,13 @@ automne 2023
 
 ## Détails de construction et description technique
 
-- Prévision poids et coûts : [Framacalc remorque_camera_obscura](https://lite.framacalc.org/remorque_camera_obscura-a19l)
 - Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
 - dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
 - dimension hors-tout caisse : 6600 x 2450 x 2452
 - dimension utile intérieur : 6400 x 2250 x 2252
 - épaisseur isolation plafond ou mur : 100
-- épaisseur isolation sol : 120
+- épaisseur isolation sol : 100
 - entraxe siège : 450
 - largeur traversée : 450
 
