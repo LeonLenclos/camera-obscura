@@ -1,16 +1,17 @@
 # TODO
 
-- se renseigner sur le Permis
+- se renseigner sur le Permis pour Zou
 
 ### Production
 
 - Relance courrier partenaires avec dossier + lien du site
 - Refaire le dossier PDF en deux versions Zou et Ninon comédienne
 - Dossier Adami
+- Contact Louis Lumière
 
 ### Courses
 
-- Acheter 4 lentilles brut.
+- Couses construction
 
 ### Construction
 
@@ -22,26 +23,10 @@
 - Support miroir + vitre
 - Castelet
 
-### Améliorations Camion
+### Plan
 
-- Installer des rangements dans le camion ??
-- Trouver une solution pour maintenir les portes arrieres du camion ouvertes ??
-- Obturation du camion (gaf alu) ??
-
-### Avant résidence MIMA Juin
-
-- concevoir chassis verre + mirroir
-- Fabriquer toit d'amici
-- Doubler la bache avec le skai
-- Entrer plan amici dans librecad
-- Rassembler/bricoler marionettes
-- Découpage sequence a travailler
-
-### À prendre pour MIMA
-
-- Equipement escalade a emprunter à Fabien ou Coco
-- Pont elektra pour se suspendre
-- Prendre rotule sac de sable gueuse
-- De quoi Faire une planchette pour accueillir les 4 lentilles brut
-
-
+- Les marches gradins
+- passer à 16 cm / marche
+- rectifier gradin (arches) / plancher (contre marche) / arrière (croisillons et trappes) / caisson clim
+- Reajuster la hauteur des supports de siège
+- Faire pdf provisoire aquabrasion E3 E4 E5 W3 W4 W5 N1 N2 et compter les plaques 

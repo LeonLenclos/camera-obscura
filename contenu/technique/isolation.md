@@ -18,17 +18,17 @@ Utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Le
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
 | Tôle alu laquée           | 1.5mm | Finition + Rigide + Réflecteur | [lien](https://e-steel.arcelormittal.com/FR/fr/Aluminium/T%C3%B4le-Aluminium/T%C3%B4le-aluminium-laqu%C3%A9e/T%C3%B4le-aluminium-laqu%C3%A9e-poudre/p/000000000002120158) |
-| Panneau coton BUTEX | 75mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
-| Liège expansé                    | 20mm  | Isolant + Rigide | [lien](https://www.eco-logis.com/boutique/isolation/liege-panneaux-isolation-thermique-phonique/?attribute_epaisseur=20+mm) |
-| kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
+| Panneau coton METISSE | 100mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
+| Protecflam HDF | 2,5mm  | Rigide |[lien](https://protecflam.fr/fibroflam-panneaux-ignifuges/73-fibroflam-igni-m-protection-ignifuges-hdf.html) |
+| Kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
 
-L'épaisseur totale réelle est de 98,5mm
+L'épaisseur totale réelle est de 104,5mm
 
 Pour le faux plafond
 
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
-| Liège expansé                    | 20mm  | Isolant + Rigide | [lien](https://www.eco-logis.com/boutique/isolation/liege-panneaux-isolation-thermique-phonique/?attribute_epaisseur=20+mm) |
+| Protecflam HDF | 2,5mm  | Rigide |[lien](https://protecflam.fr/fibroflam-panneaux-ignifuges/73-fibroflam-igni-m-protection-ignifuges-hdf.html) |
 | kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
 
 
@@ -37,8 +37,8 @@ Pour l'isolation du sol
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
 | Tôle galva brut | 0,8mm | Rigide |  |
-| Panneau coton BUTEX | 2 x 75mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
-| Contreplaqué antidérapant | 9mm | Rigide | [lien](https://www.dispano.fr/p/panneaux/contreplaque-rigatex-tout-bouleau-antiderapant-w-i-f-i-face-antiderapante-A7577743) |
+| Panneau coton BUTEX | 100 mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
+| OSB | 15mm | Rigide | [lien](https://www.panofrance.fr/p/panneaux/panneau-kronoply-osb3-milieu-humide-250x125cm-15mm-A1012584) |
 | Moquette | 6 mm | Finition + Isolant | [lien](https://www.saint-maclou.com/produit/moquette-velours-roxane-col-noir-rouleau-4-00-m-002109-00098#photos) |
 
 
@@ -54,7 +54,7 @@ Bouches :
 Verre :
 
 - 10 hublots (2 vitres de 6mm par hublot)
-- Vitre de projection  (10mm ?)
+- Vitre de projection  (6mm )
 
 Portes :
 
