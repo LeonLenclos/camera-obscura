@@ -38,7 +38,7 @@ Pour l'isolation du sol
 |-----------|-----------|------|--|
 | Tôle galva brut | 0,8mm | Rigide |  |
 | Panneau coton BUTEX | 100 mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
-| OSB | 15mm | Rigide | [lien](https://www.dispano.fr/p/panneaux/contreplaque-rigatex-tout-bouleau-antiderapant-w-i-f-i-face-antiderapante-A7577743](https://www.panofrance.fr/p/panneaux/panneau-kronoply-osb3-milieu-humide-250x125cm-15mm-A1012584) |
+| OSB | 15mm | Rigide | [lien](https://www.panofrance.fr/p/panneaux/panneau-kronoply-osb3-milieu-humide-250x125cm-15mm-A1012584) |
 | Moquette | 6 mm | Finition + Isolant | [lien](https://www.saint-maclou.com/produit/moquette-velours-roxane-col-noir-rouleau-4-00-m-002109-00098#photos) |
 
 
