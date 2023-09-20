@@ -14,15 +14,15 @@ Ces conditions sont contraignantes, nous souhaitons les assouplir au maximum en 
 
 ### Luminosité du système optique
 
-- Pour obtenir un maximum de luminosité, il est nécessiaire d’utiliser des très grandes lentilles.
+Pour obtenir un maximum de luminosité, il est nécessiaire d’utiliser des très grandes lentilles.
 
-- Il nous a semblé important d’utiliser des objectifs achromatiques, asphériques afin de limiter au maximum les aberrations et obtenir une bonne qualité d’image qui évoque les impressions ressenties dans une salle de cinéma. Nous avons donc recherché ce type d'objectifs, mais avec de très grands diamètres pour gagner en luminosité. Nous avons trouvé des optiques qui répondent partiellement à ces critères : les process lens. Mais, même sur les plus gros modèles, les lentilles ne dépassent jamais 100 mm de diamètre et la focale dépasse rerament 1000 mm. De plus l'angle de champ est limité par le fut et la taille de l'image est insufisante pour couvrir tout l'écran.
+Il nous a semblé important d’utiliser des objectifs achromatiques, asphériques afin de limiter au maximum les aberrations et obtenir une bonne qualité d’image qui évoque les impressions ressenties dans une salle de cinéma. Nous avons donc recherché ce type d'objectifs, mais avec de très grands diamètres pour gagner en luminosité. Nous avons trouvé des optiques qui répondent partiellement à ces critères : les process lens. Mais, même sur les plus gros modèles, les lentilles ne dépassent jamais 100 mm de diamètre et la focale dépasse rerament 1000 mm. De plus l'angle de champ est limité par le fut et la taille de l'image est insufisante pour couvrir tout l'écran.
 
-- Nous nous sommes posés la question de savoir si des lentilles simples, de très grand diametre (200 mm ou plus) apporteraient un plus en terme de luminosité, sans trop sacrifier la qualité de l'image. Les tests avec des lentilles simples ont été assez concluants en terme de qualité. Avec 4 lentilles d’opticien brutes, forme ménisque (diamètre 60 mm, vergence 0,5 - 0,75 - 1 et 1,5 dioptrie) nous avons obtenus un piqué correct sur tout l’image qui par ailleurs couvre tout l'écran. Mais la luminosité reste insuffisante du fait du faible diamètre.
+Nous nous sommes posés la question de savoir si des lentilles simples, de très grand diametre (200 mm ou plus) apporteraient un plus en terme de luminosité, sans trop sacrifier la qualité de l'image. Les tests avec des lentilles simples ont été assez concluants en terme de qualité. Avec 4 lentilles d’opticien brutes, forme ménisque (diamètre 60 mm, vergence 0,5 - 0,75 - 1 et 1,5 dioptrie) nous avons obtenus un piqué correct sur tout l’image qui par ailleurs couvre tout l'écran. Mais la luminosité reste insuffisante du fait du faible diamètre.
 
-- Une luminosité satisfaisante a été obtenue avec une lentille achromatique (doublet) destinée à une lunette astronomique (diamètre 154 mm - focale 2250 mm) : résultat excellent piqué au centre, très mou sur les bords avec pas mal d’aberrations, pas de problème avec la taille de l'image.
+Une luminosité satisfaisante a été obtenue avec une lentille achromatique (doublet) destinée à une lunette astronomique (diamètre 154 mm - focale 2250 mm) : résultat excellent piqué au centre, très mou sur les bords avec pas mal d’aberrations, pas de problème avec la taille de l'image.
 
-- Le bilan provisoire de ces essais est que la qualité d'image obtenue avec les lentilles d’opticien nous convient mais qu’il faudrait les trouver ou les faire fabriquer avec un diamètre d'au moins 150 mm pour augmenter leur luminosité.
+Le bilan provisoire de ces essais est que la qualité d'image obtenue avec les lentilles d’opticien nous convient mais qu’il faudrait les trouver ou les faire fabriquer avec un diamètre d'au moins 150 mm pour augmenter leur luminosité.
 
 ### Obscurité de la salle
 

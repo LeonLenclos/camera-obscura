@@ -3,7 +3,7 @@
 (Livre que l'on a en physique)
 
 - [*Bases d'optique géométrique*, Olivier Morizot, aux Presses Universitaires de Provence, 2016](https://presses-universitaires.univ-amu.fr/bases-doptique-geometrique-0)
-- [*Bases d'optique géométrique*, Olivier Morizot, aux Presses Universitaires de Provence, 2016](https://presses-universitaires.univ-amu.fr/bases-doptique-geometrique-0)
+- [*Analogue photography*, ars-imago Vetro, 2018](https://vetroeditions.com/products/analogue-photography)
 
 
 # Papiers scientifique / Thèses / Mémoires

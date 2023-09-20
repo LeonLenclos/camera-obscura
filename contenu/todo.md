@@ -23,7 +23,7 @@
 - Support miroir + vitre
 - Castelet
 
-### Plan
+### Plan
 
 - Les marches gradins
 - passer à 16 cm / marche

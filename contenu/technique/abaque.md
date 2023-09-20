@@ -1,3 +1,6 @@
+**n.b. Ces abaques ont étés mesurés empiriquement avec la première série de process lens testée, à priori, ces objectifs ne seront pas utilisés dans la remorque.**
+
+
 Pour le Apo-Nikkor 610mm posé contre la vitre à l'intérieur de la CO
 
 | Distance Objet-Vitre | Distance Vitre-Image |

@@ -19,8 +19,7 @@ Les accoudoirs sont amovibles pour plus de modularité. Ils peuvent se rabattre 
 
 ## Quelle base pour la garniture
 
-- solution envisagée : mousse bultex prédécoupée et housse en tissus amovible.
-
+solution envisagée : mousse CMHR prédécoupée et housse en tissus amovible.
 
 ## Dimensions
 

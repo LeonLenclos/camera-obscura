@@ -66,12 +66,6 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme
 
 ## Améliorations envisagées
 - peinture du chassis
-- vitre de protection et pare-soleil
-- fixation des lunettes
-- achat objectif plus lumineux
-
-## Moment envisagé pour la construction et/ou les améliorations
-printemps 2023
 
 ## Détails de construction et description technique
 

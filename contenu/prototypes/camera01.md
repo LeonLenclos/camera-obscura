@@ -48,6 +48,7 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 ### accessoires
 - L'objectif fixé sur un clamp coulisse sur 2 rails
 - Un soufflet en tissu fixé entre la planchette et le chassis maintient l'obscurité.
+- déport de point à l'extérieur pour faciliter le reglage de la position de l'objectif sur le rail.
 
 ## Évaluation des avantages et des inconvénients
 
@@ -58,13 +59,8 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 ### Inconvénients
 - image relativement petite
 - axe inversé
+- Légère double-image due aux miroirs
 
 ## Améliorations envisagées
-- déport de point à l'extérieur pour faciliter le reglage de la position de l'objectif sur le rail.
 - vitre de protection et pare-soleil pour protèger les miroirs et l'objectif.
-
-## Moment envisagé pour la construction et/ou les améliorations
-printemps 2023
-
-## Détails de construction et description technique
 

@@ -1,7 +1,7 @@
 #  Chambre Remorque
 
 ## Description générale
-Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 2 m x 1,46 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradinage peuvent assister simultanémant à la projection.
+Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
 
 ![Dessin de la remorque](/contenu/dessins/remorque.png)
@@ -48,7 +48,8 @@ automne 2023
 
 ## Détails de construction et description technique
 
-- Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
+Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
+
 
 - dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
 - dimension hors-tout caisse : 6600 x 2450 x 2452

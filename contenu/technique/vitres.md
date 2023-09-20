@@ -1,7 +1,7 @@
 # Les vitres
 
 Nous utilisons :
-- Des vitres simples pour faut protéger, isoler ou étancheifier l'interieur d'une chambre.
+- Des vitres simples pour protéger, isoler ou étancheifier l'interieur d'une chambre.
 - Des miroirs pour les [renversements d'image](renversement.md) ou simplement changer l'angle de l'axe.
 
 ## Qualité des mirroirs
@@ -32,6 +32,6 @@ Monsieur Azemar nous aides sur pas mal de coupes et nous a fait un petit cours r
 
 ![Outils de Monsieur Azemar](/contenu/photos/outils_verre.png)
 
-### Finissions
+### Finitions
 
 Pour que les bords de la vitre ne soient pas tranchants on peut les travailler avec du papier de verre (grain 80) sur une cale.

@@ -57,16 +57,14 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 
 
 ### Inconvénients
-- encombrement
+- encombrement (ne passe pas les portes)
 - à l'envers
 
-## Améliorations envisagées
 
-- fabrication et fixation soufflet carton/tissu/cuir
-- peinture du chassis
 
-## Moment envisagé pour la construction et/ou les améliorations
-printemps 2023
+## Usage
+
+Ce prototype n'existe plus car le grand soufflet sert aussi au prototype sprinter et sera utilisé dans la remorque définitive. 
 
 ## Détails de construction et description technique
 
