@@ -48,9 +48,9 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 ## Améliorations envisagées
 
 ## Moment envisagé pour la construction et/ou les améliorations
-Essais en résidence au quai des savoirs et à MIMA avec un écran dépoli.
-Au Quai des Savoirs, l'écran testé est un Teviloj retro translucide. Très lumineux mais trop directif, ce qui explique en partie le vignetage sur les tests.
-À MIMA, l'ecran testé est un Showtex GREY plus de 1300 x 840 mm. moins clair mais plus tolérant sur l'angle de vision.
+- Essais en résidence au quai des savoirs et à MIMA avec un écran dépoli.
+- Au Quai des Savoirs, l'écran testé est un Teviloj retro translucide. Très lumineux mais trop directif, ce qui explique en partie le vignetage sur les tests.
+- À MIMA, l'ecran testé est un Showtex GREY plus de 1300 x 840 mm. moins clair mais plus tolérant sur l'angle de vision.
 
 ## Détails de construction et description technique
 ![cotes proto02](../plans/dim_panneau_sprinter_ultralight.jpeg)
