@@ -26,7 +26,6 @@
 ### Plan
 
 - Les marches gradins
-- passer à 16 cm / marche
-- rectifier gradin (arches) / plancher (contre marche) / arrière (croisillons et trappes) / caisson clim
+- plancher (contre marche) / caisson clim / tole trape et arrière
 - Reajuster la hauteur des supports de siège
-- Faire pdf provisoire aquabrasion E3 E4 E5 W3 W4 W5 N1 N2 et compter les plaques 
+
