@@ -10,7 +10,6 @@
 
 - [Claude Martin-Rainaud. *Dans le regard de la chambre*. Art et histoire de l’art. Université d’Avignon, 2015](https://theses.hal.science/tel-01248530)
 - [*Le végétal est photographie*, Mariève Pelletier (Mémoire)](https://www.esam-c2.fr/IMG/UserFiles/docs/memoires/2017_pelletier_marieve.pdf)
-
 - [*Lanterne magique, Avant le cinéma*, Jérôme Prieur, aux éditions fario, 2021](https://editionsfario.fr/livre/lanterne-magique/)
 - [*Optique, Une approche experimentale et pratique*, Sylvain Houard, aux éditions de boeck,  2011](https://www.deboecksuperieur.com/ouvrage/9782804163396-optique)
 
