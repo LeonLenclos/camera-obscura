@@ -1,6 +1,25 @@
-## Gestion de la chaleur à l'intérieur de la remorque
+# Gestion de la chaleur à l'intérieur de la remorque
 
 Camera Obscura est un spectacle de rue, diffusé en été, et nécessitant une bonne luminosité extérieure. La remorque va donc être placée en plein soleil et le problème du confort thermique des spectateurs est un point essentiel à régler pour la réussite de cette création. Nous cherchons donc des solutions techniques dans les domaines suivants :
+
+
+## Schéma
+
+![schéma de l'aération et isolation de la remorque](../plans/remorque-isolation.svg)
+
+- En rouge : L'épaisseur d'isolant.
+- Flèches : Direction de l'air à chaque endroit où une bouche d'aération permet une circulation de l'air.
+- Zones :
+  1. Sous la remorque : l'endroit ou l'air est naturellement le plus frais.
+  2. Une bouche d'aération conduit l'air de l'exterieur vers la caisse de rafraichissement.
+  3. Caisse de rafraichissement de l'air.
+  4. Sous les gradins : l'endroit le plus frais de la remorque, une bouche sous chaque paire de siège envoie l'air aux pieds des spectateurs.
+  5. La salle : au plafond des bouches laissent s'échappé l'air par le faux-plafond.
+  6. La régie : séparée de la salle par une très fine paroie.
+  7. Le faux plafond : un large conduit de 80mm de hauteur avec des chicanes qui permet d'évacuer l'air sans faire entrer de lumière.
+  8. Évacuation : l'air ressort par le haut, c'est l'endroit où on pense installer une ventilation méchanique.
+
+## En détail
 
 ### Traitement de surface de la remorque
 
