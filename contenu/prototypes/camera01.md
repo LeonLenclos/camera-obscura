@@ -67,4 +67,4 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 
 ## Détails de construction et description technique
 
-{% include pdf.html url="../plans/plan_ydld.pdf" %} 
+{% include pdf.html url="../plans/plans_ydld.pdf" %} 
