@@ -25,7 +25,12 @@
 
 ### Plan
 
-- Les marches gradins
-- plancher (contre marche) / caisson clim / tole trape et arrière
 - Reajuster la hauteur des supports de siège
+
+Envoyer dxf à 
+
+j.schiavon@wanadoo.fr
+
+
+Les vue de profil des arches ont été mises à jour dans le détail mais pas ailleur (petite platine du milieu des 2 3 4 5 6 un peu plus grande)
 
