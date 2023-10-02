@@ -3,13 +3,12 @@
 ## Description générale
 Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
-![Dessin de la remorque](/contenu/dessins/remorque.png)
+
 *Vue de la remorque, un&middot;e opérateurice derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
 
 ## Allure
 Une remorque avec un soufflet qui dépasse à l'arrière.
 
-![proto_05](/contenu/plans/proto_05.jpg)
 ## Matériaux
 
 ### Chassis
@@ -56,6 +55,16 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 - entraxe siège : 450
 - largeur traversée : 450
 
+## Plans
+
+## Première série de plans
+
+![Dessin de la remorque](/contenu/dessins/remorque.png)
+
+![proto_05](/contenu/plans/proto_05.jpg)
+
+## Deuxième série de plans
+
 [plan chassis remorque](/contenu/plans/doc_bw_tiny_house_ch600.pdf)
 
 ![plan chassis remorque](/contenu/plans/doc_bw_tiny_house_ch600.jpg)
@@ -71,3 +80,36 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 ![régie remorque](/contenu/plans/remorque_regie_V01.jpeg)
 
 ![plan jonction remorque et soufflet](/contenu/plans/planchette_largeur_utile_V02.jpeg)
+
+## Troisième série de plans
+
+{% include pdf.html url="remorque-arches.pdf" %}
+
+{% include pdf.html url="remorque-aspect.pdf" %}
+
+{% include pdf.html url="remorque-caisses-clim.pdf" %}
+
+{% include pdf.html url="remorque-carosserie.pdf" %}
+
+{% include pdf.html url="remorque-detail-aquabriasion.pdf" %}
+
+{% include pdf.html url="remorque-detail-arches.pdf" %}
+
+{% include pdf.html url="remorque-detail-divers-toles.pdf" %}
+
+{% include pdf.html url="remorque-detail-plaques-carosserie.pdf" %}
+
+{% include pdf.html url="remorque-listes.pdf" %}
+
+{% include pdf.html url="remorque-plateau.pdf" %}
+
+{% include pdf.html url="remorque-renforts.pdf" %}
+
+{% include pdf.html url="remorque-sieges.pdf" %}
+
+{% include pdf.html url="remorque-sol.pdf" %}
+
+{% include pdf.html url="remorque-structure.pdf" %}
+
+
+
