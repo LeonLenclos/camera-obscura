@@ -83,33 +83,33 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
 ## Troisième série de plans
 
-{% include pdf.html url="remorque-arches.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-arches.pdf" %}
 
-{% include pdf.html url="remorque-aspect.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-aspect.pdf" %}
 
-{% include pdf.html url="remorque-caisses-clim.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-caisses-clim.pdf" %}
 
-{% include pdf.html url="remorque-carosserie.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-carosserie.pdf" %}
 
-{% include pdf.html url="remorque-detail-aquabriasion.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-detail-aquabriasion.pdf" %}
 
-{% include pdf.html url="remorque-detail-arches.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-detail-arches.pdf" %}
 
-{% include pdf.html url="remorque-detail-divers-toles.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-detail-divers-toles.pdf" %}
 
-{% include pdf.html url="remorque-detail-plaques-carosserie.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-detail-plaques-carosserie.pdf" %}
 
-{% include pdf.html url="remorque-listes.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-listes.pdf" %}
 
-{% include pdf.html url="remorque-plateau.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-plateau.pdf" %}
 
-{% include pdf.html url="remorque-renforts.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-renforts.pdf" %}
 
-{% include pdf.html url="remorque-sieges.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-sieges.pdf" %}
 
-{% include pdf.html url="remorque-sol.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-sol.pdf" %}
 
-{% include pdf.html url="remorque-structure.pdf" %}
+{% include pdf.html url="/contenu/plans/remorque-structure.pdf" %}
 
 
 
