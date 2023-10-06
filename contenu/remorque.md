@@ -91,8 +91,6 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
 {% include pdf.html url="/contenu/plans/remorque-carosserie.pdf" %}
 
-{% include pdf.html url="/contenu/plans/remorque-detail-aquabriasion.pdf" %}
-
 {% include pdf.html url="/contenu/plans/remorque-detail-arches.pdf" %}
 
 {% include pdf.html url="/contenu/plans/remorque-detail-divers-toles.pdf" %}
@@ -111,5 +109,10 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
 {% include pdf.html url="/contenu/plans/remorque-structure.pdf" %}
 
+{% include pdf.html url="/contenu/plans/remorque-repartition-pieces-par-plaques.pdf" %}
 
-
+Voir aussi :
+- Tous les plans A1 dans un fichier [plans-remorque-merged.pdf](/contenu/plans/plans-remorque-merged.pdf)
+- Le DXF de toutes les pièces qui passent par Schiavon [pieces-toles-schiavon.dxf](/contenu/plans/pieces-toles-schiavon.dxf)
+- Le DXF de comment répartir les pièces en tôle laquée coupées par Schiavon sur 9 plaques : [pieces-par-plaque-schiavon.dxf](/contenu/plans/pieces-par-plaque-schiavon.dxf)
+- Le DXF de comment répartir les pièces en tôle laquée coupées par Aquabrasion sur 9 plaques : [pieces-par-plaque-aquabriasion.dxf](/contenu/plans/pieces-par-plaque-aquabriasion.dxf)
