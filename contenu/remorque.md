@@ -114,5 +114,6 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 Voir aussi :
 - Tous les plans A1 dans un fichier [plans-remorque-merged.pdf](/contenu/plans/plans-remorque-merged.pdf)
 - Le DXF de toutes les pièces qui passent par Schiavon [pieces-toles-schiavon.dxf](/contenu/plans/pieces-toles-schiavon.dxf)
-- Le DXF de comment répartir les pièces en tôle laquée coupées par Schiavon sur 9 plaques : [pieces-par-plaque-schiavon.dxf](/contenu/plans/pieces-par-plaque-schiavon.dxf)
 - Le DXF de comment répartir les pièces en tôle laquée coupées par Aquabrasion sur 9 plaques : [pieces-par-plaque-aquabriasion.dxf](/contenu/plans/pieces-par-plaque-aquabriasion.dxf)
+- Le plan A3 des pieces en tôle laquées pour Schiavon [remorque-pieces-tole-laquee-schiavon.pdf](contenu/plans/remorque-pieces-tole-laquee-schiavon.pdf)
+- Le plan A3 des autres pieces en tôle pour Schiavon [remorque-detail-divers-toles-schiavon.pdf](contenu/plans/remorque-detail-divers-toles-schiavon.pdf)
