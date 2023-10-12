@@ -100,12 +100,13 @@ Constructeurice :
 ### du 9/10/2023 au 28/10/2023 : Graulhet (81) - Chez les Plasticiens volants
 - Semaine 1 :
   - Extension plateau ✔
-  - Fabrication des dix arches
+  - Fabrication des dix arches ✔
   - Fabrication des renforts
   - Fabrication des structures de l'avant
-  - Pose du squelette sur la remorque
+  - Fabrication proto fauteuils
 - Semaine 2 :
   - Découpe et pose du bas de caisse
+  - Pose du squelette sur la remorque
   - Fabrication structures fauteuils
   - Fabrication structure caisse clim
   - Fabrication portes coffre
