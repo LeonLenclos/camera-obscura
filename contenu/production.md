@@ -1,4 +1,4 @@
-# Partenaires
+# Partenaire
 
 Coproducteurs :
 
@@ -27,6 +27,13 @@ Interlocuteurices :
 - Ronan Bouvier
 - Marc Reynaud
 
+Constructeurice :
+
+- Fabien Durand
+- Aquabrasion
+- Schiavon
+- Laurent Fayard ?
+- Éva Ricard ?
 
 # Calendrier des résidences
 
@@ -90,10 +97,24 @@ Interlocuteurices :
 
 ## Résidences à venir
 
-### octobre 2023
-Chez les Plasticiens volants
-- construction remorque
-
+### du 9/10/2023 au 28/10/2023 : Graulhet (81) - Chez les Plasticiens volants
+- Semaine 1 :
+  - Extension plateau ✔
+  - Fabrication des dix arches
+  - Fabrication des renforts
+  - Fabrication des structures de l'avant
+  - Pose du squelette sur la remorque
+- Semaine 2 :
+  - Découpe et pose du bas de caisse
+  - Fabrication structures fauteuils
+  - Fabrication structure caisse clim
+  - Fabrication portes coffre
+  - Fabrication et pose manchons
+- Semaine 3 :
+  - Découpe et pose plancher
+  - Pose grilles 
+  - Pose tôle
+    
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
