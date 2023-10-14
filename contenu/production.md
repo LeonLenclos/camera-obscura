@@ -101,20 +101,47 @@ Constructeurice :
 - Semaine 1 :
   - Extension plateau ✔
   - Fabrication des dix arches ✔
-  - Fabrication des renforts
-  - Fabrication des structures de l'avant
-  - Fabrication proto fauteuils
+  - Fabrication de certains renforts ✔
+  - Fabrication de certaines structures de l'avant ✔
 - Semaine 2 :
-  - Découpe et pose du bas de caisse
-  - Pose du squelette sur la remorque
-  - Fabrication structures fauteuils
-  - Fabrication structure caisse clim
-  - Fabrication portes coffre
-  - Fabrication et pose manchons
+  - À caler en plus de tout ça :
+    - Proto hublots
+    - Anticiper commande/achat materiaux :
+      - pvc hublots
+      - vitres hublots
+      - Plancher OSB
+      - Moquette (bleu foncé ?)
+      - tissu parois kamut
+      - Clous tapissiers ronds noir ?
+      - Rails pour fixation isorel paroie et plafond
+      - Peinture noire paroie régie ?
+  - Lundi :
+    - Fabrication Structure 2
+    - Refaire renforts 5 et 6 en rajouttant 61mm
+    - Couper les pates des structures 3 et 4
+    - Préparer plateau (faisceau, accessoirs, etc.)
+    - proto manchon
+    - Découpe et pose du bas de caisse
+  - Mardi :
+    - Découpe et pose du bas de caisse
+  - Mercredi (Pose du squelette sur la remorque) :
+    - Fixer les gardes boue
+    - Monter les arches par l'avant et l'arrière variable d'ajustement entre arches 7 et 6.
+    - Rentrer les poutres de 6m, les renforts 9, les renforts 1
+    - Refaire les renforts 4 en fonction.
+  - Jeudi et Vendredi :
+    - Fabrication proto fauteuils
+    - Fabrication structure caisse clim
+    - Fabrication portes coffre
+    - Fabrication manchons
 - Semaine 3 :
+  - Coupe tubes cages exterieurs  
+  - Fabrication fauteuils
+  - Pose manchons
   - Découpe et pose plancher
   - Pose grilles 
   - Pose tôle
+  - Hublots
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
