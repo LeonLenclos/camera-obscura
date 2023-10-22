@@ -133,37 +133,50 @@ Constructeurice :
     - Fabrication proto fauteuils
 
 - Semaine 3 :
+  - Bonus :
+    - [ ] série chaise
+    - [ ] claisse clim
+    - [ ] structure écran
+    - [ ] escalier + service
+    - [ ] amici
 
-  ##### Avant de prendre la route
-
-  Lundi
-
-- [ ] Proto chaise avec accoudoir
+  - Lundi matin
+    - [ ] Passage Fabien sur soudure et meulage
+    - [ ] bouchage plateau
+    - [ ] encadrement des portes (2h prépa + 2h soudure) (+ecran)
+    - [ ] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
   
-- [ ] lister vis manquante
-- [ ] trapes arrières
-- [ ] trapes latérale
-- [ ] Passage Fabien sur soudure et meulage
-- [ ] Manchons
-- [ ] hublots
-- [ ] renfort planchers et gradins
-- [ ] renfort toiture
-- [ ] pate et fourrure
-- [ ] faisseau electrique
-- [ ] encadrement des portes
-- [ ] fixer portes
-- [ ] bouchage plateau
-- [ ] régler l'occultation base souflet
-- [ ] Tole et joints
+  - Lundi aprem
+    - [ ] Prépa Manchons x 80
+    - [ ] fixer portes (1h)
+    - Soudure encadrement portes et renforts
+    - Apeler Les clous.
+      
+  - Mardi matin
+    - [ ] prépa trapes arrières et trapes latérale
+    - [ ] Souder Manchons x 80
+    - [ ] pate et fourrure (2 personnes)
 
-##### Avec Fabien
+  - Mardi aprem
+    - [ ] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [ ] Poser Manchons
+    - [ ] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
 
 
-- [ ] série chaise
-- [ ] claisse clim
-- [ ] structure écran
-- [ ] escalier + service
-- [ ] amici
+  - Mercredi/Jeudi
+    - [ ] souder trapes arrières et trapes latérale
+    - [ ] Proto chaise avec accoudoir (2h prépa + 2h soudure)
+    - [ ] Tole et joints
+
+  - Vendredi
+    - [ ] hublots
+    - [ ] faisseau electrique
+    - [ ] régler l'occultation base souflet
+
+          
+
+
+  
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
