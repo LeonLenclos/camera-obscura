@@ -11,7 +11,7 @@
 
 ### Courses
 
-- Couses construction
+- 
 
 ### Construction
 
@@ -23,7 +23,7 @@
 #### Remorque
 
 ##### Avant de prendre la route
-- trapes arrières
+- [ ] trapes arrières
 - trapes latérale
 - Passage Fabien sur soudure et meulage
 - Manchons
@@ -35,6 +35,7 @@
 - faisseau electrique
 - encadrement des portes
 - fixer portes
+- bouchage plateau
 
 ##### Avec Fabien
 
