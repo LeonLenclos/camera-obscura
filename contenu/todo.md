@@ -24,35 +24,35 @@
 
 ##### Avant de prendre la route
 - [ ] trapes arrières
-- trapes latérale
-- Passage Fabien sur soudure et meulage
-- Manchons
-- Tole et joints
-- hublots
-- renfort planchers et gradins
-- renfort toiture
-- pate et fourrure
-- faisseau electrique
-- encadrement des portes
-- fixer portes
-- bouchage plateau
+- [ ] trapes latérale
+- [ ] Passage Fabien sur soudure et meulage
+- [ ] Manchons
+- [ ] Tole et joints
+- [ ] hublots
+- [ ] renfort planchers et gradins
+- [ ] renfort toiture
+- [ ] pate et fourrure
+- [ ] faisseau electrique
+- [ ] encadrement des portes
+- [ ] fixer portes
+- [ ] bouchage plateau
 
 ##### Avec Fabien
 
-- Proto chaise avec accoudoir
-- série chaise
-- claisse clim
-- structure écran
-- escalier + service
-- amici
+- [ ] Proto chaise avec accoudoir
+- [ ] série chaise
+- [ ] claisse clim
+- [ ] structure écran
+- [ ] escalier + service
+- [ ] amici
 
 ##### Le reste
-- Caméra recul
-- cable divers
-- niveau + boussole
-- cage extérieure
-- tester souflet
-- Castelet
+- [ ] Caméra recul
+- [ ] cable divers
+- [ ] niveau + boussole
+- [ ] cage extérieure
+- [ ] tester souflet
+- [ ] Castelet
 
 ### Plan
 
