@@ -9,25 +9,31 @@
 - Dossier Adami
 - Contact Louis Lumière
 
-### Courses
+### Courses urgentes
 
-- 
+- [ ] joints toriques
+- [ ] plancher
+- [ ] suspente et fourrures
+- [ ] lame scie sauteuse alu
+- [ ] divers vis à lister (tete fraisée 40 mm / 80 mm)
+
+### Courses moins urgentes
+- [ ] moquette
+- [ ] mousse siège
+- [ ] tissus siège
+- [ ] vitres
 
 ### Construction
 
-#### Divers
-
-- Réparation Yeux dans le dos
-- Changer écran antotype
 - 
 #### Remorque
 
 ##### Avant de prendre la route
+- [ ] lister vis manquante
 - [ ] trapes arrières
 - [ ] trapes latérale
 - [ ] Passage Fabien sur soudure et meulage
 - [ ] Manchons
-- [ ] Tole et joints
 - [ ] hublots
 - [ ] renfort planchers et gradins
 - [ ] renfort toiture
@@ -36,6 +42,8 @@
 - [ ] encadrement des portes
 - [ ] fixer portes
 - [ ] bouchage plateau
+- [ ] régler l'occultation base souflet
+- [ ] Tole et joints
 
 ##### Avec Fabien
 
@@ -53,6 +61,13 @@
 - [ ] cage extérieure
 - [ ] tester souflet
 - [ ] Castelet
+
+
+
+#### Divers
+
+- Réparation Yeux dans le dos
+- Changer écran antotype
 
 ### Plan
 
