@@ -131,17 +131,39 @@ Constructeurice :
     - Refaire les renforts 4 en fonction.
   - Jeudi et Vendredi :
     - Fabrication proto fauteuils
-    - Fabrication structure caisse clim
-    - Fabrication portes coffre
-    - Fabrication manchons
+
 - Semaine 3 :
-  - Coupe tubes cages exterieurs  
-  - Fabrication fauteuils
-  - Pose manchons
-  - Découpe et pose plancher
-  - Pose grilles 
-  - Pose tôle
-  - Hublots
+
+  ##### Avant de prendre la route
+
+  Lundi
+
+- [ ] Proto chaise avec accoudoir
+  
+- [ ] lister vis manquante
+- [ ] trapes arrières
+- [ ] trapes latérale
+- [ ] Passage Fabien sur soudure et meulage
+- [ ] Manchons
+- [ ] hublots
+- [ ] renfort planchers et gradins
+- [ ] renfort toiture
+- [ ] pate et fourrure
+- [ ] faisseau electrique
+- [ ] encadrement des portes
+- [ ] fixer portes
+- [ ] bouchage plateau
+- [ ] régler l'occultation base souflet
+- [ ] Tole et joints
+
+##### Avec Fabien
+
+
+- [ ] série chaise
+- [ ] claisse clim
+- [ ] structure écran
+- [ ] escalier + service
+- [ ] amici
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
