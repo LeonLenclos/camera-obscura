@@ -141,16 +141,17 @@ Constructeurice :
     - [ ] amici
 
   - Lundi matin
-    - [ ] Passage Fabien sur soudure et meulage
+    - [x] Passage Fabien sur soudure et meulage
     - [ ] bouchage plateau
-    - [ ] encadrement des portes (2h prépa + 2h soudure) (+ecran)
-    - [ ] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [x] encadrement des portes (prépa)
+    - [ ] structure ecran
+    - [x] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
   
   - Lundi aprem
     - [ ] Prépa Manchons x 80
     - [ ] fixer portes (1h)
-    - Soudure encadrement portes et renforts
-    - Apeler Les clous.
+    - [ ] Soudure encadrement portes et renforts
+    - [ ] appeler Les clous.
       
   - Mardi matin
     - [ ] prépa trapes arrières et trapes latérale
