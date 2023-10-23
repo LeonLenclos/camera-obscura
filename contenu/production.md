@@ -141,11 +141,11 @@ Constructeurice :
     - [ ] amici
 
   - Lundi matin
-    - [x] Passage Fabien sur soudure et meulage
+    - [X] Passage Fabien sur soudure et meulage
     - [ ] bouchage plateau
-    - [x] encadrement des portes (prépa)
+    - [X] encadrement des portes (prépa)
     - [ ] structure ecran
-    - [x] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [X] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
   
   - Lundi aprem
     - [ ] Prépa Manchons x 80
