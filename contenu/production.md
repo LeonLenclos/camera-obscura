@@ -142,24 +142,26 @@ Constructeurice :
 
   - Lundi matin
     - [X] Passage Fabien sur soudure et meulage
-    - [ ] bouchage plateau
     - [X] encadrement des portes (prépa)
-    - [ ] structure ecran
+    - [X] prépa structure ecran
     - [X] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
   
   - Lundi aprem
-    - [ ] Prépa Manchons x 80
-    - [ ] fixer portes (1h)
-    - [ ] Soudure encadrement portes et renforts
-    - [ ] appeler Les clous.
-      
+    - [X] Prépa Manchons x 80
+    - [X] Soudure  renforts
+   
   - Mardi matin
+    - [ ] Vourses
+    - [ ] Soudure encadrement portes
     - [ ] prépa trapes arrières et trapes latérale
     - [ ] Souder Manchons x 80
     - [ ] pate et fourrure (2 personnes)
+    - [ ] appeler Les clous.
+    - [ ] bouchage plateau
+    - [ ] fixer portes (1h)
 
   - Mardi aprem
-    - [ ] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [X] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
     - [ ] Poser Manchons
     - [ ] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
 
