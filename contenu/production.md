@@ -151,19 +151,19 @@ Constructeurice :
     - [X] Soudure  renforts
    
   - Mardi matin
-    - [ ] Vourses
-    - [ ] Soudure encadrement portes
+    - [X] Vourses
+    - [X] Soudure encadrement portes
     - [ ] prépa trapes arrières et trapes latérale
-    - [ ] Souder Manchons x 80
+    - [X] Souder Manchons x 80
     - [ ] pate et fourrure (2 personnes)
-    - [ ] appeler Les clous.
+    - [X] appeler Les clous.
     - [ ] bouchage plateau
-    - [ ] fixer portes (1h)
+    - [X] fixer portes (1h)
 
   - Mardi aprem
     - [X] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
     - [ ] Poser Manchons
-    - [ ] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [X] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
 
 
   - Mercredi/Jeudi
