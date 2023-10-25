@@ -155,14 +155,14 @@ Constructeurice :
     - [X] Soudure encadrement portes
     - [ ] prépa trapes arrières et trapes latérale
     - [X] Souder Manchons x 80
-    - [ ] pate et fourrure (2 personnes)
+    - [X] pate et fourrure (2 personnes)
     - [X] appeler Les clous.
-    - [ ] bouchage plateau
+    - [X] bouchage plateau
     - [X] fixer portes (1h)
 
   - Mardi aprem
     - [X] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
-    - [ ] Poser Manchons
+    - [X] Poser Manchons
     - [X] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
 
 
