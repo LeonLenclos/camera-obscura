@@ -153,7 +153,7 @@ Constructeurice :
   - Mardi matin
     - [X] Vourses
     - [X] Soudure encadrement portes
-    - [ ] prépa trapes arrières et trapes latérale
+    - [X] prépa trapes arrières et trapes latérale
     - [X] Souder Manchons x 80
     - [X] pate et fourrure (2 personnes)
     - [X] appeler Les clous.
@@ -167,13 +167,13 @@ Constructeurice :
 
 
   - Mercredi/Jeudi
-    - [ ] souder trapes arrières et trapes latérale
-    - [ ] Proto chaise avec accoudoir (2h prépa + 2h soudure)
+    - [X] souder trapes arrières et trapes latérale
+    - [X] Proto chaise avec accoudoir (2h prépa + 2h soudure)
     - [ ] Tole et joints
 
   - Vendredi
     - [ ] hublots
-    - [ ] faisseau electrique
+    - [X] faisseau electrique
     - [ ] régler l'occultation base souflet
 
           
