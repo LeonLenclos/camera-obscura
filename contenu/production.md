@@ -1,4 +1,4 @@
-# Partenaires
+# Partenaire
 
 Coproducteurs :
 
@@ -27,6 +27,13 @@ Interlocuteurices :
 - Ronan Bouvier
 - Marc Reynaud
 
+Constructeurice :
+
+- Fabien Durand
+- Aquabrasion
+- Schiavon
+- Laurent Fayard ?
+- Éva Ricard ?
 
 # Calendrier des résidences
 
@@ -90,10 +97,90 @@ Interlocuteurices :
 
 ## Résidences à venir
 
-### octobre 2023
-Chez les Plasticiens volants
-- construction remorque
+### du 9/10/2023 au 28/10/2023 : Graulhet (81) - Chez les Plasticiens volants
+- Semaine 1 :
+  - Extension plateau ✔
+  - Fabrication des dix arches ✔
+  - Fabrication de certains renforts ✔
+  - Fabrication de certaines structures de l'avant ✔
+- Semaine 2 :
+  - À caler en plus de tout ça :
+    - Proto hublots
+    - Anticiper commande/achat materiaux :
+      - pvc hublots
+      - vitres hublots
+      - Plancher OSB
+      - Moquette (bleu foncé ?)
+      - tissu parois kamut
+      - Clous tapissiers ronds noir ?
+      - Rails pour fixation isorel paroie et plafond
+      - Peinture noire paroie régie ?
+  - Lundi :
+    - Fabrication Structure 2
+    - Refaire renforts 5 et 6 en rajouttant 61mm
+    - Couper les pates des structures 3 et 4
+    - Préparer plateau (faisceau, accessoirs, etc.)
+    - proto manchon
+    - Découpe et pose du bas de caisse
+  - Mardi :
+    - Découpe et pose du bas de caisse
+  - Mercredi (Pose du squelette sur la remorque) :
+    - Fixer les gardes boue
+    - Monter les arches par l'avant et l'arrière variable d'ajustement entre arches 7 et 6.
+    - Rentrer les poutres de 6m, les renforts 9, les renforts 1
+    - Refaire les renforts 4 en fonction.
+  - Jeudi et Vendredi :
+    - Fabrication proto fauteuils
 
+- Semaine 3 :
+  - Bonus :
+    - [ ] série chaise
+    - [ ] claisse clim
+    - [ ] structure écran
+    - [ ] escalier + service
+    - [ ] amici
+
+  - Lundi matin
+    - [X] Passage Fabien sur soudure et meulage
+    - [X] encadrement des portes (prépa)
+    - [X] prépa structure ecran
+    - [X] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
+  
+  - Lundi aprem
+    - [X] Prépa Manchons x 80
+    - [X] Soudure  renforts
+   
+  - Mardi matin
+    - [X] Vourses
+    - [X] Soudure encadrement portes
+    - [X] prépa trapes arrières et trapes latérale
+    - [X] Souder Manchons x 80
+    - [X] pate et fourrure (2 personnes)
+    - [X] appeler Les clous.
+    - [X] bouchage plateau
+    - [X] fixer portes (1h)
+
+  - Mardi aprem
+    - [X] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [X] Poser Manchons
+    - [X] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+
+
+  - Mercredi/Jeudi
+    - [X] souder trapes arrières et trapes latérale
+    - [X] Proto chaise avec accoudoir (2h prépa + 2h soudure)
+    - [ ] Tole et joints
+
+  - Vendredi
+    - [ ] hublots
+    - [X] faisseau electrique
+    - [ ] régler l'occultation base souflet
+
+          
+
+
+  
+    
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
