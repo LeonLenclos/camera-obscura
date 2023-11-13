@@ -64,7 +64,6 @@
 - [ ] moquette
 - [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
 - [ ] tissus siège
-- [ ] roues skate
 
 
 
