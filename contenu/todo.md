@@ -1,12 +1,14 @@
 # TODO
 
-### Production
+### À faire production
 
 - [ ] Relance courrier partenaires avec dossier + lien du site
 - [ ] Dossier Adami
 - [ ] Contact Louis Lumière
 
-##### À faire
+### À faire contruction remorque
+
+#### Sans Fabien
 
 - [ ] Réparer manchons décentrés
 - [ ] Faire les hublots
@@ -25,19 +27,24 @@
 - [ ] diffusion arrière (PVC)
 - [ ] pose isolant
 - [ ] pose isorel
-- [ ] passer la remorque aux Mines
-- [ ] contacter bureau de controle BVCTS ou DIVERSIS
-- [ ] Soumettre dossier au SDIS81
+- [ ] pose moquette
 
-
-##### Avec Fabien
+#### Avec Fabien
 
 - [ ] série chaise
 - [ ] claisse clim
 - [ ] escalier + service
 - [ ] amici
 
-##### À acheter
+### À faire homologation remorque
+
+- [ ] passer la remorque aux Mines
+- [ ] contacter bureau de controle BVCTS ou DIVERSIS
+- [ ] Soumettre dossier au SDIS81
+
+
+
+### À acheter
 
 ### Courses urgentes
 
