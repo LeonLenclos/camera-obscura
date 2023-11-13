@@ -8,6 +8,13 @@
 
 ## À faire contruction remorque et extrastucture
 
+### Avec Fabien
+
+- [ ] coupe + soudure série chaise
+- [ ] claisse clim
+- [ ] escalier + service
+- [ ] amici
+
 ### Sans Fabien
 
 - [ ] Réparer manchons décentrés
@@ -38,13 +45,6 @@
 - [ ] rail et roue objectif
 - [ ] planchette et commande rotation
 
-### Avec Fabien
-
-- [ ] coupe + soudure série chaise
-- [ ] claisse clim
-- [ ] escalier + service
-- [ ] amici
-
 ## À faire homologation remorque
 
 - [ ] passer la remorque aux Mines
@@ -64,6 +64,7 @@
 - [ ] moquette
 - [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
 - [ ] tissus siège
+- [ ] roues skate
 
 
 
