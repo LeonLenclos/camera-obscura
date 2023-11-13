@@ -1,16 +1,17 @@
 # TODO
 
-### À faire production
+## À faire production
 
 - [ ] Relance courrier partenaires avec dossier + lien du site
 - [ ] Dossier Adami
 - [ ] Contact Louis Lumière
 
-### À faire contruction remorque
+## À faire contruction remorque et extrastucture
 
-#### Sans Fabien
+### Sans Fabien
 
 - [ ] Réparer manchons décentrés
+- [ ] réparer lumière (feu de gabarit arr D et avant G)
 - [ ] Faire les hublots
 - [ ] couper les verres hublots
 - [ ] Étanchéifier rivets
@@ -25,26 +26,32 @@
 - [ ] faux plafond régie
 - [ ] Cage extérieure
 - [ ] diffusion arrière (PVC)
+- [ ] pose Caméra recul
+- [ ] cable divers (prévision electricité/diffusion arrière)
 - [ ] pose isolant
 - [ ] pose isorel
 - [ ] pose moquette
+- [ ] niveau + boussole
+- [ ] bois sièges
+- [ ] mousse sièges
+- [ ] tissus sièges
+- [ ] rail et roue objectif
+- [ ] planchette et commande rotation
 
-#### Avec Fabien
+### Avec Fabien
 
-- [ ] série chaise
+- [ ] coupe + soudure série chaise
 - [ ] claisse clim
 - [ ] escalier + service
 - [ ] amici
 
-### À faire homologation remorque
+## À faire homologation remorque
 
 - [ ] passer la remorque aux Mines
 - [ ] contacter bureau de controle BVCTS ou DIVERSIS
 - [ ] Soumettre dossier au SDIS81
 
-
-
-### À acheter
+## À acheter
 
 ### Courses urgentes
 
@@ -57,12 +64,6 @@
 - [ ] moquette
 - [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
 - [ ] tissus siège
-
-##### Le reste
-
-- [ ] Caméra recul
-- [ ] cable divers (prévision electricité/diffusion arrière)
-- [ ] niveau + boussole
 
 
 
