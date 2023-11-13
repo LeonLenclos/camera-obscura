@@ -26,6 +26,7 @@ Interlocuteurices :
 - Juan P. Martínez Pastor
 - Ronan Bouvier
 - Marc Reynaud
+- Paco Labat
 
 Constructeurice :
 
@@ -54,7 +55,6 @@ Constructeurice :
 - Documentation des protos
 - Tests en extérieur
 
-
 ### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons et au Fablab de la MJC de Graulhet
 - construction soufflets des cameras 2 et 3
 - construction du prisme de miroirs en toit d'Amici
@@ -73,8 +73,6 @@ Constructeurice :
 - Test double mirroir OK. On fixe l'angle de prise de vue à 47° max. Ce qui correspond à 35mm en 4/3 sur le boitier 24/36. Soit un tirage de 2,25 m pour un écran de 2 m.
 - màj doc et contact Gérard, Marc et Ronan
 - pas de retour du Fablab Airbus
-
-
 
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
 - Arrivée de Zou
@@ -171,7 +169,6 @@ Constructeurice :
     - [ ] hublots
     - [X] faisseau electrique
     - [ ] régler l'occultation base souflet
-
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - Aménagement remorque :
