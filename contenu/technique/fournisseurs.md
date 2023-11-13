@@ -16,6 +16,8 @@
 - [Lens store - Chine](https://www.ebay.fr/str/ndg612)
 - [Fresnel Lens shop - Chine](https://www.ebay.fr/str/niu4705)
 - [Istar - USA](https://www.istar-optical.com/achromatic.html)
+- [Intrument glasses - LONDON](https://www.instrumentglasses.com/)
+- [Fossil Optical - LONDON](http://www.fossiloptical.com/work)
 
 ## Isolation
 - [Nature liège](https://www.natureliege.fr/146-plaques-isolation-en-liege-isolation-phonique-et-thermique)
