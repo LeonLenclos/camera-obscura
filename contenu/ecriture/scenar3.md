@@ -1,10 +1,6 @@
 ---
 type: scenario
 ---
-Cie Nokill présente
-Camera Obscura présente
-L'embouteillage
-et autres nouvelles.
 
 # L'embouteillage
 
