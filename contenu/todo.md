@@ -1,99 +1,69 @@
 # TODO
 
-- Permis Zou
+## À faire production
 
-### Production
+- [ ] Relance courrier partenaires avec dossier + lien du site
+- [ ] Dossier Adami
+- [ ] Contact Louis Lumière
 
-- Relance courrier partenaires avec dossier + lien du site
-- Refaire le dossier PDF en deux versions Zou et Ninon comédienne
-- Dossier Adami
-- Contact Louis Lumière
+## À faire contruction remorque et extrastucture
 
+### Avec Fabien
 
-### Todo Clous
-
-
-
-##### À faire aux clous
-
-  - Réparer manchons
-  - Faire les hublots
-  - Étanchéifier
-  - Finir trappes et portes
-  - Poser les rails
-  - Plancher
-  - Trouver le système de fixation du soufflet
-  - Adapter le soufflet
-  - Fabriquer le cache avant
-  - Écran
-
-##### À prendre pour les clous
-
-- [ ] 3 draps (140cm) + 3 housses (140cm) + 3 taie
-- [ ] Tous les outils qu'on a amené aux plastoc
-- [ ] poste à souder
-- [ ] perceuse à colonne
-- [ ] matos hublots
-- [ ] Chutes de tôles.
-- [ ] Gabarit
-- [ ] Riveteuse
-- [ ] 2 escabaux
-- [ ] Tôles pour trappes et portes
-- [ ] Accessoires flight case (poignées/fermeture)
-- [ ] Rails + Pates
-- [ ] Les deux objectifs
-- [ ] L'écran
-- [ ] La bijout
-- [ ] Des pieds
-- [ ] Les yeux dans le dos
-- [ ] Peinture noir
-- [ ] Layer
-
-##### À acheterer
-
-- [ ] Visserie pour charnières.
-- [ ] Visseries hublots
-- [ ] Plancher OSB 9 mm
-- [ ] 20 gros et 20 petits crochets
-
-### Courses urgentes
-
-### Courses moins urgentes
-
-- [ ] moquette
-- [ ] mousse siège
-- [ ] tissus siège
-- [ ] vitres
-
-### Construction
-
-#### Remorque
-
-##### Avant de prendre la route
-
-- [ ] trapes arrières
-- [ ] trapes latérale
-- [ ] hublots
-- [ ] faisseau electrique
-- [ ] régler l'occultation base souflet
-- [ ] Tole et joints
-
-##### Avec Fabien
-
-- [ ] série chaise
+- [ ] coupe + soudure série chaise
 - [ ] claisse clim
 - [ ] escalier + service
 - [ ] amici
 
-##### Le reste
+### Sans Fabien
 
-- [ ] Caméra recul
-- [ ] cable divers
+- [ ] Réparer manchons décentrés
+- [ ] réparer lumière (feu de gabarit arr D et avant G)
+- [ ] Faire les hublots
+- [ ] couper les verres hublots
+- [ ] Étanchéifier rivets
+- [ ] Finir trappes avant (charnières)
+- [ ] Finir pose des rails
+- [ ] Finir Plancher
+- [ ] Trouver et fabriquer le système de fixation du soufflet
+- [ ] Adapter le soufflet
+- [ ] Fabriquer le cache avant
+- [ ] Fixation Écran
+- [ ] Habillage structure écran
+- [ ] faux plafond régie
+- [ ] Cage extérieure
+- [ ] diffusion arrière (PVC)
+- [ ] pose Caméra recul
+- [ ] cable divers (prévision electricité/diffusion arrière)
+- [ ] pose isolant
+- [ ] pose isorel
+- [ ] pose moquette
 - [ ] niveau + boussole
-- [ ] cage extérieure
-- [ ] tester souflet
+- [ ] bois sièges
+- [ ] mousse sièges
+- [ ] tissus sièges
+- [ ] rail et roue objectif
+- [ ] planchette et commande rotation
+
+## À faire homologation remorque
+
+- [ ] passer la remorque aux Mines
+- [ ] contacter bureau de controle BVCTS ou DIVERSIS
+- [ ] Soumettre dossier au SDIS81
+
+## À acheter
+
+### Courses urgentes
+
+- [ ] vitres (Hublot + Avant)
+- [ ] Visseries hublots
+- [ ] 20 gros et 20 petits crochets
+
+### Courses moins urgentes
+
+- [ ] moquette
+- [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
+- [ ] tissus siège
 
 
-#### Divers
 
-- Changer écran antotype

@@ -26,6 +26,7 @@ Interlocuteurices :
 - Juan P. Martínez Pastor
 - Ronan Bouvier
 - Marc Reynaud
+- Paco Labat
 
 Constructeurice :
 
@@ -54,7 +55,6 @@ Constructeurice :
 - Documentation des protos
 - Tests en extérieur
 
-
 ### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons et au Fablab de la MJC de Graulhet
 - construction soufflets des cameras 2 et 3
 - construction du prisme de miroirs en toit d'Amici
@@ -74,8 +74,6 @@ Constructeurice :
 - màj doc et contact Gérard, Marc et Ronan
 - pas de retour du Fablab Airbus
 
-
-
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
 - Arrivée de Zou
 - test camion
@@ -85,7 +83,6 @@ Constructeurice :
 - Tester bouts de séquence (ouverture, le pire).
 - ecriture
 - construction et test de marios
-- 
 
 ### en juillet 2023 (du 11 au 13) : Ramonville (31) - Arto
 - test camion
@@ -94,8 +91,6 @@ Constructeurice :
 - plans remorque
 - plans planchettes
 - Mario
-
-## Résidences à venir
 
 ### du 9/10/2023 au 28/10/2023 : Graulhet (81) - Chez les Plasticiens volants
 - Semaine 1 :
@@ -136,7 +131,7 @@ Constructeurice :
   - Bonus :
     - [ ] série chaise
     - [ ] claisse clim
-    - [ ] structure écran
+    - [X] structure écran
     - [ ] escalier + service
     - [ ] amici
 
@@ -151,7 +146,7 @@ Constructeurice :
     - [X] Soudure  renforts
    
   - Mardi matin
-    - [X] Vourses
+    - [X] Courses
     - [X] Soudure encadrement portes
     - [X] prépa trapes arrières et trapes latérale
     - [X] Souder Manchons x 80
@@ -165,28 +160,31 @@ Constructeurice :
     - [X] Poser Manchons
     - [X] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
 
-
   - Mercredi/Jeudi
     - [X] souder trapes arrières et trapes latérale
     - [X] Proto chaise avec accoudoir (2h prépa + 2h soudure)
-    - [ ] Tole et joints
+    - [X] Tole et joints
 
   - Vendredi
     - [ ] hublots
     - [X] faisseau electrique
     - [ ] régler l'occultation base souflet
-
-          
-
-
-  
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
-- écriture et aménagement remorque
+- Aménagement remorque :
+    - [X] finition carosserie
+    - [X] joint mastic PU
+    - [X] plancher principal
+    - [X] mofif trappe avant
+    - [ ] contre marche
+    - [ ] plancher coffre
+    - [X] joint mastic PU
+ 
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
 
+## Résidences à venir
 
-### Résidence d'écriture à caler ici.
+### Résidence d'écriture à caler ici, janvier ?.
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
