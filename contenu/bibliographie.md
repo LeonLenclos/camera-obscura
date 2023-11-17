@@ -99,6 +99,7 @@
 
 ## Lanternes magiques
 
+- [Super blog sur les projections d'images fixes avec une bonne piste de liens](http://diaprojection.fr/)
 - [Lanternes magiques](https://en.wikipedia.org/wiki/Magic_lantern)
 - [petit Doc en anglais](https://youtu.be/w1XkqtzLfKo)
 - [Collection de jouets optique de Dick Balzer, notament lanternes magiques (archive)](https://wayback.archive-it.org/12244/20190603142755/https://www.dickbalzer.com/)
