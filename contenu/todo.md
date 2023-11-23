@@ -5,8 +5,26 @@
 - [ ] Relance courrier partenaires avec dossier + lien du site
 - [ ] Dossier Adami
 - [ ] Contact Louis Lumière
+- [ ] Contacter GAP
+- [ ] Rdv Scenes croisées
 
 ## À faire contruction remorque et extrastucture
+
+
+
+
+### Avant isolation 
+
+- [ ] Réparer manchons décentrés
+- [ ] Faire les hublots 
+- [ ] couper les verres hublots
+- [ ] Passer des guaines
+- [ ] Huisseries
+- [ ] Finir trappes avant (charnières)
+- [ ] Finir pose des rails
+- [ ] Fixation Écran
+- [ ] diffusion arrière ? (PVC)
+- [ ] pose Caméra recul
 
 ### Avec Fabien
 
@@ -14,27 +32,19 @@
 - [ ] claisse clim
 - [ ] escalier + service
 - [ ] amici
-
+-
 ### Sans Fabien
 
-- [ ] Réparer manchons décentrés
-- [ ] réparer lumière (feu de gabarit arr D et avant G)
-- [ ] Faire les hublots
-- [ ] couper les verres hublots
-- [ ] Étanchéifier rivets
-- [ ] Finir trappes avant (charnières)
-- [ ] Finir pose des rails
+- [ ] réparer lumière (avant G)
 - [ ] Finir Plancher
 - [ ] Trouver et fabriquer le système de fixation du soufflet
 - [ ] Adapter le soufflet
+- [ ] Vitre soufflet
 - [ ] Fabriquer le cache avant
-- [ ] Fixation Écran
 - [ ] Habillage structure écran
 - [ ] faux plafond régie
+- [ ] Dessiner cage exterieure
 - [ ] Cage extérieure
-- [ ] diffusion arrière (PVC)
-- [ ] pose Caméra recul
-- [ ] cable divers (prévision electricité/diffusion arrière)
 - [ ] pose isolant
 - [ ] pose isorel
 - [ ] pose moquette
@@ -44,7 +54,15 @@
 - [ ] tissus sièges
 - [ ] rail et roue objectif
 - [ ] planchette et commande rotation
+- [ ] Finissions interieur hublot + volet
+- [ ] poser les grilles
 
+### Long terme
+
+- [ ] Étanchéifier rivets
+- [ ] supplément isolation trappes régie (liège ?)
+- [ ] Ascensseur
+      
 ## À faire homologation remorque
 
 - [ ] passer la remorque aux Mines
@@ -55,12 +73,13 @@
 
 ### Courses urgentes
 
-- [ ] vitres (Hublot + Avant)
-- [ ] Visseries hublots
-- [ ] 20 gros et 20 petits crochets
+- [ ] Visseries hublots (25mm M5 ??? BTR bombé)
+- [ ] camera de recul
 
 ### Courses moins urgentes
 
+- [ ] 20 gros et 20 petits crochets
+- [ ] vitres (Avant)
 - [ ] moquette
 - [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
 - [ ] tissus siège
