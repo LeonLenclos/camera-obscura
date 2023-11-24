@@ -19,6 +19,7 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 
 ## Audio
 - [diffusion du son dans la remorque](son.md) : comment donner l'illusion du son cinéma
+- [Instrumentarium](instrumentarium.md) : instruments de musique et de bruitage
 
 ## Accueil public
 - [Isolation et climatisation](isolation.md), faire du frais dans la remorque
