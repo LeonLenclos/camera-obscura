@@ -14,7 +14,7 @@ Raconter une histoire en suivant un schéma narratif classique situation initial
 
 ## Fragments décousus
 
-On a un thème par exemple le pouvoir de l'imagination et on enchaîne les saynètes qui n'ont pas de rapport entre elles à part dans le style et vaguement dans le thème. L'ordre des séquences n'a pas vraiment d'importance. On comprendrait aussi bien en ratant le début ou en partant avant la fin. Plus comme un spectacle de cirque ou un recueil de Danhil Harms.
+On a un thème par exemple le pouvoir de l'imagination et on enchaîne les scennettes qui n'ont pas de rapport entre elles à part dans le style et vaguement dans le thème. L'ordre des séquences n'a pas vraiment d'importance. On comprendrait aussi bien en ratant le début ou en partant avant la fin. Plus comme un spectacle de cirque ou un recueil de Danhil Harms.
 
 ## Le pour et le contre de ces deux options 
 
