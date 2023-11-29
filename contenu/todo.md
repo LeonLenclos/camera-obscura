@@ -16,9 +16,9 @@
 ### Avant isolation 
 
 - [ ] Réparer manchons décentrés
-- [ ] Faire les hublots 
-- [ ] couper les verres hublots
-- [ ] Passer des guaines
+- [x] Faire les hublots 
+- [x] couper les verres hublots
+- [ ] Passer des gaines
 - [ ] Huisseries
 - [ ] Finir trappes avant (charnières)
 - [ ] Finir pose des rails
@@ -61,7 +61,7 @@
 
 - [ ] Étanchéifier rivets
 - [ ] supplément isolation trappes régie (liège ?)
-- [ ] Ascensseur
+- [ ] Ascenceur
       
 ## À faire homologation remorque
 
