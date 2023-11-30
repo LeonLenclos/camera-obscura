@@ -187,13 +187,28 @@ ul {
 li {
   padding-left: 1em;
   text-indent: -1em;
+  
+}
+
+ul li:before {
+    content: "⁃";
+}
+
+ol li:before {
+    content: counter(item) ".";
+  counter-increment: item;
 }
 
 li:before {
   color: var(--LGR);
-  content: "⁃";
   padding-right: 5px;
+            font-weight:bold;
+
 }
+
+      ol { counter-reset: item; }
+        ol li { display: block; }
+
 
 /* HEADINGS */
 #main h1,

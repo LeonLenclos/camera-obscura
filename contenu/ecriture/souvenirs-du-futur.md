@@ -7,7 +7,7 @@ C'est un enchaînement de séquences construites en suivant [ce manifeste](manif
 Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 
-## Liste des séquences
+## Liste des séquences
 
 - Parano
 - Golden record
@@ -23,13 +23,13 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 ## Éléments
 
-#### Tout le monde adore être dans son lit
+#### Tout le monde adore être dans son lit
 
 > Tout le monde adore être dans son lit. Un matin, les gens adorèrent tellement être dans leur lit, que sans se passer le mot, personne ne se leva. Parmi les quelques personnes qui n'avaient pas de lit ou qui n'avaient pas rejoint leur lit cette nuit là, certains eurent si envie d'être dans un lit qu'ils se couchèrent dans le lit le plus proche qu'ils trouvèrent. Les autres qui, pour une raison que personne ne peut expliquer, n'avait pas particulièrement envie d'être dans un lit, profitèrent de l'occasion pour devenir les maitres du monde. 
 
-#### Une période heureuse
+#### Une période heureuse
 
-![Dessin période heureuse](/contenu/dessins/file-d-attente.jpg)
+![Dessin période heureuse](/contenu/dessins/files-d-attente.jpg)
 
 #### Le podium
 
