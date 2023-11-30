@@ -27,19 +27,23 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 > Tout le monde adore être dans son lit. Un matin, les gens adorèrent tellement être dans leur lit, que sans se passer le mot, personne ne se leva. Parmi les quelques personnes qui n'avaient pas de lit ou qui n'avaient pas rejoint leur lit cette nuit là, certains eurent si envie d'être dans un lit qu'ils se couchèrent dans le lit le plus proche qu'ils trouvèrent. Les autres qui, pour une raison que personne ne peut expliquer, n'avait pas particulièrement envie d'être dans un lit, profitèrent de l'occasion pour devenir les maitres du monde. 
 
+![Dessin lit](/contenu/dessins/lit.jpg)
+
 #### Une période heureuse
 
 ![Dessin période heureuse](/contenu/dessins/files-d-attente.jpg)
 
 #### Le podium
 
-![Dessin période heureuse](/contenu/dessins/podium.png)
+![Dessin podium](/contenu/dessins/podium.png)
 
 #### Le bon sens
 
 > Tout a commencé quand une personne très influente a été vu en train de tenir le journal à l'envers.
 > Tout le monde s'est mis à l'imité et c'est devenu l'usage. Pour simplifier la lecture on s'équipais de luntettes spéciales ou de disposits permettant de retourner d'abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste.
 > À partir du moment ou tout s'est retrouvé dans le même sens, on a vite oublié l'incident. 
+
+![Dessin bon sens](/contenu/dessins/bon-sens.png)
 
 ### Les nouveaux métiers
 
@@ -60,9 +64,9 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 > Le jour onù on a réalisé qu'il y avait 100 fois plus de téléphones que d'humain sur terre, on a décidé d'arrêter définitivement d'en construire des nouveaux et de se concentrer sur ceux qu'on avait déjà.
 
+### Déluge
 
-
-
+![gif déluge](/contenu/img/anim-deluge.gif)
 
 
 
