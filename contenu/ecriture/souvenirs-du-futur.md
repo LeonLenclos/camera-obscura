@@ -62,10 +62,10 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 #### Bla
 
-![Storyboard Bla](/contenu/dessins/BLA V2.pdf)
+![Storyboard Bla](/contenu/dessins/blav2.pdf)
 
 #### Golden Record
 
-![Storyboard Golden Record](/contenu/dessins/THE GOLDEN RECORD V1.pdf)
+![Storyboard Golden Record](/contenu/dessins/goldenrecordv1.pdf)
 
 
