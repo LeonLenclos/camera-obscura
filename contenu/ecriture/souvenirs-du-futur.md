@@ -66,7 +66,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 #### Golden Record
 
-![Storyboard Golden Record](/contenu/dessins/goldenrecordv1_compressed.jpg)
+![Storyboard Golden Record](/contenu/dessins/goldenrecordv1.jpg)
 
 #### La nuit
 
