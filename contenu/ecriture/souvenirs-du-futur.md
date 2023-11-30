@@ -62,11 +62,11 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 #### Bla
 
-![Storyboard Bla](/contenu/dessins/blav2_compressed.pdf)
+![Storyboard Bla](/contenu/dessins/blav2.jpg)
 
 #### Golden Record
 
-![Storyboard Golden Record](/contenu/dessins/goldenrecordv1_compressed.pdf)
+![Storyboard Golden Record](/contenu/dessins/goldenrecordv1_compressed.jpg)
 
 #### La nuit
 
