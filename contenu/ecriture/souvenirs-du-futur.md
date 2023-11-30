@@ -58,7 +58,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 #### Les téléphones
 
-> Le jour onù on a réalisé qu'il y avait 100 fois plus de téléphones que d'humain sur terre, on a décidé d'arrêter définitivement d'en construire des nouveaux et de se concentrer sur ceux qu'on avait déjà.
+> Le jour où on a réalisé qu'il y avait 100 fois plus de téléphones que d'humain sur terre, on a décidé d'arrêter définitivement d'en construire des nouveaux et de se concentrer sur ceux qu'on avait déjà.
 
 #### Bla
 
@@ -68,4 +68,6 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 ![Storyboard Golden Record](/contenu/dessins/goldenrecordv1_compressed.pdf)
 
+#### La nuit
 
+> Même si personne n'ètait d'accord sur les raisons d'un tel changement, tout le monde est bien obligé de constater que la puissance du soleil déclinait. Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Générations après générations les humains s’adaptèrent à cette situation et leur pupilles se transformèrent, devinrent plus grosses, ce qui leur donnait un peu une tête de chat...
