@@ -10,7 +10,7 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 
 ### à propos
 
-Camera Obscura est un spectacle de rue qui plonge le spectateur dans un dispositif cinématographique ancestral, sans pellicule, ni vidéo, ni électricité, et qui n’utilise comme énergie que celle du soleil et des comédiens. Le public s’installe dans un lieu fermé, une chambre noire, et assiste à la projection d’un film dont les images sont des captations du monde extérieur qui transitent par un dispositif optique fait d’objectifs, de prismes et de miroirs.
+*Camera Obscura* est un spectacle de rue qui plonge le spectateur dans un dispositif cinématographique ancestral, sans pellicule, ni vidéo, ni électricité, et qui n’utilise comme énergie que celle du soleil et des comédiens. Le public s’installe dans un lieu fermé, une chambre noire, et assiste à la projection d’un film dont les images sont des captations du monde extérieur qui transitent par un dispositif optique fait d’objectifs, de prismes et de miroirs.
 
 Dans la chambre noire, les voix, les sons et la musique sont produits et interprétés en direct sur un ensemble d’instruments acoustiques et mécaniques : gramophones, automates sonores, cymbalum et accessoires de bruitages. Ces ondes sont traitées par des dispositifs acoustiques, membranes, tuyaux, pavillons, qui donnent l’illusion d’une bande pré-enregistrée diffusée à travers des hauts-parleurs.
 
