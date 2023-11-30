@@ -38,7 +38,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 #### Le bon sens
 
 > Tout a commencé quand une personne très influente a été vu en train de tenir le journal à l'envers.
-> Tout le monde s'est mis à l'imité et c'est devenu l'usage. Pour simplifier la lecture on s'équipais de luntettes spéciales ou de disposits permettant de retourner d'abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste.
+> Tout le monde s'est mis à l'imiter et c'est devenu l'usage. Pour simplifier la lecture on s'équipait de luntettes spéciales ou de disposits permettant de retourner d'abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste.
 > À partir du moment ou tout s'est retrouvé dans le même sens, on a vite oublié l'incident. 
 
 #### Les nouveaux métiers
