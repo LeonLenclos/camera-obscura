@@ -9,7 +9,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 ## Liste des séquences
 
-- Parano
+- Bla
 - Golden record
 - La vie sous l'eau
 - Les files d'attente
@@ -60,10 +60,12 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 > Le jour onù on a réalisé qu'il y avait 100 fois plus de téléphones que d'humain sur terre, on a décidé d'arrêter définitivement d'en construire des nouveaux et de se concentrer sur ceux qu'on avait déjà.
 
+#### Bla
 
+![Storyboard Bla](/contenu/dessins/BLA V2.pdf)
 
+#### Golden Record
 
-
-
+![Storyboard Golden Record](/contenu/dessins/THE GOLDEN RECORD V1.pdf)
 
 
