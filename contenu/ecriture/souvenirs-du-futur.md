@@ -41,22 +41,22 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 > Tout le monde s'est mis à l'imité et c'est devenu l'usage. Pour simplifier la lecture on s'équipais de luntettes spéciales ou de disposits permettant de retourner d'abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste.
 > À partir du moment ou tout s'est retrouvé dans le même sens, on a vite oublié l'incident. 
 
-### Les nouveaux métiers
+#### Les nouveaux métiers
 
 > Les métiers des gens ne ressemblait en rien à ce que le monde avait connu jusque là.
 > Le travail de la personne assise à la terrasses là-bas c'était de boire du café
 > La personne qui marche avec le sac de course son métier c'était de tojours savoir l'heure.
 > Telle autre personne avait pour travail de se cacher derrière des arbres.
  
-### La mode
+#### La mode
 
 > La mode c'est des cycles de toute façon. Quelquechose qui était tendance il y a un siècle peut être démodé aujourd'hui et de nouveau à la mode dans un siècle. Et ça vaut autant pour les vétements que pour l'architecture et même la façon de parler. Là par exemple quand je vois une image comme ça je me dis ça fait très 26e siècle. Mais ça pourrait être aussi les années 2200 parce que en vrai, esthetiquement le 26e siècle c'était juste un retour aux années 2200. Et pendant les années 2200 on était très influencés par la première moitié du 21e siècle... Donc c'est difficile de trancher, il faut bien connaître les périodes et se fier à des petits détails...
 
-### La blague
+#### La blague
 
 > De temps en temps on faisait semblant d'oublier le nom de la ville et du pays dans lesquels on habitait. C'était une blague très populaire et très représentative de l'humour pratiqué à cette époque.
 
-### Les téléphones
+#### Les téléphones
 
 > Le jour onù on a réalisé qu'il y avait 100 fois plus de téléphones que d'humain sur terre, on a décidé d'arrêter définitivement d'en construire des nouveaux et de se concentrer sur ceux qu'on avait déjà.
 
