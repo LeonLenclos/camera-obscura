@@ -11,8 +11,9 @@
 (Livres qu'on a pas)
 
 - [*Magie lumineuse : Du théâtre d'ombres à la lanterne magique*, Jac Remise, Pascale Remise, Régis Van de Walle, ed. Balland, 1979](https://ccfr.bnf.fr/portailccfr/ark:/16871/0019045076)
-- [*Lanterne magique et film peint* (catalogue d'une exposition à la cinémathèque française), Laurent Mannoni, Donata Pesenti Campgnoni, éditions de la Martinière, 2009](https://eman-archives.org/CinEx/files/show/87)
-
+- [*Lanterne magique et film peint*, Laurent Mannoni, Donata Pesenti Campgnoni, éditions de la Martinière, 2009](https://eman-archives.org/CinEx/files/show/87) (catalogue d'une exposition à la cinémathèque française, le livre a l'air magnifique)
+- [*Optical amusements: magic lanterns and other transforming images. A catalog of popular entertainments.*  	Richard Balzer, 1987(?)](https://www.bdcmuseum.org.uk/explore/item/39169/) (par Dick Balzer le grand collectionneur de jouets optique)
+ 
 # Papiers scientifique / Thèses / Mémoires
 
 - [Claude Martin-Rainaud. *Dans le regard de la chambre*. Art et histoire de l’art. Université d’Avignon, 2015](https://theses.hal.science/tel-01248530)
