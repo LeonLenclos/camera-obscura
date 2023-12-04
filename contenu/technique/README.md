@@ -31,3 +31,8 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 - [Marionettes](marionettes.md)
 - [Fournisseurs](fournisseurs.md), liste de fournisseurs.
 - [Vrac](vrac.md), idées à creuser.
+
+## Documents
+- [calcul_optique.ods](calcul_optique.ods), tableur pour calcul des vartiables optiques
+- [camera_obscura.doc](camera_obscura.doc), notes de Gérard Tayeb sur differentes questions optiques
+- [chantier_remorque.ods](chantier_remorque.ods), organisation du chantier de construction de la remorque
