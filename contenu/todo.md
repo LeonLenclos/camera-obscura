@@ -18,12 +18,13 @@
 - [x] Réparer manchons décentrés
 - [x] Faire les hublots 
 - [x] couper les verres hublots
-- [ ] Passer des gaines
 - [x] Huisseries
-- [ ] Fermoir trappe
 - [x] Finir trappes avant (charnières)
-- [ ] Finir pose des rails
 - [x] Fixation Écran
+- [ ] Fermoir trappe
+- [ ] pose grille extraction
+- [ ] Finir pose des rails
+- [ ] Passer des gaines
 - [ ] diffusion arrière ? (PVC)
 - [ ] pose Caméra recul
 
