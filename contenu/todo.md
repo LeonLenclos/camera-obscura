@@ -15,7 +15,7 @@
 
 ### Avant isolation 
 
-- [ ] Réparer manchons décentrés
+- [x] Réparer manchons décentrés
 - [x] Faire les hublots 
 - [x] couper les verres hublots
 - [ ] Passer des gaines
