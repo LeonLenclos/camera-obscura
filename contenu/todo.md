@@ -22,7 +22,7 @@
 - [x] Huisseries
 - [x] Finir trappes avant (charnières)
 - [ ] Finir pose des rails
-- [ ] Fixation Écran
+- [x] Fixation Écran
 - [ ] diffusion arrière ? (PVC)
 - [ ] pose Caméra recul
 
