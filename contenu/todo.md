@@ -6,7 +6,7 @@
 - [ ] Dossier Adami
 - [ ] Contact Louis Lumière
 - [ ] Contacter GAP
-- [ ] Rdv Scenes croisées
+- [x] Rdv Scenes croisées
 
 ## À faire contruction remorque et extrastucture
 
@@ -19,8 +19,8 @@
 - [x] Faire les hublots 
 - [x] couper les verres hublots
 - [ ] Passer des gaines
-- [ ] Huisseries
-- [ ] Finir trappes avant (charnières)
+- [x] Huisseries
+- [x] Finir trappes avant (charnières)
 - [ ] Finir pose des rails
 - [ ] Fixation Écran
 - [ ] diffusion arrière ? (PVC)
