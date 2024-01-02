@@ -20,6 +20,7 @@
 - [x] couper les verres hublots
 - [ ] Passer des gaines
 - [x] Huisseries
+- [ ] Fermoir trappe
 - [x] Finir trappes avant (charnières)
 - [ ] Finir pose des rails
 - [x] Fixation Écran
