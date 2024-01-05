@@ -10,9 +10,6 @@
 
 ## À faire contruction remorque et extrastucture
 
-
-
-
 ### Avant isolation 
 
 - [x] Réparer manchons décentrés
@@ -21,12 +18,14 @@
 - [x] Huisseries
 - [x] Finir trappes avant (charnières)
 - [x] Fixation Écran
-- [ ] Fermoir trappe
-- [ ] pose grille extraction
+- [x] pose grille extraction
 - [ ] Finir pose des rails
 - [ ] Passer des gaines
 - [ ] diffusion arrière ? (PVC)
 - [ ] pose Caméra recul
+- [ ] Fermoir trappe
+- [ ] Faire passe étanchéité (Mastic PU)
+- [ ] réparer lumière (avant G)
 
 ### Avec Fabien
 
@@ -37,7 +36,6 @@
 -
 ### Sans Fabien
 
-- [ ] réparer lumière (avant G)
 - [ ] Finir Plancher
 - [ ] Trouver et fabriquer le système de fixation du soufflet
 - [ ] Adapter le soufflet
@@ -81,8 +79,8 @@ Courriel : uid-81-12.dreal-occitanie@developpement-durable.gouv.fr
 
 ### Courses urgentes
 
-- [ ] Visseries hublots (25mm M5 ??? BTR bombé)
-- [ ] camera de recul
+- [x] Visseries hublots (25mm M5 ??? BTR bombé)
+- [x] camera de recul
 
 ### Courses moins urgentes
 
