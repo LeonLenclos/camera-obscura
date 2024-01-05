@@ -23,7 +23,7 @@
 - [ ] Passer des gaines
 - [ ] diffusion arrière ? (PVC)
 - [ ] pose Caméra recul
-- [ ] Fermoir trappe
+- [ ] Fermoir trappe + pose joint trappe
 - [ ] Faire passe étanchéité (Mastic PU)
 - [ ] réparer lumière (avant G)
 
@@ -81,6 +81,7 @@ Courriel : uid-81-12.dreal-occitanie@developpement-durable.gouv.fr
 
 - [x] Visseries hublots (25mm M5 ??? BTR bombé)
 - [x] camera de recul
+- [ ] joint trappe
 
 ### Courses moins urgentes
 
