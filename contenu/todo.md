@@ -33,7 +33,7 @@
 - [ ] claisse clim
 - [ ] escalier + service
 - [ ] amici
--
+
 ### Sans Fabien
 
 - [ ] Finir Plancher
