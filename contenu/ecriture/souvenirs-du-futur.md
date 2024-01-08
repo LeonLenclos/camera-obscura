@@ -119,6 +119,6 @@ Le conducteur fait signe de monter, enlève un sac plastique du siège passager 
 
 Le conducteur  lève les yeux de son livre
 
-> <em>Je pense qu'il y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.</em>
+> <em>Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.</em>
 
 Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
