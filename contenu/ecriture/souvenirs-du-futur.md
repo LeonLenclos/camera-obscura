@@ -104,9 +104,9 @@ Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouch
 
 #### L'embouteillage
 
-> Si je me souviens bien c'est arrivé un mardi.
+> Si je me souviens bien, c'est arrivé un mardi.
 
-Jour ensoleillé. Un conducteur distrait au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voiture à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
+Jour ensoleillé. Un conducteur distrait au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voitures à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
 
 > Je m'étais pris la tête avec ma femme.
 
@@ -118,13 +118,13 @@ Le conducteur fait signe de monter, enlève un sac plastique du siège passager 
 
 > (après un long silence) <em>Vous savez, j'ai une théorie sur l'embouteillage.</em>
 
-Le conducteur  lève les yeux de son livre
+Le conducteur lève les yeux de son livre
 
-> <em>Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.</em>
+> <em>Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voitures, les routes son pleines, il n'y a plus de place pour circuler.</em>
 
 Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
 
 #### Le jeu
 
-> Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait <strong>Souvenirs</strong>. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de <strong>Souvenirs</strong>. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des semaines. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on joue moins .
+> Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait <strong>Souvenirs</strong>. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de <strong>Souvenirs</strong>. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des heures. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on joue moins .
 
