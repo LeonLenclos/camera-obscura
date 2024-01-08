@@ -22,6 +22,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 - La nuit
 - L'hiver
 - L'embouteillage
+- Le jeu
 
 ## Éléments
 
@@ -122,3 +123,8 @@ Le conducteur  lève les yeux de son livre
 > <em>Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.</em>
 
 Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
+
+#### Le jeu
+
+> Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait Souvenirs. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de Souvenirs. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des semaines. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on on joue moins .
+
