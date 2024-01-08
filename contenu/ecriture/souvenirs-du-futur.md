@@ -83,7 +83,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 #### Golden Record
 
-> À la fin du 20 eme siècle, on avait fabriqué un disque en or avec des musiques et d’autres traces d’ humanité et on l’avait envoyé dans l’espace avec une fusée. C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir. Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu. La déception fut totale quand on retrouva le disque d’or en vente sur un célèbre site de petites annonces.
+> À la fin du 20 eme siècle, on avait fabriqué un disque en or avec des musiques et d’autres traces d’ humanité et on l’avait envoyé dans l’espace avec une fusée. C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir. Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu. La déception fut totale quand on retrouva le disque d’or en vente sur un site de petites annonces.
 
 #### La nuit
 
