@@ -54,8 +54,9 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 > Les métiers des gens ne ressemblait en rien à ce que le monde avait connu jusque là.
 > Le travail de la personne assise à la terrasses là-bas c'était de boire du café
-> La personne qui marche avec le sac de course son métier c'était de tojours savoir l'heure.
+> La personne qui marche avec le sac de course son métier c'était de toujours savoir l'heure.
 > Telle autre personne avait pour travail de se cacher derrière des arbres.
+> Même ne rien faire était devenu un métier ce qui avait définitivement réglé le problème du chomage.
  
 #### La mode
 
