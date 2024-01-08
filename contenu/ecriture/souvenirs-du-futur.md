@@ -103,9 +103,11 @@ Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouch
 
 > Si je me souvient bien c'est arrivé un mardi.
 
-Jour ensoleillé. Un conducteur au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voiture à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent. 
+Jour ensoleillé. Un conducteur distrait au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voiture à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
 
-Soir pluie. Le conducteur dans sa voiture lit un livre, quelqu'un frappe à la fenêtre. 
+> Je m'était pris la tête avec un gars qui m'avait pris en stop.
+
+Soir pluie. Le conducteur dans sa voiture lit un livre, quelqu'un frappe à la fenêtre.
 
 > <em>Je peux monter avec vous ? Je me suis un peu disputé avec la voiture de derrière...</em>
 
