@@ -98,3 +98,20 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouche, de la neige tombe.
 
 > La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restait comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
+
+#### L'embouteillage
+
+> Si je me souvient bien c'est arrivé un mardi.
+
+Jour ensoleillé. Un conducteur au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voiture à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
+
+> 
+
+Soir pluie. Le conducteur dans sa voiture lit un livre, quelqu'un frappe à la fenêtre. 
+#####Le passager : Je peux monter avec vous ? Je me suis un peu disputé avec la voiture de derrière...
+Le conducteur fait signe de monter, enlève un sac plastique du siège passager et reprend sa lecture. Le passager s'installe.
+#####Le passager (après un long silence) : Vous savez, j'ai une théorie sur l'embouteillage.
+Le conducteur  lève les yeux de son livre
+#####Le passager : Je pense qu'il y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.
+
+Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
