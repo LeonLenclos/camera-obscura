@@ -85,3 +85,16 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 #### La nuit
 
 > Même si personne n'ètait d'accord sur les raisons d'un tel changement, tout le monde est bien obligé de constater que la puissance du soleil déclinait. Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Générations après générations les humains s’adaptèrent à cette situation et leur pupilles se transformèrent, devinrent plus grosses, ce qui leur donnait un peu une tête de chat...
+
+
+#### L'hiver
+
+> Depuis plusieurs années, la chaleur de l'été était devenue insuportable. Tout fondait, autour et à l'intérieur des corps.
+
+2D : schéma explicatif à la "C'est Pas Sorcier" de l'eau qui bout dans le corps
+
+L'eau des corps se mettait à bouillir, la vapeur ainsi produite envahissait les cerveaux et tout devenait brumeux. Le sol fondait, les chaussures fondaient, elles collaient au sol, on ne pouvait plus se déplacer, on devenait immobile, on perdait sa mobilité, on devenait immeuble.
+
+Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouche, de la neige tombe.
+
+La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restais comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
