@@ -106,10 +106,10 @@ Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouch
 Jour ensoleillé. Un conducteur au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voiture à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent. 
 
 Soir pluie. Le conducteur dans sa voiture lit un livre, quelqu'un frappe à la fenêtre. 
-<em></em>Le passager : Je peux monter avec vous ? Je me suis un peu disputé avec la voiture de derrière...</em>
+> <em></em>Le passager : Je peux monter avec vous ? Je me suis un peu disputé avec la voiture de derrière...</em>
 Le conducteur fait signe de monter, enlève un sac plastique du siège passager et reprend sa lecture. Le passager s'installe.
-<em>Le passager (après un long silence) : Vous savez, j'ai une théorie sur l'embouteillage.</em>
+> <em>Le passager (après un long silence) : Vous savez, j'ai une théorie sur l'embouteillage.</em>
 Le conducteur  lève les yeux de son livre
-<em>Le passager : Je pense qu'il y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.</em>
+> <em>Le passager : Je pense qu'il y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voiture, les routes son pleine, il n'y a plus de place pour circuler.</em>
 
 Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
