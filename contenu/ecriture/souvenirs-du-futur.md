@@ -97,4 +97,4 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouche, de la neige tombe.
 
-> La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restais comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
+> La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restait comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
