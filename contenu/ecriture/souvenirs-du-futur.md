@@ -93,8 +93,8 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 2D : schéma explicatif à la "C'est Pas Sorcier" de l'eau qui bout dans le corps
 
-L'eau des corps se mettait à bouillir, la vapeur ainsi produite envahissait les cerveaux et tout devenait brumeux. Le sol fondait, les chaussures fondaient, elles collaient au sol, on ne pouvait plus se déplacer, on devenait immobile, on perdait sa mobilité, on devenait immeuble.
+> L'eau des corps se mettait à bouillir, la vapeur ainsi produite envahissait les cerveaux et tout devenait brumeux. Le sol fondait, les chaussures fondaient, elles collaient au sol, on ne pouvait plus se déplacer, on devenait immobile, on perdait sa mobilité, on devenait immeuble.
 
 Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouche, de la neige tombe.
 
-La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restais comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
+> La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restais comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
