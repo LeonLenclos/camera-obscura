@@ -8,18 +8,19 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 
 ## Liste des séquences
-
+- Tout le monde adore être dans son lit
+- Une période heureuse
+- Le podium
+- Le bon sens
+- Les nouveaux métiers
+- La mode
+- La blague
+- Déluge
+- Les téléphones
 - Bla
-- Golden record
-- La vie sous l'eau
-- Les files d'attente
-- Personne ne se leva
-- l'embouteillage
-- le monde à l'envers
-- la nuit
-- impro ville
-- le froid
-- La pluie, le tonnerre
+- Golden Record
+- La nuit
+
 
 ## Éléments
 
