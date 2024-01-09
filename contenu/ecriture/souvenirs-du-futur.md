@@ -110,7 +110,7 @@ Jour ensoleillé. Un conducteur qui lit au volant lève les yeux vers la route, 
 
 > Je m'étais pris la tête avec ma femme.
 
-Soir pluie. Le conducteur dans sa voiture lit un livre, quelqu'un frappe à la fenêtre.
+Soir pluie. Le conducteur dans sa voiture lit toujours, quelqu'un frappe à la fenêtre.
 
 > <em>Je peux monter avec vous ? Je me suis un peu disputé avec la voiture de derrière...</em>
 
