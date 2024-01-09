@@ -23,6 +23,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 - L'hiver
 - L'embouteillage
 - Le jeu
+- L'extinction
 
 ## Éléments
 
