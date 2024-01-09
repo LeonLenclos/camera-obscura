@@ -128,3 +128,7 @@ Jour tempête de neige. La petite route de campagne est enneigée les voitures s
 
 > Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait <strong>Souvenirs</strong>. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de <strong>Souvenirs</strong>. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des heures. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on joue moins .
 
+#### L'extinction (au cas ou il n'y a personne devant l'objectif)
+
+> A partir d’un moment les gens ont arrêté de faire des enfants, certains parce qu’ils n’en voulaient pas, d’autres parce qu’ils n’y arrivaient pas, tout est allé très vite. On est passé sous la barre symbolique d’un enfant par femme en moyenne. En 50 ans, le pays était vidé de moitié, 50 ans plus tard il ne restait qu’un dixième de la population. 100 ans plus tard la population s’était quasiment éteinte.
+
