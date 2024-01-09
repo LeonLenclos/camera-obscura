@@ -106,7 +106,7 @@ Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouch
 
 > Si je me souviens bien, c'est arrivé un mardi.
 
-Jour ensoleillé. Un conducteur distrait au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voitures à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
+Jour ensoleillé. Un conducteur qui lit au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voitures à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
 
 > Je m'étais pris la tête avec ma femme.
 
