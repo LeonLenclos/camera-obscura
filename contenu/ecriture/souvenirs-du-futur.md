@@ -8,18 +8,22 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 
 ## Liste des séquences
-
+- Tout le monde adore être dans son lit
+- Une période heureuse
+- Le podium
+- Le bon sens
+- Les nouveaux métiers
+- La mode
+- La blague
+- Déluge
+- Les téléphones
 - Bla
-- Golden record
-- La vie sous l'eau
-- Les files d'attente
-- Personne ne se leva
-- l'embouteillage
-- le monde à l'envers
-- la nuit
-- impro ville
-- le froid
-- La pluie, le tonnerre
+- Golden Record
+- La nuit
+- L'hiver
+- L'embouteillage
+- Le jeu
+- L'extinction
 
 ## Éléments
 
@@ -52,8 +56,9 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 > Les métiers des gens ne ressemblait en rien à ce que le monde avait connu jusque là.
 > Le travail de la personne assise à la terrasses là-bas c'était de boire du café
-> La personne qui marche avec le sac de course son métier c'était de tojours savoir l'heure.
+> La personne qui marche avec le sac de course son métier c'était de toujours savoir l'heure.
 > Telle autre personne avait pour travail de se cacher derrière des arbres.
+> Même ne rien faire était devenu un métier ce qui avait définitivement réglé le problème du chomage.
  
 #### La mode
 
@@ -79,8 +84,52 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 #### Golden Record
 
-![Storyboard Golden Record](/contenu/dessins/goldenrecordv1.jpg)
+> À la fin du 20 eme siècle, on avait fabriqué un disque en or avec des musiques et d’autres traces d’ humanité et on l’avait envoyé dans l’espace avec une fusée. C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir. Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu. La déception fut totale quand on retrouva le disque d’or en vente sur un site de petites annonces.
 
 #### La nuit
 
 > Même si personne n'ètait d'accord sur les raisons d'un tel changement, tout le monde est bien obligé de constater que la puissance du soleil déclinait. Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Générations après générations les humains s’adaptèrent à cette situation et leur pupilles se transformèrent, devinrent plus grosses, ce qui leur donnait un peu une tête de chat...
+
+
+#### L'hiver
+
+> Depuis plusieurs années, la chaleur de l'été était devenue insuportable. Tout fondait, autour et à l'intérieur des corps.
+
+2D : schéma explicatif à la "C'est Pas Sorcier" de l'eau qui bout dans le corps
+
+> L'eau des corps se mettait à bouillir, la vapeur ainsi produite envahissait les cerveaux et tout devenait brumeux. Le sol fondait, les chaussures fondaient, elles collaient au sol, on ne pouvait plus se déplacer, on devenait immobile, on perdait sa mobilité, on devenait immeuble.
+
+Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouche, de la neige tombe.
+
+> La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restait comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
+
+#### L'embouteillage
+
+> Si je me souviens bien, c'est arrivé un mardi.
+
+Jour ensoleillé. Un conducteur qui lit au volant lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement. Devant, une file visiblement sans fin de voitures à l'arrêt, quelques klaxons. Derrière, d'autres voitures arrivent et s'amassent.
+
+> Je m'étais pris la tête avec ma femme.
+
+Soir pluie. Le conducteur dans sa voiture lit toujours, quelqu'un frappe à la fenêtre.
+
+> <em>Je peux monter avec vous ? Je me suis un peu disputé avec la voiture de derrière...</em>
+
+Le conducteur fait signe de monter, enlève un sac plastique du siège passager et reprend sa lecture. Le passager s'installe.
+
+> (après un long silence) <em>Vous savez, j'ai une théorie sur l'embouteillage.</em>
+
+Le conducteur lève les yeux de son livre
+
+> <em>Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voitures, les routes son pleines, il n'y a plus de place pour circuler.</em>
+
+Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
+
+#### Le jeu
+
+> Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait <strong>Souvenirs</strong>. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de <strong>Souvenirs</strong>. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des heures. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on joue moins .
+
+#### L'extinction (au cas ou il n'y a personne devant l'objectif)
+
+> A partir d’un moment les gens ont arrêté de faire des enfants, certains parce qu’ils n’en voulaient pas, d’autres parce qu’ils n’y arrivaient pas, tout est allé très vite. On est passé sous la barre symbolique d’un enfant par femme en moyenne. En 50 ans, le pays était vidé de moitié, 50 ans plus tard il ne restait qu’un dixième de la population. 100 ans plus tard la population s’était quasiment éteinte.
+
