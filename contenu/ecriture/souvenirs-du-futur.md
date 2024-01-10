@@ -8,6 +8,7 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 
 ## Liste des séquences
+
 - Tout le monde adore être dans son lit
 - Une période heureuse
 - Le podium
@@ -24,6 +25,10 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 - L'embouteillage
 - Le jeu
 - L'extinction
+
+## Construction
+
+On enchaîne les fragments.  Chaque fragment est numéroté et les fragments sont séparés par des intertitres (chapitrage). Les fragments sont courts ou longs ; avec ou sans voix off ; animé ou live ; portés sur une histoire anectotique ou un fait général. Il faut trouver un rythme et un équilibre entre lmes chapitre qui prend en compte ces différences.
 
 ## Éléments
 
