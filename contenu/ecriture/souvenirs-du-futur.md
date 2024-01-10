@@ -27,6 +27,16 @@ Cette page rassemble differents éléments liés à l'écriture de ce film.
 
 ## Éléments
 
+#### Intro
+
+
+> Je me souviens les guerres de l'eau, des fêtes qui n'en finissaient pas dans les centres commerciaux abandonnés, le discours des "deux façons de voir les choses" et la révolte du paradygme. Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l'interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouche qui nous tournaient autour, qui a écrit cette chanson ? personne n'a ecrit cette chanson, cette chanson s'est écrite toute seule, Les lots de chaussette depareillées dans les magasins, Les publicités pour "le feu sans fumée", la mort de la science-fiction. Traverser l'Atlantique à pied. Ce livre que tout le monde pretenndait avoir lu. 
+
+### Outro
+
+> Je me souviens que tout était different, toujours, different et pourtant pareil, on ne s'y attendait pas, je n'aime que toi, j'aime tout le monde sauf toi, il n'y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, l'histoire se répète, l'histoire ne se répète pas, la cruauté des humains n'a pas de limite, la cuauté des humains a des limites, il n'y a plus d'éspoir, il y a de l'éspoir, c'est le meilleur petit déjeuner de ma vie, personne ne comprend pourquoi ceci, de temps en temps il se passe celà, j'ai déjà vu ça quelquepart. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui fini par découvrir, amère, qu'elle n'est que la dernière génération du passé.
+
+
 #### Tout le monde adore être dans son lit
 
 > Tout le monde adore être dans son lit. Un matin, les gens adorèrent tellement être dans leur lit, que sans se passer le mot, personne ne se leva. Parmi les quelques personnes qui n'avaient pas de lit ou qui n'avaient pas rejoint leur lit cette nuit là, certains eurent si envie d'être dans un lit qu'ils se couchèrent dans le lit le plus proche qu'ils trouvèrent. Les autres qui, pour une raison que personne ne peut expliquer, n'avait pas particulièrement envie d'être dans un lit, profitèrent de l'occasion pour devenir les maitres du monde. 
