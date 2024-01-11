@@ -34,12 +34,15 @@ On enchaîne les fragments.  Chaque fragment est numéroté et les fragments son
 
 #### Intro
 
+Paysage marin, son de vague, orage. Un personnage face à la mer.
 
-> Je me souviens les guerres de l'eau, des fêtes qui n'en finissaient pas dans les centres commerciaux abandonnés, le discours des "deux façons de voir les choses" et la révolte du paradygme. Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l'interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouche qui nous tournaient autour, qui a écrit cette chanson ? personne n'a ecrit cette chanson, cette chanson s'est écrite toute seule, Les lots de chaussette depareillées dans les magasins, Les publicités pour "le feu sans fumée", la mort de la science-fiction. Traverser l'Atlantique à pied. Ce livre que tout le monde pretenndait avoir lu. 
+> Je me souviens les guerres de l'eau, des fêtes qui n'en finissaient pas dans les centres commerciaux abandonnés, le discours des "deux façons de voir les choses" et la révolte du paradygme. Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l'interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouche qui nous tournaient autour, qui a écrit cette chanson ? personne n'a ecrit cette chanson, cette chanson s'est écrite toute seule, Les lots de chaussette depareillées dans les magasins, La publicité pour "le feu sans fumée". Je me souviens la mort de la science-fiction, traverser l'Atlantique à pied, ce livre que tout le monde pretenndait avoir lu, l'objet perdu, la météorite, une fine couche de neige sur les toits ce matin de janvier.
 
 ### Outro
 
-> Je me souviens que tout était different, toujours, different et pourtant pareil, on ne s'y attendait pas, je n'aime que toi, j'aime tout le monde sauf toi, il n'y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, l'histoire se répète, l'histoire ne se répète pas, la cruauté des humains n'a pas de limite, la cuauté des humains a des limites, il n'y a plus d'éspoir, il y a de l'éspoir, c'est le meilleur petit déjeuner de ma vie, personne ne comprend pourquoi ceci, de temps en temps il se passe celà, j'ai déjà vu ça quelquepart. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui fini par découvrir, amère, qu'elle n'est que la dernière génération du passé.
+Paysage marin, un personnage face à la mer.
+
+> Je me souviens que tout était different, toujours, different et pourtant pareil, on ne s'y attendait pas, il n'y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, l'histoire se répète, l'histoire ne se répète pas, la cruauté des humains n'a pas de limite, la cuauté des humains a des limites, il n'y a plus d'éspoir, il y a de l'éspoir, c'est le meilleur petit déjeuner de ma vie, qui a laissé la fenêtre ouverte ? personne ne comprend pourquoi ceci, de temps en temps il se passe celà, j'ai déjà vu ça quelquepart. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui fini par découvrir, amère, qu'elle n'est que la dernière génération du passé.
 
 
 #### Tout le monde adore être dans son lit
@@ -52,9 +55,19 @@ On enchaîne les fragments.  Chaque fragment est numéroté et les fragments son
 
 ![Dessin période heureuse](/contenu/dessins/files-d-attente.jpg)
 
+> C'était une période heureuse, les gens étaient heureux, même dans les files d'attente.
+
 #### Le podium
 
 ![Dessin podium](/contenu/dessins/podium.png)
+
+> Tout a commencé quand un type assez influent est arrivé 4e et s'est plaint de ne pas être sur le podium.
+> Mais 4 marches c'était pas beau alors on a décidé de faire 5 marches car la symétrie, tout ça...
+> Du coup le 5e qui n'avait rien demandé était bien content, mais le 6e ent le 7e pas du tout.
+> Une chose en entrainant une autre on s'est retrouvé avec vraiment plein de marches.
+> Monter à la première place est devenu très laborieux maisn on allait pas mettre des ascenseurs parce que quand même on est des sportifs ou quoi !
+> Une chose en entrainant une autre, monter en haut du podium est devenu le nouveau sport.
+
 
 #### Le bon sens
 
@@ -73,7 +86,7 @@ On enchaîne les fragments.  Chaque fragment est numéroté et les fragments son
 > Le travail de la personne assise à la terrasses là-bas c'était de boire du café
 > La personne qui marche avec le sac de course son métier c'était de toujours savoir l'heure.
 > Telle autre personne avait pour travail de se cacher derrière des arbres.
-> Même ne rien faire était devenu un métier ce qui avait définitivement réglé le problème du chomage.
+> Même ne rien faire était devenu un métier ce qui avait définitivement réglé le problème du chomage.s
  
 #### La mode
 
