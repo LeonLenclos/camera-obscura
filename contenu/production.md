@@ -188,7 +188,6 @@ Constructeurice :
     - [X] joint mastic PU
     - [X] plancher principal
     - [X] mofif trappe avant
-    - [ ] contre marche
     - [ ] plancher coffre
     - [X] joint mastic PU
  
@@ -210,6 +209,16 @@ Constructeurice :
 - Banc titre
 - Ordi + cables bancs titre + clavier
 - Matos dessin
+
+### Du 22/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (04)
+
+- [ ] habillage alu bas grille
+- [ ] Médium mur sud
+- [ ] finition Médium
+- [ ] contre marche
+- [ ] isolation sous plancher
+- [ ] grille sur plancher
+
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
