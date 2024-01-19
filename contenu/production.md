@@ -229,26 +229,38 @@ Constructeurice :
  - [ ] support Amici
  - [ ] Escalier principal
 
-### Du 19/02/2024 au 01/03/2024 : Graulhet chez les Plasticiens (81)
+### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
  - [ ] Exostructure en tube
  - [ ] cadre vitre
  - [ ] accroche souflet
- - [ ] conception barillet
+ - [ ] conception/réalisation barillet
  - [ ] conception télécommande
+ - [ ] conception réflecteur
+ - [ ] conception castelet
 
-### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
-- écriture et jeu
+### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
+ - [ ] Léon repérage accés et emplacement roulotte à Nimes
 
-### printemps 2024 : Mende (48) - Scènes croisées de Lozère
-- écriture et mise en scène
-
-### printemps 2024 : Nimes (30) - Périscope
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
-### Juin juillet 2024 : Tarbes (65) - Le Parvis
-- mise en scène
+### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
+ - [ ] Anticiper accés et emplacement roulotte à Auch
+    
+- écriture et jeu
 
-### du 23/7/2024 au 1/8/2024, Mirepoix (09) - Mima
-- Finitions
+### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
+ - [ ] Anticiper accés et emplacement roulotte à Mende
+      
+- écriture et mise en scène
+
+### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
+ - [ ] Anticiper accés et emplacement roulotte
+       
+- mise en scène + 2 avant-premières
+
+### du 29/7/2024 au 4/8/2024, Mirepoix (09) - Mima
+- [ ] Anticiper accés et emplacement roulotte
+
+- Finitions et premières
