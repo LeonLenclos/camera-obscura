@@ -214,11 +214,12 @@ Constructeurice :
 - [ ] cales plafond
 - [ ] finition Médium raccord
 - [ ] alu trappe
-- [ ] fermoir et verrou
+- [ ] fermoir et verrou + pose joint trappe
 - [ ] contre marche
 - [ ] isolation sous plancher bas
 - [ ] grille sur plancher
 - [ ] coup de peinture noire
+- [ ] passer cable caméra recul
 - [ ] coupe alu fauteuil
 - [ ] test enduit bas de caisse galva
 
@@ -234,11 +235,16 @@ Constructeurice :
  - [ ] Exostructure en tube
  - [ ] cadre vitre
  - [ ] accroche souflet
+ - [ ] diffusion arrière passer les PVCc
  - [ ] conception/réalisation barillet
  - [ ] conception télécommande
  - [ ] conception réflecteur
  - [ ] conception castelet
  - [ ] medium mur nord
+ - [ ] pose Caméra recul
+ - [ ] cache écran
+ - [ ] Habillage structure écran
+
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
