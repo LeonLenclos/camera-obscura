@@ -47,7 +47,7 @@
  - [ ] support Amici
  - [ ] Escalier principal
 
-### Exostructure
+### Exostructure/écran
 
  - [ ] cadre vitre soufflet
  - [ ] conception accroche souflet
@@ -69,6 +69,7 @@
  - [ ] pose Caméra recul
  - [ ] cache écran
  - [ ] Habillage structure écran
+ - [ ] escalier de service et ascenseur PMR
 
 ### Finition siège
 
