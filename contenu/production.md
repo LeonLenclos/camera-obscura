@@ -209,14 +209,16 @@ Constructeurice :
 ### Du 22/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
 
 - [ ] habillage alu bas grille extraction
+- [ ] cornière trappe est
 - [ ] Médium mur sud
 - [ ] cales plafond
 - [ ] finition Médium raccord
 - [ ] alu trappe
-- [ ] fermoir
+- [ ] fermoir et verrou
 - [ ] contre marche
 - [ ] isolation sous plancher bas
 - [ ] grille sur plancher
+- [ ] coup de peinture noire
 - [ ] coupe alu fauteuil
 - [ ] test enduit bas de caisse galva
 
@@ -226,6 +228,14 @@ Constructeurice :
  - [ ] claisse clim
  - [ ] support Amici
  - [ ] Escalier principal
+
+### Du 19/02/2024 au 01/03/2024 : Graulhet chez les Plasticiens (81)
+
+ - [ ] Exostructure en tube
+ - [ ] cadre vitre
+ - [ ] accroche souflet
+ - [ ] conception barillet
+ - [ ] conception télécommande
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
