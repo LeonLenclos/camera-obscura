@@ -141,11 +141,7 @@ Constructeurice :
 
 - Semaine 3 :
   - Bonus :
-    - [ ] série chaise
-    - [ ] claisse clim
-    - [X] structure écran
-    - [ ] escalier + service
-    - [ ] amici
+   
 
   - Lundi matin
     - [X] Passage Fabien sur soudure et meulage
@@ -178,17 +174,17 @@ Constructeurice :
     - [X] Tole et joints
 
   - Vendredi
-    - [ ] hublots
+    - [x] hublots
     - [X] faisseau electrique
-    - [ ] régler l'occultation base souflet
+    - [x] régler l'occultation base souflet
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - Aménagement remorque :
     - [X] finition carosserie
     - [X] joint mastic PU
     - [X] plancher principal
-    - [X] mofif trappe avant
-    - [ ] plancher coffre
+    - [x] mofif trappe avant
+    - [x] plancher coffre
     - [X] joint mastic PU
  
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
@@ -210,15 +206,22 @@ Constructeurice :
 - Ordi + cables bancs titre + clavier
 - Matos dessin
 
-### Du 22/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (04)
+### Du 22/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
 
 - [ ] habillage alu bas grille
 - [ ] Médium mur sud
-- [ ] finition Médium
+- [ ] cales plafond
+- [ ] finition Médium raccord
 - [ ] contre marche
 - [ ] isolation sous plancher
 - [ ] grille sur plancher
 
+### Du 12/02/2024 au 16/02/2024 : Graulhet Uzine chez Fabien (81)
+
+ - [ ] série fauteuils
+ - [ ] claisse clim
+ - [ ] support Amici
+ - [ ] Escalier principal
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
