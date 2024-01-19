@@ -1,4 +1,15 @@
-# Partenaire
+# Générique
+
+De :
+
+- Bertrand Lenclos
+- Léon Lenclos
+
+Avec :
+
+- Lucile Balezeaux
+- Bertrand Lenclos
+- Léon Lenclos
 
 Coproducteurs :
 
@@ -30,10 +41,11 @@ Interlocuteurices :
 
 Constructeurice :
 
+- Zou Lenclos
 - Fabien Durand
 - Aquabrasion
 - Schiavon
-- Laurent Fayard ?
+- Laurent Fayard
 - Éva Ricard ?
 
 # Calendrier des résidences
@@ -194,7 +206,10 @@ Constructeurice :
 - ordi + disque dur externe
 - planche et système pédale orgue, support pavillon.
 
-À prendre à Marseille
+À prendre à Marseille :
+- Banc titre
+- Ordi + cables bancs titre + clavier
+- Matos dessin
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
