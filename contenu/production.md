@@ -238,6 +238,7 @@ Constructeurice :
  - [ ] conception télécommande
  - [ ] conception réflecteur
  - [ ] conception castelet
+ - [ ] medium mur nord
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
