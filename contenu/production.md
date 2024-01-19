@@ -184,7 +184,17 @@ Constructeurice :
 
 ## Résidences à venir
 
-### Résidence d'écriture à caler ici, janvier ?.
+### Du 22/01/2024 au 30/01/2024 : Serre Boyer (04) - Chez Florence.
+- écriture texte et musiques
+
+À prendre à Graulhet :
+- sac caméra FX3 complet avec pied, semelle.
+- couple schoeps, R87, cables audio, pied de micro, casque.
+- instrument : Harmonium, scie, pavillon et percus
+- ordi + disque dur externe
+- planche et système pédale orgue, support pavillon.
+
+À prendre à Marseille
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
 - écriture et jeu
