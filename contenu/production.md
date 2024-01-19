@@ -208,12 +208,14 @@ Constructeurice :
 
 ### Du 22/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
 
-- [ ] habillage alu bas grille
+- [ ] habillage alu bas grille extraction
 - [ ] Médium mur sud
 - [ ] cales plafond
 - [ ] finition Médium raccord
+- [ ] alu trappe
+- [ ] fermoir
 - [ ] contre marche
-- [ ] isolation sous plancher
+- [ ] isolation sous plancher bas
 - [ ] grille sur plancher
 - [ ] coupe alu fauteuil
 - [ ] test enduit bas de caisse galva
