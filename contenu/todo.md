@@ -10,7 +10,7 @@
 
 ## À faire contruction remorque et extrastucture
 
-### Avant isolation 
+### Aménagement intérieur 
 
 - [x] Réparer manchons décentrés
 - [x] Faire les hublots 
@@ -19,43 +19,72 @@
 - [x] Finir trappes avant (charnières)
 - [x] Fixation Écran
 - [x] pose grille extraction
-- [ ] Finir pose des rails
-- [ ] Passer des gaines
-- [ ] diffusion arrière ? (PVC)
-- [ ] pose Caméra recul
+- [x] Finir pose des rails
+- [x] Passer des gaines
+- [ ] diffusion arrière passer les PVC
+- [ ] Faire passe étanchéité autour des trappes (Mastic PU)
 - [ ] Fermoir trappe + pose joint trappe
-- [ ] Faire passe étanchéité (Mastic PU)
 - [ ] réparer lumière (avant G)
+- [ ] habillage alu bas grille extraction
+- [ ] cornière trappe est
+- [ ] Médium mur sud
+- [ ] cales plafond
+- [ ] finition Médium raccord
+- [ ] alu trappe
+- [ ] fermoir et verrou + pose joint trappe
+- [ ] contre marche
+- [ ] isolation sous plancher bas
+- [ ] grille sur plancher
+- [ ] coup de peinture noire
+- [ ] pose Caméra recul
+- [ ] coupe alu fauteuil
+- [ ] test enduit bas de caisse galva
 
 ### Avec Fabien
 
-- [ ] coupe + soudure série chaise
-- [ ] claisse clim
-- [ ] escalier + service
-- [ ] amici
+ - [ ] série fauteuils
+ - [ ] claisse clim
+ - [ ] support Amici
+ - [ ] Escalier principal
 
-### Sans Fabien
+### Exostructure
 
-- [ ] Finir Plancher
-- [ ] Trouver et fabriquer le système de fixation du soufflet
-- [ ] Adapter le soufflet
-- [ ] Vitre soufflet
-- [ ] Fabriquer le cache avant
-- [ ] Habillage structure écran
-- [ ] faux plafond régie
-- [ ] Dessiner cage exterieure
-- [ ] Cage extérieure
-- [ ] pose isolant
-- [ ] pose isorel
-- [ ] pose moquette
-- [ ] niveau + boussole
+ - [ ] cadre vitre soufflet
+ - [ ] conception accroche souflet
+ - [ ] réalisation accroche souflet
+ - [ ] Adapter le soufflet
+ - [ ] Fabriquer le cache avant
+ - [ ] conception cage exterieure/Exostructure en tube
+ - [ ] réalisation cage exterieure/Exostructure en tube
+ - [ ] diffusion arrière passer les PVC
+ - [ ] conception barillet
+ - [ ] réalisation barillet
+ - [ ] conception télécommande
+ - [ ] réalisation télécommande
+ - [ ] conception réflecteur
+ - [ ] réalisation réflecteur
+ - [ ] conception castelet
+ - [ ] réalisation castelet
+ - [ ] medium mur nord
+ - [ ] pose Caméra recul
+ - [ ] cache écran
+ - [ ] Habillage structure écran
+
+### Finition siège
+
 - [ ] bois sièges
 - [ ] mousse sièges
 - [ ] tissus sièges
-- [ ] rail et roue objectif
-- [ ] planchette et commande rotation
-- [ ] Finissions interieur hublot + volet
-- [ ] poser les grilles
+
+### Finitions
+
+- [ ] pose tissus
+- [ ] conception volet hublot
+- [ ] réalisation volet hublot
+- [ ] Finitions interieur hublot
+- [ ] faux plafond en CP 5mm
+- [ ] pose moquette
+- [ ] niveau + boussole
 
 ### Long terme
 
@@ -77,14 +106,12 @@ Courriel : uid-81-12.dreal-occitanie@developpement-durable.gouv.fr
 
 ## À acheter
 
-### Courses urgentes
+### Courses
 
 - [x] Visseries hublots (25mm M5 ??? BTR bombé)
 - [x] camera de recul
 - [ ] joint trappe
-
-### Courses moins urgentes
-
+- [ ] CP M1 plafond et sièges 5mm peuplier
 - [ ] 20 gros et 20 petits crochets
 - [ ] vitres (Avant)
 - [ ] moquette
