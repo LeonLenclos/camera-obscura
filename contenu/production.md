@@ -215,6 +215,8 @@ Constructeurice :
 - [ ] contre marche
 - [ ] isolation sous plancher
 - [ ] grille sur plancher
+- [ ] coupe alu fauteuil
+- [ ] test enduit bas de caisse galva
 
 ### Du 12/02/2024 au 16/02/2024 : Graulhet Uzine chez Fabien (81)
 
