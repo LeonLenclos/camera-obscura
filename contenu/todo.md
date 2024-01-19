@@ -85,6 +85,7 @@
 - [ ] Finitions interieur hublot
 - [ ] faux plafond en CP 5mm
 - [ ] pose moquette
+- [ ] dessin extérieur (peinture ou transfert)
 - [ ] niveau + boussole
 
 ### Long terme
