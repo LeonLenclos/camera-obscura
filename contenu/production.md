@@ -195,11 +195,12 @@ Constructeurice :
 - écriture texte et musiques
 
 À prendre à Graulhet :
-- sac caméra FX3 complet avec pied, semelle.
+- petit sac caméra FX3 complet avec pied, semelle, lecteur cartes.
 - couple schoeps, R87, cables audio, pied de micro, casque.
 - instrument : Harmonium, scie, pavillon et percus
 - ordi + disque dur externe
 - planche et système pédale orgue, support pavillon.
+- visseuse, boite vis, caisse rouge
 
 À prendre à Marseille :
 - Banc titre
