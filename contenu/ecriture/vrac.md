@@ -43,3 +43,30 @@
 - sans texte. On peut le jouer à l'étranger ? Du doublage ?
 - trucage : des marionnettes répliques réalistes des comédiens
 - sur quoi est posée la personne qui porte la terre ? une image de poirier à l'envers
+
+### Souvenirs du futur abandonnés
+
+
+#### L'extinction (au cas ou il n'y a personne devant l'objectif)
+
+> A partir d’un moment les gens ont arrêté de faire des enfants, certains parce qu’ils n’en voulaient pas, d’autres parce qu’ils n’y arrivaient pas, tout est allé très vite. On est passé sous la barre symbolique d’un enfant par femme en moyenne. En 50 ans, le pays était vidé de moitié, 50 ans plus tard il ne restait qu’un dixième de la population. 100 ans plus tard la population s’était quasiment éteinte.
+
+
+#### L'hiver
+
+> Depuis plusieurs années, la chaleur de l'été était devenue insuportable. Tout fondait, autour et à l'intérieur des corps.
+
+2D : schéma explicatif à la "C'est Pas Sorcier" de l'eau qui bout dans le corps
+
+> L'eau des corps se mettait à bouillir, la vapeur ainsi produite envahissait les cerveaux et tout devenait brumeux. Le sol fondait, les chaussures fondaient, elles collaient au sol, on ne pouvait plus se déplacer, on devenait immobile, on perdait sa mobilité, on devenait immeuble.
+
+Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouche, de la neige tombe.
+
+> La technique consistait alors à s'imaginer qu'il faisait froid, froid comme le coeur de l'hiver dans une région froide, vraiment froide, une région froide comme on n'en fait plus. On restait comme ça quelques minutes puis on retournerait à l'été juste avant de tomber malade.
+
+
+#### Les téléphones
+
+> Le jour où on a réalisé qu'il y avait 100 fois plus de téléphones que d'humain sur terre, on a décidé d'arrêter définitivement d'en construire des nouveaux et de se concentrer sur ceux qu'on avait déjà.
+
+
