@@ -46,13 +46,18 @@ Paysage marin, un personnage face à la mer.
 > Je me souviens que tout était différent, toujours, différent et pourtant pareil, on ne s'y attendait pas, il n'y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, l'histoire se répète, l'histoire ne se répète pas, la cruauté des humains n'a pas de limite, la cruauté des humains a des limites, il n'y a plus d'espoir, il y a de l'espoir, c'est le meilleur petit-déjeuner de ma vie, qui a laissé la fenêtre ouverte ? personne ne comprend pourquoi ceci, de temps en temps il se passe cela, j'ai déjà vu ça quelque part. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui fini par découvrir, amère, qu'elle n'est que la dernière génération du passé.
 
 
-#### La nuit
+#### La mutation
 
-> Je me souviens que
-> Même si personne n'était d'accord sur les raisons d'un tel changement, tout le monde est bien obligé de constater que la puissance du soleil déclinait. Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Générations après générations les humains s’adaptèrent à cette situation.
+Fondu au noir du plan précédent.
 
+> Je me souviens que même si personne n'était d'accord sur les raisons d'un tel changement, tout le monde est bien obligé de constater que la puissance du soleil déclinait.
 
-Des gens leur pupilles se transformèrent, devinrent plus grosses, ce qui leur donnait un peu une tête de chat...
+Intertitre.
+
+> Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Générations après générations les humains évoluèrent pour s’adapter à cette situation.
+
+Des yeux s'ouvrent dans l'obscurité. Une lampe torche s'allume et dévoile le corps d'un humain mutant (qui ressemble un peu à un chat).
+
 
 
 #### Un matin
@@ -166,10 +171,6 @@ Le conducteur lève les yeux de son livre
 > <em>Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voitures, les routes son pleines, il n'y a plus de place pour circuler.</em>
 
 Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
-
-#### Le jeu
-
-> Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait <strong>Souvenirs</strong>. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de <strong>Souvenirs</strong>. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des heures. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on joue moins .
 
 #### Le froid
 
