@@ -63,8 +63,17 @@ Des yeux s'ouvrent dans l'obscurité. Une lampe torche s'allume et dévoile le c
 #### Un matin
 
 
-> Tout le monde adore être dans son lit. Un jour, les gens adorèrent tellement être dans leur lit, que sans se passer le mot, personne ne se leva. Les personnes qui n'avaient pas de lit ou qui n'étaient pas dans leur lit à ce moment là, se sont précipité vers le premier lit qu'ils trouvèrent, pour s'y coucher. D'autres, qui pour une raison que personne ne peut expliquer, n'avaient pas particulièrement envie d'être dans un lit, ont profité de l'occasion pour devenir les maîtres du monde. 
+> Tout le monde adore être dans son lit.  
+> Un jour les gens adorèrent tellement être dans leur lit,  
+> que sans se passer le mot personne ne se leva.  
+> Les personnes qui n'avaient pas de lit,  
+> ou qui n'étaient pas dans leur lit à ce moment là,  
+> se sont précipité vers le premier lit qu'ils trouvèrent.  
+> D'autres qui pour une raison que personne ne peut expliquer,  
+> n'avaient pas particulièrement envie d'être dans un lit,  
+> ont profité de l'occasion pour devenir les maîtres du monde.  
 
+Une personne dans son lit, la lumière du petit matin entre par la fenêtre
 ![Dessin lit](/contenu/dessins/lit.jpg)
 
 #### Une période heureuse
