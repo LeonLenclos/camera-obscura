@@ -80,7 +80,12 @@ Une personne dans son lit, la lumière du petit matin entre par la fenêtre
 
 ![Dessin période heureuse](/contenu/dessins/files-d-attente.jpg)
 
-> C'était une période heureuse, les gens étaient heureux, même dans les files d'attente.
+> Une période heureuse, les gens étaient heureux, même dans les files d'attente.
+
+
+#### Une période triste
+
+> Une période triste, les gens étaient triste, même dans les fêtes foraines.
 
 #### Le podium
 
@@ -90,7 +95,7 @@ Une personne dans son lit, la lumière du petit matin entre par la fenêtre
 > Mais quatre marches c'était pas beau alors on a décidé d'en faire cinq.
 > Du coup le cinquième qui n'avait rien demandé était bien content, mais le sixième et le septième pas du tout.
 > Une chose en entraînant une autre on s'est retrouvé avec vraiment beaucoup de marches.
-> Monter à la première place est devenu difficile, très long et épuisant.
+> Monter tout en haut est devenu difficile, très long et épuisant.
 > Une chose en entraînant une autre, monter en haut du podium est devenu le nouveau sport.
 
 #### Le bon sens
@@ -116,6 +121,8 @@ Une personne dans son lit, la lumière du petit matin entre par la fenêtre
 #### La blague
 
 > Je me souviens que de temps en temps on faisait semblant d'oublier le nom de la ville et du pays dans lesquels on habitait. C'était une blague très populaire et très représentative de l'humour pratiqué à cette époque.
+
+Musique : Sonate pathétique 2e / 1e mouvement première partie
 
 #### Le niveau de l'eau
 
@@ -155,7 +162,9 @@ Une personne chez elle à table mélange le contenue de ce qui semble être un v
 
 #### L'ultime chanson
 
-Il n'existe pas une infinité de mélodie possible. En fait il n'existe pas plus d'un décilliard de décilliards de mélodie possible. Je me souviens d'une époque où on pensait les avoir toutes découverte, le monde de la composition musicale connu alors une longue crise. Puis un jour, une chanteuse découvrit une nouvelle mélodie qui avait, pour une raison que personne ne peut expliquer, échappé aux générations précédentes de mélodiste, Cette ultime chanson devint vite un tube interplanétaire, c'était une légère variation d'un célèbre morceau de la fin du deuxième millénaire.
+> Il n'existe pas une infinité de mélodie possible.  
+> Je me souviens d'une époque où on pensait les avoir toutes découverte, le monde de la composition musicale connu alors une longue crise.  
+> Puis un jour, une chanteuse découvrit une nouvelle mélodie qui avait, pour une raison que personne ne peut expliquer, échappé aux générations précédentes, Cette ultime chanson devint vite un tube interplanétaire, c'était une légère variation d'un célèbre morceau de la fin du deuxième millénaire.
 
 #### Golden Record
 
