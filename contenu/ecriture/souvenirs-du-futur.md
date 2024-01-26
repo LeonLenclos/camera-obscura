@@ -31,6 +31,10 @@ Une vingtaine de fragments qui s'enchaînent.  Chaque fragment est numéroté et
 - La conversation
 - L’ultime chanson
 
+## Tableur
+
+Les séquences du film sont détaillées dans ce tableau : [sequences.ods](sequences.ods)
+
 ## Éléments
 
 
