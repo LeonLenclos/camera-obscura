@@ -73,3 +73,9 @@ Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouch
 #### Le jeu
 
 > Pendant une période somme toute assez longue, il y a eu un jeu très populaire qui a détrôné tous les autres jeux et qui s’appelait <strong>Souvenirs</strong>. Pas un dimanche, pas un anniversaire, pas une fête sans une partie de <strong>Souvenirs</strong>. C’était extrêmement joyeux, très divertissant et parfois tellement prenant que les parties pouvaient durer des heures. Les gens ne jouaient plus qu’à ça et ont finit par oublier complètement les autres jeux. Et puis avec le temps la mode est passée… et aujourd’hui on y joue plus du tout. D’abord parce que personne ne se souvient plus des règles, et aussi parce que de nos jours, on joue moins .
+
+
+#### Je me souviens les t-shirts animés à l'effigie de célébrité
+
+Gros plan d'un t-shirt imprimé avec le visage animé d'une star du Cinéma.
+
