@@ -17,3 +17,15 @@ Pour reproduire les sensations physiques éprouvées dans une salle de cinéma, 
 
 Il est important de soigner l’isolation sonore de la remorque, pour diminuer le bruit venant de l’extérieur. L’immersion des spectateurs nécessite qu'ils soient un minimum protégés du bruit extérieur, le spectacle étant surtout joué dans des environnements urbains (voitures, passants, etc.).
 Ce problème peut être traité conjointement aux soucis d’isolation thermique évoqués dans la page [isolation et climatisation](isolation.md)
+
+## Bruitage à trouver
+
+Tambour tournant :
+- Pluie 
+
+
+Ambiance exterieur ?
+
+- Machine à touiller
+- Machine à bulles:
+

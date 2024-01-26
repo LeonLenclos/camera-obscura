@@ -36,7 +36,7 @@ Une vingtaine de fragments qui s'enchaînent.  Chaque fragment est numéroté et
 
 #### Prologue
 
-> Je me souviens les guerres de l'eau, des fêtes qui n'en finissaient pas dans les centres commerciaux abandonnés, le discours des "deux façons de voir les choses" et la révolte du paradigme.  
+> Je me souviens les guerres de l'eau. Des fêtes qui n'en finissaient pas dans les centres commerciaux abandonnés, le discours des "deux façons de voir les choses" et la révolte du paradigme.  
 
 > Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l'interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouche qui nous tournaient autour.  
 > qui a écrit cette chanson ? personne n'a écrit cette chanson, cette chanson s'est écrite toute seule.  
@@ -106,6 +106,19 @@ Des yeux s'ouvrent dans l'obscurité. Une lampe torche s'allume et dévoile le c
 
 Une sorte de diaporama de photos de vacances dans des décors indus.
 
+#### Le podium
+
+![Dessin podium](/contenu/dessins/podium.png)
+
+> Tout a commencé quand une personne très influente est arrivée quatrième et s'est plainte de ne pas être sur le podium.  
+> Mais comme quatre marches c'était pas beau, on a décidé d'en faire cinq.  
+> Du coup le cinquième qui n'avait rien demandé était bien content,  
+> Mais le sixième et le septième pas du tout.  
+> Une chose en entraînant une autre on s'est retrouvé avec vraiment beaucoup de marches.  
+> Monter tout en haut est devenu difficile, très long et épuisant.  
+> Une chose en entraînant une autre, monter en haut du podium est devenu le nouveau sport.
+
+
 #### Je me souviens de l'embouteillage
 
 Jour ensoleillé. Un conducteur qui lit au volant, par la fenêtre de la voiture on voit des arbres défiler. Il lève les yeux vers la route, juste à temps pour avoir le temps de freiner brusquement.
@@ -127,17 +140,6 @@ Le conducteur lève les yeux de son livre
 > Je pense qu'il n'y a plus de place sur les routes, on a atteint le point critique. Il y a trop de voitures, les routes son pleines, il n'y a plus de place pour circuler.
 
 Jour tempête de neige. La petite route de campagne est enneigée les voitures sont à moitié ensevelies sous la neige. Le passager sort en saluant le conducteur.
-
-#### Le podium
-
-![Dessin podium](/contenu/dessins/podium.png)
-
-> Tout a commencé quand une personne très influente est arrivée quatrième et s'est plainte de ne pas être sur le podium.
-> Mais quatre marches c'était pas beau alors on a décidé d'en faire cinq.
-> Du coup le cinquième qui n'avait rien demandé était bien content, mais le sixième et le septième pas du tout.
-> Une chose en entraînant une autre on s'est retrouvé avec vraiment beaucoup de marches.
-> Monter tout en haut est devenu difficile, très long et épuisant.
-> Une chose en entraînant une autre, monter en haut du podium est devenu le nouveau sport.
 
 #### La blague
 
