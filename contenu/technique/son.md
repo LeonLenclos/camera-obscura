@@ -1,9 +1,11 @@
+
+
 ## Le son au cinéma
 
 Par rapport au projet de créer l’illusion d’un film, il nous semble important de recréer l’ambiance sonore perçue par le spectateur dans une projection moderne :
-    composition de la bande son (son direct, doublage, bruitage, FX, sound-design, ambiance et musique)
-    effet de spatialisation sonore,
-    effet d’infra-basses
+- composition de la bande son (son direct, doublage, bruitage, FX, sound-design, ambiance et musique)
+- effet de spatialisation sonore,
+- effet d’infra-basses
 
 ### Spacialisation
 
@@ -18,14 +20,4 @@ Pour reproduire les sensations physiques éprouvées dans une salle de cinéma, 
 Il est important de soigner l’isolation sonore de la remorque, pour diminuer le bruit venant de l’extérieur. L’immersion des spectateurs nécessite qu'ils soient un minimum protégés du bruit extérieur, le spectacle étant surtout joué dans des environnements urbains (voitures, passants, etc.).
 Ce problème peut être traité conjointement aux soucis d’isolation thermique évoqués dans la page [isolation et climatisation](isolation.md)
 
-## Bruitage à trouver
-
-Tambour tournant :
-- Pluie 
-
-
-Ambiance exterieur ?
-
-- Machine à touiller
-- Machine à bulles:
 

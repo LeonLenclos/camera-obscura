@@ -1,6 +1,6 @@
 # Marionettes
 
-## Marionettes en papier
+## Première piste : marionettes en papier
 
 Ce sont des figures en 2D qui peuvent être articulées.
 
@@ -21,11 +21,17 @@ Ces mario gagneront souvent à être recto-verso :
 - Une mario de profile recto-verso peut faire volte-face pour regarder vers la gauche ou vers la droite
 - Une mario recto-verso peut avoir des variation d'emotion ou autre entre ses deux faces.
 
-## Esthetique
-
 Dessin au feutre sur fond blanc avec des couleurs claires ou des nuances de gris, partir un peu de l'esthetique de ces figurines :
 
 ![Figurine en papier](../img/figurine1.gif) ![Alt text](../img/figurine2.gif)
+
+## Deuxième piste : plexiglass
+
+C'est un peu pareil mais on part sur des marionettes éclairées par l'arrière donc translucide (couleur) et/ou opaques (silouhettes).
+
+On va aussi privilégier des systèmes de plaques animées inspiré de ce qui se fait pour les lanternes magiques.
+
+Le détail des plaques et marionettes de la création sur cette page : [objet/animations](../objet/animations.md)
 
 ## Fabrication
 

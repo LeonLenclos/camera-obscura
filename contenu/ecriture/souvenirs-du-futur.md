@@ -23,7 +23,7 @@ Une vingtaine de fragments qui s'enchaînent.  Chaque fragment est numéroté et
 - Je me souviens de l'embouteillage
 - Le podium
 - La blague
-- Une période malheureuse (les gens étaient malheureux même dans les fêtes foraines)
+- Une période malheureuse (les gens étaient malheureux même dans les parcs d'attractions)
 - Le Golden Record
 - Je me souviens le froid
 - Le comportement
@@ -147,7 +147,7 @@ Jour tempête de neige. La petite route de campagne est enneigée les voitures s
 
 (Musique : Sonate pathétique 1e / 2e mouvement première partie)
 
-#### Une période malheureuse (les gens étaient malheureux même dans les fêtes foraines)
+#### Une période malheureuse (les gens étaient malheureux même dans les parcs d'attraction)
 
 Une période triste, les gens étaient triste.
 

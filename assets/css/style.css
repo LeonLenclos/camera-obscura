@@ -257,10 +257,10 @@ li:before {
   margin-top:.5em;
 }
 #main h4 {
-  font-size: 12pt;
+  font-size: 14pt;
 }
 #main h5 {
-  font-size: 10pt;
+  font-size: 11pt;
 }
 #main h6 {
   font-size: 8pt;
@@ -381,3 +381,19 @@ footer p {
 article img {
   cursor:zoom-in;
 }
+
+blockquote {
+  font-size:1.1em;
+}
+blockquote>p:before, blockquote>p:after {
+  color:gray;
+  margin:0 .5em;
+}
+blockquote>p:before {
+  content:"\00AB";  
+}
+
+blockquote >p:after {
+  content:"\00BB";
+}
+
