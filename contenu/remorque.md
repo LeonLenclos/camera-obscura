@@ -56,13 +56,13 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
 ## Photos
 
-![Photo des hublots](hublots.jpg)
-![Photo de la remorque à Assier](remorque-assier.jpg)
-![Photo du chantier carosserie](remorque-chantier-carosserie-1.jpg)
-![Photo du chantier carosserie](remorque-chantier-carosserie-2.jpg)
-![Photo de l'intérieur de la remorque en chantier](remorque-chantier-interieur-1.jpg)
-![Photo de l'intérieur de la remorque en chantier](remorque-chantier-interieur-2.jpg)
-![Photo de la structure de la remorque](remorque-structure.jpg)
+![Photo des hublots](../photos/hublots.jpg)
+![Photo de la remorque à Assier](../photos/remorque-assier.jpg)
+![Photo du chantier carosserie](../photos/remorque-chantier-carosserie-1.jpg)
+![Photo du chantier carosserie](../photos/remorque-chantier-carosserie-2.jpg)
+![Photo de l'intérieur de la remorque en chantier](../photos/remorque-chantier-interieur-1.jpg)
+![Photo de l'intérieur de la remorque en chantier](../photos/remorque-chantier-interieur-2.jpg)
+![Photo de la structure de la remorque](../photos/remorque-structure.jpg)
 
 
 ## Plans
