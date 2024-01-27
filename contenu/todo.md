@@ -83,6 +83,7 @@
 
 ### Finitions
 
+- [ ] ventilation
 - [ ] pose tissus
 - [ ] conception volet hublot
 - [ ] réalisation volet hublot
@@ -91,6 +92,7 @@
 - [ ] pose moquette
 - [ ] dessin extérieur (peinture ou transfert)
 - [ ] niveau + boussole
+
 
 ### Long terme
 
