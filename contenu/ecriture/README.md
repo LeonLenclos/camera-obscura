@@ -8,7 +8,8 @@ C'est un court metrage de 20 minutes sous forme de notes ou de fragments qui s'e
 
 - [Le manifeste pour souvenirs du futur](manifeste.md), les règles qui guident l'écriture.
 - [*Souvenirs du futur*](souvenirs-du-futur.md), Le film.
-- [intro](intro.md), Le texte d'intro.
+- [Story Board](storyboard.md), Storyboard pour *Souvenirs du futur*.
+- [intro](intro.md), Le texte d'intro pour accueillir les gens dans la camera obscura.
 
 ## archives
 

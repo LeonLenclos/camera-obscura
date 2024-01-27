@@ -1,3 +1,12 @@
+# Animatique
+
+L'animatique est la version animée et sonorisée du storyboard. Le rythme, les sons, les intentions sont approximatives.
+
+[Visionner l'animatique sur Viméo]()
+
+
+# Storyboard
+
 ![](../img/storyboard/001.png)
 ![](../img/storyboard/002.png)
 ![](../img/storyboard/003.png)
