@@ -270,6 +270,19 @@ Constructeurice :
     
 - écriture et jeu
 
+  ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
+  - Finitions remorque
+
+- [ ] ventilation
+- [ ] pose tissus
+- [ ] conception volet hublot
+- [ ] réalisation volet hublot
+- [ ] Finitions interieur hublot
+- [ ] faux plafond en CP 5mm
+- [ ] pose moquette
+- [ ] dessin extérieur (peinture ou transfert)
+- [ ] niveau + boussole
+
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
       
