@@ -88,7 +88,7 @@ Mise en place d'un système de renouvellement de l’air à l’intérieur de la
 
 L'arrivée d'air se ferait par le sol à travers des bouches d'aération individuelles sous chaque siège.
 
-Cette implantation permettrait une convection naturelle. Mais peut-être faut-il imaginer un ventilation mécanique pour forcer l'extraction et accélérer le renouvellement de l'air. L'hélice de l'extracteur pourrait être animée par un système de poids entrainant un engrenage et remonté entre chaque représentation.
+Cette implantation permettrait une convection naturelle. Mais peut-être faut-il imaginer un ventilation mécanique pour forcer l'extraction et accélérer le renouvellement de l'air. L'hélice de l'extracteur pourrait être animée par un système de poids entrainant un engrenage et remonté entre chaque représentation. Un système de poulies peut permettre de démultiplier la longueur de corde.
 
 ### Raffraichissement de l’air
 

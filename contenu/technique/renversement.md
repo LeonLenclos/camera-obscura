@@ -1,5 +1,4 @@
-
-# Renversement de Renversement de l’image de l’imageimage
+# Renversement l’image
 
 En utilisant un objectif ou une lentille simple, sur l’image projetée le haut et le bas sont inversés. Il faut réussir à retourner l’image pour rétablir son orientation haut-bas.
 

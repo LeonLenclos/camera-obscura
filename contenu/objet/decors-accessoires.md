@@ -2,6 +2,8 @@
 
 Les décors sont réfléchis pour être filmés au 1200mm. mesures à vérifier
 
+ATTENTION : modifier au moins le decors de la chambre pour focale de 1000 mm
+
 ## Fond noir
 
 Rideau noir de 1600×2300 mm suspendu à 2800 mm environ.
@@ -38,18 +40,28 @@ Peut-être affiche de pub pour le feu sans fumée, grafiti du futur, ou autre.
 
 ## Voiture
 
-- Portière
-- Tableau de bord + volant
-- Parbrise + vitres
-- Fauteuils
 
-À réfléchir d'après photo.
+Voiture jouée en debout faux assis.
+
+Une feuille de décors avec en trompe l'oeil :
+  - Portière
+  - Tableau de bord
+  - Parbrise + vitres
+
+Un volant sur pied.
+
+La feuille de décors est recto verso pour contre-champ.
+
+Ou alors une autre feuille de décors pour un plan de face.
 
 Effets :
 
 - Paysage qui défile (branches d'arbres à la main)
 - Goutes d'eau sur la vitre
 
+### Photos de référence
+
+![](../photos/reference_voiture_1.jpg) ![](../photos/reference_voiture_2.jpg) ![](../photos/reference_voiture_3.jpg)
 # Accéssoires
 
 Facile :

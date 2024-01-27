@@ -26,7 +26,7 @@ Les plaques sont projetées en étant retro-éclairées comme des plaques de lan
 
 Les plaques sont équipées de crochets.
 
-À environ 1100mm de l'objectif les plaques peuvent très facilement être accrochées et décrochées sur une tringle. Peut-être réfléchir à un système pour pouvoir enchaîner rapidement deux plaques (sinon tant-pis on passera à chaque fois par un noir). Il faut que ces manips puissent se faire seul·e.
+À environ 1100 mm de l'objectif les plaques peuvent très facilement être accrochées et décrochées sur une tringle. Peut-être réfléchir à un système pour pouvoir enchaîner rapidement deux plaques, par exemple, la tringle fait la largeur de deux plaques et est montée sur rail (sinon on passera à chaque fois par un noir). Il faut que ces manips puissent se faire seul·e.
 
 Cette structure est équipée de volets pour que le soleil n'éclaire pas les plaques par l'avant.
 
@@ -65,7 +65,7 @@ Anim 2 : Longue translation horizontale pour le déplacement du bateau. La trans
 
 #### *Niveau de l'eau*
 
-Fixe : Décors ville en perspective cavalière.
+Fixe : Décors ville en perspective cavalière. (sol jaune pour casser le bleu de l'eau, imeuble blanc pour garder couleur du linge)
 
 Anim 1 : Longue translation verticale pour faire monter l'eau.
 
@@ -73,11 +73,12 @@ Anim 2 : Longue translation horizontale pour faire sortir le linge.
 
 #### *Mutation*
 
-Fixe : Deux persos + décors
+Fixe : Deux persos + décors + caches noirs
 
-Anim 1 : Rotation du bras et d'un grand cache (cache tout sauf le faisceau de la lampe)
+Anim 1 : Petite translation verticale ouverture des yeux du premier perso. Puis grande translation verticale devoile tout le premier perso.
 
-TROUVER SOLUTION POUR LES YEUX ???????????
+Anim 2 : Rotation du bras et d'un grand cache (cache tout sauf le faisceau de la lampe). D'abord allume la lampe, puis dévoile le deuxième perso.
+
 
 #### *Période malheureuse*
 
@@ -91,7 +92,9 @@ Anim : Rotation désaxées pour le chariot au premier plan.
 
 Fixe : La fusée et son ciel sur une bande verticale au centre
 
-Anim : Longue translation Le reste du ciel et la terre qui défilent.
+Anim 1 : Longue translation Le reste du ciel et la terre qui défilent.
+
+Anim 2 : Pourquoi pas une autre anim de la fusée qui part vers le haut en fin de plan.
 
 #### *Golden record* 2
 
@@ -131,6 +134,8 @@ Anim 8 : Translation horizontale courte rapide en aller-retour pour mains
 
 Anim 9 : Translation horizontale courte pour volet texte E
 
+Les textes A B C D peuvent se dévoiler avec les anims des symptomes concernées pour réduire le nombre de mécanisme.
+
 #### *Comportement* 2
 
 Fixe : 3 visages et 2 paires d'yeux.
@@ -139,7 +144,7 @@ Anim : Translation courte horizontale de 2 visages et 3 paires d'yeux pour faire
 
 #### *Épilogue* 1
 
-Fixe : Quasi tout opaque avec zone pour laisser apparaître le perso et trous pour effet vaques
+Fixe : Quasi tout opaque avec zone pour laisser apparaître le perso et trous pour effet vagues et bulles
 
 Anim : Translation verticale. Fait apparaître le personnage petit à petit et en même temps fait clignoter les vagues.
 
@@ -162,7 +167,7 @@ Une personne qui tient un parapluie et qui se déplace, pas d'articulations.
 
 #### *Niveau de l'eau* 2
 
-Des poissons et une baleine qui se déplacent. Éventuellement une articulation pour la baleine.
+Des poissons et une baleine qui se déplacent. Éventuellement une articulation pour la baleine. Souplesse entre les poissons.
 
 #### *Période heureuse*
 
@@ -206,6 +211,6 @@ Un perso qui grimpe les marches. Il se manipule par les pieds. (2 articulations 
 
 #### *Période malheureuse*
 
-Un chariot de montagne russe pour le lointain. Pas d'articulation.
+Un chariot de montagne russe pour le lointain. Avec éventuellement une articulation entre la tige et le chariot.
 
 

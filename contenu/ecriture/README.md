@@ -10,6 +10,7 @@ C'est un court metrage de 20 minutes sous forme de notes ou de fragments qui s'e
 - [*Souvenirs du futur*](souvenirs-du-futur.md), Le film.
 - [Story Board](storyboard.md), Storyboard pour *Souvenirs du futur*.
 - [intro](intro.md), Le texte d'intro pour accueillir les gens dans la camera obscura.
+- [Conduite](conduite.md), Une ébauche de conduite technique.
 
 ## archives
 
