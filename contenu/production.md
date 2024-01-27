@@ -235,20 +235,28 @@ Constructeurice :
  - [ ] claisse clim
  - [ ] Escalier principal
 
+### Du 12/02/2024 au 16/02/2024 : Marseille (13)
+
+ - [ ] conception et dessin exostructure en tube
+ - [ ] conception et dessin barillet + adaptation lentille existantes
+ - [ ] conception et dessin télécommande
+ - [ ] conception et dessin réflecteur
+ - [ ] conception et dessin castelet
+
 ### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
- - [ ] Exostructure en tube
- - [ ] cadre vitre
+ - [ ] réalisation exostructure en tube
+ - [ ] réalisation  barillet + adaptation lentille existantes
+ - [ ] réalisation  télécommande
+ - [ ] réalisation  réflecteur
+ - [ ] réalisation  castelet
  - [ ] accroche souflet
- - [ ] diffusion arrière passer les PVCc
- - [ ] conception/réalisation barillet
- - [ ] conception télécommande
- - [ ] conception réflecteur
- - [ ] conception castelet
- - [ ] medium mur nord
+ - [ ] cadre vitre
  - [ ] pose Caméra recul
  - [ ] cache écran
  - [ ] Habillage structure écran
+ - [ ] diffusion arrière passer les PVC
+ - [ ] medium mur nord
 
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
