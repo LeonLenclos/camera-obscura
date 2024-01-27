@@ -39,6 +39,10 @@
 - [ ] pose Caméra recul
 - [ ] coupe alu fauteuil
 - [ ] test enduit bas de caisse galva
+- [ ] redessiner caisses à la bonne dimension
+- [ ] prepa alu caisses
+- [ ] dessiner escalier
+- [ ] couper alu escalier
 
 ### Avec Fabien
 
@@ -79,6 +83,7 @@
 
 ### Finitions
 
+- [ ] ventilation
 - [ ] pose tissus
 - [ ] conception volet hublot
 - [ ] réalisation volet hublot
@@ -87,6 +92,7 @@
 - [ ] pose moquette
 - [ ] dessin extérieur (peinture ou transfert)
 - [ ] niveau + boussole
+
 
 ### Long terme
 
