@@ -230,9 +230,9 @@ Constructeurice :
 
 ### Du 12/02/2024 au 16/02/2024 : Graulhet Uzine chez Fabien (81)
 
+ - [ ] support Amici
  - [ ] série fauteuils
  - [ ] claisse clim
- - [ ] support Amici
  - [ ] Escalier principal
 
 ### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
