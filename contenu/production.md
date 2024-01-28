@@ -242,6 +242,7 @@ Constructeurice :
  - [ ] conception et dessin télécommande
  - [ ] conception et dessin réflecteur
  - [ ] conception et dessin castelet
+ - [ ] prépare une anim pour test.
 
 ### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
@@ -257,7 +258,7 @@ Constructeurice :
  - [ ] Habillage structure écran
  - [ ] diffusion arrière passer les PVC
  - [ ] medium mur nord
-
+ - [ ] test plaque anim
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
