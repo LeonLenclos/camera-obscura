@@ -6,7 +6,7 @@
 - [*Analogue photography*, ars-imago Vetro, 2018](https://vetroeditions.com/products/analogue-photography)
 - [*Lanterne magique, avant le cinéma*, Jérôme Prieur, fario, 2021](https://editionsfario.fr/livre/lanterne-magique/)
 - [*Je me souviens*, Georges Pérec, Fayard, 2013 (ed. originale : 1978)](https://www.fayard.fr/livre/je-me-souviens-9782213677972/)
-- [*Semi Science-Fiction*, Léa Murawiec, Flutiste, 2023 2023](http://flutiste.fr/2023/07/23/semi-science-fiction/)
+- [*Semi Science-Fiction*, Léa Murawiec, Flutiste, 2023](http://flutiste.fr/2023/07/23/semi-science-fiction/)
 
 ## Bibliothèque rêvée
 
