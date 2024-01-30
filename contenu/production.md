@@ -190,8 +190,8 @@ Constructeurice :
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
 
 ### Du 22/01/2024 au 30/01/2024 : Serre Boyer (04) - Chez Florence.
-  - [X] écriture texte et musiques
-  - [x] storyboard
+  - [X] écriture textes et musiques
+  - [x] découpage et storyboard
   - [x] réalisation animatic
   - [x] dépouillement du storyboard
   - [x] Arrivée de Lucile
