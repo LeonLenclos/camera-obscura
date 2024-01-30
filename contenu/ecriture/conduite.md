@@ -162,7 +162,7 @@
 
 - OBTURATEUR : NOIR
 - DECORS AMICI : voiture 1
-- FOCALE AMICI : 750mm
+- FOCALE AMICI : 1000mm
 - OBTURATEUR : AMICI
 
 ---
@@ -173,7 +173,7 @@
 
 ---
 
-- FOCALE AMICI : 750mm
+- FOCALE AMICI : 1000mm
 - OBTURATEUR : AMICI
 
 ---
@@ -184,7 +184,7 @@
 ---
 
 - DECORS AMICI : voiture 2
-- FOCALE AMICI : 750mm
+- FOCALE AMICI : 1000mm
 - OBTURATEUR : AMICI
 
 ---
@@ -277,7 +277,7 @@
 
 ---
 
-- FOCALE AMICI : 1000 mm
+- FOCALE AMICI : 750 mm
 - OBTURATEUR : AMICI
 
 ---
@@ -285,7 +285,7 @@
 - MIROIR 45 : IN
 - PLAQUE : OUT
 - DECORS SOL : briques
-- FOCALE FACE : 750mm
+- FOCALE FACE : 1000mm
 - OBTURATEUR : FACE
 
 ---

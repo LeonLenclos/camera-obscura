@@ -61,6 +61,7 @@ Effets :
 
 ### Photos de référence
 
+ATTENTION ces ref émulent un 750mm, sûrment plutot tournés au 1000mm
 ![](../photos/reference_voiture_1.jpg) ![](../photos/reference_voiture_2.jpg) ![](../photos/reference_voiture_3.jpg)
 # Accéssoires
 

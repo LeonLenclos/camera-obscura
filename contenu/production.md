@@ -242,7 +242,7 @@ Constructeurice :
  - [ ] conception et dessin télécommande
  - [ ] conception et dessin réflecteur
  - [ ] conception et dessin castelet
- - [ ] prépare une anim pour test.
+ - [ ] prépare une anim pour test
 
 ### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
@@ -262,6 +262,8 @@ Constructeurice :
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
+
+- Caméra  CARO + Liaison HF CARO + tvlogic pour retour vidéo dehors.
 
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
