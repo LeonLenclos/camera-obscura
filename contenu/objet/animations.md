@@ -4,21 +4,63 @@ Les titres, les séquences animés, les séquences photos fonctionnent grâce à
 
 On utilise principalement du plexiglas.
 
-## Normes esthétiques pour les animations
+## Dessin et vinyle
 
 (ceci ne concerne pas les séquences de type photo et les titres)
 
-On se limite à une palette de couleurs restreinte, du transparent (blanc) du opaque (noir) et un jeu de couleurs clairs à définir (peut-être jaune vert bleu rose)
+Épaisseur de trait : 6 mm
 
-Épaisseur de trait constante (à définir)
+Couleurs :
+
+On se limite à une palette de couleurs restreinte, du transparent (blanc) du opaque (noir) et un jeu de couleurs clairs transparente.
+
+Les images sont faites avec du vinyle autocollant découpé au cutter numérique. (Voir [ce tuto](https://www.youtube.com/watch?v=6oG9WtHLb-w) pour l'application)
+
+![Nuancier](../img/nuancier-oracal.png)
+
+- [ORACAL 8300](https://www.orafol.com/fr/europe/produits/oracal-8300-transparent-cal) (transparent)
+  - Bleu roi #049
+  - Bleu clair #053
+  - Vert #061
+  - Jaune or #020
+  - Rose saumon #089
+  - Gris moyen #074
+  - Gris foncé #073
+- [ORACAL 631](https://www.orafol.com/fr/europe/produits/oracal-651-intermediate-cal) (opaque mat)
+  - noir #070
+
+Les dessins sont faits sur Inkscape dans ce fichier : [dessins/plaques.svg](../dessins/plaques.svg)
+
+## Mécanisme des animations et plexi
+
+On utilise du plexiglas transparent GS.
+
+Le GS (moulé) est plus cher mais plus rigide, se découpe mieux, meilleure finition que le XT (extrudé).
+
+Les pièces de plexi non-rectangulaires seront découpées à la découpeuse laser.
+
+
+## Dimensions
+
+L'idée est qu'aucune plaque ne dépasse 1000×1000 mm
+
+Si une plaque devait être plus grande elle devra être démontable.
+
+- Encombrement max : 1000×1000
+- Plaque fixe :  1000×760
+- Image :  951×700
+- Image utile :  931×680
+
+![Plaque](../plans/plaque.png)
+
+- "Demi-plaques" chez plexiglas : 2050×1520
+- quart de "Demi-plaques" : 1025×760
 
 ## Les plaques
 
-Il y a un peu plus d'une vingtaine de plaques. Elles mesurent environ 1000×730 mm.
+Il y a un peu plus d'une vingtaine de plaques. 
 
 Certaines sont animées (méchanismes de rotation ou de translation activés par des leviers). D'autres sont fixes (décors pour film animé ou photo).
-
-À noter pour le rangement que certains éléments animés dépassent de la plaque.
 
 Les plaques sont projetées en étant retro-éclairées comme des plaques de lanterne magique ou des diapositives.
 
