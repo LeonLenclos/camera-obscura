@@ -189,10 +189,12 @@ Constructeurice :
  
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
 
-## Résidences à venir
-
 ### Du 22/01/2024 au 30/01/2024 : Serre Boyer (04) - Chez Florence.
-- écriture texte et musiques
+  - [X] écriture textes et musiques
+  - [x] découpage et storyboard
+  - [x] réalisation animatic
+  - [x] dépouillement du storyboard
+  - [x] Arrivée de Lucile
 
 À prendre à Graulhet :
 - petit sac caméra FX3 complet avec pied, semelle, lecteur cartes.
@@ -207,7 +209,9 @@ Constructeurice :
 - Ordi + cables bancs titre + clavier
 - Matos dessin
 
-### Du 22/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
+## Résidences à venir
+
+### Du 30/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
 
 - [ ] habillage alu bas grille extraction
 - [ ] cornière trappe est
