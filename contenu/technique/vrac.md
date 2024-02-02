@@ -9,6 +9,14 @@
 
 #### Fournisseurs
 
+
+
+Antalis
+
+- Oracal 8300 : 8.5€/m² HT
+https://www.antalis.fr/eshop/ws/html/catalog/resultPage?keyWord=oracal+8300
+- Oracal noir 631 : 5.80€/m² HT
+
 Plexiglas shop
 
 - Dimensions 2050×1520 (4×1025×760)
@@ -29,3 +37,16 @@ Plaqueplastique.fr
 - Prix au m2 : 38,95€ HT
 - Prix par plaque 1000×700 : 27,27€ HT
 
+
+
+|       | Description | Aperçu | Fichier |
+|-------|-------------|--------|---------|
+| Plexi |             |        |         |
+| #070  |
+| #049  |
+| #053  |
+| #061  |
+| #020  |
+| #089  |
+| #074  |
+| #073  |

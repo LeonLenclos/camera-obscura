@@ -24,12 +24,13 @@ Les images sont faites avec du vinyle autocollant découpé au cutter numérique
   - Vert #061
   - Jaune or #020
   - Rose saumon #089
+  - Ajouter un rouge ?????
   - Gris moyen #074
   - Gris foncé #073
 - [ORACAL 631](https://www.orafol.com/fr/europe/produits/oracal-651-intermediate-cal) (opaque mat)
   - noir #070
 
-Les dessins sont faits sur Inkscape dans ce fichier : [dessins/plaques.svg](../dessins/plaques.svg)
+Les dessins sont faits sur Inkscape dans ce fichier : [animations/animations.svg](../animations/animations.svg)
 
 ## Mécanisme des animations et plexi
 
@@ -39,7 +40,14 @@ Le GS (moulé) est plus cher mais plus rigide, se découpe mieux, meilleure fini
 
 Les pièces de plexi non-rectangulaires seront découpées à la découpeuse laser.
 
+Les mécanismes de translation sont fait avec des guides en plexi (droits ou courbes).
 
+Chaque guide est construit avec deux épaisseurs de plexi. du 4 mm (1 mm de jeu sur l'épaisseur) pour guider. Et du 3 mm pour piéger la plaque.
+
+Pour les mécanismes de rotation, on met aussi des guides (courbes) et si l'axe de rotation est dans la plaque, on met un boulon de classeur de 4 mm Ø dans un trou de 5 mm Ø
+
+Les arrêtes des plaques peuvent être biseautés pour éviter d'abîmer le vinyle lorsqu'une plaque glisse sur une autre.
+ 
 ## Dimensions
 
 L'idée est qu'aucune plaque ne dépasse 1000×1000 mm
@@ -68,11 +76,11 @@ Les plaques sont projetées en étant retro-éclairées comme des plaques de lan
 
 Les plaques sont équipées de crochets.
 
-À environ 1100 mm de l'objectif les plaques peuvent très facilement être accrochées et décrochées sur une tringle. Peut-être réfléchir à un système pour pouvoir enchaîner rapidement deux plaques, par exemple, la tringle fait la largeur de deux plaques et est montée sur rail (sinon on passera à chaque fois par un noir). Il faut que ces manips puissent se faire seul·e.
+À environ 1100 mm de l'objectif les plaques peuvent très facilement être accrochées et décrochées sur une tringle. Peut-être réfléchir à un système pour pouvoir enchaîner rapidement deux plaques, par exemple, la tringle fait la largeur de trois plaques et les plaques ont des roues (sinon on passera à chaque fois par un noir). Il faut que ces manips puissent se faire seul·e.
 
 Cette structure est équipée de volets pour que le soleil n'éclaire pas les plaques par l'avant.
 
-Plus loin, un grand reflecteur permet d'éclairer les plaques par l'arrière.
+Plus loin, un grand reflecteur de 3000×3000 permet d'éclairer les plaques par l'arrière.
 
 
 ### Liste des plaques fixes
@@ -132,6 +140,8 @@ Anim : Rotation désaxées pour le chariot au premier plan.
 
 #### *Golden record* 1
 
+![aperçu plaque golden record 1](../animations/goldenrecord-1.png)
+
 Fixe : La fusée et son ciel sur une bande verticale au centre
 
 Anim 1 : Longue translation Le reste du ciel et la terre qui défilent.
@@ -140,11 +150,35 @@ Anim 2 : Pourquoi pas une autre anim de la fusée qui part vers le haut en fin d
 
 #### *Golden record* 2
 
-Fixe : Perso et décors
+![aperçu plaque golden record 2](../animations/goldenrecord-2.png)
 
-Anim : Translation verticale courte en aller-retours des avants-bras tenant le disque et des yeux.
+##### Fixe
+
+Perso et décors
+
+Plaque : rect 1000×700
+
+Mécanique : 3 rails dont 1 avec gorge
+
+Couleurs : 070 089 053 074 073
+
+![aperçu plaque fixe golden record 2](../animations/goldenrecord-2-fixe.png)
+
+##### Anim
+
+Translation verticale courte en aller-retours des avants-bras tenant le disque et des yeux.
+
+Plaque : rect 760×354
+
+Mécanique : 1 poignée + 1 butée
+
+Couleurs : 070 089
+
+![aperçu plaque anim golden record 2](../animations/goldenrecord-2-anim.png)
 
 #### *Golden record* 3
+
+![aperçu plaque golden record 3](../animations/goldenrecord-3.png)
 
 Fixe : Perso sans visage ordi et décors.
 

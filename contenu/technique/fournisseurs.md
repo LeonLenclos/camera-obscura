@@ -19,6 +19,12 @@
 - [Intrument glasses - LONDON](https://www.instrumentglasses.com/)
 - [Fossil Optical - LONDON](http://www.fossiloptical.com/work)
 
+## Plaques animation
+
+- [Antalis](https://www.antalis.fr/eshop/ws/html/catalog/resultPage?keyWord=oracal)
+- [Plexiglas Shop](https://www.plexiglas-shop.com/fr/produits/plexiglas-xt)
+- [The Solution Shop](https://www.thesolutionshop.com/fr/tube-m4-x-7-mm-plaqu%C3%A9-zinc-noir)
+
 ## Isolation
 - [Nature liège](https://www.natureliege.fr/146-plaques-isolation-en-liege-isolation-phonique-et-thermique)
 
