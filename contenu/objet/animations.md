@@ -152,29 +152,9 @@ Anim 2 : Pourquoi pas une autre anim de la fusée qui part vers le haut en fin d
 
 ![aperçu plaque golden record 2](../animations/goldenrecord-2.png)
 
-##### Fixe
+Fixe : Perso et décors
 
-Perso et décors
-
-Plaque : rect 1000×700
-
-Mécanique : 3 rails dont 1 avec gorge
-
-Couleurs : 070 089 053 074 073
-
-![aperçu plaque fixe golden record 2](../animations/goldenrecord-2-fixe.png)
-
-##### Anim
-
-Translation verticale courte en aller-retours des avants-bras tenant le disque et des yeux.
-
-Plaque : rect 760×354
-
-Mécanique : 1 poignée + 1 butée
-
-Couleurs : 070 089
-
-![aperçu plaque anim golden record 2](../animations/goldenrecord-2-anim.png)
+Anim : Translation verticale courte en aller-retours des avants-bras tenant le disque et des yeux.
 
 #### *Golden record* 3
 
@@ -182,7 +162,18 @@ Couleurs : 070 089
 
 Fixe : Perso sans visage ordi et décors.
 
+- Plaque : rect 1000×700
+- Mécanique : 3 rails dont 1 avec gorge
+- Couleurs : #070 #089 #053 #074 #073
+- Aperçu : ![aperçu plaque fixe golden record 2](../animations/goldenrecord-2-fixe.png)
+
+
 Anim : Courte translation horizontale pour pouvoir changer de visage.
+
+- Plaque : rect 760×354
+- Mécanique : 1 poignée + 1 butée
+- Couleurs : #070 #089
+- Aperçu : ![aperçu plaque anim golden record 2](../animations/goldenrecord-2-anim.png)
 
 #### *Comportement* 1
 
