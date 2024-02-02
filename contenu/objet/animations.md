@@ -165,7 +165,7 @@ Fixe : Perso sans visage ordi et décors.
 - Plaque : rect 1000×700
 - Mécanique : 3 rails dont 1 avec gorge
 - Couleurs : #070 #089 #053 #074 #073
-- Aperçu : ![aperçu plaque fixe golden record 2](../animations/goldenrecord-2-fixe.png)
+- Aperçu : ![aperçu plaque fixe golden record 3](../animations/goldenrecord-3-fixe.png)
 
 
 Anim : Courte translation horizontale pour pouvoir changer de visage.
@@ -173,7 +173,7 @@ Anim : Courte translation horizontale pour pouvoir changer de visage.
 - Plaque : rect 760×354
 - Mécanique : 1 poignée + 1 butée
 - Couleurs : #070 #089
-- Aperçu : ![aperçu plaque anim golden record 2](../animations/goldenrecord-2-anim.png)
+- Aperçu : ![aperçu plaque anim golden record 3](../animations/goldenrecord-3-anim.png)
 
 #### *Comportement* 1
 
