@@ -213,12 +213,12 @@ Constructeurice :
 
 ### Du 30/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
 
-- [ ] habillage alu bas grille extraction
-- [ ] cornière trappe est
-- [ ] Médium mur sud
+- [x] habillage alu bas grille extraction
+- [x] cornière trappe est
+- [x] Médium mur sud
 - [ ] cales plafond
-- [ ] finition Médium raccord
-- [ ] alu trappe
+- [ ] finition Médium raccord plafond
+- [x] alu trappe
 - [ ] fermoir et verrou + pose joint trappe
 - [ ] contre marche
 - [ ] isolation sous plancher bas
