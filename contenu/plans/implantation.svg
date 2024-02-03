@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="148mm"
-   viewBox="0 0 793.70081 559.37006"
+   width="176.23291mm"
+   height="186.58681mm"
+   viewBox="0 0 666.07716 705.20996"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.7722973"
-     inkscape:cx="183.86702"
-     inkscape:cy="377.44532"
+     inkscape:cx="212.35346"
+     inkscape:cy="503.04462"
      inkscape:window-width="1880"
      inkscape:window-height="1003"
      inkscape:window-x="20"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g1191" />
   <defs
      id="defs2">
     <marker
@@ -118,20 +118,14 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect2292"
-       width="662.29761"
-       height="701.43048"
-       x="-26.63192"
-       y="-123.13865" />
+     id="layer1"
+     transform="translate(28.521685,125.02841)">
     <g
        id="g1191"
        transform="rotate(90,274.6482,233.50258)"
        style="fill:#ffffff;stroke-width:3.77953;stroke-dasharray:none">
       <rect
-         style="font-variation-settings:normal;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect234"
          width="283.46457"
          height="94.48819"

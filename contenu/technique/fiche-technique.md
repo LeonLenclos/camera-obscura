@@ -1,4 +1,5 @@
-# Fiche technique - Camera Obscura - Cie NOKILL
+# Fiche technique
+# *Camera Obscura*, Cie NOKILL
 
 
 
@@ -79,10 +80,12 @@ Itinéraire d'accès au site à prévoir en amont avec la compagnie.
 
 ### Transport, repas, nuitées
 
-À la charge de l'organisateur (pas de régime alimentaire particulier).
+À la charge de l'organisateur.
+
+Pas de régime alimentaire particulier.
 
 
-## Besoins techniques
+## Besoins techniques
 
 ### Implantation
 
