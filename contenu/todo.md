@@ -22,16 +22,16 @@
 - [x] Finir pose des rails
 - [x] Passer des gaines
 - [ ] diffusion arrière passer les PVC
-- [ ] Faire passe étanchéité autour des trappes (Mastic PU)
+- [ ] Faire passe étanchéité dans les trappes (Mastic PU)
 - [ ] Fermoir trappe + pose joint trappe
 - [ ] réparer lumière (avant G)
-- [ ] habillage alu bas grille extraction
-- [ ] cornière trappe est
-- [ ] Médium mur sud
+- [x] habillage alu bas grille extraction
+- [x] cornière trappe est
+- [x] Médium mur sud
 - [ ] cales plafond
-- [ ] finition Médium raccord
-- [ ] alu trappe
-- [ ] fermoir et verrou + pose joint trappe
+- [ ] finition Médium raccord plafond
+- [x] alu trappe
+- [x] verrou trappe
 - [ ] contre marche
 - [ ] isolation sous plancher bas
 - [ ] grille sur plancher
