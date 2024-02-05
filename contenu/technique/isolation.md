@@ -72,8 +72,8 @@ Bouches :
 
 Verre :
 
-- 10 hublots (2 vitres de 6mm par hublot)
-- Vitre de projection  (6mm )
+- 10 hublots (2 vitres de 4mm par hublot)
+- Vitre de projection  (6mm)
 
 Portes :
 

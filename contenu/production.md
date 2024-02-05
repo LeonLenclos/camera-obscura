@@ -216,13 +216,13 @@ Constructeurice :
 - [x] habillage alu bas grille extraction
 - [x] cornière trappe est
 - [x] Médium mur sud
-- [ ] cales plafond
-- [ ] finition Médium raccord plafond
+- [x] finition Médium raccord plafond
 - [x] alu trappe
-- [ ] fermoir et verrou + pose joint trappe
+- [ ] cales plafond
 - [ ] contre marche
-- [ ] isolation sous plancher bas
 - [ ] grille sur plancher
+- [ ] isolation sous plancher bas
+- [ ] Medium nord
 - [ ] coup de peinture noire
 - [ ] passer cable caméra recul
 - [ ] coupe alu fauteuil
@@ -231,6 +231,11 @@ Constructeurice :
 - [ ] prepa alu caisses
 - [ ] dessiner escalier
 - [ ] couper alu escalier
+
+
+#### À décaler
+
+- [ ] fermoir et verrou + pose joint trappe
 
 ### Du 12/02/2024 au 16/02/2024 : Graulhet Uzine chez Fabien (81)
 
