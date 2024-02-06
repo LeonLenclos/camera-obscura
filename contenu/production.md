@@ -218,19 +218,21 @@ Constructeurice :
 - [x] Médium mur sud
 - [x] finition Médium raccord plafond
 - [x] alu trappe
-- [ ] cales plafond
-- [ ] contre marche
-- [ ] grille sur plancher
-- [ ] isolation sous plancher bas
-- [ ] Medium nord
-- [ ] coup de peinture noire
-- [ ] passer cable caméra recul
-- [ ] coupe alu fauteuil
+- [x] passer cable caméra recul
+- [x] cales plafond
+- [x] contre marche
+- [x] grille sur plancher
+- [x] isolation sous plancher bas
+
+- [ ] Medium nord et porte
 - [ ] test enduit bas de caisse galva
-- [ ] redessiner caisses à la bonne dimension
+- [ ] coup de peinture noire
+- [ ] coupe alu fauteuil
+- [ ] couper alu escalier
 - [ ] prepa alu caisses
 - [ ] dessiner escalier
-- [ ] couper alu escalier
+- [ ] redessiner caisses à la bonne dimension
+
 
 
 #### À décaler
@@ -266,7 +268,6 @@ Constructeurice :
  - [ ] cache écran
  - [ ] Habillage structure écran
  - [ ] diffusion arrière passer les PVC
- - [ ] medium mur nord
  - [ ] test plaque anim
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
