@@ -223,13 +223,14 @@ Constructeurice :
 - [x] contre marche
 - [x] grille sur plancher
 - [x] isolation sous plancher bas
+- [x] Medium nord et porte
 
-- [ ] Medium nord et porte
 - [ ] test enduit bas de caisse galva
 - [ ] coup de peinture noire
 - [ ] coupe alu fauteuil
-- [ ] couper alu escalier
+- [ ] coupe alu escalier
 - [ ] prepa alu caisses
+
 - [ ] dessiner escalier
 - [ ] redessiner caisses à la bonne dimension
 
