@@ -224,9 +224,9 @@ Constructeurice :
 - [x] grille sur plancher
 - [x] isolation sous plancher bas
 - [x] Medium nord et porte
+- [x] test enduit bas de caisse galva
+- [x] coup de peinture noire
 
-- [ ] test enduit bas de caisse galva
-- [ ] coup de peinture noire
 - [ ] coupe alu fauteuil
 - [ ] coupe alu escalier
 - [ ] prepa alu caisses
