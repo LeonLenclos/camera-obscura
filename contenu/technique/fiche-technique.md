@@ -25,7 +25,6 @@
 ### Contact administration et production
 - Bertrand Lenclos - 06 09 90 38 97 – admin@nokill.fr
 
-<div class="page-break"></div>
 
 ## Représentations
 
@@ -42,12 +41,9 @@ Total : 30 minutes
 ### Horaires
 4 représentations par jour à des horaires ensoleillée.
 
-Par exemple :
-- 11h00 - 11h30
-- 13h00 - 13h30
-- 14h30 - 15h00
-- 16h00 - 16h30
+Par exemple : 11h00 - 11h30 / 13h00 - 13h30 / 14h30 - 15h00 / 16h00 - 16h30
 
+<div class="page-break"></div>
 
 ## Public
 
@@ -65,8 +61,6 @@ Par représentation :
 
 ### Accueil public
 - Prévoir une personne aux horaires de représentation en renfort pour accueil et gestion du public.
-
-<div class="page-break"></div>
 
 ## Accueil compagnie
 
