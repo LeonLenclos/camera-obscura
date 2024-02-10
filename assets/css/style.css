@@ -399,3 +399,44 @@ blockquote >p:after {
   content:"\00BB";
 }
 
+
+/************************ WEB TO PRINT *************************/
+
+
+.web {
+  display: default;
+}
+.print {
+  display: none;
+}
+
+@media print {
+  /* All your print styles go here */
+  header,
+  footer,
+  .back {
+    display: none !important;
+  }
+  
+  .page-break {
+    break-after : page;
+  }
+  
+  .web {
+    display: none !important;
+  }
+  .print {
+    display: default !important;
+  }
+  #main {
+    width:unset;
+    max-width: 100%;
+  }
+  :root{
+  --BLK:  #000  ;
+  --DGR: #555 ;
+  --LGR:  #bbb  ;
+  --WHT: #fff ;
+  }
+}
+

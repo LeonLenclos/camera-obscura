@@ -1,6 +1,11 @@
 # Fiche technique
 # *Camera Obscura*, Cie NOKILL
 
+**Attention : Fiche technique provisoire, création en cours, ces informations sont suceptibles de changer dans les prochains mois.**
+
+<span class="print">La version la plus récente de ce document est consultable en ligne à cette adresse : [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>
+
+<span class="web">Une version imprimable de ce document est téléchargeable à cette adresse : [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
 
 
 ## Équipe
@@ -16,6 +21,9 @@
 
 ### Contact diffusion
 - Amparo Gallur – 07 68 52 29 53 – cie@nokill.fr
+
+### Contact administration et production
+- Bertrand Lenclos - 06 09 90 38 97 – admin@nokill.fr
 
 
 
@@ -51,35 +59,40 @@ Par représentation :
 - ou 19 places assises + 1 place PMR
 - ou 17 places assises + 2 place PMR
 
-4 places supplémentaires en sur-jauge (sur les marches).
-
 ### Accessibilité
 - Accès PMR : En cours de conception, accès non-garanti pour l'instant.
 - Personnes malvoyantes : peut convenir (Contient textes, bruitages et musiques).
 - Personnes malentendantes : peut convenir (Spectacle très visuel).
 
+### Accueil public
+- Prévoir une personne aux horaires de représentation en renfort pour accueil et gestion du public.
 
 
-## Accueil
+## Accueil compagnie
 
 ### Accès au site
-Caractéristiques :
-- Hauteur remorque : 3,5 m
-- Largeur remorque : 2,5 m
-- Longueur remorque : 7,5 m
-- Longueur remorque + tracteur : 
-- poids : inférieur à 3,5 t
 
-Itinéraire d'accès au site à prévoir en amont avec la compagnie.
+Véhicules :
+- La "remorque" : la salle de spectacle *Camera Obscura*
+- Le "camion" : transport du matériel, tracteur de la remorque et loge
+
+Caractéristiques véhicules :
+- Hauteur remorque : 3,10 m
+- Largeur remorque : 2,50 m
+- Longueur remorque : 7,50 m
+- Longueur remorque + camion : 13,5 0m
+- poids remorque : inférieur à 2,5 t
+- poids camion : inférieur à 3 t
+- poids remorque + camion : inférieur à 5,5 t
+
+Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit être étudié en amont avec la compagnie.
 
 ### Montage/Démontage
-
 - Montage : 1 jour
-- Démontage : 1 jour
-- Pas de technicien·ne supplémentaire nécessaire pour le montage
+- Démontage : 0,5 jour
+- Pas de technicien·ne supplémentaire nécessaire pour le montage et le démontage
 
 ### Transport, repas, nuitées
-
 À la charge de l'organisateur.
 
 Pas de régime alimentaire particulier.
@@ -89,17 +102,23 @@ Pas de régime alimentaire particulier.
 
 ### Implantation
 
-- Dimensions remorque : 2,50 × 7,5 m
+- Dimensions remorque : 2,50 × 7,50 m
 - Espace nécessaire : 10 × 20 m
+- Terrain : plat.
 - Orientation : L'avant de la remorque doit être orienté vers le nord.
-- Ensoleillement : L'espace de jeu doit être ensoleillé aux heures de jeu.
+- Ensoleillement : L'espace de jeu doit être ensoleillé (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu à l'avant de la remorque pendant les représentations).
 
-La Camera Obscura s'installe en ville ou à la campagne, sur une place agîtée, dans une zone industrielle abandonnée, dans un parc, en pleine nature, au coeur d'un festival, etc.
+
+La Camera Obscura s'installe en ville ou à la campagne, sur une place vivante, dans une zone industrielle abandonnée, dans un parc, en pleine nature, au coeur d'un festival, etc.
+
+Le camion doit rester à proximité de l'espace de jeu (à moins de 50 m).
 
 ![schema](../plans/implantation.png)
 
 ###  À fournir
 
-- Un point d'eau (pour remplir des bidons pour lester le matériel et pour remplir le système de refroidissement de l'air)
+- Un point d'eau (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
+- Une ligne 16A (pour la loge dans le camion)
+
 
 
