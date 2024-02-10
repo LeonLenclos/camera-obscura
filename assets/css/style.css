@@ -434,6 +434,7 @@ blockquote >p:after {
     #main {
       width:unset;
       max-width: 100%;
+      box-shadow : none !important;
     }
     body {
       background: none;
