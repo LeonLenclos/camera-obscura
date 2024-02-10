@@ -1,7 +1,7 @@
 # Fiche technique
 # *Camera Obscura*, Cie NOKILL
 
-**Attention : Fiche technique provisoire, création en cours, ces informations sont suceptibles de changer dans les prochains mois.**
+**Attention : Fiche technique provisoire, création en cours, ces informations sont susceptibles de changer dans les prochains mois.**
 
 <span class="print">La version la plus récente de ce document est consultable en ligne à cette adresse : [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>
 
@@ -39,7 +39,7 @@ Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interi
 Total : 30 minutes
 
 ### Horaires
-4 représentations par jour à des horaires ensoleillée.
+4 représentations par jour à des horaires ensoleillés.
 
 Par exemple : 11h00 - 11h30 / 13h00 - 13h30 / 14h30 - 15h00 / 16h00 - 16h30
 
@@ -52,12 +52,12 @@ Par représentation :
 
 - 21 places assises
 - ou 19 places assises + 1 place PMR
-- ou 17 places assises + 2 place PMR
+- ou 17 places assises + 2 places PMR
 
 ### Accessibilité
-- Accès PMR : En cours de conception, accès non-garanti pour l'instant.
-- Personnes malvoyantes : peut convenir (Contient textes, bruitages et musiques).
-- Personnes malentendantes : peut convenir (Spectacle très visuel).
+- Accès PMR : en cours de conception, accès non-garanti pour l'instant.
+- Personnes malvoyantes : peut convenir (contient textes, bruitages et musiques).
+- Personnes malentendantes : peut convenir (spectacle très visuel).
 
 ### Accueil public
 - Prévoir une personne aux horaires de représentation en renfort pour accueil et gestion du public.
@@ -74,10 +74,10 @@ Caractéristiques véhicules :
 - Hauteur remorque : 3,10 m
 - Largeur remorque : 2,50 m
 - Longueur remorque : 7,50 m
-- Longueur remorque + camion : 13,5 0m
-- poids remorque : inférieur à 2,5 t
-- poids camion : inférieur à 3 t
-- poids remorque + camion : inférieur à 5,5 t
+- Longueur remorque + camion : 13,5 m
+- Poids remorque : inférieur à 2,5 t
+- Poids camion : inférieur à 3 t
+- Poids remorque + camion : inférieur à 5,5 t
 
 Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit être étudié en amont avec la compagnie.
 
@@ -100,8 +100,8 @@ Pas de régime alimentaire particulier.
 - Dimensions remorque : 2,50 × 7,50 m
 - Espace nécessaire : 10 × 20 m
 - Terrain : plat.
-- Orientation : L'avant de la remorque doit être orienté vers le nord.
-- Ensoleillement : L'espace de jeu doit être ensoleillé (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu à l'avant de la remorque pendant les représentations).
+- Orientation : l'avant de la remorque doit être orienté vers le nord.
+- Ensoleillement : l'espace de jeu doit être ensoleillé (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu à l'avant de la remorque pendant les représentations).
 
 
 La Camera Obscura s'installe en ville ou à la campagne, sur une place vivante, dans une zone industrielle abandonnée, dans un parc, en pleine nature, au coeur d'un festival, etc.
