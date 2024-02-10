@@ -421,6 +421,9 @@ blockquote >p:after {
     .page-break {
       break-after : page;
     }
+    img {
+      break-inside: avoid;
+    }
 
     .web {
       display: none !important;
@@ -444,9 +447,11 @@ blockquote >p:after {
     .print small {
       display: block;
       border-top : 1px solid black;
+      text-align: center;
       font-size: .7em;
       margin-top : 2em;
     }
+
     :root{
     --BLK:  #000  ;
     --DGR: #555 ;
