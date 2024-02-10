@@ -67,7 +67,7 @@ Par représentation :
 ### Accueil public
 - Prévoir une personne aux horaires de représentation en renfort pour accueil et gestion du public.
 
-
+<div class="page-break"></div>
 ## Accueil compagnie
 
 ### Accès au site

@@ -410,33 +410,49 @@ blockquote >p:after {
   display: none;
 }
 
-@media print {
-  /* All your print styles go here */
-  header,
-  footer,
-  .back {
-    display: none !important;
+  @media print {
+    /* All your print styles go here */
+    header,
+    footer,
+    .back {
+      display: none !important;
+    }
+
+    .page-break {
+      break-after : page;
+    }
+
+    .web {
+      display: none !important;
+    }
+    .print {
+      display: unset !important;
+    }
+    #main {
+      width:unset;
+      max-width: 100%;
+    }
+    body {
+      background: none;
+      color: black;
+      font-size: 10pt;
+    }
+    h1, h2 {
+      text-align:center;
+    }
+
+    .print small {
+      display: block;
+      border-top : 1px solid black;
+      font-size: .7em;
+      margin-top : 2em;
+    }
+    :root{
+    --BLK:  #000  ;
+    --DGR: #555 ;
+    --LGR:  #bbb  ;
+    --WHT: #fff ;
+    }
   }
-  
-  .page-break {
-    break-after : page;
-  }
-  
-  .web {
-    display: none !important;
-  }
-  .print {
-    display: default !important;
-  }
-  #main {
-    width:unset;
-    max-width: 100%;
-  }
-  :root{
-  --BLK:  #000  ;
-  --DGR: #555 ;
-  --LGR:  #bbb  ;
-  --WHT: #fff ;
-  }
-}
+
 
