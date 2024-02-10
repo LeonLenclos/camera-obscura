@@ -7,7 +7,7 @@
 
 <span class="web">Une version imprimable de ce document est téléchargeable à cette adresse : [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
 
-<div class="avoid-break">
+
 ## Équipe
 
 ### Contact comédien·nes
@@ -24,10 +24,9 @@
 
 ### Contact administration et production
 - Bertrand Lenclos - 06 09 90 38 97 – admin@nokill.fr
-</div>
 
+<div class="page-break"></div>
 
-<div class="avoid-break">
 ## Représentations
 
 ### Résumé
@@ -48,9 +47,8 @@ Par exemple :
 - 13h00 - 13h30
 - 14h30 - 15h00
 - 16h00 - 16h30
-</div>
 
-<div class="avoid-break">
+
 ## Public
 
 ### Jauge 
@@ -67,9 +65,9 @@ Par représentation :
 
 ### Accueil public
 - Prévoir une personne aux horaires de représentation en renfort pour accueil et gestion du public.
-<div>
 
-<div class="avoid-break">
+<div class="page-break"></div>
+
 ## Accueil compagnie
 
 ### Accès au site
@@ -98,9 +96,9 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 À la charge de l'organisateur.
 
 Pas de régime alimentaire particulier.
-<div>
 
-<div class="avoid-break">
+<div class="page-break"></div>
+
 ## Besoins techniques
 
 ### Implantation
@@ -122,6 +120,6 @@ Le camion doit rester à proximité de l'espace de jeu (à moins de 50 m).
 
 - Un point d'eau (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
 - Une ligne 16A (pour la loge dans le camion)
-</div>
+
 
 
