@@ -5,7 +5,7 @@
 
 <span class="print">La version la plus récente de ce document est consultable en ligne à cette adresse : [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>
 
-<span class="web">Une version PDF de ce document est téléchargeable à cette adresse :  
+<span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
 
 
