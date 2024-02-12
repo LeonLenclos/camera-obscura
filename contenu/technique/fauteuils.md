@@ -38,11 +38,11 @@ solution envisagée : mousse CMHR prédécoupée et housse en tissus amovible.
 
 Au bord des marches on pense à des poufs (h 200) ou tabourets (h 400). Il en faudrait 4.
 
-Au sol devant le premier rang, peut-être 5 poufs en plus pour enfants ??.
+Au sol devant le premier rang, peut-être 5 poufs en plus pour enfants ??
 
-## Plan avec sections
+## Fabrication
 
-![fauteuil](/contenu/plans/fauteuil.png)
+![fauteuil](/contenu/plans/fauteuil-structure.png)
 
 ## Implantation dans la remorque
 
