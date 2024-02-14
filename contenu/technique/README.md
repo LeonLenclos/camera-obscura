@@ -1,8 +1,6 @@
 # Technique
 
-*En travaux*
-
-Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès qu'on a du contenu à propos d'un de ces points, on crée un fichier et on met le lien du fichier dans la liste.
+Voici la liste des questions et spécifications techniques liés au spectacle *Camera Obscura*.
 
 - [Introduction](introtechnique.md) : principes généraux qui guident notre travail
 - [Fiche technique](fiche-technique.md) : provisoire !

@@ -24,11 +24,26 @@ La planchette est le support de la **tourelle d'objectifs** et des **obturateurs
 
 La planchette est fixée à l'avant du [[soufflet]](soufflets.md) et raccordé aux organes de commande qui font le lien avec les **télécommandes** en régie. 
 
-#### Rails
+## Cage
 
-- Deux rails en tube alu rond de 50 reliés par des traverses.
-- Entraxe : 1000
-- Longueur : Taille du chariot (550) + amplitude soufflet (400) ≃ 1000
+La cage est une structure en alu (tube de 50) solidaire de la remorque et autour de laquelle s'articule toute la machinerie.
+
+
+#### Rail
+
+![plan du rail](../plans/rail.png)
+
+C'est le rail sur lequel roule le chariot
+
+- Fait en tube alu rond de 50 (~ 11 m).
+- Les dimensions du plans sont les dimensions entre axes.
+- Mes narres HE et HW sont les deux rails du traveling
+- Longueur utile : Taille du chariot (550) + amplitude soufflet (400) ≃ 1000.
+- En rouge : 4 raccords en té (ref. [RC2 Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/203-raccord-rc2-diametre-50mm)).
+- En bleu : 2 raccords à 90° (ref. [RAC 90° Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/220-raccord-rac-90-diametre-50mm)).
+- En cyan : 4 pieds pour ajuster la hauteur et s'adapter au terrain.
+- 4 crochets fixés sur 4 manchons de la face sud de la remorque (sous la vitre) s'accrochent aux barres SW et SE, sous et au dessus du raccord en té.
+- éventuellement HS pourra accueillir un palier pour reprendre l'arbre de commande.
 
 ## Éléments mobiles
 
@@ -59,15 +74,15 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 - Fait en tube alu rond de 35 (~ 10 m).
 - Les dimensions du plans sont les dimensions entre axes.
 - En vert : 2 × 4 Roues de skate montées en biais sur BW et BE.
-- En rouge : 12 raccords en té (ref. [JM101-B34](https://www.assemblagetubulaire.fr/raccord-te-court-jm101-b34.html)).
-- En bleu : 2 raccords à 90° (ref. [JM116-B34](https://www.assemblagetubulaire.fr/raccord-angle-90-degres-jm116-b34.html)).
+- En rouge : 12 raccords en té (ref. [RC2 Ø 35mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-35mm/78-raccord-rc2-diametre-35mm)).
+- En bleu : 2 raccords à 90° (ref. [RAC 90° Ø 35mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-35mm/93-raccord-rac-90-diametre-35mm)).
 - En magenta : 2 paliers à semelle de l'arbre rigide de commande au centre de BS et de BN. (ref. [KSTM-10-CL](https://www.igus.fr/product/igubal_KSTM-CL?artnr=KSTM-10-CL))
 - Prévoir triangulation pour maintenir la planchette verticale avec des câbles en acier pour un minimum de poids et d'encombrement.
 - La planchette se fixe sur SW et SE avec des crochets.
 - Une barre se fixe en biais entre HS et HW ou entre HS et HE pour soutenir Amici.
 - Régler la hauteur du cadre du haut (HS, HW, HN, HE) permet de caler Amici verticalement.
 
-#### Planchette
+### Planchette
 
 ![plan de la planchette](../plans/planchette.png)
 
@@ -83,7 +98,7 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 - À l'extérieur : 2 obturateurs
 - À l'intérieur : système d'alignement de la tourelle
 
-#### Arbre tourelle
+### Arbre tourelle
 
 ![Plan de l'arbre de la tourelle](../plans/tourelle-arbre.png)
 
@@ -93,7 +108,7 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 - Au nord de la planchette, supporte une poulie pour courroie dentée.
 - Les éléments supportés par la courroie sont maintenus par des écrous.
 
-#### Courroie tourelle
+### Courroie tourelle
 
 ![Plan de la courroie de la tourelle](../plans/tourelle-courroie.png)
 
@@ -131,7 +146,7 @@ La courroie permet de transmettre le mouvement de rotation de l'arbre de command
 - (serrage par écrous)
 
 
-#### Fûts des lentilles
+### Fûts des lentilles
 
 ![Schéma fût](../plans/fut-lentilles.png)
 
@@ -149,7 +164,7 @@ Matériaux :
 - Manchon D 160 PN16 FF à coller (ref. [ARM1B160AE](https://connexion-pression.com/raccords-pvc-pression/442-manchon-d-160-pn16-ff-a-coller.html)) (1/2 pce par fût)
 - Tube D 160 PN16 PVC Pression (ref. [ATU1B160AU](https://connexion-pression.com/tubes-tuyaux-pvc-pression/69-951-tube-d-160-pn16-pvc-pression.html)) (~50 mm par fût)
 
-#### Arbre de commande rigide
+### Arbre de commande rigide
 
 ![Schéma arbre de commande](../plans/commande-arbre.png)
 
@@ -187,7 +202,7 @@ Ouverture dans la paroi de la remorque :
 - 1 joint EPDM D 32 PN16 Pleine Bride (ref. [ACJ1Z032ZU](https://connexion-pression.com/joints-pression/899-joint-epdm-d-32-pn16-pleine-bride.html))
 - 1 tube D 25 L=~100 (ref. [ATU1D025AU](https://connexion-pression.com/tubes-tuyaux-pvc-pression/78-970-tube-d-25-pn25-pvc-pression.html#/13-taille_de_la_decoupe-decoupe_1_metre))
 
-#### Arbres flexibles
+### Arbres flexibles
 
 - 1 arbre flexible par obturateur.
 - Les arbres doivent être assez souples pour encaisser le déplacement de la planchette (amplitude 400mm)
