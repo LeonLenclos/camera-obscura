@@ -2,6 +2,30 @@
 - hublot iris
 - est-ce qu'on peut graver des disques pour gramophone
 
+### Courroie
+
+Courroie trapezoidale plus adaptée pour la clim (transmission de puissance)
+
+Courroie dentée plus adaptée pour la commande de la tourelle (synchrone)
+
+#### Notes sur une spec alternative de poulie dentée
+
+- Diamètre poulie : d = 76
+- Périmètre poulie : p = d × π ≃ 238,76
+- Largeur courroie : E = 20
+- Pas : m = 8M
+- Nombre de dents : n = d/m ≃ 30
+- Caracteristique poulie : Poulie dentée moyeu amovible
+- Référence poulie : PD8M30-20MA
+
+
+
+
+### Notions mécanique
+
+La force en N (Newton) c'est des kg·m·s<sup>-2</sup>. 1 N c'est donc la force qui appliqué à un objet d'1 kg pendant 1 s permet d'accéler cet objet d'1 m/s
+
+Le couple parfois noté Nm en fait c'est des N·m. 1 N·m permet d'appliquer une force de 1 N à un objet situé à 1 m de l'axe de rotation.
 
 
 ### Plexi
@@ -39,14 +63,3 @@ Plaqueplastique.fr
 
 
 
-|       | Description | Aperçu | Fichier |
-|-------|-------------|--------|---------|
-| Plexi |             |        |         |
-| #070  |
-| #049  |
-| #053  |
-| #061  |
-| #020  |
-| #089  |
-| #074  |
-| #073  |

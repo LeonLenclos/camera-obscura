@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75.514595mm"
+   height="13.471108mm"
+   viewBox="0 0 75.514595 13.471108"
+   version="1.1"
+   id="svg45676"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="tourelle-courroie.svg"
+   inkscape:export-filename="tourelle-courroie.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45678"
+     pagecolor="#f8f8f8"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2425443"
+     inkscape:cx="178.36883"
+     inkscape:cy="68.449038"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs45673">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.154548,-59.630935)">
+    <g
+       id="g46790"
+       transform="rotate(-90,82.241739,74.828215)">
+      <path
+         style="vector-effect:none;fill:#333333;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+         d="m 88.706966,144.82332 c 0,-1.82254 1.477457,-3.3 3.299992,-3.3 1.82253,0 3.29999,1.47746 3.29999,3.3 m 0,0 c 0,1.82255 -1.47746,3.30001 -3.29999,3.30001 -1.822535,0 -3.299992,-1.47746 -3.299992,-3.30001"
+         id="path46168-9-6-4" />
+      <path
+         style="vector-effect:none;fill:#333333;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+         d="m 88.706966,76.173315 c 0,-1.82254 1.477457,-3.3 3.299992,-3.3 1.82253,0 3.29999,1.47746 3.29999,3.3 m 0,0 c 0,1.82254 -1.47746,3.3 -3.29999,3.3 -1.822535,0 -3.299992,-1.47746 -3.299992,-3.3"
+         id="path46168-9-6" />
+      <path
+         style="vector-effect:none;fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 92.006958,73.123315 c 1.68446,0 3.04999,1.365532 3.04999,3.05 v 68.650005 c 0,1.68447 -1.36553,3.05 -3.04999,3.05 h 1.99977 c 1.68446,0 3.04999,-1.36553 3.04999,-3.05 V 76.173315 c 0,-1.684468 -1.36553,-3.05 -3.04999,-3.05 z"
+         id="path46212-4"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         style="vector-effect:none;fill:#ffd42a;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 94.006728,73.123315 c -1.68447,0 -3.049996,1.365532 -3.049996,3.05 v 68.649995 c 0,1.68447 1.365526,3.05001 3.049996,3.05001 h -1.99977 c -1.684467,0 -3.049997,-1.36554 -3.049997,-3.05001 V 76.173315 c 0,-1.684468 1.36553,-3.05 3.049997,-3.05 z"
+         id="path46212-4-2"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         style="vector-effect:none;fill:#666666;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+         d="m 90.706728,76.173315 c 0,-1.82254 1.47746,-3.3 3.3,-3.3 1.82254,0 3.3,1.47746 3.3,3.3 m 0,0 c 0,1.82254 -1.47746,3.3 -3.3,3.3 -1.82254,0 -3.3,-1.47746 -3.3,-3.3"
+         id="path46168-9" />
+      <path
+         style="vector-effect:none;fill:#666666;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+         d="m 90.706728,144.82332 c 0,-1.82254 1.47746,-3.3 3.3,-3.3 1.82254,0 3.3,1.47746 3.3,3.3 m 0,0 c 0,1.82255 -1.47746,3.30001 -3.3,3.30001 -1.82254,0 -3.3,-1.47746 -3.3,-3.30001"
+         id="path46168-9-1" />
+      <circle
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path46748"
+         cx="94.006729"
+         cy="76.173317"
+         r="0.5" />
+      <circle
+         style="font-variation-settings:normal;vector-effect:none;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="path46748-2"
+         cx="94.006729"
+         cy="144.82332"
+         r="0.5" />
+    </g>
+    <g
+       id="g46835"
+       transform="translate(1.3511575)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.264583"
+         x="115.40157"
+         y="73.066765"
+         id="text46794"><tspan
+           sodipodi:role="line"
+           id="tspan46792"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="115.40157"
+           y="73.066765">HAUT</tspan></text>
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-start:url(#TriangleStart);stop-color:#000000;stop-opacity:1"
+         d="m 108.6393,71.860266 h 6.02849"
+         id="path46796" />
+    </g>
+  </g>
+</svg>
