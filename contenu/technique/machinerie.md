@@ -149,9 +149,9 @@ Matériaux :
 - Manchon D 160 PN16 FF à coller (ref. [ARM1B160AE](https://connexion-pression.com/raccords-pvc-pression/442-manchon-d-160-pn16-ff-a-coller.html)) (1/2 pce par fût)
 - Tube D 160 PN16 PVC Pression (ref. [ATU1B160AU](https://connexion-pression.com/tubes-tuyaux-pvc-pression/69-951-tube-d-160-pn16-pvc-pression.html)) (~50 mm par fût)
 
-#### Arbre de commande rigide
+#### Arbre de commande rigide
 
-![Schéma arbre de commande](/home/leon/Projets/camera-obscura/contenu/plans/commande-arbre.png)
+![Schéma arbre de commande](../plans/commande-arbre.png)
 
 Fonctions :
 
