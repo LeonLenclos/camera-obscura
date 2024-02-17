@@ -27,7 +27,7 @@ Les images sont faites avec du vinyle autocollant découpé au cutter numérique
   - Ajouter un rouge ?????
   - Gris moyen #074
   - Gris foncé #073
-- [ORACAL 631](https://www.orafol.com/fr/europe/produits/oracal-651-intermediate-cal) (opaque mat)
+- [ORACAL 641](https://www.orafol.com/fr/europe/produits/oracal-641-intermediate-cal) (opaque mat)
   - noir #070
 
 Les dessins sont faits sur Inkscape dans ce fichier : [animations/animations.svg](../animations/animations.svg)

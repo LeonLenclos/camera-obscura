@@ -16,33 +16,62 @@ D'autres réglages se font depuis l'extérieur :
 
 La commande des obturateurs et du choix de la lentille peut aussi se faire à l'extérieur.
 
-## Éléments
+## Structures
 
-Des **rails** sont placé à environ 1 m 50 du sol. sur ces rails roule un **chariot**. Sur le chariot sont fixées différents accessoires (miroirs, etc.) ainsi que la **planchette**.
+![structures](../plans/machinerie-structures)
 
-La planchette est le support de la **tourelle d'objectifs** et des **obturateurs**.
+Les structures principales sont en tube alu de ø50 ou de ø35 :
 
-La planchette est fixée à l'avant du [[soufflet]](soufflets.md) et raccordé aux organes de commande qui font le lien avec les **télécommandes** en régie. 
+- en magenta : [la cage](#cage)
+- en rouge : [le rail](#rail)
+- en bleu : [le chariot](#chariot)
 
-## Cage
+## Éléments fixes
 
-La cage est une structure en alu (tube de 50) solidaire de la remorque et autour de laquelle s'articule toute la machinerie.
+Les éléments fixes sont les éléments solidaires de la remorque.
 
+Ils sont fixés à la remorque grâce à des crochets vissés sur les manchons de la remorque.
 
-#### Rail
+Rappel de la position des manchons au nord de la remorque :
+
+![positions des manchons](../plans/manchons-avant.png)
+
+### Cage
+
+![plan du rail](../plans/cage.png)
+
+- Fait en tube alu rond de 50 (~ 14 m).
+- Les dimensions du plans sont les dimensions entre axes.
+- Les barres HE et HW sont fixés sur les côtés de la remorque avec 4 crochets ø50.
+- En bleu : 2 raccords à 90° (ref. [RAC 90° Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/220-raccord-rac-90-diametre-50mm)).
+- En cyan : 2 layhers (Socle d'échafaudage réglable à vis) pour ajuster la hauteur et s'adapter au terrain.
+- Sur NE et NW on fixe la tringle des plaques avec des crochets (voir plus bas).
+
+Le rôle de la cage est surtout de porter la tringle des plaques :
+
+- Un plat alu
+- Fixé à la cage avec 2 crochets ø50.
+- Épaisseur : 3
+- Largeur : 60 ???
+- Longueur : 3200 (3 plaques + 200 de marge)
+- Hauteur du haut de la tringle : 2590 ?? (hauteur de l'axe optique (2179) + distance entre centre de la plaque et axe poulie (436?) - rayon primitif poulie (49/2))
+- Conçu pour poulies trapézoïdale [PTGT 49 13 17](https://www.tridistribution.fr/poulie-de-tension-pour-courroie/20573-poulie-en-nylon-6-30-fv.html)
+- Plus d'infos sur les plaques sur la page [objet/animations](../objet/animations.md)
+
+### Rail
 
 ![plan du rail](../plans/rail.png)
 
-C'est le rail sur lequel roule le chariot
+C'est le rail sur lequel roule le chariot.
 
 - Fait en tube alu rond de 50 (~ 11 m).
 - Les dimensions du plans sont les dimensions entre axes.
-- Mes narres HE et HW sont les deux rails du traveling
+- Les barres HE et HW sont les deux rails du traveling
 - Longueur utile : Taille du chariot (550) + amplitude soufflet (400) ≃ 1000.
 - En rouge : 4 raccords en té (ref. [RC2 Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/203-raccord-rc2-diametre-50mm)).
 - En bleu : 2 raccords à 90° (ref. [RAC 90° Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/220-raccord-rac-90-diametre-50mm)).
-- En cyan : 4 pieds pour ajuster la hauteur et s'adapter au terrain.
-- 4 crochets fixés sur 4 manchons de la face sud de la remorque (sous la vitre) s'accrochent aux barres SW et SE, sous et au dessus du raccord en té.
+- En cyan : 4 layhers (Socle d'échafaudage réglable à vis) pour ajuster la hauteur et s'adapter au terrain.
+- 4 crochets ø50 fixés sur 4 manchons de la face sud de la remorque (sous la vitre) s'accrochent aux barres SW et SE, sous et au dessus du raccord en té.
 - éventuellement HS pourra accueillir un palier pour reprendre l'arbre de commande.
 
 ## Éléments mobiles
@@ -60,8 +89,8 @@ L'élément mobile principal est le chariot.
 
 Éléments mobiles que l'on démonte du chariot :
 
-- Miroir Amici
-- Miroir 45°
+- Miroir Amici (montage avec une barre de ø35 et 6 crochets ø35) 
+- Miroir 45° (montage avec 2 crochets ø35)
 - La partie sud de l'arbre rigide de commande
 - Les arbres flexibles de commande
 
@@ -76,9 +105,9 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 - En vert : 2 × 4 Roues de skate montées en biais sur BW et BE.
 - En rouge : 12 raccords en té (ref. [RC2 Ø 35mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-35mm/78-raccord-rc2-diametre-35mm)).
 - En bleu : 2 raccords à 90° (ref. [RAC 90° Ø 35mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-35mm/93-raccord-rac-90-diametre-35mm)).
-- En magenta : 2 paliers à semelle de l'arbre rigide de commande au centre de BS et de BN. (ref. [KSTM-10-CL](https://www.igus.fr/product/igubal_KSTM-CL?artnr=KSTM-10-CL))
+- En magenta : 2 paliers à semelle de l'arbre rigide de commande au centre de BS et de BN. (ref. [SKP 000](https://www.ici-composants.com/miniature-inox/554-skp-000.html))
 - Prévoir triangulation pour maintenir la planchette verticale avec des câbles en acier pour un minimum de poids et d'encombrement.
-- La planchette se fixe sur SW et SE avec des crochets.
+- La planchette se fixe sur SW et SE avec des crochets (voir Planchette).
 - Une barre se fixe en biais entre HS et HW ou entre HS et HE pour soutenir Amici.
 - Régler la hauteur du cadre du haut (HS, HW, HN, HE) permet de caler Amici verticalement.
 
@@ -86,11 +115,11 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 
 ![plan de la planchette](../plans/planchette.png)
 
-- La planchette est fixée sur le chariot à l'aide de 4 crochets.
+- La planchette est fixée sur le chariot à l'aide de 4 crochets ø35.
 - Le soufflet est fixé à l'arrière de la planchette.
 - La planchette sert de support à la tourelle. La tourelle est à l'intérieur (sud) de la planchette la poulie est à l'extérieur (nord).
 - C'est parallélépipède de 740×540×100 ouvert au sud (côté soufflet).
-- 1 palier en applique en son centre pour accueillir l'arbre de la tourelle (ref. [EFSM-10-J4](https://www.igus.fr/product/igubal-EFSM?artnr=EFSM-10-J4)).
+- 2 palier en applique en son centre pour accueillir l'arbre de la tourelle (ref. [SKFL 000](https://www.ici-composants.com/miniature-inox/555-skfl-000.html)).
 - 2 ouvertures de ø141 en face des objectifs de la tourelles. (266 entre axes).
 
 À concevoir :
@@ -107,6 +136,7 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 - Au sud de la planchette, supporte la tourelle.
 - Au nord de la planchette, supporte une poulie pour courroie dentée.
 - Les éléments supportés par la courroie sont maintenus par des écrous.
+- Clavettes 3mm DIN 6885 – UNI 6604
 
 ### Courroie tourelle
 
@@ -137,6 +167,8 @@ La courroie permet de transmettre le mouvement de rotation de l'arbre de command
 
 ### Tourelle
 
+**OBSOLÈTE : À CORRIGER EN FONCTION DES FUTS ET AJOUTER CLAVETTE**
+
 {% include pdf.html url="/contenu/plans/tourelle.pdf" %}
 
 - Diamètre : ø490.
@@ -147,6 +179,8 @@ La courroie permet de transmettre le mouvement de rotation de l'arbre de command
 
 
 ### Fûts des lentilles
+
+**OBSOLÈTE : À CONCEVOIR**
 
 ![Schéma fût](../plans/fut-lentilles.png)
 
@@ -179,18 +213,19 @@ Position :
 - L'arbre de transmission doit être à 320 mm du bas de la vitre de projection afin de garantir sous le plafond de la régie un encombrement de 200 mm de rayon à 500 mm de l'isolant (marge de 100 mm par rapport aux 400 mm d'amplitude souhaités.)
 - 320 sous le bas de la vitre = L'arbre de transmission à 686.5 sous l'axe optique
 - Si on utilise des paliers igus KSTM-10-CL il faut compter 31.5 entre l'axe de l'arbre et l'axe du tube du bas de la petite cage
+- Si on utilise des paliers de ici composants SKP 000 il faut compter 35.5 entre l'axe de l'arbre et l'axe du tube du bas de la petite cage
 
 Partie nord de l'arbre :
 
 - longueur = ~600
-- Maintenue au chariot par 2 paliers à semelle de l'arbre rigide de commande au centre de BS et de BN. (ref. [KSTM-10-CL](https://www.igus.fr/product/igubal_KSTM-CL?artnr=KSTM-10-CL))
+- Maintenue au chariot par 2 paliers à semelle de l'arbre rigide de commande au centre de BS et de BN. (ref. [SKP 000](https://www.ici-composants.com/miniature-inox/554-skp-000.html))
 - Supporte une poulie
-- Un coupleur rigide 10×10 L25 D16 pour accoupler la partie sud de l'arbre ([ebay](https://www.ebay.fr/itm/184928316764?itmmeta=01HPKEQPG4G144EB9XN2P3PADK&hash=item2b0e962d5c:g:JIoAAOSwUpFg5bVi&itmprp=enc%3AAQAIAAAA4F%2B2bicTdhLiIURZ48VUP7DRbrk5wtQRekNjeAbEsi8SLtfNO0QlPChnVNarOj3vsAcsQq6w401%2F789PGWM%2FcZLor6FCl5Zpg9x8TG2VlaoKgW7qy%2FHleYa6vzn9ZxfLPFmw0Ljd2KY98KmpOOi4j2K8JusyJdKGXb8Zb%2FcVKfLHophb5BCmL%2F4N%2BoewfOuI3orqYfFs0nEOI07AwjdUrQ2oNPDvNkDtbCzSxYdQZXAwPdBXq0NHjCSBi4LkjvdW5jzFisQOskIjSqhpvnipXZjbu%2FWWbxCj6qpMLbvCspRc%7Ctkp%3ABk9SR5jo3u60Yw))
+- Accouplement d'arbre Ruland, diamètre 29mm, longueur 45mm pour accoupler la partie sud de l'arbre
 
 Partie nord de l'arbre :
 
 - longueur = ~1000
-- Maintenue par 1 palier en applique fixé sur la proie intérieure de la remorque (ref. [EFSM-10-J4](https://www.igus.fr/product/igubal-EFSM?artnr=EFSM-10-J4)).
+- Maintenue par 1 palier en applique fixé sur la proie intérieure de la remorque (ref. [SKFL 000](https://www.ici-composants.com/miniature-inox/555-skfl-000.html)).
 - Supporte un volant (par exemple : ref. [78521-R](https://www.elesa.com/ProductDisplay?storeId=10152&urlLangId=-2&parentCatEntryId=48502&productId=431042&categoryId=21502&top_category=21501&urlRequestType=Base&pageName=CatalogEntryPage&langId=-2&catalogId=10058))
 
 Ouverture dans la paroi de la remorque :
@@ -204,7 +239,7 @@ Ouverture dans la paroi de la remorque :
 
 ### Arbres flexibles
 
-- 1 arbre flexible par obturateur.
+- 2 arbres flexibles (1 par obturateur).
 - Les arbres doivent être assez souples pour encaisser le déplacement de la planchette (amplitude 400mm)
 
 
