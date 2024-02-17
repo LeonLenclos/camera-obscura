@@ -18,7 +18,7 @@ La commande des obturateurs et du choix de la lentille peut aussi se faire à l'
 
 ## Structures
 
-![structures](../plans/machinerie-structures)
+![structures](../plans/machinerie-structures.png)
 
 Les structures principales sont en tube alu de ø50 ou de ø35 :
 
