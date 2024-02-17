@@ -249,6 +249,7 @@ Constructeurice :
  - [ ] dessiner escalier
  - [ ] cale accoudoir
  - [ ] coupe pied fauteuil
+ - [ ] test fauteuil
  - [ ] rail caisses clim
  - [ ] poignée caisses clim
 
@@ -256,6 +257,7 @@ Courses :
  - [ ] CP antifeu plafond + siège
  - [ ] crochet 50mm + crochet 35 mm
  - [ ] mousse joint
+ - [ ] vitre soufflet
 
 
 ### Du 19/02/2024 au 25/02/2024 : Marseille (13)
@@ -316,11 +318,9 @@ Courses :
   - Finitions remorque
 
 - [ ] ventilation
-- [ ] pose tissus
 - [ ] conception volet hublot
 - [ ] réalisation volet hublot
 - [ ] Finitions interieur hublot
-- [ ] faux plafond en CP 5mm
 - [ ] pose moquette
 - [ ] dessin extérieur (peinture ou transfert)
 - [ ] niveau + boussole
