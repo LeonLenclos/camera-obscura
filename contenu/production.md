@@ -249,6 +249,13 @@ Constructeurice :
  - [ ] dessiner escalier
  - [ ] cale accoudoir
  - [ ] coupe pied fauteuil
+ - [ ] rail caisses clim
+ - [ ] poignée caisses clim
+
+Courses :
+ - [ ] CP antifeu plafond + siège
+ - [ ] crochet 50mm + crochet 35 mm
+ - [ ] mousse joint
 
 
 ### Du 19/02/2024 au 25/02/2024 : Marseille (13)
@@ -301,7 +308,7 @@ Constructeurice :
     
 - écriture et jeu
 
-  ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
+### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
   - Finitions remorque
 
 - [ ] ventilation
