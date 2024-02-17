@@ -277,6 +277,10 @@ Courses :
 ### Du 04/03/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
  - [ ] pose joint trappe
+ - [ ] bas de caisse
+ - [ ] pose plafond
+ - [ ] pose tissus
+ - [ ] cache écran
 
 ### Du 11/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
