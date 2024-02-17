@@ -209,8 +209,6 @@ Constructeurice :
 - Ordi + cables bancs titre + clavier
 - Matos dessin
 
-## Résidences à venir
-
 ### Du 30/01/2024 au 09/02/2024 : Graulhet chez les Plasticiens (81)
 
 - [x] habillage alu bas grille extraction
@@ -226,24 +224,13 @@ Constructeurice :
 - [x] Medium nord et porte
 - [x] test enduit bas de caisse galva
 - [x] coup de peinture noire
-- [ ] coupe alu fauteuil
-- [ ] coupe alu escalier
-- [ ] prepa alu caisses
-- [ ] dessiner escalier
-- [ ] redessiner caisses à la bonne dimension
+- [x] redessiner caisses à la bonne dimension
 
+### Du 12/02/2024 au 16/02/2024 : avec Fabien (81)
 
-
-#### À décaler
-
-- [ ] fermoir et verrou + pose joint trappe
-
-### Du 12/02/2024 au 16/02/2024 : Graulhet Uzine chez Fabien (81)
-
- - [ ] support Amici
- - [ ] série fauteuils
- - [ ] claisse clim
- - [ ] Escalier principal
+ - [x] support Amici
+ - [x] série fauteuils
+ - [x] claisse clim
 
 ### Du 12/02/2024 au 16/02/2024 : Marseille (13)
 
@@ -253,16 +240,49 @@ Constructeurice :
  - [ ] conception et dessin réflecteur
  - [ ] conception et dessin castelet
  - [ ] prépare une anim pour test
+ 
+## Résidences à venir
+
+### Du 19/02/2024 au 25/02/2024 : Graulhet chez les Plasticiens (81)
+
+ - [ ] fermoir et verrou
+ - [ ] dessiner escalier
+ - [ ] cale accoudoir
+ - [ ] coupe pied fauteuil
+
+
+### Du 19/02/2024 au 25/02/2024 : Marseille (13)
+
+ - [ ] dessin plaque
+
+### Du 26/02/2024 au 03/03/2024 : Graulhet chez les Plasticiens (81)
+
+ - [ ] réalisation  rail
+ - [ ] réalisation chariot
+ - [ ] planchette
+ - [ ] tourelle
+ - [ ] cage
+ - [ ] télécommande
+ - [ ] accroche souflet
+ - [ ] cadre vitre
+ - [ ] soudure Fabien finition siège
+
+### Du 04/03/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
+
+ - [ ] pose joint trappe
+
+### Du 11/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
+
+
+### Du 25/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
+
 
 ### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
- - [ ] réalisation exostructure en tube
- - [ ] réalisation  barillet + adaptation lentille existantes
- - [ ] réalisation  télécommande
+ - [ ] pose joint trappe
+ - [ ] coupe alu escalier
+ - [ ] Escalier principal
  - [ ] réalisation  réflecteur
- - [ ] réalisation  castelet
- - [ ] accroche souflet
- - [ ] cadre vitre
  - [ ] pose Caméra recul
  - [ ] cache écran
  - [ ] Habillage structure écran
@@ -273,7 +293,6 @@ Constructeurice :
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
 
 - Caméra  CARO + Liaison HF CARO + tvlogic pour retour vidéo dehors.
-
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
