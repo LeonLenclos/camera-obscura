@@ -28,32 +28,32 @@
 - [x] habillage alu bas grille extraction
 - [x] cornière trappe est
 - [x] Médium mur sud
-- [ ] cales plafond
-- [ ] finition Médium raccord plafond
+- [x] cales plafond
+- [x] finition Médium raccord plafond
 - [x] alu trappe
 - [x] verrou trappe
-- [ ] contre marche
-- [ ] isolation sous plancher bas
-- [ ] grille sur plancher
-- [ ] coup de peinture noire
+- [x] contre marche
+- [x] isolation sous plancher bas
+- [x] grille sur plancher
+- [x] coup de peinture noire
 - [ ] pose Caméra recul
-- [ ] coupe alu fauteuil
-- [ ] test enduit bas de caisse galva
-- [ ] redessiner caisses à la bonne dimension
-- [ ] prepa alu caisses
+- [x] coupe alu fauteuil
+- [x] test enduit bas de caisse galva
+- [x] redessiner caisses à la bonne dimension
+- [x] prepa alu caisses
 - [ ] dessiner escalier
 - [ ] couper alu escalier
 
 ### Avec Fabien
 
- - [ ] série fauteuils
- - [ ] claisse clim
- - [ ] support Amici
+ - [x] série fauteuils
+ - [x] claisse clim
+ - [x] support Amici
  - [ ] Escalier principal
 
 ### Exostructure/écran
 
- - [ ] cadre vitre soufflet
+ - [x] cadre vitre soufflet
  - [ ] conception accroche souflet
  - [ ] réalisation accroche souflet
  - [ ] Adapter le soufflet
@@ -120,7 +120,8 @@ Courriel : uid-81-12.dreal-occitanie@developpement-durable.gouv.fr
 - [x] camera de recul
 - [ ] joint trappe
 - [ ] CP M1 plafond et sièges 5mm peuplier
-- [ ] 20 gros et 20 petits crochets
+- [ ] 10 crochets de 50 mm
+- [ ] 12 crochets de 35 mm
 - [ ] vitres (Avant)
 - [ ] moquette
 - [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
