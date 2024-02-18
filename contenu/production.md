@@ -254,7 +254,7 @@ Constructeurice :
  - [ ] poignée caisses clim
 
 Courses :
- - [ ] CP antifeu plafond + siège
+ - [ ] CP antifeu plafond + siège 8 plaque CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html
  - [ ] crochet 50mm + crochet 35 mm
  - [ ] mousse joint
  - [ ] vitre soufflet
