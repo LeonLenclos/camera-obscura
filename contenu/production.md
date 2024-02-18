@@ -252,13 +252,17 @@ Constructeurice :
  - [ ] test fauteuil
  - [ ] rail caisses clim
  - [ ] poignée caisses clim
+ - [ ] conception machine à vent
 
-Courses :
+Courses et fournitures :
  - [ ] CP antifeu plafond + siège 8 plaque CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html
- - [ ] crochet 50mm + crochet 35 mm
- - [ ] mousse joint
- - [ ] vitre soufflet
-
+ - [ ] 10 crochet 50mm + 12 crochet 35 mm PROZIC
+ - [ ] mousse joint 10mm 10m chez Brusson
+ - [ ] vitre soufflet à mesurer
+ - [ ] plat alu renfort plaque à préciser avec Léon
+ - [ ] tringle Acier 3mm x 40mm x 3200mm
+ - [ ] renfort alu avec les chuttes de tôle alu ?
+ - [ ] disque tronconneuse 38 mm speed clic
 
 ### Du 19/02/2024 au 25/02/2024 : Marseille (13)
 
