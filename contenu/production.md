@@ -265,6 +265,7 @@ Courses et fournitures :
  - [ ] tringle Acier 3mm x 40mm x 3200mm
  - [ ] renfort alu avec les chuttes de tôle alu ?
  - [ ] disque tronconneuse 38 mm speed clic
+ - [ ] METISSE COTON 100 mm + PLAQUE LIEGE 30 mm
 
 ### Du 19/02/2024 au 25/02/2024 : Marseille (13)
 
