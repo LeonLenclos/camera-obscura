@@ -3,6 +3,8 @@
 ## Description générale
 Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
+![Photo de la remorque à Assier](photos/remorque-assier.jpg)
+
 ## Allure
 Une remorque avec un soufflet qui dépasse.
 
@@ -55,7 +57,6 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 ## Photos
 
 ![Photo des hublots](photos/hublots.jpg)
-![Photo de la remorque à Assier](photos/remorque-assier.jpg)
 ![Photo du chantier carosserie](photos/remorque-chantier-carosserie-1.jpg)
 ![Photo du chantier carosserie](photos/remorque-chantier-carosserie-2.jpg)
 ![Photo de l'intérieur de la remorque en chantier](photos/remorque-chantier-interieur-1.jpg)
