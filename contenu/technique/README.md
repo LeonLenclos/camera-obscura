@@ -11,6 +11,7 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
 - [Calage des éléments optiques](calage.md) : où placer les différents éléments optiques
 - [Renversement de l'image](renversement.md) : comment retourner l'image de 180° (et autres rotations)
 - [Luminosité](luminosite.md) : comment obtenir l'image la plus lumineuse possible
+- [Futs](../technique/futs.md) : conceptions des futs pour les lentilles
 - [Trucage optique](../technique/surimpression.md) : incrustation et surimpression
 - [Soufflets](soufflets.md) : comment et pourquoi faire des soufflets
 - [Iris](iris.md) : comment et pourquoi faire des iris

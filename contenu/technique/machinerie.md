@@ -180,7 +180,7 @@ La courroie permet de transmettre le mouvement de rotation de l'arbre de command
 
 ### Fûts des lentilles
 
-**OBSOLÈTE : À CONCEVOIR**
+**OBSOLÈTE, VOIR :** [futs](futs.md)
 
 ![Schéma fût](../plans/fut-lentilles.png)
 

@@ -103,12 +103,16 @@
 ## À faire homologation remorque
 
 - [ ] passer la remorque aux Mines :
-#### Unité inter-départementale du Tarn et de l’Aveyron
-Cité administrative
-19, Avenue de Ciron
-81013 ALBI CEDEX 9
-jeudi matin de 9h00 à 11h30 	Renseignements d’ordre technique uniquement le jeudi de 9h00 à 11h30 au 05.81.27.54.99
+
+**Unité inter-départementale du Tarn et de l’Aveyron**  
+Cité administrative  
+19, Avenue de Ciron  
+81013 ALBI CEDEX 9  
+jeudi matin de 9h00 à 11h30 	
+Renseignements d’ordre technique uniquement le jeudi de 9h00 à 11h30 au 05.81.27.54.99  
+
 Courriel : uid-81-12.dreal-occitanie@developpement-durable.gouv.fr
+
 - [ ] contacter bureau de controle BVCTS ou DIVERSIS
 - [ ] Soumettre dossier au SDIS81
 
