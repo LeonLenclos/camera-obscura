@@ -245,18 +245,27 @@ Constructeurice :
 
 ### Du 19/02/2024 au 25/02/2024 : Graulhet chez les Plasticiens (81)
 
- - [ ] fermoir et verrou
+ - [ ] fermoir
+ - [x] verrou
+ - [ ] seuil porte avec plat
  - [ ] dessiner escalier
  - [ ] cale accoudoir
  - [ ] coupe pied fauteuil
+ - [ ] test fauteuil
  - [ ] rail caisses clim
  - [ ] poignée caisses clim
+ - [ ] conception machine à vent
+ - [ ] installation musique
 
-Courses :
- - [ ] CP antifeu plafond + siège
- - [ ] crochet 50mm + crochet 35 mm
- - [ ] mousse joint
-
+Courses et fournitures :
+ - [ ] CP antifeu plafond + siège 8 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html
+ - [ ] 10 crochet 50mm + 12 crochet 35 mm PROZIC
+ - [ ] mousse joint 10mm 10m chez Brusson
+ - [ ] vitre soufflet 6mm à mesurer et commander coprover
+ - [ ] plat alu renfort plaque à préciser avec Léon
+ - [ ] tringle Acier 3mm x 40mm x 3200mm
+ - [ ] disque tronconneuse 38 mm speed clic
+ - [ ] METISSE COTON 100 mm + PLAQUE LIEGE 30 mm
 
 ### Du 19/02/2024 au 25/02/2024 : Marseille (13)
 
@@ -316,11 +325,9 @@ Courses :
   - Finitions remorque
 
 - [ ] ventilation
-- [ ] pose tissus
 - [ ] conception volet hublot
 - [ ] réalisation volet hublot
 - [ ] Finitions interieur hublot
-- [ ] faux plafond en CP 5mm
 - [ ] pose moquette
 - [ ] dessin extérieur (peinture ou transfert)
 - [ ] niveau + boussole
