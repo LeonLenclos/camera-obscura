@@ -6,7 +6,7 @@ Les dimensions de nos fûts sont calquées sur celles d'un fût acheté avec une
 
 On identifie un fût avec un nom indiquant le diamètre de la lentille et la version. Par exemple la première version des fûts pour lentilles de ø154 s'appelle *154V1*
 
-{% include pdf.html url="/contenu/plans/futs.pdf" %}
+{% include pdf.html url="/contenu/plans/fut.pdf" %}
 
 ## Bagues
 
