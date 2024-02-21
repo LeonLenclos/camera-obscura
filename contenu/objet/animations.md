@@ -90,8 +90,8 @@ Plus loin, un grand reflecteur de 3000×3000 permet d'éclairer les plaques par 
 - Photo *Vacances* 3
 - Photo *Mode*
 - Journal *Bon sens*
-- Décors *Période heureuse*
-- Décors *Podium*
+- Décors *Période heureuse* ![aperçu plaque](../animations/periodeheureuse.png)
+- Décors *Podium* ![aperçu plaque](../animations/podium.png)
 
 ### Liste des plaques animées
 
@@ -107,6 +107,8 @@ Pour le générique de début et les intertitres, les volets sont fermés et c'e
 
 #### *Prologue*
 
+![aperçu plaque](../animations/prologue.png)
+
 Fixe : Décors mer avec un perso sur un rocher.
 
 Anim 1 : Petite translation en allez-retours pour animer des reflets dans l'eau (moiré ?).
@@ -115,28 +117,40 @@ Anim 2 : Longue translation horizontale pour le déplacement du bateau. La trans
 
 #### *Niveau de l'eau*
 
+![aperçu plaque](../animations/niveaudeleau.png)
+
 Fixe : Décors ville en perspective cavalière. (sol jaune pour casser le bleu de l'eau, imeuble blanc pour garder couleur du linge)
 
 Anim 1 : Longue translation verticale pour faire monter l'eau.
 
 Anim 2 : Longue translation horizontale pour faire sortir le linge.
 
-#### *Mutation*
+#### *Mutation* 1
+
+![aperçu plaque](../animations/mutation-1.png)
+
+Fixe : Yeux vides
+
+Anim : Paupières et pupilles
+
+
+#### *Mutation* 2
+
+![aperçu plaque](../animations/mutation-2.png)
 
 Fixe : Deux persos + décors + caches noirs
 
-Anim 1 : Petite translation verticale ouverture des yeux du premier perso. Puis grande translation verticale devoile tout le premier perso.
-
-Anim 2 : Rotation du bras et d'un grand cache (cache tout sauf le faisceau de la lampe). D'abord allume la lampe, puis dévoile le deuxième perso.
+Anim : Rotation du bras et d'un grand cache (cache tout sauf le faisceau de la lampe). D'abord allume la lampe, puis dévoile le deuxième perso.
 
 
 #### *Période malheureuse*
 
+![aperçu plaque](../animations/periodemalheureuse.png)
+
 Fixe : Décors parc d'attraction et circuit montagnes russes.
 
-Guide : pour la mario du chariot au lointain.
+Guide : pour la mario des chariots.
 
-Anim : Rotation désaxées pour le chariot au premier plan.
 
 #### *Golden record* 1
 
@@ -165,7 +179,7 @@ Fixe : Perso sans visage ordi et décors.
 - Plaque : rect 1000×700
 - Mécanique : 3 rails dont 1 avec gorge
 - Couleurs : #070 #089 #053 #074 #073
-- Aperçu : ![aperçu plaque fixe golden record 3](../animations/goldenrecord-3-fixe.png)
+- Aperçu : [aperçu plaque fixe golden record 3](../animations/goldenrecord-3-fixe.png)
 
 
 Anim : Courte translation horizontale pour pouvoir changer de visage.
@@ -173,9 +187,11 @@ Anim : Courte translation horizontale pour pouvoir changer de visage.
 - Plaque : rect 760×354
 - Mécanique : 1 poignée + 1 butée
 - Couleurs : #070 #089
-- Aperçu : ![aperçu plaque anim golden record 3](../animations/goldenrecord-3-anim.png)
+- Aperçu : [aperçu plaque anim golden record 3](../animations/goldenrecord-3-anim.png)
 
 #### *Comportement* 1
+
+![aperçu plaque](../animations/comportement-1.png)
 
 Fixe : Transparent
 
@@ -183,27 +199,20 @@ Anim principale : Translation verticale du personnage pour pano
 
 Toutes les autres anims sont solidaires de l'anim principale.
 
-Anim 1 : Translation horizontale courte en aller-retour pour le mouvement des yeux.
+Anim 1 : Translation horizontale en aller-retour pour le mouvement des yeux + volet texte A
 
-Anim 2 : Translation horizontale courte pour volet texte A
+Anim 2 : Rotation pour gouttes de transpiration + volet texte B
 
-Anim 3 : Rotation pour gouttes de transpiration
+Anim 3  Translation verticale courte pour rougeurs + volet texte C
 
-Anim 4 : Translation horizontale courte pour volet texte B
+Anim 4 : Translation horizontale pour volet texte D et E
 
-Anim 5 : Translation horizontale courte pour rougeurs
+Anim 5 : Translation horizontale courte rapide en aller-retour pour mains
 
-Anim 6 : Translation horizontale courte pour volet texte C
-
-Anim 7 : Translation horizontale courte pour volet texte D
-
-Anim 8 : Translation horizontale courte rapide en aller-retour pour mains
-
-Anim 9 : Translation horizontale courte pour volet texte E
-
-Les textes A B C D peuvent se dévoiler avec les anims des symptomes concernées pour réduire le nombre de mécanisme.
 
 #### *Comportement* 2
+
+![aperçu plaque](../animations/comportement-2.png)
 
 Fixe : 3 visages et 2 paires d'yeux.
 
@@ -211,11 +220,15 @@ Anim : Translation courte horizontale de 2 visages et 3 paires d'yeux pour faire
 
 #### *Épilogue* 1
 
+![aperçu plaque](../animations/epilogue-1.png)
+
 Fixe : Quasi tout opaque avec zone pour laisser apparaître le perso et trous pour effet vagues et bulles
 
 Anim : Translation verticale. Fait apparaître le personnage petit à petit et en même temps fait clignoter les vagues.
 
 #### *Épilogue* 2
+
+![aperçu plaque](../animations/epilogue-2.png)
 
 Fixe : Décors Mer
 
