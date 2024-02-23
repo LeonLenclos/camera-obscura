@@ -33,6 +33,7 @@ Immergé dans cette proposition, le spectateur vit une expérience sensorielle u
 - [Présentation du projet](contenu/presentation-partenaires.md), à l’intention des partenaires techniques et scientifiques.
 - [Todo](contenu/todo.md), bloc-notes des trucs à faire.
 - [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
+- [Meta](contenu/meta.md), Ressources liées à l'écriture de ce site.
 
 
 ![Dessin de la remorque](contenu/dessins/macaron_thumb_9.png)

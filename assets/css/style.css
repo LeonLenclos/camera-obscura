@@ -400,6 +400,32 @@ blockquote >p:after {
 }
 
 
+
+aside[role="alert"] strong {
+    padding: 0 5px;
+  margin: 0 0;
+  display: block;
+       background:var(--DGR);
+ color:var(--WHT);
+font-weight:normal;
+}
+aside[role="alert"] p {
+  margin:0;
+      padding: 0 5px;
+    font-size: small;
+}
+aside[role="alert"] strong:before,
+aside[role="alert"] strong:after{
+  content :'';
+  margin:1em;
+}
+aside[role="alert"]{
+ text-align:center;
+ margin:3px 0;
+ background:var(--LGR);
+ color:var(--DGR);
+}
+
 /************************ WEB TO PRINT *************************/
 
 
