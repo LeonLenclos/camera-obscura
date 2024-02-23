@@ -1,3 +1,5 @@
+{% include alert.html type="archive" %}
+
 ## Incrustation et surimpression
 
 Parmi les effets visuels et trucages que nous envisageons d’explorer, il y a l’idée de développer des dispositifs d'incrustation ou de surimpression optique.

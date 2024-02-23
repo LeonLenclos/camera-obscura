@@ -405,9 +405,10 @@ aside[role="alert"] strong {
     padding: 0 5px;
   margin: 0 0;
   display: block;
-       background:var(--DGR);
- color:var(--WHT);
 font-weight:normal;
+   color:var(--BLK);
+
+  border-bottom: 1px solid var(--DGR);
 }
 aside[role="alert"] p {
   margin:0;
@@ -424,6 +425,10 @@ aside[role="alert"]{
  margin:3px 0;
  background:var(--LGR);
  color:var(--DGR);
+}
+
+pre {
+font-size:small;
 }
 
 /************************ WEB TO PRINT *************************/

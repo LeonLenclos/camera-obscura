@@ -2,6 +2,9 @@
 type: scenario
 ---
 
+{% include alert.html type="archive" %}
+
+
 # L'embouteillage
 
 ## Séquence 1 : Sur la route - Beau temps - Jour

@@ -18,7 +18,7 @@ Pour intégrer un fichier pdf :
 
 {% raw %}
 ```liquid
-{% include pdf.html url="URL DU PDF À INCLURE" %}
+{% include pdf.html url="URL DU PDF" %}
 ```
 {% endraw %}
 
@@ -34,7 +34,7 @@ Pour intégrer un avertissement :
 
 {% raw %}
 ```liquid
-{% include alert.html title="TITRE DE L'AVERTISSEMENT" text="TEXTE DE L'AVERTISSEMENT" %}
+{% include alert.html title="TITRE" text="TEXTE" %}
 ```
 {% endraw %}
 

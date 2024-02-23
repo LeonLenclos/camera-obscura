@@ -1,3 +1,5 @@
+{% include alert.html type="pas-interessant" %}
+
 - lyre retournement
 - hublot iris
 - est-ce qu'on peut graver des disques pour gramophone

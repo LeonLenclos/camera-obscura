@@ -1,3 +1,5 @@
+{% include alert.html type="mettre-a-jour" %}
+
 # Fûts d'objectifs
 
 Les lentilles sont placées dans des fûts qui se montent sur la tourelle.

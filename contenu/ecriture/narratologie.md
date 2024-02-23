@@ -1,3 +1,5 @@
+{% include alert.html type="archive" %}
+
 # Narratologie
 
 Deux options pour construire le film. Dans les deux cas on a enchaîné des fragments, des notes. On change de cadre spatiotemporel et de ton comme de chemise. Mais la question est de savoir comment ces fragments sont reliés.

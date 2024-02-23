@@ -2,6 +2,8 @@
 type: scenario
 ---
 
+{% include alert.html type="archive" %}
+
 ## Séquence : Ça pourrait être pire
 
 *Une personne joue de la sanza, bruit de craquement.*

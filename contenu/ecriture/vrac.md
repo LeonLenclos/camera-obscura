@@ -1,3 +1,6 @@
+{% include alert.html type="pas-interessant" %}
+{% include alert.html type="archive" %}
+
 # Citations
 
 > Mon disque de d'or sur le bon coin, d'façon ça c'était cadeau, finalement j'aurais dû le garder.

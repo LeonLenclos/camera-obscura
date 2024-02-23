@@ -2,6 +2,8 @@
 
 ## Première piste : marionettes en papier
 
+{% include alert.html type="archive" %}
+
 Ce sont des figures en 2D qui peuvent être articulées.
 
 Les techniques existantes similaires :

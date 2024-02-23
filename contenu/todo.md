@@ -1,3 +1,5 @@
+{% include alert.html type="pas-interessant" %}
+
 # TODO
 
 ## À faire production
