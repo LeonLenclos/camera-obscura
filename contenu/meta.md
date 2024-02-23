@@ -16,9 +16,11 @@ Ce fichier contient des notes et des ressources utiles à la rédaction du site
 
 Pour intégrer un fichier pdf :
 
-```
+{% raw %}
+```liquid
 {% include pdf.html url="URL DU PDF À INCLURE" %}
 ```
+{% endraw %}
 
 #### Resultat :
 
@@ -30,22 +32,26 @@ Avec l'url ```/contenu/technique/fiche-technique.pdf``` :
 
 Pour intégrer un avertissement :
 
-```
+{% raw %}
+```liquid
 {% include alert.html title="TITRE DE L'AVERTISSEMENT" text="TEXTE DE L'AVERTISSEMENT" %}
 ```
+{% endraw %}
 
 Pour intégrer un avertissement pré-remplis :
 
-```
+{% raw %}
+```liquid
 {% include alert.html type="TYPE DE L'AVERTISSEMENT" %}
 ```
+{% endraw %}
 
 Les types dispo sont :
 
-- ```mettre-a-jour```
-- ```archive```
-- ```redaction-en-cours```
-- ```pas-interessant```
+- mettre-a-jour : {% raw %}``` {% include alert.html type="mettre-a-jour" %} ``` {% endraw %}
+- archive : {% raw %}``` {% include alert.html type="archive" %} ``` {% endraw %}
+- redaction-en-cours : {% raw %}``` {% include alert.html type="redaction-en-cours" %} ``` {% endraw %}
+- pas-interessant : {% raw %}``` {% include alert.html type="pas-interessant" %} ``` {% endraw %}
 
 #### Resultat :
 
