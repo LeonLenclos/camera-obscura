@@ -1,4 +1,4 @@
-{% include alert.html type="pas_interessant" %}
+{% include alert.html type="pas-interessant" %}
 
 # Meta
 
@@ -16,23 +16,29 @@ Ce fichier contient des notes et des ressources utiles à la rédaction du site
 
 Pour intégrer un fichier pdf :
 
-<pre>{% include pdf.html url="URL DU PDF À INCLURE" %}</pre>
+```
+{% include pdf.html url="URL DU PDF À INCLURE" %}
+```
 
 #### Resultat :
 
-Avec l'url ```contenu/technique/fiche-technique.pdf``` :
+Avec l'url ```/contenu/technique/fiche-technique.pdf``` :
 
-{% include pdf.html url="contenu/technique/fiche-technique.pdf" %}
+{% include pdf.html url="/contenu/technique/fiche-technique.pdf" %}
 
 ### Avertissement
 
 Pour intégrer un avertissement :
 
-<pre>{% include alert.html title="TITRE DE L'AVERTISSEMENT" text="TEXTE DE L'AVERTISSEMENT" %}</pre>
+```
+{% include alert.html title="TITRE DE L'AVERTISSEMENT" text="TEXTE DE L'AVERTISSEMENT" %}
+```
 
 Pour intégrer un avertissement pré-remplis :
 
-<pre>{% include alert.html type="TYPE DE L'AVERTISSEMENT" %}</pre>
+```
+{% include alert.html type="TYPE DE L'AVERTISSEMENT" %}
+```
 
 Les types dispo sont :
 
