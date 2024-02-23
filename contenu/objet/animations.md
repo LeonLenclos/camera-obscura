@@ -24,7 +24,7 @@ Les images sont faites avec du vinyle autocollant découpé au cutter numérique
   - Vert #061
   - Jaune or #020
   - Rose saumon #089
-  - Ajouter un rouge ?????
+  - Rouge clair #031
   - Gris moyen #074
   - Gris foncé #073
 - [ORACAL 641](https://www.orafol.com/fr/europe/produits/oracal-641-intermediate-cal) (opaque mat)
