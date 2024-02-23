@@ -245,12 +245,12 @@ Constructeurice :
 
 ### Du 19/02/2024 au 25/02/2024 : Graulhet chez les Plasticiens (81)
 
- - [ ] fermoir
+
  - [x] verrou
  - [ ] seuil porte avec plat
  - [ ] dessiner escalier
  - [ ] cale accoudoir
- - [ ] coupe pied fauteuil
+ - [x] coupe pied fauteuil
  - [ ] test fauteuil
  - [ ] rail caisses clim
  - [ ] poignée caisses clim
@@ -264,8 +264,8 @@ Courses et fournitures :
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
  - [ ] plat alu renfort plaque à préciser avec Léon
  - [ ] tringle Acier 3mm x 40mm x 3200mm
- - [ ] disque tronconneuse 38 mm speed clic
- - [ ] METISSE COTON 100 mm + PLAQUE LIEGE 30 mm
+ - [x] disque tronconneuse 38 mm speed clic
+ - [x] METISSE COTON 100 mm + PLAQUE LIEGE 30 mm
 
 ### Du 19/02/2024 au 25/02/2024 : Marseille (13)
 
@@ -283,23 +283,18 @@ Courses et fournitures :
  - [ ] cadre vitre
  - [ ] soudure Fabien finition siège
 
-### Du 04/03/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
+### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
  - [ ] pose joint trappe
  - [ ] bas de caisse
- - [ ] pose plafond
- - [ ] pose tissus
  - [ ] cache écran
 
-### Du 11/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
+### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
-### Du 25/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
-
-
-### Du 19/02/2024 au 10/03/2024 : Graulhet chez les Plasticiens (81)
 
  - [ ] pose joint trappe
+ - [ ] fermoir
  - [ ] coupe alu escalier
  - [ ] Escalier principal
  - [ ] réalisation  réflecteur
@@ -308,6 +303,8 @@ Courses et fournitures :
  - [ ] Habillage structure écran
  - [ ] diffusion arrière passer les PVC
  - [ ] test plaque anim
+ - [ ] pose plafond
+ - [ ] pose tissus
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
