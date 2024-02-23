@@ -234,12 +234,12 @@ Constructeurice :
 
 ### Du 12/02/2024 au 16/02/2024 : Marseille (13)
 
- - [ ] conception et dessin exostructure en tube
- - [ ] conception et dessin barillet + adaptation lentille existantes
- - [ ] conception et dessin télécommande
+ - [x] conception et dessin exostructure en tube
+ - [x] conception et dessin tourelle + adaptation lentille existantes
+ - [x] conception et dessin télécommande
+ - [x] prépare une anim pour test
  - [ ] conception et dessin réflecteur
  - [ ] conception et dessin castelet
- - [ ] prépare une anim pour test
  
 ## Résidences à venir
 
@@ -273,15 +273,78 @@ Courses et fournitures :
 
 ### Du 26/02/2024 au 03/03/2024 : Graulhet chez les Plasticiens (81)
 
- - [ ] réalisation  rail
+Jour 1:
+
+- [ ] Aller chez schiavon
+  - [ ] découpe tourelle (→ ALU)
+  - [ ] usinage arbres (→ PLANS / ACIER)
+- [ ] Structures en alu
+  - [ ] réalisation  rail
+    - [ ] couper alu
+    - [ ] assembler / fixer à la remorque (→ VIS RACCORDS / CROCHETS)
  - [ ] réalisation chariot
- - [ ] planchette
- - [ ] tourelle
- - [ ] cage
- - [ ] télécommande
- - [ ] accroche souflet
- - [ ] cadre vitre
- - [ ] soudure Fabien finition siège
+    - [ ] couper alu
+    - [ ] assembler (→ VIS RACCORDS)
+    - [ ] Fixer roues (→ VIS)
+    - [ ] Fixer paliers (→ 4× VIS M60 L=50)
+ - [ ] réalisation cage
+    - [ ] couper alu
+    - [ ] réparer manchons concernés
+    - [ ] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
+
+Jour 2:
+
+- [ ] Planchette
+  - [ ] Fabrication planchette (→ BOIS ?)
+  - [ ] Fixation planchette-chariot (CROCHETS)
+- [ ] Soufflet
+  - [ ] Fixation soufflet-remorque
+  - [ ] Fixation soufflet-planchette
+- [ ] Écran
+  - [ ] Fixation écran
+- [ ] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
+
+Jour 3:
+
+- Visio Léon 10h00
+- [ ] Fablab
+  - [ ] Découpage fût (-> MATERIAUX ?)
+  - [ ] Découpage plexi
+  - [ ] Découpage vinyle
+- [ ] Maison
+  - [ ] Assemblage fût
+  - [ ] Application du vinyle
+  - [ ] Construction Plaque
+
+Jour 4:
+
+- [ ] tourelle et télécommande point/focale
+  - [ ] adaptation remorque
+  - [ ] montage arbre télécommande
+  - [ ] montage arbre tourelle
+- [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
+- [ ] Test Comparaison Doublets avec pupille de 60mm et lentilles d'opticien.
+
+- Test Plaque
+  - [ ] Montage tringle sur cage (→ ACIER / CROCHETS)
+  - [ ] Installation reflecteur
+  - [ ] Test image + mécanique 
+
+Jour 5:
+
+- [ ] cadre vitre
+  - [ ] Couper verre (VITRE)
+  - [ ] Construire cadre
+  - [ ] Installer vitre
+
+- [ ] Amici
+  - [ ] Couper miroir
+  - [ ] Poser miroir
+  - [ ] Finir structure
+  - [ ] Perche
+  - [ ] Installer sur chariot (CROCHETS)
+
+- [ ] soudure Fabien finition siège
 
 ### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 

@@ -120,7 +120,7 @@ Les dimensions du chariot répondent à des contraintes liées au champ (les bar
 - La planchette sert de support à la tourelle. La tourelle est à l'intérieur (sud) de la planchette la poulie est à l'extérieur (nord).
 - C'est parallélépipède de 740×540×100 ouvert au sud (côté soufflet).
 - 2 palier en applique en son centre pour accueillir l'arbre de la tourelle (ref. [SKFL 000](https://www.ici-composants.com/miniature-inox/555-skfl-000.html)).
-- 2 ouvertures de ø141 en face des objectifs de la tourelles. (266 entre axes).
+- 2 ouvertures de ø141 en face des objectifs de la tourelles. (273 entre axes).
 
 À concevoir :
 
@@ -167,36 +167,16 @@ La courroie permet de transmettre le mouvement de rotation de l'arbre de command
 
 ### Tourelle
 
-**OBSOLÈTE : À CORRIGER EN FONCTION DES FUTS ET AJOUTER CLAVETTE**
 
 {% include pdf.html url="/contenu/plans/tourelle.pdf" %}
 
+Les emplacements d'objectifs ont étés positionnés afin de laisser un espace de 2 entre chaque fût. Voir : [futs](futs.md)
+
 - Diamètre : ø490.
-- 4 emplacements d'objectifs ø160. (Entraxe objectifs: ø266) 
-- Au centre un trou de ø10 pour l'arbre.
+- 4 emplacements d'objectifs ø168. (Entraxe objectifs: ø273) 
+- Au centre un trou de ø10 pour l'arbre. avec une clavette de 3
 - 4 gorges pour le callage
-- (serrage par écrous)
 
-
-### Fûts des lentilles
-
-**OBSOLÈTE, VOIR :** [futs](futs.md)
-
-![Schéma fût](../plans/fut-lentilles.png)
-
-Dimensions :
-
-- Diamètre de la partie qui s'emboîte : 160
-- Diamètre total (encombrement) : 188
-- Diamètre intérieur (ouverture) : 141.4
-- Diamètre des lentilles : 154
-- Largeur : ~50
-- Boulons de 5 pour la fixation du fût sur la tourelle
-
-Matériaux :
-
-- Manchon D 160 PN16 FF à coller (ref. [ARM1B160AE](https://connexion-pression.com/raccords-pvc-pression/442-manchon-d-160-pn16-ff-a-coller.html)) (1/2 pce par fût)
-- Tube D 160 PN16 PVC Pression (ref. [ATU1B160AU](https://connexion-pression.com/tubes-tuyaux-pvc-pression/69-951-tube-d-160-pn16-pvc-pression.html)) (~50 mm par fût)
 
 ### Arbre de commande rigide
 
