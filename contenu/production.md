@@ -258,8 +258,8 @@ Constructeurice :
  - [ ] installation musique
 
 Courses et fournitures :
- - [ ] CP antifeu plafond + siège 8 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html
- - [ ] 10 crochet 50mm + 12 crochet 35 mm PROZIC
+ - [ ] CP antifeu plafond + siège 8 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
+ - [x] 10 crochet 50mm + 12 crochet 35 mm PROZIC
  - [ ] mousse joint 10mm 10m chez Brusson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
  - [ ] plat alu renfort plaque à préciser avec Léon
@@ -276,8 +276,8 @@ Courses et fournitures :
 Jour 1:
 
 - [ ] Aller chez schiavon
-  - [ ] découpe tourelle (→ ALU)
-  - [ ] usinage arbres (→ PLANS / ACIER)
+  - [ ] découpe tourelle (→ ALU 4mm)
+  - [ ] usinage arbres (→ PLANS / INOX)
 - [ ] Structures en alu
   - [ ] réalisation  rail
     - [ ] couper alu
@@ -289,16 +289,16 @@ Jour 1:
     - [ ] Fixer paliers (→ 4× VIS M60 L=50)
  - [ ] réalisation cage
     - [ ] couper alu
-    - [ ] réparer manchons concernés
+    - [ ] réparer manchons concernés
     - [ ] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
 
 Jour 2:
 
-- [ ] Planchette
-  - [ ] Fabrication planchette (→ BOIS ?)
-  - [ ] Fixation planchette-chariot (CROCHETS)
+- [ ] Planchette
+  - [ ] Fabrication planchette (→ BOIS CP10?)
+  - [ ] Fixation planchette-chariot (CROCHETS)
 - [ ] Soufflet
-  - [ ] Fixation soufflet-remorque
+  - [ ] Fixation soufflet-remorque
   - [ ] Fixation soufflet-planchette
 - [ ] Écran
   - [ ] Fixation écran
@@ -309,11 +309,11 @@ Jour 3:
 - Visio Léon 10h00
 - [ ] Fablab
   - [ ] Découpage fût (-> MATERIAUX ?)
-  - [ ] Découpage plexi
-  - [ ] Découpage vinyle
+  - [ ] Découpage plexi
+  - [ ] Découpage vinyle
 - [ ] Maison
   - [ ] Assemblage fût
-  - [ ] Application du vinyle
+  - [ ] Application du vinyle
   - [ ] Construction Plaque
 
 Jour 4:
@@ -322,10 +322,10 @@ Jour 4:
   - [ ] adaptation remorque
   - [ ] montage arbre télécommande
   - [ ] montage arbre tourelle
-- [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
+- [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
 - [ ] Test Comparaison Doublets avec pupille de 60mm et lentilles d'opticien.
 
-- Test Plaque
+- [ ]Test Plaque
   - [ ] Montage tringle sur cage (→ ACIER / CROCHETS)
   - [ ] Installation reflecteur
   - [ ] Test image + mécanique 
@@ -333,16 +333,16 @@ Jour 4:
 Jour 5:
 
 - [ ] cadre vitre
-  - [ ] Couper verre (VITRE)
+  - [ ] Couper verre (VITRE)
   - [ ] Construire cadre
   - [ ] Installer vitre
 
 - [ ] Amici
   - [ ] Couper miroir
   - [ ] Poser miroir
-  - [ ] Finir structure
+  - [ ] Finir structure
   - [ ] Perche
-  - [ ] Installer sur chariot (CROCHETS)
+  - [ ] Installer sur chariot (CROCHETS)
 
 - [ ] soudure Fabien finition siège
 
