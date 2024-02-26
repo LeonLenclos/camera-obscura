@@ -277,27 +277,29 @@ Jour 1:
 - [x] Aller chez schiavon
   - [ ] découpe tourelle (→ ALU 4mm)
   - [ ] usinage arbres (→ PLANS / INOX)
-- [ ] Structures en alu
+- [x] Structures en alu
   - [x] réalisation  rail
     - [x] couper alu
     - [x] assembler / fixer à la remorque (→ VIS RACCORDS / CROCHETS)
- - [ ] réalisation chariot
-    - [ ] couper alu
-    - [ ] assembler (→ VIS RACCORDS)
-    - [ ] Fixer roues (→ VIS)
-    - [ ] Fixer paliers (→ 4× VIS M60 L=50)
- - [ ] réalisation cage
-    - [ ] couper alu
-    - [ ] réparer manchons concernés
-    - [ ] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
+ - [x] réalisation chariot
+    - [x] couper alu
+    - [x] assembler (→ VIS RACCORDS)
+    - [x] Fixer roues (→ VIS)
+    - [x] Fixer paliers (→ 4× VIS M60 L=50)
+ - [x] réalisation cage
+    - [x] couper alu
+    - [x] réparer manchons concernés
+    - [x] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
 
 Jour 2:
 
+- [ ] courses CP 10mm
 - [ ] Planchette
   - [ ] Fabrication planchette (→ BOIS CP10?)
   - [ ] Fixation planchette-chariot (CROCHETS)
 - [ ] Soufflet
   - [ ] Fixation soufflet-remorque
+  - [ ] cache avant
   - [ ] Fixation soufflet-planchette
 - [ ] Écran
   - [ ] Fixation écran
@@ -306,14 +308,8 @@ Jour 2:
 Jour 3:
 
 - Visio Léon 10h00
-- [ ] Fablab
-  - [ ] Découpage fût (-> MATERIAUX ?)
-  - [ ] Découpage plexi
-  - [ ] Découpage vinyle
-- [ ] Maison
-  - [ ] Assemblage fût
-  - [ ] Application du vinyle
-  - [ ] Construction Plaque
+- [ ] courses metal + joint ?
+
 
 Jour 4:
 
@@ -331,6 +327,8 @@ Jour 4:
 
 Jour 5:
 
+- [ ] RV Cherbourg
+
 - [ ] cadre vitre
   - [ ] Couper verre (VITRE)
   - [ ] Construire cadre
@@ -347,6 +345,20 @@ Jour 5:
 
 ### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
+lundi
+
+- [ ] Fablab
+  - [ ] Découpage fût (-> MATERIAUX ?)
+  - [ ] Découpage plexi
+  - [ ] Découpage vinyle
+     
+mardi
+
+- [ ] Maison
+  - [ ] Assemblage fût
+  - [ ] Application du vinyle
+  - [ ] Construction Plaque
+ 
  - [ ] pose joint trappe
  - [ ] bas de caisse
  - [ ] cache écran
