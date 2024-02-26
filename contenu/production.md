@@ -239,7 +239,6 @@ Constructeurice :
  - [x] conception et dessin télécommande
  - [x] prépare une anim pour test
  - [ ] conception et dessin réflecteur
- - [ ] conception et dessin castelet
  
 ## Résidences à venir
 
@@ -254,8 +253,8 @@ Constructeurice :
  - [ ] test fauteuil
  - [ ] rail caisses clim
  - [ ] poignée caisses clim
- - [ ] conception machine à vent
- - [ ] installation musique
+ - [x] conception machine à vent
+ - [x] installation musique
 
 Courses et fournitures :
  - [ ] CP antifeu plafond + siège 8 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
