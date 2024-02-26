@@ -275,13 +275,13 @@ Courses et fournitures :
 
 Jour 1:
 
-- [ ] Aller chez schiavon
+- [x] Aller chez schiavon
   - [ ] découpe tourelle (→ ALU 4mm)
   - [ ] usinage arbres (→ PLANS / INOX)
 - [ ] Structures en alu
-  - [ ] réalisation  rail
-    - [ ] couper alu
-    - [ ] assembler / fixer à la remorque (→ VIS RACCORDS / CROCHETS)
+  - [x] réalisation  rail
+    - [x] couper alu
+    - [x] assembler / fixer à la remorque (→ VIS RACCORDS / CROCHETS)
  - [ ] réalisation chariot
     - [ ] couper alu
     - [ ] assembler (→ VIS RACCORDS)
