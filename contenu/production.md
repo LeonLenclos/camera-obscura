@@ -293,14 +293,13 @@ Jour 1:
 
 Jour 2:
 
-- [ ] courses CP 10mm
-- [ ] Planchette
-  - [ ] Fabrication planchette (→ BOIS CP10?)
-  - [ ] Fixation planchette-chariot (CROCHETS)
-- [ ] Soufflet
-  - [ ] Fixation soufflet-remorque
-  - [ ] cache avant
-  - [ ] Fixation soufflet-planchette
+- [x] courses CP 
+- [x] Planchette
+  - [x] Fabrication planchette (→ BOIS CP10?)
+  - [x] Fixation planchette-chariot (CROCHETS)
+- [x] Soufflet
+  - [x] Fixation soufflet-remorque
+  - [x] Fixation soufflet-planchette
 - [ ] Écran
   - [ ] Fixation écran
 - [ ] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
@@ -363,6 +362,8 @@ mardi
  - [ ] bas de caisse
  - [ ] cache écran
 
+
+ - [ ] cache avant
 
 ### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
