@@ -87,3 +87,19 @@ Gros plan personne emmitoufflée dans une écharpe, de la buée sort de sa bouch
 
 Gros plan d'un t-shirt imprimé avec le visage animé d'une star du Cinéma.
 
+
+#### Texte
+
+
+CAMERA OBSCURA — souvenirs du futur
+
+Théâtre optique post-cinéma
+
+*Camera Obscura* est un dispositif qui propose au public l'experience unique d'une séance de cinéma sans électricité. Les spectateur·ices s'installent dans la camera obscura et assistent à la projection d’un film tourné à l'exterieur. Les images sont projetées grace à un système optique fait de lentilles et de miroirs. Les sons et la musique sont produits et interprétés en direct sur un ensemble d’instruments acoustiques et mécaniques.
+
+Le film projeté est *Souvenirs du futur*. C'est une collection de fragments, des évocations vagues ou anecdotiques de futurs possibles. Des récits d'anticipations qui s'affranchissent des thèmes de la science fiction et proposent une vision ni utopique ni apocaliptique d'un futur pluriel, banal et étrange.
+
+
+
+
+

@@ -14,6 +14,7 @@ C'est un court metrage de 20 minutes sous forme de notes ou de fragments qui s'e
 
 ## archives
 
+- [Texte de présentation](presentation.md)
 - [Narratologie](narratologie.md), Comment construire le film (questions obsolètes)
 - [Jeu d'impro](jeuimpro.md), Un petit jeu à jouer.
 - [Scenario 1](scenar1.md), Le scénario qu'on avait mis dans le dossier de création.
