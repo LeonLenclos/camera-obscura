@@ -12,11 +12,11 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 
 ### à propos
 
-*Camera Obscura* est un dispositif qui propose au public l'experience unique d'une séance de cinéma sans électricité. Les spectateur·ices s'installent dans la camera obscura et assistent à la projection d’un film tourné à l'exterieur. Les images sont projetées grace à un système optique fait de lentilles et de miroirs. Les sons et la musique sont produits et interprétés en direct sur un ensemble d’instruments acoustiques et mécaniques.
+*Camera Obscura* est un dispositif qui propose au public l'expérience unique d'une séance de cinéma sans électricité. Les spectateur·ices s'installent dans la camera obscura et assistent à la projection d’un film tourné à l'extérieur. Les images sont projetées grâce à un système optique fait de lentilles et de miroirs. Les sons et la musique sont produits et interprétés en direct sur un ensemble d’instruments acoustiques et mécaniques.
 
 ### Souvenirs du futur
 
-Le film projeté est [*Souvenirs du futur*](contenu/ecriture/souvenirs-du-futur.md). C'est une collection de fragments, des évocations vagues ou anecdotiques de futurs possibles. Des récits d'anticipations qui s'affranchissent des thèmes de la science fiction et proposent une vision ni utopique ni apocaliptique d'un futur pluriel, banal et étrange.
+Le film projeté est [*Souvenirs du futur*](contenu/ecriture/souvenirs-du-futur.md). C'est une collection de fragments, des évocations vagues ou anecdotiques de futurs possibles. Des récits d'anticipations qui s'affranchissent des thèmes de la science fiction et proposent une vision ni utopique ni apocalyptique d'un futur pluriel, banal et étrange.
 
 ### sommaire
 

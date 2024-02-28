@@ -46,7 +46,10 @@ Constructeurice :
 - Aquabrasion
 - Schiavon
 - Laurent Fayard
-- Éva Ricard ?
+- Éva Ricard
+- Steffie Bayer
+- Jean-Claude Azemar
+- Didier Pons
 
 # Calendrier des résidences
 
@@ -307,7 +310,7 @@ Jour 2:
 Jour 3:
 
 - Visio Léon 10h00
-- [ ] courses metal + joint ?
+- [x] courses metal
 
 
 Jour 4:
@@ -326,19 +329,17 @@ Jour 4:
 
 Jour 5:
 
-- [ ] RV Cherbourg
-
 - [ ] cadre vitre
   - [ ] Couper verre (VITRE)
   - [ ] Construire cadre
   - [ ] Installer vitre
 
 - [ ] Amici
-  - [ ] Couper miroir
+  - [x] Couper miroir
   - [ ] Poser miroir
-  - [ ] Finir structure
-  - [ ] Perche
-  - [ ] Installer sur chariot (CROCHETS)
+  - [x] Finir structure
+  - [x] Perche
+  - [x] Installer sur chariot (CROCHETS)
 
 - [ ] soudure Fabien finition siège
 
