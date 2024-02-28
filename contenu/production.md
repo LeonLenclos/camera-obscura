@@ -239,7 +239,6 @@ Constructeurice :
  - [x] conception et dessin télécommande
  - [x] prépare une anim pour test
  - [ ] conception et dessin réflecteur
- - [ ] conception et dessin castelet
  
 ## Résidences à venir
 
@@ -254,8 +253,8 @@ Constructeurice :
  - [ ] test fauteuil
  - [ ] rail caisses clim
  - [ ] poignée caisses clim
- - [ ] conception machine à vent
- - [ ] installation musique
+ - [x] conception machine à vent
+ - [x] installation musique
 
 Courses et fournitures :
  - [ ] CP antifeu plafond + siège 8 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
@@ -275,31 +274,32 @@ Courses et fournitures :
 
 Jour 1:
 
-- [ ] Aller chez schiavon
+- [x] Aller chez schiavon
   - [ ] découpe tourelle (→ ALU 4mm)
   - [ ] usinage arbres (→ PLANS / INOX)
-- [ ] Structures en alu
-  - [ ] réalisation  rail
-    - [ ] couper alu
-    - [ ] assembler / fixer à la remorque (→ VIS RACCORDS / CROCHETS)
- - [ ] réalisation chariot
-    - [ ] couper alu
-    - [ ] assembler (→ VIS RACCORDS)
-    - [ ] Fixer roues (→ VIS)
-    - [ ] Fixer paliers (→ 4× VIS M60 L=50)
- - [ ] réalisation cage
-    - [ ] couper alu
-    - [ ] réparer manchons concernés
-    - [ ] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
+- [x] Structures en alu
+  - [x] réalisation  rail
+    - [x] couper alu
+    - [x] assembler / fixer à la remorque (→ VIS RACCORDS / CROCHETS)
+ - [x] réalisation chariot
+    - [x] couper alu
+    - [x] assembler (→ VIS RACCORDS)
+    - [x] Fixer roues (→ VIS)
+    - [x] Fixer paliers (→ 4× VIS M60 L=50)
+ - [x] réalisation cage
+    - [x] couper alu
+    - [x] réparer manchons concernés
+    - [x] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
 
 Jour 2:
 
-- [ ] Planchette
-  - [ ] Fabrication planchette (→ BOIS CP10?)
-  - [ ] Fixation planchette-chariot (CROCHETS)
-- [ ] Soufflet
-  - [ ] Fixation soufflet-remorque
-  - [ ] Fixation soufflet-planchette
+- [x] courses CP 
+- [x] Planchette
+  - [x] Fabrication planchette (→ BOIS CP10?)
+  - [x] Fixation planchette-chariot (CROCHETS)
+- [x] Soufflet
+  - [x] Fixation soufflet-remorque
+  - [x] Fixation soufflet-planchette
 - [ ] Écran
   - [ ] Fixation écran
 - [ ] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
@@ -307,14 +307,8 @@ Jour 2:
 Jour 3:
 
 - Visio Léon 10h00
-- [ ] Fablab
-  - [ ] Découpage fût (-> MATERIAUX ?)
-  - [ ] Découpage plexi
-  - [ ] Découpage vinyle
-- [ ] Maison
-  - [ ] Assemblage fût
-  - [ ] Application du vinyle
-  - [ ] Construction Plaque
+- [ ] courses metal + joint ?
+
 
 Jour 4:
 
@@ -332,6 +326,8 @@ Jour 4:
 
 Jour 5:
 
+- [ ] RV Cherbourg
+
 - [ ] cadre vitre
   - [ ] Couper verre (VITRE)
   - [ ] Construire cadre
@@ -348,10 +344,26 @@ Jour 5:
 
 ### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
+lundi
+
+- [ ] Fablab
+  - [ ] Découpage fût (-> MATERIAUX ?)
+  - [ ] Découpage plexi
+  - [ ] Découpage vinyle
+     
+mardi
+
+- [ ] Maison
+  - [ ] Assemblage fût
+  - [ ] Application du vinyle
+  - [ ] Construction Plaque
+ 
  - [ ] pose joint trappe
  - [ ] bas de caisse
  - [ ] cache écran
 
+
+ - [ ] cache avant
 
 ### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
