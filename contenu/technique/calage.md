@@ -36,13 +36,13 @@ Le réglage de la mise au point sur le sujet qui se trouve à l’extérieur dé
 
 Nous changeons de focale (changement d'objectif) pour changer radicalement la mise au point.
 
-Nous déplacons la planchette (l'objectif) sur son axe pour un réglage plus fin de la mise au point. Ce mouvement est possible grace à l'utilisation d'un [soufflet](soufflet.md) d'un débatement de 80 cm.
+Nous déplacons la planchette (l'objectif) sur son axe pour un réglage plus fin de la mise au point. Ce mouvement est possible grace à l'utilisation d'un [soufflet](soufflet.md) d'un débatement de 40 cm.
 
 Ces deux réglages (selection de l'objectif et translation de la planchette) devront  être commandé depuis la régie.
 
 ### Angle de champ
 
-Pour des raisons pratiques et artistiques nous avons fixé l’angle de champ horizontal à 45°, ce qui correspond à un tirage de 2,2 m pour notre écran de 1,8 m.
+Pour des raisons pratiques et artistiques nous avons fixé l’angle de champ horizontal à ~45°, ce qui correspond à un tirage de ~2,2 m pour notre écran de 1,8 m.
 
 Contre-intuitivement, le changement de focale n'affecte pas l'angle de champ si le tirage reste le même.
 
@@ -58,24 +58,53 @@ Avec une plus courte focale, l'angle ne change pas mais la distance de mise au p
 
 Contre-intuitivement, les longues focales nous permetteront de faire les plans larges et les courtes focales, les plans serrés.
 
+### Dynamiques
+
+Avec une focale fixe
+
+Distance lentille-écran          | ↗ | ↘ |
+---------------------------------|---|---|
+Angle de champ                   | ↘ | ↗ |
+Distance lentille-objet          | ↘ | ↗ |
+Distance objet-écran avec f>1066 | ↘ | ↗ |
+Distance objet-écran avec f<1066 | ↗ | ↘ |
+Grandissement objet net          | ↗ | ↘ |
+Grandissement objet fixe         | ↗ | ↘ |
+
+Avec une distance lentille-écran fixe
+
+Focale                           | ↗ | ↘ |
+---------------------------------|---|---|
+Distance lentille-objet          | ↗ | ↘ |
+Distance objet-écran             | ↗ | ↘ |
+Profondeur de champ              | ↗ | ↘ |
+Facteur d'éclairage              | ↗ | ↘ |
+Vergence                         | ↘ | ↗ |
+Grandissement objet net          | ↘ | ↗ |
+Grandissement objet fixe         | = | = |
+Angle de champ                   | = | = |
+
 ### Résumé et formules
 
 Valeurs :
 
 - Largeur écran : 1,8 m
-- Angle de champ : 45°
-- Tirage (t) : 2,2 m
+- Angle de champ horizontal : ~45°
+- Distance lentille-écran (tirage) : 2,15 m
 
 Formules :
-- Relation de conjugaison : `1/2,2 + 1/d = 1/f`
-- Distance objet en fonction de la largeur objet : `d = l/(2*tan(22.5)) = l/0.83`
-- Focale en fonction de la distance objet : `f = 1/(1/2,2 - 1/d) = 1/(0.45-1/d)`
-- Largeur objet en donction de la distance objet : `l = d*(2*tan(22.5)) =  d*0.83`
+- Relation de conjugaison : `1/2,15 + 1/d = 1/f`
+- Distance objet en fonction de la largeur objet : `d ≈ l/(2*tan(22.5)) ≈ l/0.83`
+- Focale en fonction de la distance objet : `f ≈ 1/(1/2,15 - 1/d) ≈ 1/(0.47-1/d)`
+- Largeur objet en donction de la distance objet : `l ≈ d*(2*tan(22.5)) ≈  d*0.83`
 
 
 ### Tables
 
+{% include alert.html type="mettre-a-jour" %}
+
 Version à jour de ces tableaux : [calcul_otpique.ods](calcul_otpique.ods)
+
 
 #### Système
 
