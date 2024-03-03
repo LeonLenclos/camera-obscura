@@ -382,6 +382,10 @@ mardi
  - [ ] pose plafond
  - [ ] pose tissus
 
+### Du 1/04/2024 au 7/04/2024 : : Graulhet chez les Plasticiens (81)
+ - [ ] fabrication des plaques
+ - [ ] caisse des plaques
+
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
 
