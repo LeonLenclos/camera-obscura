@@ -247,11 +247,8 @@ Constructeurice :
 
 ### Du 19/02/2024 au 25/02/2024 : Graulhet chez les Plasticiens (81)
 
-
  - [x] verrou
-
  - [x] coupe pied fauteuil
-
  - [x] conception machine à vent
  - [x] installation musique
 
@@ -292,12 +289,10 @@ Jour 2:
 - [x] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
 
 Jour 3:
-- Visio Léon 10h00
 - [x] courses metal
 
-
 Jour 4:
-- [x]Test Plaque
+- [x]Test Plaque MIRE
   - [x] Montage tringle sur cage (→ ACIER / CROCHETS)
   - [x] Installation reflecteur
   - [x] Test image + mécanique 
@@ -317,14 +312,19 @@ Jour 5:
  - [ ] décors
  - [ ] fin dessin plaque
 
-### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
+### Du 04/03/2024 au 19/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
  - [ ] CP antifeu plafond + siège 9 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
- - [ ] mousse joint 10mm 10m chez Brusson
+ - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
+ - [ ] cales brsson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
- - [ ] plat alu renfort plaque à préciser avec Léon
- - [ ] tringle Acier 3mm x 40mm x 3200mm
+ - [ ] ARCELLOR
+   - [ ] plat alu renfort plaque + crochet (même épaisseur que proto)
+   - [ ] tringle Alu (même épaisseur que proto) 3000 mm
+   - [ ] Tube carré 30 mm pour renfort accoudoir/reflecteur/caisse rangement plaque/escaliers/ventilation
+- [ ] miroleg
+
 
 lundi
 
@@ -334,58 +334,51 @@ lundi
 
 - [ ] Fablab
   - [ ] Découpage fût (-> MATERIAUX ?)
-  - [ ] Découpage plexi
   - [ ] Découpage vinyle
      
 mardi
 
 - [ ] Maison
   - [ ] Assemblage fût
-  - [ ] Application du vinyle
-  - [ ] Construction Plaque
- 
- - [ ] pose joint trappe
- - [ ] bas de caisse
- - [ ] cache écran
 
-mercredi
+Ensuite
 
  - [ ] tourelle et télécommande point/focale
- - [ ] adaptation remorque
- - [ ] montage arbre télécommande
- - [ ] montage arbre tourelle
- - [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
- - [ ] Test Comparaison Doublets avec pupille de 60mm et lentilles d'opticien.
+   - [ ] adaptation remorque
+   - [ ] montage arbre télécommande
+   - [ ] montage arbre tourelle
+ - [ ] seuil porte avec plat
+ - [ ] rail caisses clim
+ - [ ] plaque clim
+ - [ ] obturateurs
+ - [ ] cache régie et écran (côté et haut)
+ - [ ] cache avant
+ - [ ] réalisation  réflecteur
+ - [ ] pose Caméra recul
+
+Fabrication décors :
+- [ ] structure portante
+- [ ] chambre
+- [ ] cuisine
+ 
 
 ### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
- - [ ] cache avant
- - [ ] pose joint trappe
- - [ ] fermoir
- - [ ] coupe alu escalier
- - [ ] Escalier principal
- - [ ] réalisation  réflecteur
- - [ ] pose Caméra recul
- - [ ] cache écran
- - [ ] Habillage structure écran
- - [ ] diffusion arrière passer les PVC
- - [ ] test plaque anim
- - [ ] pose plafond
- - [ ] pose tissus
- - [ ] soudure Fabien finition siège
- - [ ] Couper verre (VITRE)
-  - [ ] préparer pare close
-  - [ ] Installer vitre
-  - [ ] seuil porte avec plat
- - [ ] dessiner escalier
- - [ ] cale accoudoir
- - [ ] test fauteuil
- - [ ] rail caisses clim
- - [ ] poignée caisses clim
+
 
 ### Du 1/04/2024 au 7/04/2024 : : Graulhet chez les Plasticiens (81)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
+
+## Premières résidences de mise en scène
+
+Objectif pour nimes et auch, pouvoir travailler toutes les scènes sauf :
+- Le bon sens
+- Les vacances à Saint-Tropez
+- Je me souviens de l’embouteillage
+- La mode
+- La conversation
+
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
  - [ ] Léon repérage accés et emplacement roulotte à Nimes
@@ -400,8 +393,26 @@ mercredi
 - écriture et jeu
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
-  - Finitions remorque
 
+ - [ ] pose joint trappe
+ - [ ] bas de caisse avec Didier
+ - [ ] fermoir
+ - [ ] dessiner escalier
+ - [ ] coupe alu escalier
+ - [ ] Escalier principal
+ - [ ] SAS régie
+ - [ ] diffusion arrière passer les PVC
+ - [ ] pose plafond
+ - [ ] pose tissus
+ - [ ] soudure Fabien finition siège
+ - [ ] Couper verre (VITRE)
+  - [ ] préparer pare close
+  - [ ] Installer vitre
+ - [ ] cale accoudoir
+ - [ ] test fauteuil
+ - [ ] poignée caisses clim
+
+Achat matériel intérieur caisse clim
 - [ ] ventilation
 - [ ] conception volet hublot
 - [ ] réalisation volet hublot
