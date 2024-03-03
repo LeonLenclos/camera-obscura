@@ -260,26 +260,15 @@ Constructeurice :
  - [x] installation musique
 
 Courses et fournitures :
- - [ ] CP antifeu plafond + siège 8 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
+
  - [x] 10 crochet 50mm + 12 crochet 35 mm PROZIC
- - [ ] mousse joint 10mm 10m chez Brusson
- - [ ] vitre soufflet 6mm à mesurer et commander coprover
- - [ ] plat alu renfort plaque à préciser avec Léon
- - [ ] tringle Acier 3mm x 40mm x 3200mm
  - [x] disque tronconneuse 38 mm speed clic
  - [x] METISSE COTON 100 mm + PLAQUE LIEGE 30 mm
-
-### Du 19/02/2024 au 25/02/2024 : Marseille (13)
-
- - [ ] dessin plaque
 
 ### Du 26/02/2024 au 03/03/2024 : Graulhet chez les Plasticiens (81)
 
 Jour 1:
 
-- [x] Aller chez schiavon
-  - [ ] découpe tourelle (→ ALU 4mm)
-  - [ ] usinage arbres (→ PLANS / INOX)
 - [x] Structures en alu
   - [x] réalisation  rail
     - [x] couper alu
@@ -315,12 +304,7 @@ Jour 3:
 
 Jour 4:
 
-- [ ] tourelle et télécommande point/focale
-  - [ ] adaptation remorque
-  - [ ] montage arbre télécommande
-  - [ ] montage arbre tourelle
-- [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
-- [ ] Test Comparaison Doublets avec pupille de 60mm et lentilles d'opticien.
+
 
 - [x]Test Plaque
   - [x] Montage tringle sur cage (→ ACIER / CROCHETS)
@@ -341,16 +325,27 @@ Jour 5:
   - [x] Perche
   - [x] Installer sur chariot (CROCHETS)
 
-- [ ] soudure Fabien finition siège
-
 ### Du 04/03/2024 au 11/03/2024 : Léon à Marseille (13)
 
  - [ ] conception et dessin réflecteur
  - [ ] conception et dessin support décor
+ - [ ] décors
+ - [ ] fin dessin plaque
 
 ### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
+Courses et fournitures :
+ - [ ] CP antifeu plafond + siège 9 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
+ - [ ] mousse joint 10mm 10m chez Brusson
+ - [ ] vitre soufflet 6mm à mesurer et commander coprover
+ - [ ] plat alu renfort plaque à préciser avec Léon
+ - [ ] tringle Acier 3mm x 40mm x 3200mm
+
 lundi
+
+- [ ] Aller chez schiavon
+  - [ ] découpe tourelle (→ ALU 4mm)
+  - [ ] rectification usinage arbres
 
 - [ ] Fablab
   - [ ] Découpage fût (-> MATERIAUX ?)
@@ -368,12 +363,18 @@ mardi
  - [ ] bas de caisse
  - [ ] cache écran
 
+mercredi
 
- - [ ] cache avant
+ - [ ] tourelle et télécommande point/focale
+ - [ ] adaptation remorque
+ - [ ] montage arbre télécommande
+ - [ ] montage arbre tourelle
+ - [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
+ - [ ] Test Comparaison Doublets avec pupille de 60mm et lentilles d'opticien.
 
 ### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
-
+ - [ ] cache avant
  - [ ] pose joint trappe
  - [ ] fermoir
  - [ ] coupe alu escalier
@@ -386,6 +387,7 @@ mardi
  - [ ] test plaque anim
  - [ ] pose plafond
  - [ ] pose tissus
+ - [ ] soudure Fabien finition siège
 
 ### Du 1/04/2024 au 7/04/2024 : : Graulhet chez les Plasticiens (81)
  - [ ] fabrication des plaques
