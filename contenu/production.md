@@ -241,7 +241,7 @@ Constructeurice :
  - [x] conception et dessin tourelle + adaptation lentille existantes
  - [x] conception et dessin télécommande
  - [x] prépare une anim pour test
- - [ ] conception et dessin réflecteur
+
  
 ## Résidences à venir
 
@@ -303,9 +303,9 @@ Jour 2:
 - [x] Soufflet
   - [x] Fixation soufflet-remorque
   - [x] Fixation soufflet-planchette
-- [ ] Écran
-  - [ ] Fixation écran
-- [ ] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
+- [x] Écran
+  - [x] Fixation écran
+- [x] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
 
 Jour 3:
 
@@ -322,26 +322,31 @@ Jour 4:
 - [ ] Test image et télécommande avec doublet 2250  + doublet 750 achromat monté sur la tourelle
 - [ ] Test Comparaison Doublets avec pupille de 60mm et lentilles d'opticien.
 
-- [ ]Test Plaque
-  - [ ] Montage tringle sur cage (→ ACIER / CROCHETS)
-  - [ ] Installation reflecteur
-  - [ ] Test image + mécanique 
+- [x]Test Plaque
+  - [x] Montage tringle sur cage (→ ACIER / CROCHETS)
+  - [x] Installation reflecteur
+  - [x] Test image + mécanique 
 
 Jour 5:
 
 - [ ] cadre vitre
   - [ ] Couper verre (VITRE)
-  - [ ] Construire cadre
+  - [ ] pare close
   - [ ] Installer vitre
 
-- [ ] Amici
+- [x] Amici
   - [x] Couper miroir
-  - [ ] Poser miroir
+  - [x] Poser miroir
   - [x] Finir structure
   - [x] Perche
   - [x] Installer sur chariot (CROCHETS)
 
 - [ ] soudure Fabien finition siège
+
+### Du 04/03/2024 au 11/03/2024 : Léon à Marseille (13)
+
+ - [ ] conception et dessin réflecteur
+ - [ ] conception et dessin support décor
 
 ### Du 04/03/2024 au 17/03/2024 : Graulhet chez les Plasticiens (81)
 
