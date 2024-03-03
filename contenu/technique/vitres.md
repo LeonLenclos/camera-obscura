@@ -35,3 +35,12 @@ Monsieur Azemar nous aides sur pas mal de coupes et nous a fait un petit cours r
 ### Finitions
 
 Pour que les bords de la vitre ne soient pas tranchants on peut les travailler avec du papier de verre (grain 80) sur une cale.
+
+## Hublots
+
+Pour les volets des hublots il faut une bague de diametre interieur 93.8 et de diametre exterieur 160 à visser dans la tranche du pvc.
+
+Les hublots sont fait avec du tube pvc. Les references :
+
+- manchons : D110PN16FF à coller
+- tubes :D110PN16 PVC pression

@@ -8,6 +8,14 @@ On identifie un fût avec un nom indiquant le diamètre de la lentille et la ver
 
 {% include pdf.html url="/contenu/plans/fut.pdf" %}
 
+## Découpe laser
+
+Fichiers :
+- [Plan 154V1](/contenu/plans/fut154V1-laser.dxf)
+- [Plan 80V1](/contenu/plans/fut80V1-laser.dxf)
+
+## Détails
+
 Les fûts sont fabriqués avec un assemblage de bagues découpées à la découpeuse laser dans un matériaux d'épaisseur 6. Chaque bague est identifiée par un nom gravé sur la bague. Le nom de la bague indique le modèle du fût et une lettre par exemple, la première bague d'un fût 154V1 porte le nom *154V1/A*
 
 Bagues :
