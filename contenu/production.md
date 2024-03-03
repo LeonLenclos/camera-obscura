@@ -249,13 +249,9 @@ Constructeurice :
 
 
  - [x] verrou
- - [ ] seuil porte avec plat
- - [ ] dessiner escalier
- - [ ] cale accoudoir
+
  - [x] coupe pied fauteuil
- - [ ] test fauteuil
- - [ ] rail caisses clim
- - [ ] poignée caisses clim
+
  - [x] conception machine à vent
  - [x] installation musique
 
@@ -284,7 +280,6 @@ Jour 1:
     - [x] assembler / fixer à la remorque  (→ VIS RACCORDS / CROCHETS)
 
 Jour 2:
-
 - [x] courses CP 
 - [x] Planchette
   - [x] Fabrication planchette (→ BOIS CP10?)
@@ -297,27 +292,17 @@ Jour 2:
 - [x] test image avec une lentille d'opticien collée à l'arrach sur la planchette.
 
 Jour 3:
-
 - Visio Léon 10h00
 - [x] courses metal
 
 
 Jour 4:
-
-
-
 - [x]Test Plaque
   - [x] Montage tringle sur cage (→ ACIER / CROCHETS)
   - [x] Installation reflecteur
   - [x] Test image + mécanique 
 
 Jour 5:
-
-- [ ] cadre vitre
-  - [ ] Couper verre (VITRE)
-  - [ ] pare close
-  - [ ] Installer vitre
-
 - [x] Amici
   - [x] Couper miroir
   - [x] Poser miroir
@@ -388,6 +373,15 @@ mercredi
  - [ ] pose plafond
  - [ ] pose tissus
  - [ ] soudure Fabien finition siège
+ - [ ] Couper verre (VITRE)
+  - [ ] préparer pare close
+  - [ ] Installer vitre
+  - [ ] seuil porte avec plat
+ - [ ] dessiner escalier
+ - [ ] cale accoudoir
+ - [ ] test fauteuil
+ - [ ] rail caisses clim
+ - [ ] poignée caisses clim
 
 ### Du 1/04/2024 au 7/04/2024 : : Graulhet chez les Plasticiens (81)
  - [ ] fabrication des plaques
