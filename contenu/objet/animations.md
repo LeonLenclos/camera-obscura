@@ -1,20 +1,36 @@
-# Animations
+# Plaques et marionnettes
 
-Les titres, les séquences animés, les séquences photos fonctionnent grâce à un système de plaques et de marionnettes retro-éclairées.
+Les titres, les séquences animés et les séquences photos fonctionnent grâce à un système de plaques et de marionnettes retro-éclairées.
 
-On utilise principalement du plexiglas.
+Les plaques sont en plexiglas, elles mesurent environ 800 × 600.
+
+## Éclairage, mise et accrochage des plaques
+
+Les plaques sont équipées de crochets avec des roulettes. Elles sont suspendues sur un rail sur le quel elles peuvent rouler latéralement pour enchaîner rapidement deux plaques. Le rail mesure 2800 de long.
+
+![Plaque](../plans/plaques-enchainement.png)
+
+À l'arrière des plaques il faut un blanc très lumineux pour compenser la luminosité très faible de la lentille que l'on utilise pour les filmer (c'est le plus gros plan avec un grandissement d'environ ×2,5 donc très sombre !)
+
+Notre idée est d'avoir deux systèmes à notre disposition :
+- En cas de ciel dégagé, un grand écran blanc reflète la lumière du soleil. (matériau : ultrabounce ??)
+- En cas de ciel nuageux, un grand miroir reflète le blanc des nuages. (matériau : miroir souple ? mirolege ?)
+
+![Plaque](../plans/plaques-eclairage.png)
+
+Les réflecteurs doivent faire environ 1500×2000. ([calcul de ces mesures](../plans/plaques-reflecteurs.pdf))
 
 ## Dessin et vinyle
 
-(ceci ne concerne pas les séquences de type photo et les titres)
+Les plaques des animations sont faites avec du vinyle autocollant découpé au cutter numérique. (Voir [ce tuto](https://www.youtube.com/watch?v=6oG9WtHLb-w) pour l'application)
 
-Épaisseur de trait : 6 mm
+Épaisseur de trait : ~4.5 mm
 
-Couleurs :
+Couleurs : On se limite à une palette de couleurs restreinte : du noir (opaque) et un jeu de couleurs clairs transparente. Les zones laissées transparentes (sans vinyle) apparaissent blanche.
 
-On se limite à une palette de couleurs restreinte, du transparent (blanc) du opaque (noir) et un jeu de couleurs clairs transparente.
+Dessin : Les dessins sont faits sur Inkscape dans (source: [animations/animations.svg](../animations/animations.svg))
 
-Les images sont faites avec du vinyle autocollant découpé au cutter numérique. (Voir [ce tuto](https://www.youtube.com/watch?v=6oG9WtHLb-w) pour l'application)
+### Nuancier
 
 ![Nuancier](../img/nuancier-oracal.png)
 
@@ -29,8 +45,6 @@ Les images sont faites avec du vinyle autocollant découpé au cutter numérique
   - Gris foncé #073
 - [ORACAL 641](https://www.orafol.com/fr/europe/produits/oracal-641-intermediate-cal) (opaque mat)
   - noir #070
-
-Les dessins sont faits sur Inkscape dans ce fichier : [animations/animations.svg](../animations/animations.svg)
 
 ## Mécanisme des animations et plexi
 
@@ -50,19 +64,21 @@ Les arrêtes des plaques peuvent être biseautés pour éviter d'abîmer le viny
  
 ## Dimensions
 
-L'idée est qu'aucune plaque ne dépasse 1000×1000 mm
+Pour le rangement, l'idée est qu'aucune plaque ne dépasse 800×800 mm
 
 Si une plaque devait être plus grande elle devra être démontable.
 
-- Encombrement max : 1000×1000
-- Plaque fixe :  1000×760
-- Image :  951×700
-- Image utile :  931×680
+- Encombrement max : 800×800
+- Plaque fixe :  800×650
+- Fond perdu : 20
+- Marge droite/gauche : 5
+- Marge haut/bas : 30
+- Image :  790×590
+- Image utile :  750×550
 
 ![Plaque](../plans/plaque.png)
 
 - "Demi-plaques" chez plexiglas : 2050×1520
-- quart de "Demi-plaques" : 1025×760
 
 ## Les plaques
 
@@ -72,15 +88,6 @@ Certaines sont animées (méchanismes de rotation ou de translation activés par
 
 Les plaques sont projetées en étant retro-éclairées comme des plaques de lanterne magique ou des diapositives.
 
-### Éclairage, mise et accrochage des plaques
-
-Les plaques sont équipées de crochets.
-
-À environ 1100 mm de l'objectif les plaques peuvent très facilement être accrochées et décrochées sur une tringle. Peut-être réfléchir à un système pour pouvoir enchaîner rapidement deux plaques, par exemple, la tringle fait la largeur de trois plaques et les plaques ont des roues (sinon on passera à chaque fois par un noir). Il faut que ces manips puissent se faire seul·e.
-
-Cette structure est équipée de volets pour que le soleil n'éclaire pas les plaques par l'avant.
-
-Plus loin, un grand reflecteur de 3000×3000 permet d'éclairer les plaques par l'arrière.
 
 
 ### Liste des plaques fixes
