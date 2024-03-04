@@ -14,7 +14,7 @@ Les plaques sont équipées de crochets avec des roulettes. Elles sont suspendue
 
 Notre idée est d'avoir deux systèmes à notre disposition :
 - En cas de ciel dégagé, un grand écran blanc reflète la lumière du soleil. (matériau : ultrabounce ??)
-- En cas de ciel nuageux, un grand miroir reflète le blanc des nuages. (matériau : miroir souple ? mirolege ?)
+- En cas de ciel nuageux, un grand miroir reflète le blanc des nuages. (matériau : miroir souple ? mirolege ? Soft Silver ?)
 
 ![Plaque](../plans/plaques-eclairage.png)
 
