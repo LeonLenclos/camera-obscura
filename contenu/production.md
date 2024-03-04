@@ -315,7 +315,8 @@ Jour 5:
 ### Du 04/03/2024 au 19/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
- - [ ] CP antifeu plafond + siège 9 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 2,50x1,22 https://www.smbois.com/contreplaque-ignifuge-5-mm.html )
+ - [ ] CP antifeu plafond + siège 5 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 3,10 x 1,53 https://www.smbois.com/contreplaque-ignifuge-5-mm.html ) ou dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
+ - [ ] peinture noire hydrofuge
  - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
  - [ ] cales brsson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
