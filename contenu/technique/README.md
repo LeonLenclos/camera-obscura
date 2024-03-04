@@ -29,6 +29,7 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
 - [Norme ERP cat 5](norme-erp.md) : les obligations des ERP de 5e catégorie (< 50 spectacteurs)
   
 ## Divers
+- [Soleil](soleil.md)
 - [Marionettes](marionettes.md)
 - [Fournisseurs](fournisseurs.md) : liste de fournisseurs.
 - [Vrac](vrac.md) : idées à creuser
