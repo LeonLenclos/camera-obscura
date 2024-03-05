@@ -1,6 +1,6 @@
 ---
 redirect_from:
-  - /`
+  - /%60
 ---
 
 # Camera Obscura
