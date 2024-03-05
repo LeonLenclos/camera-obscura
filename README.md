@@ -1,8 +1,3 @@
----
-redirect_from:
-  - /%60
----
-
 # Camera Obscura
 
 Théâtre optique post-cinéma
