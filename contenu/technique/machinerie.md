@@ -30,6 +30,7 @@ Les structures principales sont en tube alu de ø50 ou de ø35 :
 
 ### Réflecteur
 
+Voir aussi : [plaques](../objet/animations)
 
 ![Structure réflecteur](../plans/reflecteur-structure.png)
 
@@ -55,9 +56,9 @@ C'est une structure sur roue freinées très large à la base (~2×2 m) pour la 
 
 ### Décors
 
-![Structure décors](../plans/decors-structure.png)
+Voir aussi : [decors](../objet/decors-accessoires)
 
-![Structure décors](../plans/decors.png)
+![Structure décors](../plans/decors-structure.png)
 
 C'est une structure qui se fixe sur des crochets qui sont sur un praticable.
 
