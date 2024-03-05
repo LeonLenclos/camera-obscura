@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /`
+---
+
 # Camera Obscura
 
 Théâtre optique post-cinéma
