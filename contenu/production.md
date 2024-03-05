@@ -349,7 +349,7 @@ Ensuite
    - [ ] montage arbre télécommande
    - [ ] montage arbre tourelle
  - [ ] seuil porte avec plat
- - [ ] rail caisses clim
+ - [x] rail caisses clim
  - [ ] plaque clim
  - [ ] obturateurs
  - [ ] cache régie et écran (côté et haut)
