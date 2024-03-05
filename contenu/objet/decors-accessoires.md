@@ -21,6 +21,8 @@ Voici le tableaux des dimensions que doivent avoir les feuilles de décors en fo
 | 700               | 2570              | 2151×1570       | 2351×1770         |
 | 800               | 2670              | 2235×1631       | 2435×1831         |
 
+![Structure décors](../plans/decors.png)
+
 ## Fond noir
 
 Rideau noir de 2000×2300 mm suspendu à +500 (2370 mm).

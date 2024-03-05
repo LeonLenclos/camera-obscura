@@ -27,15 +27,16 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1212722"
-     inkscape:cx="123.96633"
-     inkscape:cy="705.89461"
+     inkscape:zoom="0.66776921"
+     inkscape:cx="717.3137"
+     inkscape:cy="604.25068"
      inkscape:window-width="1880"
      inkscape:window-height="971"
-     inkscape:window-x="1940"
-     inkscape:window-y="52"
+     inkscape:window-x="2121"
+     inkscape:window-y="67"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="true" />
   <defs
      id="defs25712">
     <marker
@@ -92,8 +93,9 @@
        id="path26191-8" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stop-color:#000000;stop-opacity:1"
-       d="m 99.648054,115.92184 v 99.99999 l -55.999998,-56 V 59.921841"
-       id="path29553" />
+       d="m 99.648054,115.92184 v 33.03944 66.96055 l -55.999998,-56 V 59.921841"
+       id="path29553"
+       sodipodi:nodetypes="ccccc" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stop-color:#000000;stop-opacity:1"
        d="M 43.648056,65.213508 99.648054,121.21351"

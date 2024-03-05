@@ -20,6 +20,8 @@ Notre idée est d'avoir deux systèmes à notre disposition :
 
 Les réflecteurs doivent faire environ 1500×2000. ([calcul de ces mesures](../plans/plaques-reflecteurs.pdf))
 
+![Structure reflecteur](../plans/reflecteur-structure.png)
+
 ## Dessin et vinyle
 
 Les plaques des animations sont faites avec du vinyle autocollant découpé au cutter numérique. (Voir [ce tuto](https://www.youtube.com/watch?v=6oG9WtHLb-w) pour l'application)
