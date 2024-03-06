@@ -44,9 +44,8 @@ C'est une structure sur roue freinées très large à la base (~2×2 m) pour la 
   - 4 barres transversales (2100)
   - Le cadre
 - En rouge : 8 raccords en té (ref. [RC2 Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/203-raccord-rc2-diametre-50mm)). 
-- En bleu : 2 raccords articulés simples (ref. [RC7 VO + VF Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/212-raccord-rc7-vo-vf-diametre-50mm)). 
+- En bleu : 4 raccords articulés simples (ref. [RC7 VO + VF Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/212-raccord-rc7-vo-vf-diametre-50mm)). 
 - En vert : 2 raccords articulés doubles (ref. [RC7 VO 2 pattes à 180° + 2VF Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/216-raccord-rc7-vo-2-pattes-180-2VF-diametre-50mm)). 
-- En magenta : 2 raccords en croix (ref. [RC4 Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/206-raccord-rc4-diametre-50mm))
 - En magenta : 2 raccords en croix (ref. [RC4 Ø 50mm](https://raccords-tubes-centurion.fr/raccord-tubulaire-diametre-50mm/206-raccord-rc4-diametre-50mm))
 - En cyan : Deux crochets de serrage (à voir comment on le fixe sur le mat de ø50)
 - Roulettes ø125 (e.g. ref. [Roulette pivotante à oeil avec frein](https://www.roues-roulettes-outlet.fr/roulette-pivotante-en-polyamide-ny6-125.html))
