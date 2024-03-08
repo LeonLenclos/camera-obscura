@@ -350,7 +350,7 @@ Ensuite
    - [ ] montage arbre tourelle
  - [ ] seuil porte avec plat
  - [x] rail caisses clim
- - [ ] plaque clim
+ - [x] plaque clim
  - [ ] obturateurs
  - [ ] cache régie et écran (côté et haut)
  - [ ] cache avant
