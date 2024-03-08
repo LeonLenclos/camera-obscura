@@ -26,7 +26,7 @@ Les réflecteurs doivent faire environ 1500×2000. ([calcul de ces mesures](../p
 
 Les plaques des animations sont faites avec du vinyle autocollant découpé au cutter numérique. (Voir [ce tuto](https://www.youtube.com/watch?v=6oG9WtHLb-w) pour l'application)
 
-Épaisseur de trait : ~4.5 mm
+Épaisseur de trait : 4.8 mm
 
 Couleurs : On se limite à une palette de couleurs restreinte : du noir (opaque) et un jeu de couleurs clairs transparente. Les zones laissées transparentes (sans vinyle) apparaissent blanche.
 
@@ -91,18 +91,23 @@ Certaines sont animées (méchanismes de rotation ou de translation activés par
 Les plaques sont projetées en étant retro-éclairées comme des plaques de lanterne magique ou des diapositives.
 
 
+## Les marionnettes
 
-### Liste des plaques fixes
+On appelle marionnette les parties mobiles des animations, qui ne sont solidaires des plaques. Ce sont des sortes de pantins articulés en 2d.
 
-- Photo *Vacances* 1
-- Photo *Vacances* 2
-- Photo *Vacances* 3
-- Photo *Mode*
-- Journal *Bon sens*
-- Décors *Période heureuse* ![aperçu plaque](../animations/periodeheureuse.png)
-- Décors *Podium* ![aperçu plaque](../animations/podium.png)
 
-### Liste des plaques animées
+## Liste des plaques et marionettes
+
+#### Photo *Vacances* 1
+
+#### Photo *Vacances* 2
+
+#### Photo *Vacances* 3
+
+#### Photo *Mode*
+
+#### Journal *Bon sens*
+
 
 #### Titres
 
@@ -120,19 +125,25 @@ Pour le générique de début et les intertitres, les volets sont fermés et c'e
 
 Fixe : Décors mer avec un perso sur un rocher.
 
-Anim 1 : Petite translation en allez-retours pour animer des reflets dans l'eau (moiré ?).
+Anim 1 : Petite translation en allez-retours pour animer des reflets dans l'eau.
 
 Anim 2 : Longue translation horizontale pour le déplacement du bateau. La translation fait aussi apparaître des nuages de fumée au dessus du bateau (larges rayures croisées).
 
 #### *Niveau de l'eau*
 
-![aperçu plaque](../animations/niveaudeleau.png)
+![aperçu plaque](../animations/niveaudeleau-a.png)
+![aperçu plaque](../animations/niveaudeleau-b.png)
+![aperçu plaque](../animations/niveaudeleau-c.png)
 
-Fixe : Décors ville en perspective cavalière. (sol jaune pour casser le bleu de l'eau, imeuble blanc pour garder couleur du linge)
+Fixe : Décors ville en perspective cavalière.
 
 Anim 1 : Longue translation verticale pour faire monter l'eau.
 
-Anim 2 : Longue translation horizontale pour faire sortir le linge.
+Anim 2 : Longue translation horizontale sur rail courbe pour faire sortir le linge.
+
+Mario 1 : Personnage parapluie
+
+Mario 2 : Une baleine (queue animée) + 3 poissons
 
 #### *Mutation* 1
 
@@ -149,27 +160,28 @@ Anim : Paupières et pupilles
 
 Fixe : Deux persos + décors + caches noirs
 
-Anim : Rotation du bras et d'un grand cache (cache tout sauf le faisceau de la lampe). D'abord allume la lampe, puis dévoile le deuxième perso.
+Anim : Rotation du bras et d'un grand cache (cache tout sauf le faisceau de la lampe). Dévoile le deuxième perso.
 
 
 #### *Période malheureuse*
 
 ![aperçu plaque](../animations/periodemalheureuse.png)
 
-Fixe : Décors parc d'attraction et circuit montagnes russes.
+Fixe : Décors parc d'attraction et circuit montagnes russes. (Guide pour les marios des chariots).
 
-Guide : pour la mario des chariots.
+Mario 1 : Chariot arrière plan
+
+Mario 2 : Chariot premier plan
 
 
 #### *Golden record* 1
 
 ![aperçu plaque golden record 1](../animations/goldenrecord-1.png)
 
-Fixe : La fusée et son ciel sur une bande verticale au centre
+Fixe : La fusée et son ciel sur une bande verticale au centre. Caches pour faire clignoter les étoiles.
 
-Anim 1 : Longue translation Le reste du ciel et la terre qui défilent.
+Anim 1 : Longue translation Le reste du ciel qui défilent.
 
-Anim 2 : Pourquoi pas une autre anim de la fusée qui part vers le haut en fin de plan.
 
 #### *Golden record* 2
 
@@ -178,6 +190,7 @@ Anim 2 : Pourquoi pas une autre anim de la fusée qui part vers le haut en fin d
 Fixe : Perso et décors
 
 Anim : Translation verticale courte en aller-retours des avants-bras tenant le disque et des yeux.
+
 
 #### *Golden record* 3
 
@@ -204,20 +217,17 @@ Anim : Courte translation horizontale pour pouvoir changer de visage.
 
 Fixe : Transparent
 
-Anim principale : Translation verticale du personnage pour pano
-
-Toutes les autres anims sont solidaires de l'anim principale.
-
 Anim 1 : Translation horizontale en aller-retour pour le mouvement des yeux + volet texte A
 
 Anim 2 : Rotation pour gouttes de transpiration + volet texte B
 
-Anim 3  Translation verticale courte pour rougeurs + volet texte C
+Anim 3  Translation horizontale courte pour rougeurs + volet texte C
 
-Anim 4 : Translation horizontale pour volet texte D et E
+Anim 4 : Translation horizontale pour volet texte D
 
 Anim 5 : Translation horizontale courte rapide en aller-retour pour mains
 
+Anim 6 : Translation horizontale pour volet texte E
 
 #### *Comportement* 2
 
@@ -231,9 +241,9 @@ Anim : Translation courte horizontale de 2 visages et 3 paires d'yeux pour faire
 
 ![aperçu plaque](../animations/epilogue-1.png)
 
-Fixe : Quasi tout opaque avec zone pour laisser apparaître le perso et trous pour effet vagues et bulles
+Fixe : Mer opaque avec zone pour laisser apparaître le perso. Reflets lune et étoiles.
 
-Anim : Translation verticale. Fait apparaître le personnage petit à petit et en même temps fait clignoter les vagues.
+Anim : Translation verticale. Fait apparaître le personnage petit à petit.
 
 #### *Épilogue* 2
 
@@ -241,26 +251,19 @@ Anim : Translation verticale. Fait apparaître le personnage petit à petit et e
 
 Fixe : Décors Mer
 
-Anim : Translation verticale aller-retour pour faire apparaître des vagues et faire flotter le perso.
+Anim 1 : Translation verticale aller-retour pour faire flotter le perso.
 
-
-## Les marionnettes
-
-On appelle marionnette les parties mobiles des animations, qui ne sont solidaires des plaques. Ce sont des sortes de pantins articulés en 2d. 
-
-### Liste des marios
-
-#### *Niveau de l'eau* 1
-
-Une personne qui tient un parapluie et qui se déplace, pas d'articulations.
-
-#### *Niveau de l'eau* 2
-
-Des poissons et une baleine qui se déplacent. Éventuellement une articulation pour la baleine. Souplesse entre les poissons.
+Anim 2 : Nuages.
 
 #### *Période heureuse*
 
-Une file d'attente avec 4 persos.
+![aperçu plaque](../animations/periodeheureuse.png)
+
+Fixe : Rue
+
+Mario 1 : Une file d'attente avec 4 persos.
+
+Détails :
 
 Les 4 pieds gauches sont articulés sur une même came. Idem pour les 4 pieds droits.
 
@@ -268,9 +271,17 @@ En faisant glisser une à une les 2 cames, on fait faire un pas à tout le monde
 
 Chaque perso a 2 articulation pied et deux articulations anches. Les persos peuvent avoir d'autres articulations pour leur donner de la souplesse et du caractère (buste, bras, tête, etc.)
 
-#### *Podium* 1
+#### *Podium*
 
-Le Podium avec plein de marches.
+![aperçu plaque](../animations/podium.png)
+
+Fixe : Stade
+
+Mario 1 : Le Podium avec plein de marches.
+
+Mario 2 : Un perso qui grimpe les marches. Il se manipule par les pieds. (2 articulations anches, 2 articulations genoux)
+
+Détails Mario 1 :
 
 On peut le déplacer vers le haut pour faire pousser le podium. Il y a des cales pour l'arrêter à chaque étapes.
 
@@ -294,12 +305,6 @@ Marche 6 : Le personnage est caché et se dévoile (2 articulations anches, 1 ar
 
 Marche 7 : Le personnage est caché et se dévoile, il a les bras en l'air qui s'agitent (2 articulations épaules, 2 articulations anches, 1 articulation genoux, 2 articulation pieds)
 
-#### *Podium* 2
 
-Un perso qui grimpe les marches. Il se manipule par les pieds. (2 articulations anches, 2 articulations genoux)
-
-#### *Période malheureuse*
-
-Un chariot de montagne russe pour le lointain. Avec éventuellement une articulation entre la tige et le chariot.
 
 

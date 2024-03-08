@@ -219,6 +219,11 @@ Les emplacements d'objectifs ont étés positionnés afin de laisser un espace d
 - 4 gorges pour le callage
 
 
+### Obturateur
+
+
+{% include pdf.html url="/contenu/plans/obturateur.pdf" %}
+
 ### Arbre de commande rigide
 
 ![Schéma arbre de commande](../plans/commande-arbre.png)
