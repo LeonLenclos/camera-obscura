@@ -307,78 +307,56 @@ Jour 5:
 
 ### Du 04/03/2024 au 11/03/2024 : Léon à Marseille (13)
 
- - [ ] conception et dessin réflecteur
- - [ ] conception et dessin support décor
- - [ ] décors
+ - [x] conception et dessin réflecteur
+ - [x] conception et dessin support décor
  - [ ] fin dessin plaque
 
 ### Du 04/03/2024 au 19/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
  - [ ] CP antifeu plafond + siège 5 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 3,10 x 1,53 https://www.smbois.com/contreplaque-ignifuge-5-mm.html ) ou dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
- - [ ] peinture noire hydrofuge
+ - [x] peinture noire hydrofuge
  - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
- - [ ] cales brsson
+ - [ ] cales brusson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
  - [ ] ARCELLOR
    - [ ] plat alu renfort plaque + crochet (même épaisseur que proto)
    - [ ] tringle Alu (même épaisseur que proto) 3000 mm
    - [ ] Tube carré 30 mm pour renfort accoudoir/reflecteur/caisse rangement plaque/escaliers/ventilation
-- [ ] miroleg
 
-
-lundi
-
-- [ ] Aller chez schiavon
-  - [ ] découpe tourelle (→ ALU 4mm)
-  - [ ] rectification usinage arbres
-
-- [ ] Fablab
-  - [ ] Découpage fût (-> MATERIAUX ?)
-  - [ ] Découpage vinyle
-     
-mardi
-
-- [ ] Maison
-  - [ ] Assemblage fût
-
-Ensuite
-
- - [ ] tourelle et télécommande point/focale
-   - [ ] adaptation remorque
-   - [ ] montage arbre télécommande
-   - [ ] montage arbre tourelle
- - [ ] seuil porte avec plat
- - [x] rail caisses clim
- - [x] plaque clim
- - [ ] obturateurs
- - [ ] cache régie et écran (côté et haut)
- - [ ] cache avant
- - [ ] réalisation  réflecteur
- - [ ] pose Caméra recul
+  - [x] rail caisses clim
+  - [x] plaque clim
+  - [x] Aller chez schiavon
+  - [x] découpe tourelle (→ ALU 4mm)
+  - [x] rectification usinage arbres
+  - [x] montage arbre tourelle
+  - [x] Découpage fût (-> MATERIAUX ?)
+  - [x] Assemblage fût
+  - [ ] obturateurs
+  - [ ] commande obturateurs
+  - [ ] test Découpage vinyl
+  - [ ] adaptation remorque
+  - [ ] montage arbre télécommande
+  - [ ] seuil porte avec plat
+  - [ ] cache régie et écran (côté et haut)
+  - [ ] cache avant
+  - [ ] réalisation  réflecteur
+  - [ ] pose Caméra recul
 
 Fabrication décors :
 - [ ] structure portante
 - [ ] chambre
 - [ ] cuisine
- 
-
-### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
 
 
-### Du 1/04/2024 au 7/04/2024 : : Graulhet chez les Plasticiens (81)
+
+### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
 
-## Premières résidences de mise en scène
+### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
-Objectif pour nimes et auch, pouvoir travailler toutes les scènes sauf :
-- Le bon sens
-- Les vacances à Saint-Tropez
-- Je me souviens de l’embouteillage
-- La mode
-- La conversation
 
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
@@ -388,9 +366,17 @@ Objectif pour nimes et auch, pouvoir travailler toutes les scènes sauf :
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
+
+## Premières résidences de mise en scène
+
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
- - [ ] Anticiper accés et emplacement roulotte à Auch
-    
+
+Objectif pour auch, pouvoir travailler toutes les scènes sauf :
+- Le bon sens
+- Les vacances à Saint-Tropez
+- Je me souviens de l’embouteillage
+- La mode
+- La conversation    
 - écriture et jeu
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
