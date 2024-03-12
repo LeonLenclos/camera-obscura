@@ -345,7 +345,7 @@ vitre soufflet 6mm à mesurer et commander coprover
 
  - [ ] ANTALIS
 
- - [ ] CENTURION
+ - [x] CENTURION
 
  - [ ] 123 COURROIE
 
