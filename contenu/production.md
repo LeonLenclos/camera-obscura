@@ -311,7 +311,7 @@ Jour 5:
  - [x] conception et dessin support décor
  - [ ] fin dessin plaque
 
-### Du 04/03/2024 au 19/03/2024 : Graulhet chez les Plasticiens (81)
+### Du 04/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
  - [ ] DISPANO
@@ -363,11 +363,11 @@ https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-c
   - [x] Assemblage fût
   - [ ] obturateurs
   - [ ] commande obturateurs
-  - [ ] test Découpage vinyl
-  - [ ] adaptation remorque
+  - [ ] test Découpage vinyl et plexi
   - [ ] montage arbre télécommande
+  - [ ] adaptation remorque
   - [ ] seuil porte avec plat
-  - [ ] cache régie et écran (côté et haut)
+  - [ ] cache régie et écran (côté et haut) alu ou fourrure
   - [ ] cache avant
   - [ ] réalisation  réflecteur
   - [ ] pose Caméra recul
