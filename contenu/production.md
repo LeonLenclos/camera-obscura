@@ -317,7 +317,6 @@ Courses et fournitures :
  - [ ] DISPANO
    CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
 
-
  - [ ] BRUSSON
 - 2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
 - 1m x FIL PLAT 2 X 0.75mm système rapide 9 à 36volts Ref. 0560970
@@ -335,8 +334,10 @@ vitre soufflet 6mm à mesurer et commander coprover
 - 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
 - 10 barres de 6m barre rectangulaire 30x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
 
+ - [ ] OUTLET
+- https://www.roues-roulettes-outlet.fr/gris-roulette-pivotante-blockage-total.html
 
-https://www.roues-roulettes-outlet.fr/roulette-pivotante-en-polyamide-ny6-125.html
+
 
   - [x] rail caisses clim
   - [x] plaque clim
