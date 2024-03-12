@@ -329,10 +329,10 @@ Courses et fournitures :
  - [ ] COPROVER
 vitre soufflet 6mm à mesurer et commander coprover
 
- - [ ] ARCELLOR
+ - [x] ARCELLOR
 - 16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
 - 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
-- 10 barres de 6m barre rectangulaire 30x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
+- 10 barres de 6m barre rectangulaire 40x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
 
  - [ ] OUTLET
 - https://www.roues-roulettes-outlet.fr/gris-roulette-pivotante-blockage-total.html
@@ -350,8 +350,8 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [ ] 123 COURROIE
 
  - [ ] VIS EXPRESS
--https://www.vis-express.fr/fr/ecrou-relieur-tete-bombee-fendue-inox-a4/39289-980475-ecrou-relieur-tete-bombee-fendue-6x8-m4-6-dk9-inox-a4-3663072187511.html#/21-conditionnement-1_piece
-https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-hexagonal-creux-classe-109-iso10642vs4721/48099-931086-vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-4x12-classe-109-zingue-3663072449824.html#/21-conditionnement-1_piece
+- https://www.vis-express.fr/fr/ecrou-relieur-tete-bombee-fendue-inox-a4/39289-980475-ecrou-relieur-tete-bombee-fendue-6x8-m4-6-dk9-inox-a4-3663072187511.html#/21-conditionnement-1_piece
+- https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-hexagonal-creux-classe-109-iso10642vs4721/48099-931086-vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-4x12-classe-109-zingue-3663072449824.html#/21-conditionnement-1_piece
  
   - [x] rail caisses clim
   - [x] plaque clim
