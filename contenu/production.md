@@ -317,6 +317,13 @@ Courses et fournitures :
  - [ ] DISPANO
    CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
 
+
+ - [ ] BRUSSON
+2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
+1m x FIL PLAT 2 X 0.75mm système rapide 9 à 36volts Ref. 0560970
+1 x POIGNEE ST ETIENNE nouveau modèle embouti Ref. 0680096
+12 x FERMETURE CAISSE MUNITION mini. Ref. 0700421 
+
  - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
  - [ ] cales brusson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
