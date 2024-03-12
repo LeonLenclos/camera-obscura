@@ -314,14 +314,18 @@ Jour 5:
 ### Du 04/03/2024 au 19/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
- - [ ] CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
- - [x] peinture noire hydrofuge
+ - [ ] DISPANO
+   CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
+
  - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
  - [ ] cales brusson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
+
  - [ ] ARCELLOR
 16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
- 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000 
+
+ 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
+ 
 10 barres de 6m barre rectangulaire 30x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
 
   - [x] rail caisses clim
