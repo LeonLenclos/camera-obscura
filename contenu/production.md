@@ -292,7 +292,7 @@ Jour 3:
 - [x] courses metal
 
 Jour 4:
-- [x]Test Plaque MIRE
+- [x] Test Plaque MIRE
   - [x] Montage tringle sur cage (→ ACIER / CROCHETS)
   - [x] Installation reflecteur
   - [x] Test image + mécanique 
@@ -371,14 +371,12 @@ https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-c
   - [ ] cache avant
   - [ ] réalisation  réflecteur
   - [ ] pose Caméra recul
+  - [ ] crochet plaques
 
 Fabrication décors :
 - [ ] structure portante
 - [ ] chambre
 - [ ] cuisine
-
-
-
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
  - [ ] fabrication des plaques
@@ -387,11 +385,9 @@ Fabrication décors :
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
 
-
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
- - [ ] Léon repérage accés et emplacement roulotte à Nimes
 
-- Caméra  CARO + Liaison HF CARO + tvlogic pour retour vidéo dehors.
+- FX3 + Liaison HF CARO + tvlogic pour retour vidéo. Vidéoprojecteur.
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
