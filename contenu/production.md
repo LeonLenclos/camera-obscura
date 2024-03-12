@@ -322,8 +322,10 @@ Courses et fournitures :
 2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
 1m x FIL PLAT 2 X 0.75mm système rapide 9 à 36volts Ref. 0560970
 1 x POIGNEE ST ETIENNE nouveau modèle embouti Ref. 0680096
-12 x FERMETURE CAISSE MUNITION mini. Ref. 0700421 
-
+12 x FERMETURE CAISSE MUNITION mini. Ref. 0700421
+4 m x CLIP / JOINT CAOUTCHOUC A RECOUVREMENT Ref. 1400524
+10 m x RONDIN Ø 9mm ADHESIF JOINT CAOUTCHOUC Ref. 1400170 
+8 m x JOINT DEMI-LUNE 7.7 x 11 mm sur ADHESIF Ref. 1400169 
  - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
  - [ ] cales brusson
  - [ ] vitre soufflet 6mm à mesurer et commander coprover
@@ -334,6 +336,9 @@ Courses et fournitures :
  4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
  
 10 barres de 6m barre rectangulaire 30x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
+
+
+https://www.roues-roulettes-outlet.fr/roulette-pivotante-en-polyamide-ny6-125.html
 
   - [x] rail caisses clim
   - [x] plaque clim
