@@ -331,11 +331,9 @@ Courses et fournitures :
 vitre soufflet 6mm à mesurer et commander coprover
 
  - [ ] ARCELLOR
-16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
-
- 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
- 
-10 barres de 6m barre rectangulaire 30x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
+- 16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
+- 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
+- 10 barres de 6m barre rectangulaire 30x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
 
 
 https://www.roues-roulettes-outlet.fr/roulette-pivotante-en-polyamide-ny6-125.html
