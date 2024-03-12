@@ -372,6 +372,7 @@ https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-c
   - [ ] réalisation  réflecteur
   - [ ] pose Caméra recul
   - [ ] crochet plaques
+  - [ ] couper plexi avec marge 1 cm
 
 Fabrication décors :
 - [ ] structure portante
@@ -379,8 +380,10 @@ Fabrication décors :
 - [ ] cuisine
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
+
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
+ - [ ] reserver FabLab du mardi au vendredi
 
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
