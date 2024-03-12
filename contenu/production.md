@@ -292,7 +292,7 @@ Jour 3:
 - [x] courses metal
 
 Jour 4:
-- [x]Test Plaque MIRE
+- [x] Test Plaque MIRE
   - [x] Montage tringle sur cage (→ ACIER / CROCHETS)
   - [x] Installation reflecteur
   - [x] Test image + mécanique 
@@ -307,90 +307,104 @@ Jour 5:
 
 ### Du 04/03/2024 au 11/03/2024 : Léon à Marseille (13)
 
- - [ ] conception et dessin réflecteur
- - [ ] conception et dessin support décor
- - [ ] décors
+ - [x] conception et dessin réflecteur
+ - [x] conception et dessin support décor
  - [ ] fin dessin plaque
 
-### Du 04/03/2024 au 19/03/2024 : Graulhet chez les Plasticiens (81)
+### Du 04/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
- - [ ] CP antifeu plafond + siège 5 plaques CP IGNIFUGE (TOUT PEUPLIER 05 mm 3,10 x 1,53 https://www.smbois.com/contreplaque-ignifuge-5-mm.html ) ou dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
- - [ ] peinture noire hydrofuge
- - [ ] mousse joint 10m chez Brusson (porte trappes, vitre, plaque caisse clim)
- - [ ] cales brsson
- - [ ] vitre soufflet 6mm à mesurer et commander coprover
- - [ ] ARCELLOR
-   - [ ] plat alu renfort plaque + crochet (même épaisseur que proto)
-   - [ ] tringle Alu (même épaisseur que proto) 3000 mm
-   - [ ] Tube carré 30 mm pour renfort accoudoir/reflecteur/caisse rangement plaque/escaliers/ventilation
-- [ ] miroleg
+ - [ ] DISPANO
+   CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
 
+ - [ ] BRUSSON
+- 2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
+- 1m x FIL PLAT 2 X 0.75mm système rapide 9 à 36volts Ref. 0560970
+- 1 x POIGNEE ST ETIENNE nouveau modèle embouti Ref. 0680096
+- 12 x FERMETURE CAISSE MUNITION mini. Ref. 0700421
+- 4 m x CLIP / JOINT CAOUTCHOUC A RECOUVREMENT Ref. 1400524
+- 10 m x RONDIN Ø 9mm ADHESIF JOINT CAOUTCHOUC Ref. 1400170 
+- 8 m x JOINT DEMI-LUNE 7.7 x 11 mm sur ADHESIF Ref. 1400169 
 
-lundi
+ - [ ] COPROVER
+vitre soufflet 6mm à mesurer et commander coprover
 
-- [ ] Aller chez schiavon
-  - [ ] découpe tourelle (→ ALU 4mm)
-  - [ ] rectification usinage arbres
+ - [x] ARCELLOR
+- 16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
+- 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
+- 10 barres de 6m barre rectangulaire 40x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
 
-- [ ] Fablab
-  - [ ] Découpage fût (-> MATERIAUX ?)
-  - [ ] Découpage vinyle
-     
-mardi
+ - [ ] OUTLET
+- https://www.roues-roulettes-outlet.fr/gris-roulette-pivotante-blockage-total.html
 
-- [ ] Maison
-  - [ ] Assemblage fût
+ - [ ] PIXARPRINTING
+- test transparent 2 demi plaques
 
-Ensuite
+ - [ ] PLEXIGLASS
+- https://www.plexiglas-shop.com/fr/produits/plexiglas-gs-0f00-gt-clear.html
 
- - [ ] tourelle et télécommande point/focale
-   - [ ] adaptation remorque
-   - [ ] montage arbre télécommande
-   - [ ] montage arbre tourelle
- - [ ] seuil porte avec plat
- - [x] rail caisses clim
- - [x] plaque clim
- - [ ] obturateurs
- - [ ] cache régie et écran (côté et haut)
- - [ ] cache avant
- - [ ] réalisation  réflecteur
- - [ ] pose Caméra recul
+ - [ ] ANTALIS
+
+ - [x] CENTURION
+
+ - [ ] 123 COURROIE
+
+ - [ ] VIS EXPRESS
+- https://www.vis-express.fr/fr/ecrou-relieur-tete-bombee-fendue-inox-a4/39289-980475-ecrou-relieur-tete-bombee-fendue-6x8-m4-6-dk9-inox-a4-3663072187511.html#/21-conditionnement-1_piece
+- https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-hexagonal-creux-classe-109-iso10642vs4721/48099-931086-vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-4x12-classe-109-zingue-3663072449824.html#/21-conditionnement-1_piece
+ 
+  - [x] rail caisses clim
+  - [x] plaque clim
+  - [x] Aller chez schiavon
+  - [x] découpe tourelle (→ ALU 4mm)
+  - [x] rectification usinage arbres
+  - [x] montage arbre tourelle
+  - [x] Découpage fût (-> MATERIAUX ?)
+  - [x] Assemblage fût
+  - [ ] obturateurs
+  - [ ] commande obturateurs
+  - [ ] test Découpage vinyl et plexi
+  - [ ] montage arbre télécommande
+  - [ ] adaptation remorque
+  - [ ] seuil porte avec plat
+  - [ ] cache régie et écran (côté et haut) alu ou fourrure
+  - [ ] cache avant
+  - [ ] réalisation  réflecteur
+  - [ ] pose Caméra recul
+  - [ ] crochet plaques
+  - [ ] couper plexi avec marge 1 cm
 
 Fabrication décors :
 - [ ] structure portante
 - [ ] chambre
 - [ ] cuisine
- 
 
-### Du 25/03/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
+### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
 
-
-
-### Du 1/04/2024 au 7/04/2024 : : Graulhet chez les Plasticiens (81)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
+ - [ ] reserver FabLab du mardi au vendredi
+
+### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
+
+
+### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
+
+- FX3 + Liaison HF CARO + tvlogic pour retour vidéo. Vidéoprojecteur.
+- écriture et mise en scène
+- "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
+
 
 ## Premières résidences de mise en scène
 
-Objectif pour nimes et auch, pouvoir travailler toutes les scènes sauf :
+### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
+
+Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 - Le bon sens
 - Les vacances à Saint-Tropez
 - Je me souviens de l’embouteillage
 - La mode
-- La conversation
-
-
-### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
- - [ ] Léon repérage accés et emplacement roulotte à Nimes
-
-- Caméra  CARO + Liaison HF CARO + tvlogic pour retour vidéo dehors.
-- écriture et mise en scène
-- "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
-
-### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
- - [ ] Anticiper accés et emplacement roulotte à Auch
-    
+- La conversation    
 - écriture et jeu
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
