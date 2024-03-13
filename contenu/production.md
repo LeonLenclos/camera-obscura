@@ -361,13 +361,13 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] montage arbre tourelle
   - [x] Découpage fût (-> MATERIAUX ?)
   - [x] Assemblage fût
-  - [ ] obturateurs
-  - [ ] commande obturateurs
+  - [x] obturateurs
+  - [x] commande obturateurs
   - [ ] montage arbre télécommande
   - [ ] adaptation remorque
-  - [ ] test Découpage vinyl et plexi
   - [ ] cache avant
   - [ ] seuil porte avec plat
+  - [ ] test Découpage vinyl et plexi
   - [ ] cache régie et écran (côté et haut) alu ou fourrure
   - [ ] réalisation  réflecteur
   - [ ] pose Caméra recul
@@ -393,7 +393,6 @@ Fabrication décors :
 - FX3 + Liaison HF CARO + tvlogic pour retour vidéo. Vidéoprojecteur.
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
-
 
 ## Premières résidences de mise en scène
 
@@ -429,14 +428,14 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
  - [ ] test fauteuil
  - [ ] poignée caisses clim
 
-Achat matériel intérieur caisse clim
-- [ ] ventilation
-- [ ] conception volet hublot
-- [ ] réalisation volet hublot
-- [ ] Finitions interieur hublot
-- [ ] pose moquette
-- [ ] dessin extérieur (peinture ou transfert)
-- [ ] niveau + boussole
+ - [ ] Achat Excelsior : matériel intérieur caisse clim
+ - [ ] ventilation
+ - [ ] conception volet hublot
+ - [ ] réalisation volet hublot
+ - [ ] Finitions interieur hublot
+ - [ ] pose moquette
+ - [ ] dessin extérieur (peinture ou transfert)
+ - [ ] niveau + boussole
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
