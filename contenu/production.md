@@ -329,6 +329,12 @@ Courses et fournitures :
  - [ ] COPROVER
 vitre soufflet 6mm à mesurer et commander coprover
 
+ - [ ] CONNEXION PRESSION
+- 2 x ARB2B040BU
+- 2 x ARV1Z032CU
+- 1m x ATF1Z032AU
+
+
  - [x] ARCELLOR
 - 16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
 - 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
