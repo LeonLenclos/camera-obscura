@@ -12,7 +12,7 @@ Une vingtaine de fragments qui s'enchaînent.  Chaque fragment est numéroté et
 
 ## Liste des souvenirs
 
-- Je me souviens du jour ou personne ne s'est levé
+- Je me souviens du jour où personne ne s'est levé
 - Je me souviens le niveau de l'eau
 - Le plein emploi
 - Une période heureuse (les gens étaient heureux même dans les files d'attente)
@@ -42,20 +42,20 @@ Les séquences du film sont détaillées dans ce tableau : [sequences.ods](seque
 
 > Je me souviens les guerres de l'eau. Des fêtes qui n'en finissaient pas dans les centres commerciaux abandonnés, le discours des "deux façons de voir les choses" et la révolte du paradigme.  
 
-> Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l'interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouche qui nous tournaient autour.  
+> Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l'interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouches qui nous tournaient autour.  
 > qui a écrit cette chanson ? personne n'a écrit cette chanson, cette chanson s'est écrite toute seule.  
 
-> Les lots de chaussette dépareillées dans les magasins, La publicité pour "le feu sans fumée". Je me souviens la mort de la science-fiction, traverser l'atlantique à pied, ce livre que tout le monde prétendait avoir lu, l'objet perdu, la météorite.  
+> Les lots de chaussettes dépareillées dans les magasins, la publicité pour "le feu sans fumée". Je me souviens la mort de la science-fiction, traverser l'atlantique à pied, ce livre que tout le monde prétendait avoir lu, l'objet perdu, la météorite.  
 > une fine couche de neige sur les toits ce matin de janvier.
 
-#### Je me souviens du jour ou personne ne s'est levé
+#### Je me souviens du jour où personne ne s'est levé
 
 > Tout le monde adore être dans son lit.  
 > Un jour les gens adorèrent tellement être dans leur lit,  
 > que sans se passer le mot personne ne se leva.  
 > Les personnes qui n'avaient pas de lit,  
 > ou qui n'étaient pas dans leur lit à ce moment là,  
-> se sont précipité vers le premier lit qu'ils trouvèrent.  
+> se sont précipités vers le premier lit qu'ils trouvèrent.  
 > D'autres qui pour une raison que personne ne peut expliquer,  
 > n'avaient pas particulièrement envie d'être dans un lit,  
 > ont profité de l'occasion pour devenir les maîtres du monde.  
@@ -72,8 +72,8 @@ Une place de village, une personne rentre chez elle, le niveau de l'eau monte, e
 
 #### Le plein emploi
 
-> Les métiers des gens ne ressemblait en rien à ce que le monde avait connu jusque là.
-> Le travail de la personne assise à la terrasses là-bas c'était de boire du café.
+> Les métiers des gens ne ressemblaient en rien à ce que le monde avait connu jusque là.
+> Le travail de la personne assise à la terrasse là-bas c'était de boire du café.
 > La personne qui marche avec le sac de course son métier c'était de toujours savoir l'heure.
 > Telle autre personne avait pour travail de se cacher derrière des arbres.
 > Même ne rien faire était devenu un métier.
@@ -84,13 +84,13 @@ Une place de village, une personne rentre chez elle, le niveau de l'eau monte, e
 
 #### Le jour où la lune s'est écrasée sur terre.
 
-Une personne chez elle à table mélange le contenue de ce qui semble être un vers d'eau à l'aide d'une cuillère. Gros boum, l'image tremble. La personne lève les yeux un instant puis recommence à touiller son eau.
+Une personne chez elle à table mélange le contenu de ce qui semble être un verre d'eau à l'aide d'une cuillère. Gros boum, l'image tremble. La personne lève les yeux un instant puis recommence à touiller son eau.
 
 #### Le bon sens
 
-> Tout a commencé quand une personne très influente a été vu en train de tenir le journal à l'envers.
+> Tout a commencé quand une personne très influente a été vue en train de tenir le journal à l'envers.
 > Tout le monde s'est mis à l'imiter et c'est devenu l'usage. Pour simplifier la lecture on s'équipait de lunettes spéciales ou de dispositifs permettant de retourner, d'abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste.
-> À partir du moment ou tout s'est retrouvé dans le même sens, on a vite oublié l'incident. 
+> À partir du moment où tout s'est retrouvé dans le même sens, on a vite oublié l'incident. 
 
 ![Dessin bon sens](/contenu/dessins/bon-sens.png)
 
@@ -102,7 +102,7 @@ Fondu au noir du plan précédent.
 
 Intertitre.
 
-> Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Générations après générations les humains évoluèrent pour s’adapter à cette situation.
+> Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Génération après génération les humains évoluèrent pour s’adapter à cette situation.
 
 Des yeux s'ouvrent dans l'obscurité. Une lampe torche s'allume et dévoile le corps d'un humain mutant (qui ressemble un peu à un chat).
 
@@ -191,10 +191,10 @@ Une longue conversation téléphonique passionnée pendant laquelle deux personn
 
 #### L'ultime chanson
 
-> Il n'existe pas une infinité de mélodie possible.  
-> Je me souviens d'une époque où on pensait les avoir toutes découverte, le monde de la composition musicale connu alors une longue crise.  
-> Puis un jour, une chanteuse découvrit une nouvelle mélodie qui avait, pour une raison que personne ne peut expliquer, échappé aux générations précédentes, Cette ultime chanson devint vite un tube interplanétaire, c'était une légère variation d'un célèbre morceau de la fin du deuxième millénaire.
+> Il n'existe pas une infinité de mélodies possibles.  
+> Je me souviens d'une époque où on pensait les avoir toutes découvertes, le monde de la composition musicale connut alors une longue crise.  
+> Puis un jour, une chanteuse découvrit une nouvelle mélodie qui avait, pour une raison que personne ne peut expliquer, échappé aux générations précédentes. Cette ultime chanson devint vite un tube interplanétaire, c'était une légère variation d'un célèbre morceau de la fin du deuxième millénaire.
 
 #### Épilogue
 
-> Je me souviens que tout était différent, toujours, différent et pourtant pareil, on ne s'y attendait pas, il n'y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, l'histoire se répète, l'histoire ne se répète pas, la cruauté des humains n'a pas de limite, la cruauté des humains a des limites, il n'y a plus d'espoir, il y a de l'espoir, c'est le meilleur petit-déjeuner de ma vie, qui a laissé la fenêtre ouverte ? personne ne comprend pourquoi ceci, de temps en temps il se passe cela, j'ai déjà vu ça quelque part. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui fini par découvrir, amère, qu'elle n'est que la dernière génération du passé.
+> Je me souviens que tout était différent, toujours, différent et pourtant pareil, on ne s'y attendait pas, il n'y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, l'histoire se répète, l'histoire ne se répète pas, la cruauté des humains n'a pas de limite, la cruauté des humains a des limites, il n'y a plus d'espoir, il y a de l'espoir, c'est le meilleur petit-déjeuner de ma vie, qui a laissé la fenêtre ouverte ? personne ne comprend pourquoi ceci, de temps en temps il se passe cela, j'ai déjà vu ça quelque part. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui finit par découvrir, amère, qu'elle n'est que la dernière génération du passé.
