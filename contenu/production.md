@@ -363,8 +363,8 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] Assemblage fût
   - [x] obturateurs
   - [x] commande obturateurs
-  - [ ] montage arbre télécommande
-  - [ ] adaptation remorque
+  - [x] montage arbre télécommande
+  - [x] adaptation remorque
   - [ ] cache avant
   - [ ] seuil porte avec plat
   - [ ] test Découpage vinyl et plexi
