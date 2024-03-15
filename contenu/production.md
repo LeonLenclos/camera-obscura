@@ -354,6 +354,7 @@ vitre soufflet 6mm à mesurer et commander coprover
 - https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-hexagonal-creux-classe-109-iso10642vs4721/48099-931086-vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-4x12-classe-109-zingue-3663072449824.html#/21-conditionnement-1_piece
 - https://www.vis-express.fr/fr/vis-metaux-sans-tete-six-pans-creux-sthc-hexagonal-creux-bout-pointeau-din-914/32266-526584-vis-metaux-sans-tete-six-pans-creux-sans-tete-six-pans-creux-sthc-4x4-bout-pointeau-acier-zing-blanc-3663072103320.html#/21-conditionnement-1_piece
 - (https://www.vis-express.fr/fr/ecrou-oreilles-din-315/31487-950900-ecrou-oreilles-m5-acier-zing-blanc-3663072092501.html#/266-conditionnement-100_pieces)
+- https://www.vis-express.fr/fr/ecrou-embase-collerette-crantee-din-6923-din-6923collerette-crantee/31363-1001456-ecrou-a-a-collerette-embase-crantee-m5-acier-zing-blanc-3663072091078.html#/267-conditionnement-200_pieces
  
   - [x] rail caisses clim
   - [x] plaque clim
