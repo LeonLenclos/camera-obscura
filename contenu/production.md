@@ -375,9 +375,9 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] montage arbre télécommande
   - [x] adaptation remorque
   - [ ] cache avant
-  - [ ] seuil porte avec plat
-  - [ ] test Découpage vinyl et plexi
+  - [x] seuil porte avec plat
   - [ ] cache régie et écran (côté et haut) alu ou fourrure
+  - [ ] test Découpage vinyl et plexi
   - [ ] réalisation  réflecteur
   - [ ] pose Caméra recul
   - [ ] crochet plaques
