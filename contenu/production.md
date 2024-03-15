@@ -337,8 +337,8 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [ ] OUTLET
 - https://www.roues-roulettes-outlet.fr/gris-roulette-pivotante-blockage-total.html
 
- - [ ] PIXARPRINTING
-- test transparent 2 demi plaques
+ - [x] PIXARPRINTING
+- test transparent 1 plaque
 
  - [ ] PLEXIGLASS
 - https://www.plexiglas-shop.com/fr/produits/plexiglas-gs-0f00-gt-clear.html
