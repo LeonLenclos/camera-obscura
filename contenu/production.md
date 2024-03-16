@@ -329,7 +329,7 @@ Courses et fournitures :
  - [ ] COPROVER
 vitre soufflet 6mm à mesurer et commander coprover
 
- - [ ] CONNEXION PRESSION
+ - [x] CONNEXION PRESSION
 - 2 x ARB2B040BU
 - 2 x ARV1Z032CU
 - 1m x ATF1Z032AU
