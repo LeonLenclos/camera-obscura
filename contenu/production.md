@@ -379,9 +379,9 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] montage arbre télécommande
   - [x] adaptation remorque
   - [x] seuil porte avec plat
-  - [ ] cache avant
+  - [x] cache avant
   - [ ] cache régie et écran (côté et haut) alu ou fourrure
-  - [ ] test Découpage vinyl et plexi
+  - [x] test Découpage vinyl et plexi
   - [ ] réalisation  réflecteur
   - [ ] pose Caméra recul
   - [ ] crochet plaques
@@ -435,12 +435,11 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
  - [ ] pose tissus
  - [ ] soudure Fabien finition siège
  - [ ] Couper verre (VITRE)
-  - [ ] préparer pare close
-  - [ ] Installer vitre
+ - [ ] préparer pare close
+ - [ ] Installer vitre
  - [ ] cale accoudoir
  - [ ] test fauteuil
  - [ ] poignée caisses clim
-
  - [ ] Achat Excelsior : matériel intérieur caisse clim
  - [ ] ventilation
  - [ ] conception volet hublot
