@@ -353,7 +353,7 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [ ] compter les autres
  - [ ] plaques sauf entières (pixart printing)
 
- - [ ] ANTALIS
+ - [x] ANTALIS
 
  - [x] CENTURION
 
