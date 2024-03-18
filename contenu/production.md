@@ -348,6 +348,10 @@ vitre soufflet 6mm à mesurer et commander coprover
 
  - [ ] PLEXIGLASS
 - https://www.plexiglas-shop.com/fr/produits/plexiglas-gs-0f00-gt-clear.html
+1/2 plaque 4mm pour rail
+1/2 plaque noir pour marios
+ - [ ] compter les autres
+ - [ ] plaques sauf entières (pixart printing)
 
  - [ ] ANTALIS
 
