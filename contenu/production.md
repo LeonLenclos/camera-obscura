@@ -314,8 +314,8 @@ Jour 5:
 ### Du 04/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
- - [ ] DISPANO
-   CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
+ - [x] SMBOIS
+   CP antifeu plafond + siège 5 plaques CP IGNIFUGE peuplier
 
  - [ ] BRUSSON
 - 2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
@@ -346,12 +346,12 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [x] PIXARPRINTING
 - test transparent 1 plaque
 
- - [ ] PLEXIGLASS
+ - [x] PLEXIGLASS
 - https://www.plexiglas-shop.com/fr/produits/plexiglas-gs-0f00-gt-clear.html
 1/2 plaque 4mm pour rail
 1/2 plaque noir pour marios
- - [ ] compter les autres
- - [ ] plaques sauf entières (pixart printing)
+ - [x] compter les autres
+ - [x] plaques sauf entières (pixart printing)
 
  - [x] ANTALIS
 
@@ -382,7 +382,7 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] cache avant
   - [ ] cache régie et écran (côté et haut) alu ou fourrure
   - [x] test Découpage vinyl et plexi
-  - [ ] réalisation  réflecteur
+  - [x] réalisation structure  réflecteur
   - [ ] pose Caméra recul
   - [ ] crochet plaques
   - [ ] couper plexi avec marge 1 cm
