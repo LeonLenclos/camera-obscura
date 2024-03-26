@@ -47,6 +47,7 @@
 On a retapé un gramophone HMV 102.
 
 On joue dessus des 78 tours. C'est des disques en shellac. Malheureusement on ne sais pas en graver.
+Ici une discussion au sujet des aiguilles : [https://forum.retrotechnique.org/t/aiguille-gramophone/24555]
 
 ### Disques joués
 
