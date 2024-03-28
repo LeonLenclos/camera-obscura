@@ -412,7 +412,8 @@ Fabrication décors :
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
 
-Pirouette Circaouette mercredi 24 avril entre 14h et 15h15 dans la roulotte et une rencontre à 15h15
+Pirouette Circaouette mercredi 24 avril entre 15h30 et 16h30 dans la roulotte
+29/4 à 15h am ou 30/4 à 11h
 
 Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 - Le bon sens
