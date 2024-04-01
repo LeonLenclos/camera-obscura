@@ -26,15 +26,15 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="0.19351852"
-     inkscape:cx="333.30144"
-     inkscape:cy="-183.44498"
+     inkscape:zoom="0.38703704"
+     inkscape:cx="1149.7608"
+     inkscape:cy="189.9043"
      inkscape:window-width="1780"
      inkscape:window-height="749"
-     inkscape:window-x="73"
-     inkscape:window-y="124"
+     inkscape:window-x="-213"
+     inkscape:window-y="294"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g24124"
+     inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
        type="xygrid"
@@ -757,8 +757,8 @@
        id="rect7783-7"
        width="126.4708"
        height="25.929169"
-       x="635.05792"
-       y="70.148544"
+       x="571.82251"
+       y="11.940223"
        transform="scale(1,-1)" />
     <text
        xml:space="preserve"
@@ -844,7 +844,7 @@
          id="tspan25244">produit par la compagnie NOKILL</tspan></text>
     <g
        id="g24124"
-       transform="matrix(0.85023603,0.06415148,0,0.84991012,350.8731,8.847974)"
+       transform="matrix(0.85023603,0.06415148,0,0.84991012,410.31742,31.949268)"
        style="stroke-width:1.17637">
       <g
          aria-label="FUTUR"
@@ -932,8 +932,8 @@
        id="rect7967-6-3"
        width="144.25146"
        height="36.602604"
-       x="684.98688"
-       y="-101.41444" />
+       x="587.81354"
+       y="-195.36417" />
     <g
        id="g9533">
       <path
@@ -988,12 +988,12 @@
        id="rect24126"
        width="84.699226"
        height="36.715519"
-       x="-109.72552"
-       y="102.91943" />
+       x="-129.15364"
+       y="40.533375" />
     <g
        id="g24469"
        transform="translate(22.59809,-71.023931)"
-       style="fill:#000000">
+       style="display:inline;fill:#000000">
       <rect
          style="font-variation-settings:normal;opacity:0.884607;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
          id="rect24222"
@@ -1088,7 +1088,8 @@
     </g>
     <g
        id="g24803"
-       transform="translate(25.929169,1.5874996)">
+       transform="translate(25.929169,1.5874996)"
+       style="display:none">
       <rect
          style="font-variation-settings:normal;opacity:0.884607;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
          id="rect24471"
@@ -1197,7 +1198,8 @@
     </g>
     <g
        id="g24803-0"
-       transform="translate(-10.55355,53.604301)">
+       transform="translate(-10.55355,53.604301)"
+       style="display:none">
       <g
          id="g25240">
         <g
@@ -1330,7 +1332,8 @@
     </g>
     <g
        id="g25310"
-       transform="translate(1.7051761,3.9432892)">
+       transform="translate(1.7051761,3.9432892)"
+       style="display:inline">
       <rect
          style="font-variation-settings:normal;opacity:0.884607;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
          id="rect25250"
