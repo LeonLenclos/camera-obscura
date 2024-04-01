@@ -314,8 +314,8 @@ Jour 5:
 ### Du 04/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
 
 Courses et fournitures :
- - [ ] DISPANO
-   CP antifeu plafond + siège 5 plaques CP IGNIFUGE OKOUME dispano (https://www.dispano.fr/p/panneaux/contreplaque-teboflam-okoume-qualite-ii-iii-m1-interieur-collage-A1895835?variants-id=1895835&display-mode=displayInline)
+ - [x] SMBOIS
+   CP antifeu plafond + siège 5 plaques CP IGNIFUGE peuplier
 
  - [ ] BRUSSON
 - 2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
@@ -329,6 +329,12 @@ Courses et fournitures :
  - [ ] COPROVER
 vitre soufflet 6mm à mesurer et commander coprover
 
+ - [x] CONNEXION PRESSION
+- 2 x ARB2B040BU
+- 2 x ARV1Z032CU
+- 1m x ATF1Z032AU
+
+
  - [x] ARCELLOR
 - 16 barres de 6m Tube carré 30x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
 - 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
@@ -337,21 +343,31 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [ ] OUTLET
 - https://www.roues-roulettes-outlet.fr/gris-roulette-pivotante-blockage-total.html
 
- - [ ] PIXARPRINTING
-- test transparent 2 demi plaques
+ - [x] PIXARPRINTING
+- [x] test transparent 1 plaque
+- [x] 11 fichiers plexi noir
 
- - [ ] PLEXIGLASS
+ - [x] PLEXIGLASS
 - https://www.plexiglas-shop.com/fr/produits/plexiglas-gs-0f00-gt-clear.html
+1/2 plaque 4mm pour rail
+1/2 plaque noir pour marios
+ - [x] compter les autres
+ - [x] plaques sauf entières (pixart printing)
 
- - [ ] ANTALIS
+ - [x] ANTALIS
 
  - [x] CENTURION
 
- - [ ] 123 COURROIE
+ - [x] ROULETTES CDISCOUNT
 
  - [ ] VIS EXPRESS
 - https://www.vis-express.fr/fr/ecrou-relieur-tete-bombee-fendue-inox-a4/39289-980475-ecrou-relieur-tete-bombee-fendue-6x8-m4-6-dk9-inox-a4-3663072187511.html#/21-conditionnement-1_piece
 - https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-hexagonal-creux-classe-109-iso10642vs4721/48099-931086-vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-4x12-classe-109-zingue-3663072449824.html#/21-conditionnement-1_piece
+- https://www.vis-express.fr/fr/vis-metaux-sans-tete-six-pans-creux-sthc-hexagonal-creux-bout-pointeau-din-914/32266-526584-vis-metaux-sans-tete-six-pans-creux-sans-tete-six-pans-creux-sthc-4x4-bout-pointeau-acier-zing-blanc-3663072103320.html#/21-conditionnement-1_piece
+- (https://www.vis-express.fr/fr/ecrou-oreilles-din-315/31487-950900-ecrou-oreilles-m5-acier-zing-blanc-3663072092501.html#/266-conditionnement-100_pieces)
+- https://www.vis-express.fr/fr/ecrou-embase-collerette-crantee-din-6923-din-6923collerette-crantee/31363-1001456-ecrou-a-a-collerette-embase-crantee-m5-acier-zing-blanc-3663072091078.html#/267-conditionnement-200_pieces
+
+ - [ ] VELCRO
  
   - [x] rail caisses clim
   - [x] plaque clim
@@ -361,18 +377,17 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] montage arbre tourelle
   - [x] Découpage fût (-> MATERIAUX ?)
   - [x] Assemblage fût
-  - [ ] obturateurs
-  - [ ] commande obturateurs
-  - [ ] test Découpage vinyl et plexi
-  - [ ] montage arbre télécommande
-  - [ ] adaptation remorque
-  - [ ] seuil porte avec plat
-  - [ ] cache régie et écran (côté et haut) alu ou fourrure
-  - [ ] cache avant
-  - [ ] réalisation  réflecteur
-  - [ ] pose Caméra recul
-  - [ ] crochet plaques
-  - [ ] couper plexi avec marge 1 cm
+  - [x] obturateurs
+  - [x] commande obturateurs
+  - [x] montage arbre télécommande
+  - [x] adaptation remorque
+  - [x] seuil porte avec plat
+  - [x] cache avant
+  - [x] test Découpage vinyl et plexi
+  - [x] réalisation structure  réflecteur
+  - [x] pose Caméra recul
+
+
 
 Fabrication décors :
 - [ ] structure portante
@@ -380,7 +395,9 @@ Fabrication décors :
 - [ ] cuisine
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
-
+ - [ ] couper plexi avec marge 1 cm
+ - [ ] crochet plaques
+ - [ ] cache régie et écran (côtés en tissus)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
  - [ ] reserver FabLab du mardi au vendredi
@@ -394,10 +411,12 @@ Fabrication décors :
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
-
 ## Premières résidences de mise en scène
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
+
+Pirouette Circaouette mercredi 24 avril entre 15h30 et 16h30 dans la roulotte
+29/4 à 15h am ou 30/4 à 11h
 
 Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 - Le bon sens
@@ -411,7 +430,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
  - [ ] pose joint trappe
  - [ ] bas de caisse avec Didier
- - [ ] fermoir
+ - [ ] poignée trappe
  - [ ] dessiner escalier
  - [ ] coupe alu escalier
  - [ ] Escalier principal
@@ -421,20 +440,19 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
  - [ ] pose tissus
  - [ ] soudure Fabien finition siège
  - [ ] Couper verre (VITRE)
-  - [ ] préparer pare close
-  - [ ] Installer vitre
+ - [ ] préparer pare close
+ - [ ] Installer vitre
  - [ ] cale accoudoir
  - [ ] test fauteuil
  - [ ] poignée caisses clim
-
-Achat matériel intérieur caisse clim
-- [ ] ventilation
-- [ ] conception volet hublot
-- [ ] réalisation volet hublot
-- [ ] Finitions interieur hublot
-- [ ] pose moquette
-- [ ] dessin extérieur (peinture ou transfert)
-- [ ] niveau + boussole
+ - [ ] Achat Excelsior : matériel intérieur caisse clim
+ - [ ] ventilation
+ - [ ] conception volet hublot
+ - [ ] réalisation volet hublot
+ - [ ] Finitions interieur hublot
+ - [ ] pose moquette
+ - [ ] dessin extérieur (peinture ou transfert)
+ - [ ] niveau + boussole
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
