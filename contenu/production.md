@@ -366,6 +366,8 @@ vitre soufflet 6mm à mesurer et commander coprover
 - https://www.vis-express.fr/fr/vis-metaux-sans-tete-six-pans-creux-sthc-hexagonal-creux-bout-pointeau-din-914/32266-526584-vis-metaux-sans-tete-six-pans-creux-sans-tete-six-pans-creux-sthc-4x4-bout-pointeau-acier-zing-blanc-3663072103320.html#/21-conditionnement-1_piece
 - (https://www.vis-express.fr/fr/ecrou-oreilles-din-315/31487-950900-ecrou-oreilles-m5-acier-zing-blanc-3663072092501.html#/266-conditionnement-100_pieces)
 - https://www.vis-express.fr/fr/ecrou-embase-collerette-crantee-din-6923-din-6923collerette-crantee/31363-1001456-ecrou-a-a-collerette-embase-crantee-m5-acier-zing-blanc-3663072091078.html#/267-conditionnement-200_pieces
+
+ - [ ] VELCRO
  
   - [x] rail caisses clim
   - [x] plaque clim
@@ -384,8 +386,7 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] test Découpage vinyl et plexi
   - [x] réalisation structure  réflecteur
   - [x] pose Caméra recul
-  - [ ] crochet plaques
-  - [ ] cache régie et écran (côté) bois ou tissus
+
 
 
 Fabrication décors :
@@ -395,6 +396,8 @@ Fabrication décors :
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
  - [ ] couper plexi avec marge 1 cm
+ - [ ] crochet plaques
+ - [ ] cache régie et écran (côtés en tissus)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
  - [ ] reserver FabLab du mardi au vendredi
@@ -427,7 +430,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
  - [ ] pose joint trappe
  - [ ] bas de caisse avec Didier
- - [ ] fermoir
+ - [ ] poignée trappe
  - [ ] dessiner escalier
  - [ ] coupe alu escalier
  - [ ] Escalier principal
