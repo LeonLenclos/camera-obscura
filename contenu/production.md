@@ -395,8 +395,10 @@ Fabrication décors :
 - [ ] cuisine
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
- - [ ] couper plexi avec marge 1 cm
- - [ ] crochet plaques
+ - [x] couper plexi avec marge 1 cm
+ - [ ] couper 2 plexi 650 x 800 en 3 mm
+ - [ ] coupe et perce 40 barres de 800 en alu ep 5 x 40
+ - [ ] 40 crochets plaques
  - [ ] cache régie et écran (côtés en tissus)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
