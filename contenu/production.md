@@ -396,13 +396,12 @@ Fabrication décors :
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
  - [x] couper plexi avec marge 1 cm
- - [ ] couper 2 plexi 650 x 800 en 3 mm
  - [ ] coupe et perce 40 barres de 800 en alu ep 5 x 40
  - [ ] 40 crochets plaques
  - [ ] cache régie et écran (côtés en tissus)
  - [ ] fabrication des plaques
  - [ ] caisse des plaques
- - [ ] reserver FabLab du mardi au vendredi
+ - [x] reserver FabLab du mardi au vendredi
 
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
