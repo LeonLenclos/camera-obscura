@@ -122,7 +122,7 @@ Pour le générique de début et les intertitres, les volets sont fermés et c'e
 #### *Prologue*
 
 ![aperçu plaque](../animations/prologue.png)
-
+![aperçu mécanique](../animations/prologue-meca.png)
 Fixe : Décors mer avec un perso sur un rocher.
 
 Anim 1 : Petite translation en allez-retours pour animer des reflets dans l'eau.
@@ -134,6 +134,7 @@ Anim 2 : Longue translation horizontale pour le déplacement du bateau. La trans
 ![aperçu plaque](../animations/niveaudeleau-a.png)
 ![aperçu plaque](../animations/niveaudeleau-b.png)
 ![aperçu plaque](../animations/niveaudeleau-c.png)
+![aperçu mécanique](../animations/niveaudeleau-meca.png)
 
 Fixe : Décors ville en perspective cavalière.
 
@@ -148,6 +149,7 @@ Mario 2 : Une baleine (queue animée) + 3 poissons
 #### *Mutation* 1
 
 ![aperçu plaque](../animations/mutation-1.png)
+![aperçu mécanique](../animations/mutation-1-meca.png)
 
 Fixe : Yeux vides
 
@@ -157,6 +159,7 @@ Anim : Paupières et pupilles
 #### *Mutation* 2
 
 ![aperçu plaque](../animations/mutation-2.png)
+![aperçu mécanique](../animations/mutation-2-meca.png)
 
 Fixe : Deux persos + décors + caches noirs
 
@@ -177,6 +180,7 @@ Mario 2 : Chariot premier plan
 #### *Golden record* 1
 
 ![aperçu plaque golden record 1](../animations/goldenrecord-1.png)
+![aperçu mécanique](../animations/goldenrecord-1-meca.png)
 
 Fixe : La fusée et son ciel sur une bande verticale au centre. Caches pour faire clignoter les étoiles.
 
@@ -186,6 +190,7 @@ Anim 1 : Longue translation Le reste du ciel qui défilent.
 #### *Golden record* 2
 
 ![aperçu plaque golden record 2](../animations/goldenrecord-2.png)
+![aperçu mécanique](../animations/goldenrecord-2-meca.png)
 
 Fixe : Perso et décors
 
@@ -195,6 +200,7 @@ Anim : Translation verticale courte en aller-retours des avants-bras tenant le d
 #### *Golden record* 3
 
 ![aperçu plaque golden record 3](../animations/goldenrecord-3.png)
+![aperçu mécanique](../animations/goldenrecord-3-meca.png)
 
 Fixe : Perso sans visage ordi et décors.
 
@@ -214,6 +220,7 @@ Anim : Courte translation horizontale pour pouvoir changer de visage.
 #### *Comportement* 1
 
 ![aperçu plaque](../animations/comportement-1.png)
+![aperçu mécanique](../animations/comportement-1-meca.png)
 
 Fixe : Transparent
 
@@ -232,6 +239,7 @@ Anim 6 : Translation horizontale pour volet texte E
 #### *Comportement* 2
 
 ![aperçu plaque](../animations/comportement-2.png)
+![aperçu mécanique](../animations/comportement-2-meca.png)
 
 Fixe : 3 visages et 2 paires d'yeux.
 
@@ -240,6 +248,7 @@ Anim : Translation courte horizontale de 2 visages et 3 paires d'yeux pour faire
 #### *Épilogue* 1
 
 ![aperçu plaque](../animations/epilogue-1.png)
+![aperçu mécanique](../animations/epilogue-1-meca.png)
 
 Fixe : Mer opaque avec zone pour laisser apparaître le perso. Reflets lune et étoiles.
 
@@ -248,6 +257,7 @@ Anim : Translation verticale. Fait apparaître le personnage petit à petit.
 #### *Épilogue* 2
 
 ![aperçu plaque](../animations/epilogue-2.png)
+![aperçu mécanique](../animations/epilogue-2-meca.png)
 
 Fixe : Décors Mer
 
