@@ -309,7 +309,7 @@ Jour 5:
 
  - [x] conception et dessin réflecteur
  - [x] conception et dessin support décor
- - [ ] fin dessin plaque
+ - [x] fin dessin plaque
 
 ### Du 04/03/2024 au 31/03/2024 : Graulhet chez les Plasticiens (81)
 
@@ -404,6 +404,20 @@ Fabrication décors :
  - [x] reserver FabLab du mardi au vendredi
 
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
+
+Dans l'ordre du plus ou moins urgent:
+
+- courses chez brusson
+- fixation du cache avant
+- repérage Ramonville 
+- Percer les plaques
+- crochets plaques
+- Réflecteur (roues, surface, système de réglage)
+- caisse plaques
+- rangement des outils
+- vis du rail a raccourcir au ras des écrous bas
+- cache arrière
+- camera de recul 
 
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
