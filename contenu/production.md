@@ -323,7 +323,7 @@ Courses et fournitures :
 - 1 x POIGNEE ST ETIENNE nouveau modèle embouti Ref. 0680096
 - 12 x FERMETURE CAISSE MUNITION mini. Ref. 0700421
 - 4 m x CLIP / JOINT CAOUTCHOUC A RECOUVREMENT Ref. 1400524
-- 10 m x RONDIN Ø 9mm ADHESIF JOINT CAOUTCHOUC Ref. 1400170 
+- 10 m x RONDIN Ø 9mm ADHESIF JOINT CAOUTCHOUC Ref. 1400170
 - 8 m x JOINT DEMI-LUNE 7.7 x 11 mm sur ADHESIF Ref. 1400169 
 
  - [ ] COPROVER
@@ -340,7 +340,7 @@ vitre soufflet 6mm à mesurer et commander coprover
 - 4 barres de 6m  tube rond 50x2mm Aluminium extrudé AW6060T6 EN 573-3 6000
 - 10 barres de 6m barre rectangulaire 40x5mm Aluminium extrudé AW6060T6 EN 573-3 6000
 
- - [ ] OUTLET
+ - [x] OUTLET
 - https://www.roues-roulettes-outlet.fr/gris-roulette-pivotante-blockage-total.html
 
  - [x] PIXARPRINTING
@@ -360,7 +360,7 @@ vitre soufflet 6mm à mesurer et commander coprover
 
  - [x] ROULETTES CDISCOUNT
 
- - [ ] VIS EXPRESS
+ - [x] VIS EXPRESS
 - https://www.vis-express.fr/fr/ecrou-relieur-tete-bombee-fendue-inox-a4/39289-980475-ecrou-relieur-tete-bombee-fendue-6x8-m4-6-dk9-inox-a4-3663072187511.html#/21-conditionnement-1_piece
 - https://www.vis-express.fr/fr/vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-hexagonal-creux-classe-109-iso10642vs4721/48099-931086-vis-metaux-fhc-tete-fraisee-empreinte-hexagonale-creuse-4x12-classe-109-zingue-3663072449824.html#/21-conditionnement-1_piece
 - https://www.vis-express.fr/fr/vis-metaux-sans-tete-six-pans-creux-sthc-hexagonal-creux-bout-pointeau-din-914/32266-526584-vis-metaux-sans-tete-six-pans-creux-sans-tete-six-pans-creux-sthc-4x4-bout-pointeau-acier-zing-blanc-3663072103320.html#/21-conditionnement-1_piece
@@ -396,7 +396,7 @@ Fabrication décors :
 
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
  - [x] couper plexi avec marge 1 cm
- - [ ] coupe et perce 40 barres de 800 en alu ep 5 x 40
+ - [x] coupe et perce 40 barres de 800 en alu ep 5 x 40
  - [ ] 40 crochets plaques
  - [ ] cache régie et écran (côtés en tissus)
  - [ ] fabrication des plaques
