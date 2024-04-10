@@ -113,12 +113,3 @@ Le camion doit rester à proximité de l'espace de jeu (à moins de 50 m).
 - Un point d'eau (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
 - Une ligne 16A (pour la loge dans le camion)
 
-<span class="web">Annexe implantation orientation NE  :<br/>
-[camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NE.pdf](https://camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NE.pdf)</span>
-
-<span class="web">Annexe implantation orientation NO  :<br/>
-[camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NO.pdf](https://camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NO.pdf)</span>
-
-<span class="web">Annexe implantation carte ARTO  :<br/>
-[camera-obscura.cienokill.fr/contenu/plan/implantation-carte-arto.pdf](https://camera-obscura.cienokill.fr/contenu/plan/implantation-carte-arto.pdf)</span>
-
