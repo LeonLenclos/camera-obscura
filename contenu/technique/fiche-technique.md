@@ -9,7 +9,6 @@
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
 
-
 ## Équipe
 
 ### Contact comédien·nes
@@ -100,22 +99,26 @@ Pas de régime alimentaire particulier.
 ### Implantation
 
 - Dimensions remorque : 2,50 × 7,50 m
-- Espace nécessaire : 10 × 20 m
-- Terrain : plat.
-- Orientation : l'avant de la remorque doit être orienté vers le nord.
-- Ensoleillement : l'espace de jeu doit être ensoleillé (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu à l'avant de la remorque pendant les représentations).
-
+- Espace minimum nécessaire : 10 × 15 m
+- Terrain : plat
+- Orientation : l'avant de la remorque doit être orienté vers le nord (nord-est ou vers le nord-ouest en fonction des endroits)
+- Ensoleillement : l'espace de jeu doit être ensoleillé (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu)
 
 La Camera Obscura s'installe en ville ou à la campagne, sur une place vivante, dans une zone industrielle abandonnée, dans un parc, en pleine nature, au coeur d'un festival, etc.
 
 Le camion doit rester à proximité de l'espace de jeu (à moins de 50 m).
-
-![schema](../plans/implantation.png)
 
 ###  À fournir
 
 - Un point d'eau (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
 - Une ligne 16A (pour la loge dans le camion)
 
+<span class="web">Annexe implantation orientation NE  :<br/>
+[camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NE.pdf](https://camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NE.pdf)</span>
 
+<span class="web">Annexe implantation orientation NO  :<br/>
+[camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NO.pdf](https://camera-obscura.cienokill.fr/contenu/plan/implantation-orientation-NO.pdf)</span>
+
+<span class="web">Annexe implantation carte ARTO  :<br/>
+[camera-obscura.cienokill.fr/contenu/plan/implantation-carte-arto.pdf](https://camera-obscura.cienokill.fr/contenu/plan/implantation-carte-arto.pdf)</span>
 

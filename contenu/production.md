@@ -412,6 +412,10 @@ Fabrication décors :
 - écriture et mise en scène
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
+à prendre à Graulhet :
+- table verre + néon
+
+
 ## Premières résidences de mise en scène
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
