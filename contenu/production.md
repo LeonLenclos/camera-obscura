@@ -346,7 +346,7 @@ Courses et fournitures :
  - [x] SMBOIS
    CP antifeu plafond + siège 5 plaques CP IGNIFUGE peuplier
 
- - [ ] BRUSSON
+ - [x] BRUSSON
 - 2 x CALE DE ROUE PETIT MODELE UK46 Ref. 1310009 
 - 1m x FIL PLAT 2 X 0.75mm système rapide 9 à 36volts Ref. 0560970
 - 1 x POIGNEE ST ETIENNE nouveau modèle embouti Ref. 0680096
@@ -440,7 +440,7 @@ Dans l'ordre du plus ou moins urgent:
 - [ ] fixation du cache avant
 - [x] repérage Ramonville 
 - [ ] Percer les plaques
-- [ ] crochets plaques
+- [x] crochets plaques
 - [x] Réflecteur (roues, surface, système de réglage)
 - [ ] caisse plaques
 - [ ] rangement des outils
@@ -472,7 +472,7 @@ Objectifs :
 ##### Matos et outils pour fabriquer les plaques
 
 - Table en verre + Néon
-- La perceuse (mèches M4, M5, Fraise)
+- Makita (mèches M4, M5, Fraise)
 - Martyrs et cales pour perçage
 - Réglette gabaris en plexi pour perçage.
 - Cutter / Exacto / Ciseaux
@@ -489,11 +489,12 @@ Objectifs :
 - scie à métaux
 - papier de verre (avec cale à poncer)
 - Kit visserie plaques (vis de 4 courtes/longues fraisées/bombées, écrous de reliure, vis pour écrous de reliure, rondelles)
-- clé à laines, clé à pipes 
+- clé à laines, clé à pipes
+
 
 ##### Pour tester les plaques en intérieur
 
-- Une découpe
+- Une découpe + Pied
 - Deux pieds de projo
 - Le rail
 - Écran papi pour reflecteur interieur (?)
@@ -512,7 +513,7 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Clés
 - Harmonium
 - Ocean drum
-- Spring Frum
+- Spring Drum
 - Coquillages
 - Scie
 - Bulles
@@ -520,7 +521,7 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Guitarre
 - Tube accordé
 - Frog drum
-- BAlle rebondissante
+- Balle rebondissante
 - Aplaudisseur
 - Rondelles
 - Gramophone
@@ -555,6 +556,7 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - scotch bleu
 - Ordi + chargeur
 - Kit camera de reccul
+- caisse rouge
 
 ##### A prendre de marseille
 
