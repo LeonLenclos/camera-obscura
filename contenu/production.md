@@ -416,19 +416,10 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] réalisation structure  réflecteur
   - [x] pose Caméra recul
 
-Fabrication décors :
-- [ ] structure portante
-- [ ] chambre
-- [ ] cuisine
-
 ### Du 1/04/2024 au 7/04/2024 : Graulhet (81)
  - [x] couper plexi avec marge 1 cm
  - [x] coupe et perce 40 barres de 800 en alu ep 5 x 40
- - [ ] 40 crochets plaques
- - [ ] cache régie et écran (côtés en tissus)
- - [ ] fabrication des plaques
- - [ ] caisse des plaques
- - [x] reserver FabLab du mardi au vendredi
+ - [x] reserver FabLab du mardi au vendredi pour laser plexi et coupe vinyle
 
 # Maintenant
 
@@ -439,7 +430,7 @@ Dans l'ordre du plus ou moins urgent:
 - [x] courses chez brusson
 - [ ] fixation du cache avant
 - [x] repérage Ramonville 
-- [ ] Percer les plaques
+- [ ] Percer les plaques (barres)
 - [x] crochets plaques
 - [x] Réflecteur (roues, surface, système de réglage)
 - [ ] caisse plaques
@@ -456,6 +447,9 @@ Objectifs :
 - Finir fabrication plaques
 - Travailler manip et bande son anims.
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
+
+Achat : tracker
+https://trakmy.fr/
 
 ### Liste matos pour Nimes
 
@@ -599,8 +593,16 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
 
+
+
+ - [ ] finition prothèse
+ - [ ] pose volets hublot
+ - [ ] structure portante décors
+ - [ ] décor chambre
+ - [ ] décor cuisine
+ - [ ] décor voiture
+ - [ ] cache régie et écran (côtés en tissus)
  - [ ] pose joint trappe
- - [ ] bas de caisse avec Didier
  - [ ] poignée trappe
  - [ ] dessiner escalier
  - [ ] coupe alu escalier
@@ -617,13 +619,17 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
  - [ ] test fauteuil
  - [ ] poignée caisses clim
  - [ ] Achat Excelsior : matériel intérieur caisse clim
- - [ ] ventilation
+ - [ ] conception ventilation
  - [ ] conception volet hublot
- - [ ] réalisation volet hublot
+
  - [ ] Finitions interieur hublot
  - [ ] pose moquette
  - [ ] dessin extérieur (peinture ou transfert)
  - [ ] niveau + boussole
+ - [ ] passage au MINES
+ - [ ] bas de caisse avec Didier
+
+
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
