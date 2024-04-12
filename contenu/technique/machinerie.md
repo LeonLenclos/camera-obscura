@@ -36,6 +36,7 @@ Voir aussi : [plaques](../objet/animations)
 
 C'est une structure sur roue freinées très large à la base (~2×2 m) pour la stabilité.
 
+Le réflecteur est double face : d'un côté du Depron et de l'autre du Silver (LEE Filter).
 
 - Fait en tube alu rond de ø50 (~ 24 m)
 - Cadre de 2000×1500 en tube alu carré de 30 (~ 7 m)

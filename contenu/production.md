@@ -1,3 +1,5 @@
+[↓↓↓ CLIQUER ICI POUR ALLER DIRECTEMENT À **MAINTENANT** DANS LE CALENDRIER DES RÉSIDENCES ↓↓↓](#maintenant)
+
 # Générique
 
 De :
@@ -26,30 +28,60 @@ Soutiens :
 - SCÈNES CROISÉES DE LOZÈRE
 - ASSOCIATION DES CLOUS
 
+Diffusion :
+
+- Amparo Gallur
+
 Interlocuteurices :
 
-- Cie Titanos
-- Arnaud Vidal
+- Zou Lenclos (Proto-autrice)
+- Cie Titanos (Expert·es en salles de spectacles itinérantes)
+- Arnaud Vidal (Expert en salles de spectacles itinérantes)
 - Jérémie Dain
 - Eric Amblard
 - Evelyne Salançon
-- Gérard Tayeb
-- Juan P. Martínez Pastor
-- Ronan Bouvier
-- Marc Reynaud
-- Paco Labat
+- Gérard Tayeb (Opticien)
+- Juan P. Martínez Pastor (Opticien)
+- Ronan Bouvier 
+- Marc Reynaud (Opticien)
+- Paco Labat (Expert en instruments sonnore)
 
 Constructeurice :
 
-- Zou Lenclos
-- Fabien Durand
-- Aquabrasion
-- Schiavon
-- Laurent Fayard
-- Éva Ricard
-- Steffie Bayer
-- Jean-Claude Azemar
-- Didier Pons
+- Fabien Durand (Soudeur remorque)
+- Zou Lenclos (Constructrice remorque)
+- Laurent Fayard (Constructeur remorque)
+- Didier Pons (Constructeur remorque)
+- Éva Ricard (Couturière Remorque)
+- Steffie Bayer (Prothésiste-marionnettiste)
+- Jean-Claude Azemar (Vitrier)
+- Marco Cohen (Constructeur réflecteur)
+- Aquabrasion (Constructeurs machinerie et carrosserie)
+- Schiavon (Constructeurs machinerie et carrosserie)
+
+Mentionner une seconde fois au générique :
+
+- Lucile Balezeaux (Costumière)
+- Bertrand Lenclos (Musicien et Designer Sonore)
+- Léon Lenclos (Dessinateur)
+
+Autres lieux de travail :
+
+- CréaLab de Graulhet 
+- Usine des plasticiens volants
+
+Logiciels libres :
+
+- Inkscape (Dessin)
+- LibreCAD (Plans)
+- Git (Écriture)
+
+Remerciements :
+
+- Florence Laffitte
+- Virginie Talou
+- Francis Lopez
+- Elise de Couleurs Papilles
 
 # Calendrier des résidences
 
@@ -242,9 +274,6 @@ Constructeurice :
  - [x] conception et dessin télécommande
  - [x] prépare une anim pour test
 
- 
-## Résidences à venir
-
 ### Du 19/02/2024 au 25/02/2024 : Graulhet chez les Plasticiens (81)
 
  - [x] verrou
@@ -387,8 +416,6 @@ vitre soufflet 6mm à mesurer et commander coprover
   - [x] réalisation structure  réflecteur
   - [x] pose Caméra recul
 
-
-
 Fabrication décors :
 - [ ] structure portante
 - [ ] chambre
@@ -403,36 +430,159 @@ Fabrication décors :
  - [ ] caisse des plaques
  - [x] reserver FabLab du mardi au vendredi
 
+# Maintenant
+
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
 Dans l'ordre du plus ou moins urgent:
 
-- courses chez brusson
-- fixation du cache avant
-- repérage Ramonville 
-- Percer les plaques
-- crochets plaques
-- Réflecteur (roues, surface, système de réglage)
-- caisse plaques
-- rangement des outils
-- vis du rail a raccourcir au ras des écrous bas
-- cache arrière
-- camera de recul 
+- [x] courses chez brusson
+- [ ] fixation du cache avant
+- [x] repérage Ramonville 
+- [ ] Percer les plaques
+- [ ] crochets plaques
+- [x] Réflecteur (roues, surface, système de réglage)
+- [ ] caisse plaques
+- [ ] rangement des outils
+- [ ] vis du rail a raccourcir au ras des écrous bas
+- [ ] cache arrière
+- [ ] caméra de recul 
 
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
 
-- FX3 + Liaison HF CARO + tvlogic pour retour vidéo. Vidéoprojecteur.
-- écriture et mise en scène
+Objectifs :
+
+- Finir fabrication plaques
+- Travailler manip et bande son anims.
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
-à prendre à Graulhet :
-- table verre + néon
+### Liste matos pour Nimes
+
+##### Les plaques
+
+- 24 (12×2) Crochets (avec boulon et poulie)
+- 24 (12×2) Barres en alu
+- Toutes les plaques fixes (imprimées et vierges) et toutes les plaques d'anim
+- Rails et autres accéssoires
+- Pièces des marionettes
+- Les rouleaux de vynile précoupé
+- Le carton des chutes (vynile et plexi) au cas où
+
+##### Matos et outils pour fabriquer les plaques
+
+- Table en verre + Néon
+- La perceuse (mèches M4, M5, Fraise)
+- Martyrs et cales pour perçage
+- Réglette gabaris en plexi pour perçage.
+- Cutter / Exacto / Ciseaux
+- Planche à découper
+- Elastiques
+- Pinceau propre
+- Rouleau d'essuie-tout
+- Pschit-pschit avec le mellange (1.3 litres d'eau / 4 gouttes de liquide vaisselle / 4 cuillères à soupe d'alcool à 90 (isopropylique))
+- Rouleau de transfert
+- Rouleau, carte bleu usagée
+- Grosse poubelle noire du local (?)
+- Torchon
+- scie sauteuse
+- scie à métaux
+- papier de verre (avec cale à poncer)
+- Kit visserie plaques (vis de 4 courtes/longues fraisées/bombées, écrous de reliure, vis pour écrous de reliure, rondelles)
+- clé à laines, clé à pipes 
+
+##### Pour tester les plaques en intérieur
+
+- Une découpe
+- Deux pieds de projo
+- Le rail
+- Écran papi pour reflecteur interieur (?)
+- Gants blancs
+
+##### Pour tester les plaques en exterieur
+
+- Le grand réflecteur
+- Un praticable (?)
+- Un escabeau
+
+##### Son
+
+J'ai listé les instruments cité dans le séquenciers aux sequences animées, a toi de voir si c'est la peine de prendre tout ou moins ou plus.
+
+- Clés
+- Harmonium
+- Ocean drum
+- Spring Frum
+- Coquillages
+- Scie
+- Bulles
+- Grinçoir
+- Guitarre
+- Tube accordé
+- Frog drum
+- BAlle rebondissante
+- Aplaudisseur
+- Rondelles
+- Gramophone
+- Disque pour craquement)
+- Percus pour comportement (monocorde, cymbales, gong, grosse caisses)
+
+##### Kit cinéma
+
+- Pied camera
+- Sac camera
+
+##### Projection
+
+- 1 VP
+- 1 écran/moniteur (?)
+
+##### Ateliers
+
+- Carton fin
+- Tissu noir
+- Les écrous de relieurs achetés à graulhet chez cuir shop là
+- Emporte pièce adapté
+- Si il y a : Une plaque de plexi transparent environ A3 ou A2 pour servir de support aux animations verticales faites pendant l'atelier
+- De quoi enregister des voix/bruitages (kit couple ORTF et pied)
+- Des bons ciseaux
+
+##### Divers
+
+- 2 Prolongs + 2 Multiprises
+- Pinces et serre-joints stanley
+- 2 caisses de plaques
+- scotch bleu
+- Ordi + chargeur
+- Kit camera de reccul
+
+##### A prendre de marseille
+
+- Papiers noir, papiers transparents, papiers colorés.
+- Emporte pièce
+- Perforeuse classeur
+- Table lumineuse (?)
+- Poscas / marqueurs
+- Exacto
+
+### Atelier du samedi
+
+- On fait tout en 2D
+- Pantins qui se manipulent à l'envers (marche), bras en l'air, etc.
+- Animation style plaque de lanterne à système.
+- Cutout animation en stop-motion (?)
+- Privilégier les silhouettes 
+- Faire écrire un ou des souvenirs du futur
+- Choisir une palette limitée
+- Filmer à l'horizontale et à la verticale.
+
 
 
 ## Premières résidences de mise en scène
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
+
+- FX3 + Liaison HF CARO + tvlogic pour retour vidéo. Vidéoprojecteur.
 
 Pirouette Circaouette mercredi 24 avril entre 15h30 et 16h30 dans la roulotte
 29/4 à 15h am ou 30/4 à 11h
@@ -442,7 +592,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 - Les vacances à Saint-Tropez
 - Je me souviens de l’embouteillage
 - La mode
-- La conversation    
+- La conversation
 - écriture et jeu
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
