@@ -593,37 +593,79 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
 
+Plaques
+
+ - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
+ - [ ] monter plaque ST Tropez et mode
+ - [ ] faire plaque générique
 
 
- - [ ] finition prothèse
- - [ ] pose volets hublot
+Fauteuil
+ 
+ - [ ] cale accoudoir
+ - [ ] soudure cales
+ - [ ] prépa fauteuil peinture
+ - [ ] peinture fauteuil
+ - [ ] prépa bois fauteuil
+ - [ ] achat mousse fauteuil
+ - [ ] achat tissus fauteuil
+ - [ ] couture housse
+ - [ ] montage fauteuils
+
+Décor
+
+ - [ ] journal
  - [ ] structure portante décors
  - [ ] décor chambre
  - [ ] décor cuisine
  - [ ] décor voiture
- - [ ] cache régie et écran (côtés en tissus)
- - [ ] pose joint trappe
+
+Costume
+
+ - [ ] achat costumes      
+ - [ ] finition prothèse
+
+Etanchéité
+
+
  - [ ] poignée trappe
+ - [ ] pose joint trappe
+ - [ ] pose joint plaque arrière
+ - [ ] achat rivet + rondelle caoutchou M5
+ - [ ] remplacement rivet
+ - [ ] passe sica bas de caisse
+
+Finition salle
+
+ - [ ] pose plafond
+ - [ ] pose tissus
+ - [ ] pose volets hublot
+ - [ ] cache régie et écran (côtés en tissus)
+ - [ ] sortie secour
+
+acces public 
+
  - [ ] dessiner escalier
  - [ ] coupe alu escalier
  - [ ] Escalier principal
+ - [ ] Escalier secours
+
+finition régie
+
  - [ ] SAS régie
  - [ ] diffusion arrière passer les PVC
- - [ ] pose plafond
- - [ ] pose tissus
- - [ ] soudure Fabien finition siège
  - [ ] Couper verre (VITRE)
  - [ ] préparer pare close
  - [ ] Installer vitre
- - [ ] cale accoudoir
- - [ ] test fauteuil
+
+clim
+
  - [ ] poignée caisses clim
  - [ ] Achat Excelsior : matériel intérieur caisse clim
  - [ ] conception ventilation
- - [ ] conception volet hublot
 
- - [ ] Finitions interieur hublot
- - [ ] pose moquette
+finiion extérieure
+ 
  - [ ] dessin extérieur (peinture ou transfert)
  - [ ] niveau + boussole
  - [ ] passage au MINES
