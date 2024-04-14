@@ -462,6 +462,7 @@ https://trakmy.fr/
 - Pièces des marionettes
 - Les rouleaux de vynile précoupé
 - Le carton des chutes (vynile et plexi) au cas où
+- sangles et mousse
 
 ##### Matos et outils pour fabriquer les plaques
 
