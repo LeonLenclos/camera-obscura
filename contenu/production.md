@@ -449,7 +449,17 @@ Objectifs :
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
 Achat : tracker
-https://trakmy.fr/
+
+| modele | prix | abo | autonomie |
+|---|---|---|---|
+| [Slkon](https://www.sklon.fr/218-traceur-gps-espion-ultra-longue-autonomie-jusqu-a-240-jours.html) | 229€ | payer sim avec sms | 240 jours |
+| [Protech AT701](https://www.hd-protech.com/traceur-gps/795-traceur-gps-longue-autonomie-4g-lte-m1-nb-iot-suivi-temps-reel-at701.html) | 289€ | payer sim avec sms et data | 5 ans à 1 pos/j |
+| [Protech AT705](https://www.hd-protech.com/traceur-gps/808-traceur-gps-sans-cablage-sans-abonnement-aimante-tres-longue-autonomie-at705.html) | 299€ | payer sim avec sms et data | 10 ans à 1 pos/j |
+| [TrackMy](https://trakmy.fr/produit/traceur-gps-ultra/) | 129€ | 46.80€/an (1 an offert) | 5 ans à 3h/5j/semaine |
+| [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€ | 36€/an | 5 ans à 1 pos/j |
+| [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
+
+
 velcro
 
 ### Liste matos pour Nimes
