@@ -450,6 +450,7 @@ Objectifs :
 
 Achat : tracker
 https://trakmy.fr/
+velcro
 
 ### Liste matos pour Nimes
 
@@ -553,6 +554,7 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Kit camera de reccul
 - caisse rouge
 - bijoute totale
+- glaciere garnie
 
 ##### A prendre de marseille
 
