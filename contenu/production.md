@@ -455,8 +455,8 @@ https://trakmy.fr/
 
 ##### Les plaques
 
-- 24 (12×2) Crochets (avec boulon et poulie)
-- 24 (12×2) Barres en alu
+- 28 (14×2) Crochets (avec boulon et poulie)
+- 28 (14×2) Barres en alu
 - Toutes les plaques fixes (imprimées et vierges) et toutes les plaques d'anim
 - Rails et autres accéssoires
 - Pièces des marionettes
@@ -476,8 +476,9 @@ https://trakmy.fr/
 - Pinceau propre
 - Rouleau d'essuie-tout
 - Pschit-pschit avec le mellange (1.3 litres d'eau / 4 gouttes de liquide vaisselle / 4 cuillères à soupe d'alcool à 90 (isopropylique))
+- 1 bouteille alcool
 - Rouleau de transfert
-- Rouleau, carte bleu usagée
+- Rouleau à maroufler, carte bleu usagée
 - Grosse poubelle noire du local (?)
 - Torchon
 - scie sauteuse
@@ -486,11 +487,12 @@ https://trakmy.fr/
 - Kit visserie plaques (vis de 4 courtes/longues fraisées/bombées, écrous de reliure, vis pour écrous de reliure, rondelles)
 - clé à laines, clé à pipes
 
-
 ##### Pour tester les plaques en intérieur
 
-- Une découpe + Pied
+- Une découpe
+- 3 pieds projo
 - Deux pieds de projo
+- geuzes
 - Le rail
 - Écran papi pour reflecteur interieur (?)
 - Gants blancs
