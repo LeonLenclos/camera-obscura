@@ -491,17 +491,16 @@ https://trakmy.fr/
 
 - Une découpe
 - 3 pieds projo
-- Deux pieds de projo
 - geuzes
 - Le rail
-- Écran papi pour reflecteur interieur (?)
+- Écran papi pour reflecteur interieur
 - Gants blancs
 
 ##### Pour tester les plaques en exterieur
 
 - Le grand réflecteur
 - Un praticable (?)
-- Un escabeau
+- 2 escabeau
 
 ##### Son
 
@@ -515,7 +514,7 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Scie
 - Bulles
 - Grinçoir
-- Guitarre
+- Guitare
 - Tube accordé
 - Frog drum
 - Balle rebondissante
@@ -528,21 +527,20 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 ##### Kit cinéma
 
 - Pied camera
-- Sac camera
+- Sac camera avec micros, cable et pied
 
 ##### Projection
 
-- 1 VP
-- 1 écran/moniteur (?)
+- 1 VP secour avec rotule
+- 1 écran/moniteur TT
 
 ##### Ateliers
 
-- Carton fin
+- Carton fin (pochette dessin)
 - Tissu noir
-- Les écrous de relieurs achetés à graulhet chez cuir shop là
+- Les écrous de relieurs achetés à graulhet chez cuir shop là malette verte
 - Emporte pièce adapté
 - Si il y a : Une plaque de plexi transparent environ A3 ou A2 pour servir de support aux animations verticales faites pendant l'atelier
-- De quoi enregister des voix/bruitages (kit couple ORTF et pied)
 - Des bons ciseaux
 
 ##### Divers
@@ -551,9 +549,10 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Pinces et serre-joints stanley
 - 2 caisses de plaques
 - scotch bleu
-- Ordi + chargeur
+- Ordi + chargeur + HD cables
 - Kit camera de reccul
 - caisse rouge
+- bijoute totale
 
 ##### A prendre de marseille
 
