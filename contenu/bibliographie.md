@@ -7,12 +7,14 @@
 - [*Lanterne magique, avant le cinéma*, Jérôme Prieur, fario, 2021](https://editionsfario.fr/livre/lanterne-magique/)
 - [*Je me souviens*, Georges Pérec, Fayard, 2013 (ed. originale : 1978)](https://www.fayard.fr/livre/je-me-souviens-9782213677972/)
 - [*Semi Science-Fiction*, Léa Murawiec, Flutiste, 2023](http://flutiste.fr/2023/07/23/semi-science-fiction/)
+- [*Le livre Oracle*, Xavier Bouyssou, éditions 2024, 2023](https://www.editions2024.com/livres/le-livre-oracle)
+
 
 ## Bibliothèque rêvée
 
 (Livres qu'on a pas)
 
-- [*Le livre Oracle*, Xavier Bouyssou, éditions 2024, 2023](https://www.editions2024.com/livres/le-livre-oracle)
+
 - [*Magie lumineuse : Du théâtre d'ombres à la lanterne magique*, Jac Remise, Pascale Remise, Régis Van de Walle, ed. Balland, 1979](https://ccfr.bnf.fr/portailccfr/ark:/16871/0019045076)
 - [*Lanterne magique et film peint*, Laurent Mannoni, Donata Pesenti Campgnoni, éditions de la Martinière, 2009](https://eman-archives.org/CinEx/files/show/87) (catalogue d'une exposition à la cinémathèque française, le livre a l'air magnifique)
 - [*Optical amusements: magic lanterns and other transforming images. A catalog of popular entertainments.*  	Richard Balzer, 1987(?)](https://www.bdcmuseum.org.uk/explore/item/39169/) (par Dick Balzer le grand collectionneur de jouets optique)
