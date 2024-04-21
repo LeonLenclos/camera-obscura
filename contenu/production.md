@@ -421,23 +421,18 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [x] coupe et perce 40 barres de 800 en alu ep 5 x 40
  - [x] reserver FabLab du mardi au vendredi pour laser plexi et coupe vinyle
 
-# Maintenant
+
 
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
 Dans l'ordre du plus ou moins urgent:
 
 - [x] courses chez brusson
-- [ ] fixation du cache avant
 - [x] repérage Ramonville 
-- [ ] Percer les plaques (barres)
+- [x] Percer les plaques (barres)
 - [x] crochets plaques
 - [x] Réflecteur (roues, surface, système de réglage)
-- [ ] caisse plaques
-- [ ] rangement des outils
-- [ ] vis du rail a raccourcir au ras des écrous bas
-- [ ] cache arrière
-- [ ] caméra de recul 
+
 
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
@@ -458,7 +453,6 @@ Achat : tracker
 | [TrackMy](https://trakmy.fr/produit/traceur-gps-ultra/) | 129€TTC | 46.80€TTC/an (1 an offert) | 5 ans à 3h/5j/semaine |
 | [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
-
 
 velcro
 
@@ -586,13 +580,16 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Choisir une palette limitée
 - Filmer à l'horizontale et à la verticale.
 
-
+# Maintenant
 
 ## Premières résidences de mise en scène
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
 
 - FX3 + Liaison HF CARO + tvlogic pour retour vidéo. Vidéoprojecteur.
+Accessoires :
+  - lunettes spéciales
+  - clavier tt
 
 Pirouette Circaouette mercredi 24 avril entre 15h30 et 16h30 dans la roulotte
 29/4 à 15h am ou 30/4 à 11h
@@ -607,12 +604,51 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
 
+
+Todo reportés de avant nimes
+
+- [ ] fixation du cache avant
+- [ ] caisse plaques
+- [ ] rangement des outils
+- [ ] vis du rail a raccourcir au ras des écrous bas
+- [ ] cache arrière
+- [ ] caméra de recul 
+
+Todo notés à Nimes Concernant les plaques
+
+- [ ] *Prologue* Améliorer fluidité bateau 
+- [ ] Trouver, acheter et percer petites pinces pour anim
+- [ ] *Niveau de l'eau* Butée pour l'eau en position haute
+- [ ] *Niveau de l'eau* Poignées poissons
+- [ ] *Niveau de l'eau* raboter la plaque de l'eau (ou passer en plexi de 2mm pour plus de legereté)
+- [ ] *Période heureuse* Poignées en alu et roulettes pour la mario
+- [ ] *Podium* Poignées en plexi pour le 8e (4mm)
+- [ ] *Podium* Suite des marches (raccord + aimant)
+- [ ] *Podium* Vinyle points verts
+- [ ] *Période malheureuse* doubler les rails
+- [ ] *Période malheureuse* poignée en plexi (4mm)
+- [ ] *Période malheureuse* Vinyle (tout)
+- [ ] *Comportement 1* Allonger rails des 2 petits caches noirs.
+- [ ] Raccourcir crochets :
+  - [ ] *Periode heureuse* Droit
+  - [ ] *Mutation 2* Gauche + droit
+  - [ ] *Période malheureuse* gauche + droit
+- [ ] Bavettes transitions :
+  - [ ] *Titres* 
+  - [ ] *Mutation*
+  - [ ] *Golden Record* 
+  - [ ] *Comportement*
+
+Autres Totos noté à Nimes
+
+Rallonger le rail de 2m
+
+
 Plaques
 
  - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
  - [ ] monter plaque ST Tropez et mode
  - [ ] faire plaque générique
-
 
 Fauteuil
  
