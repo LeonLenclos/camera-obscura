@@ -30,6 +30,7 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
   
 ## Divers
 - [Soleil](soleil.md)
+- [Implantation](implantation.md)
 - [Marionettes](marionettes.md)
 - [Fournisseurs](fournisseurs.md) : liste de fournisseurs.
 - [Vrac](vrac.md) : idées à creuser
