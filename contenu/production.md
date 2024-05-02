@@ -640,7 +640,7 @@ Todo notés à Nimes Concernant les plaques
   - [x] *Periode heureuse* Droit
   - [x] *Mutation 2* Gauche + droit
   - [x] *Période malheureuse* gauche + droit
-  - [ ] 
+
 Divers
  - [ ] SACD/SACEM ★★★
  - [ ] Pesée ★★★
@@ -664,24 +664,28 @@ Rail, Amici et planchette
 
 Régie
 
- - [ ] cache régie
- - [ ] raccourcir manivelle vent
- - [ ] trouver machine à applaudir
- - [ ] plaque orage
- - [ ] revoir embouchure pavillon
- - [ ] porte guitare
- - [ ] caisse orgue
- - [ ] support tom tonerre, coquillages, clés etc...
- - [ ] SAS régie
- - [ ] diffusion arrière passer les PVC ?
- - [ ] Couper verre (VITRE)
- - [ ] préparer pare close
- - [ ] Installer vitre (amovible ?)
+ - [ ] ★★★ cache régie (bas)
+ - [ ] ★★★ revoir embouchure pavillon
+ - [ ] ★★★ support tom tonerre, coquillages, clés etc...
+ - [ ] ★★★ SAS régie
+ 
+ - [ ] ★★ porte guitare
+ - [ ] ★★ raccourcir manivelle vent
+ - [ ] ★★ connection audio extérieur
 
-Plaques
- - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
- - [ ] monter plaque ST Tropez et mode
- - [ ] faire plaque générique
+ - [ ] ★ diffusion arrière passer les PVC ?
+ - [ ] ★ Couper verre (VITRE)
+ - [ ] ★ préparer pare close
+ - [ ] ★ Installer vitre (amovible ?)
+ - [ ] ★ caisse orgue
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ plaque orage
+
+New Plaques
+ - [ ] ★★★ faire photo ST Tropez, journal et mode + tirage Pixart
+ - [ ] ★★★ monter plaque ST Tropez et mode
+ - [ ] ★★★ faire plaque générique
+ - [ ] ★★★ faire fichier journal
 
 Fauteuil
  - [ ] prépa fauteuil peinture
