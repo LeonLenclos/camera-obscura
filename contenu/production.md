@@ -620,15 +620,15 @@ Todo notés à Nimes Concernant les plaques
 - [ ] *Podium* test collage réparation ★★★
 - [ ] *Podium* Poignées en plexi pour le 8e (4mm) ★
 - [ ] *Podium* dessiner et découpe laser Suite des marches (raccord + aimant) ★★
-- [ ] *Podium* Vinyle points verts
-- [ ] *Période malheureuse* doubler les rails
-- [ ] *Période malheureuse* poignée en plexi (4mm)
-- [ ] *Période malheureuse* Vinyle (tout)
-- [ ] *Comportement 1* Allonger rails des 2 petits caches noirs.
+- [ ] *Podium* Vinyle points verts ★
+- [ ] *Période malheureuse* doubler les rails ★
+- [ ] *Période malheureuse* poignée en plexi (4mm) ★★
+- [ ] *Période malheureuse* Vinyle (tout) ★★
+- [ ] *Comportement 1* Allonger rails des 2 petits caches noirs. ★
 - [ ] Raccourcir crochets :
-  - [ ] *Periode heureuse* Droit
-  - [ ] *Mutation 2* Gauche + droit
-  - [ ] *Période malheureuse* gauche + droit
+  - [x] *Periode heureuse* Droit
+  - [x] *Mutation 2* Gauche + droit
+  - [x] *Période malheureuse* gauche + droit
 - [ ] Bavettes transitions :
   - [ ] *Titres* 
   - [ ] *Mutation*
