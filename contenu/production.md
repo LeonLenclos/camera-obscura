@@ -737,9 +737,10 @@ clim
  - [ ] ★ conception ventilation
 
 finiion extérieure
+ - [ ] ★★★ bas de caisse avec Didier
  - [ ] ★ dessin extérieur (peinture ou transfert)
  - [ ] ★ niveau + boussole
- - [ ] ★★★ bas de caisse avec Didier
+
 
 ### Le 29/05/2024 : Marseille (13) - Photos
 
