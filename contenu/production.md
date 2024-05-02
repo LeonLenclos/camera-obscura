@@ -588,7 +588,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 Achat : 
 
-- [ ] tracker
+- [ ] tracker ★★★
 
 | modele | prix | abo | autonomie |
 |---|---|---|---|
@@ -601,44 +601,46 @@ Achat :
 
 - [ ] velcro ★★★
 - [ ] acrifix ★★★
+- [ ] aimant x 40 percé fraisé 2cm  ★★★
 
 Todo reportés de avant nimes
 
-- [ ] ★ finalisation fixation du cache avant 
-- [ ] ★★★ 3 eme Rack plaques + 10 cm en haut + 20 cm en bas + profonde (manivelle photo)
+- [ ] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
 - [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre.
-- [ ] ★★ finition : Caches (plastic alvéolé ?) dessous et latéraux en fixe / dessus et avant-arrière amovibles ?
 - [ ] ★★★ rangement des outils
+- [ ] ★★ finition : Caches (plastic alvéolé ?) dessous et latéraux en fixe / dessus et avant-arrière amovibles ?
 - [ ] ★★ caméra de recul 
-
+- [ ] ★ finalisation fixation du cache avant
+      
 Todo notés à Nimes Concernant les plaques
+- [ ] ★★★ *Podium* test collage réparation
+- [ ] ★★★ *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
 
-- [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 - [ ] ★★ *Niveau de l'eau* Poignées poissons
-- [x] *Niveau de l'eau* raboter la plaque de l'eau (ou passer en plexi de 2mm pour plus de legereté)
-- [ ] ★ *Niveau de l'eau* animer mario dame
-- [ ] ★ *Période heureuse* fluidité
-- [ ] ★★★ *Podium* test collage réparation
 - [ ] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
 - [ ] ★★ *Podium* dessiner et découpe laser Suite des marches (raccord + aimant)
-- [ ] ★ *Podium* Vinyle points verts
-- [ ] ★ *Période malheureuse* doubler les rails
 - [ ] ★★ *Période malheureuse* poignée en plexi (4mm)
 - [ ] ★★ *Période malheureuse* Vinyle (tout)
-- [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
-- [ ] ★★★ *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
-- [ ] ★ adapter fusée et épilogue 1 en poulie *
-- [x] Raccourcir crochets :
-  - [x] *Periode heureuse* Droit
-  - [x] *Mutation 2* Gauche + droit
-  - [x] *Période malheureuse* gauche + droit
 - [ ] ★★ Bavettes transitions :
   - [ ] *Titres* 
   - [ ] *Mutation*
   - [ ] *Golden Record* 
   - [ ] *Comportement*
 
+- [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
+- [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
+- [ ] ★ *Podium* Vinyle points verts
+- [ ] ★ *Période malheureuse* doubler les rails
+- [ ] ★ *Niveau de l'eau* animer mario dame
+- [ ] ★ *Période heureuse* fluidité
+- [ ] ★ adapter fusée et *épilogue 1* en poulie
+
+- [x] Raccourcir crochets :
+  - [x] *Periode heureuse* Droit
+  - [x] *Mutation 2* Gauche + droit
+  - [x] *Période malheureuse* gauche + droit
+  - [ ] 
 Divers
  - [ ] SACD/SACEM ★★★
  - [ ] Pesée ★★★
@@ -656,7 +658,8 @@ Rail, Amici et planchette
  - [ ] faire 2 rails de 5m (3+2) avec 3 crochet ★★★
  - [ ] faire 2 support bas de 5m (3+2) avec 3 crochet ★★★
  - [ ] rainure moyeux tourelle ★★★
- - [ ] changement miroir Amici ('mm decoupe laser coller sur alu ★★★
+ - [ ] changement miroir Amici (4 mm decoupe laser) coller alu sur cadre ★★★
+ - [ ] revoir 2 réglages ★★★
  - [ ] revoir calage rotation objectif ★★★
 
 Régie
