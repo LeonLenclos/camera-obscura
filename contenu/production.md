@@ -647,6 +647,7 @@ Divers
  - [ ] passage au MINES ★★★
  - [ ] Cabinet expert ★★★
  - [ ] pompier ★★★
+ - [ ] 2 trois marches maison pour praticables (1m et 0,9m)
 
 Reflecteur
  - [ ] poser velcro ★★★
@@ -688,71 +689,85 @@ New Plaques
  - [ ] ★★★ faire fichier journal
 
 Fauteuil
- - [ ] prépa fauteuil peinture
- - [ ] peinture fauteuil
- - [ ] prépa bois fauteuil
- - [ ] achat mousse fauteuil
- - [ ] achat tissus fauteuil
- - [ ] couture housse
- - [ ] montage fauteuils
+ - [ ] ★★★ prépa fauteuil peinture
+ - [ ] ★★★ peinture fauteuil
+ - [ ] ★★★ prépa bois fauteuil
+ - [ ] ★★ achat mousse fauteuil
+ - [ ] ★★ achat tissus fauteuil
+ - [ ] ★ couture housse
+ - [ ] ★ montage fauteuils
 
 Décor
- - [ ] finitions décor chambre
- - [ ] décor cuisine
- - [ ] syteme rangement décors
+
+ - [ ] ★★★ décor cuisine (rassembler élément)
+ - [ ] ★★ syteme rangement décors (housse en skaï blanc)
+ - [ ] ★ finitions décor chambre
 
 Costume
- - [ ] achat costumes      
- - [ ] finition prothèse (rallonge tige et col)
+ - [ ] ★★★ achat costumes      
+ - [ ] ★ finition prothèse (rallonge tige et col)
 
 Etanchéité
- - [ ] poignée trappe
- - [ ] pose joint trappe
- - [ ] pose joint plaque arrière
- - [ ] achat rivet + rondelle caoutchou M5
- - [ ] remplacement rivet
- - [ ] passe sica bas de caisse
+ - [ ] ★★★ poignée trappe
+ - [ ] ★★★ pose joint trappe
+ - [ ] ★★★ pose joint plaque arrière
+ - [ ] ★★★ achat rivet + rondelle caoutchou M5
+ - [ ] ★★★ remplacement rivet
+ - [ ] ★★★ passe sica bas de caisse
 
 Fermeture/huisserie
- - [ ] verrou régie
- - [ ] verrou ext trappes
- - [ ] groom x 4
- - [ ] plexi hublot
- - [ ] pose volets hublot
- - [ ] cache arrière
+ - [ ] ★★★ verrou régie
+ - [ ] ★★★ plexi hublot
+ - [ ] ★★★ pose volets hublot
+ - [ ] ★★ groom x 4 ou poids
+ - [ ] ★ cache arrière
+ - [ ] ★ verrou ext trappes
 
 Finition salle
- - [ ] pose plafond
- - [ ] pose tissus
- - [ ] cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
- - [ ] sortie secour
- - [ ] pose moquette
+ - [ ] ★★★ pose plafond
+ - [ ] ★★★ cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
+ - [ ] ★★★ sortie secour
+ - [ ] ★★ pose tissus
+ - [ ] ★ pose moquette
 
 acces public 
- - [ ] dessiner escalier
- - [ ] coupe alu escalier
- - [ ] Escalier principal
- - [ ] Escalier secours
+ - [ ] ★★★ dessiner escalier
+ - [ ] ★★★ coupe alu escalier
+ - [ ] ★★★ Escalier principal
+ - [ ] ★★ Escalier secours
+ - [ ] ★★ acces handicapés
 
 clim
- - [ ] poignée caisses clim
- - [ ] Achat Excelsior : matériel intérieur caisse clim
- - [ ] conception ventilation
+ - [ ] ★★★ poignée caisses clim
+ - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
+ - [ ] ★ conception ventilation
 
 finiion extérieure
- - [ ] dessin extérieur (peinture ou transfert)
- - [ ] niveau + boussole
- - [ ] bas de caisse avec Didier
+ - [ ] ★ dessin extérieur (peinture ou transfert)
+ - [ ] ★ niveau + boussole
+ - [ ] ★★★ bas de caisse avec Didier
+
+### Le 29/05/2024 : Marseille (13) - Photos
+
+- 3 x St Tropez / 1 mode
+
+### Du 11/06/2024 au 13/06/2024 : Graulhet chez les Plasticiens (81)
+
+- Décor et installation technique/Montage
+
+### Du 16/06/2024 au 22/06/2024 : Graulhet chez les Plasticiens (81)
+
+- Mise en scène
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
       
-- écriture et mise en scène
+- Mise en scène
 
 ### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
  - [ ] Anticiper accés et emplacement roulotte
        
-- mise en scène + 2 avant-premières
+- Mise en scène + 2 avant-premières
 
 ### du 29/7/2024 au 4/8/2024, Mirepoix (09) - Mima
 - [ ] Anticiper accés et emplacement roulotte
