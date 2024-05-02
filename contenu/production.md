@@ -616,15 +616,18 @@ Todo notés à Nimes Concernant les plaques
 - [ ] Trouver, acheter 12 petites pinces dexter pour anim ★★
 - [ ] *Niveau de l'eau* Poignées poissons ★★
 - [x] *Niveau de l'eau* raboter la plaque de l'eau (ou passer en plexi de 2mm pour plus de legereté)
+- [ ] *Niveau de l'eau* animer mario dame ★
 - [ ] *Période heureuse* fluidité ★
 - [ ] *Podium* test collage réparation ★★★
-- [ ] *Podium* Poignées en plexi pour le 8e (4mm) ★
+- [ ] *Podium* Poignées en plexi pour le 8e (4mm) 
 - [ ] *Podium* dessiner et découpe laser Suite des marches (raccord + aimant) ★★
 - [ ] *Podium* Vinyle points verts ★
 - [ ] *Période malheureuse* doubler les rails ★
 - [ ] *Période malheureuse* poignée en plexi (4mm) ★★
 - [ ] *Période malheureuse* Vinyle (tout) ★★
 - [ ] *Comportement 1* Allonger rails des 2 petits caches noirs. ★
+- [ ] *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé ★★★
+- [ ] adapter fusée et épilogue 1 en poulie *
 - [ ] Raccourcir crochets :
   - [x] *Periode heureuse* Droit
   - [x] *Mutation 2* Gauche + droit
