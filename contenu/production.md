@@ -615,7 +615,6 @@ Todo reportés de avant nimes
 Todo notés à Nimes Concernant les plaques
 - [ ] ★★★ *Podium* test collage réparation
 - [ ] ★★★ *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
-
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 - [ ] ★★ *Niveau de l'eau* Poignées poissons
 - [ ] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
@@ -627,7 +626,6 @@ Todo notés à Nimes Concernant les plaques
   - [ ] *Mutation*
   - [ ] *Golden Record* 
   - [ ] *Comportement*
-
 - [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
 - [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
 - [ ] ★ *Podium* Vinyle points verts
@@ -635,33 +633,32 @@ Todo notés à Nimes Concernant les plaques
 - [ ] ★ *Niveau de l'eau* animer mario dame
 - [ ] ★ *Période heureuse* fluidité
 - [ ] ★ adapter fusée et *épilogue 1* en poulie
-
 - [x] Raccourcir crochets :
   - [x] *Periode heureuse* Droit
   - [x] *Mutation 2* Gauche + droit
   - [x] *Période malheureuse* gauche + droit
 
 Divers
- - [ ] SACD/SACEM ★★★
- - [ ] Pesée ★★★
- - [ ] passage au MINES ★★★
- - [ ] Cabinet expert ★★★
- - [ ] pompier ★★★
- - [ ] 2 trois marches maison pour praticables (1m et 0,9m)
+ - [ ] ★★★ SACD/SACEM 
+ - [ ] ★★★ Pesée
+ - [ ] ★★★ passage au MINES
+ - [ ] ★★★ Cabinet expert
+ - [ ] ★★★ pompier
+ - [ ] ★★★ 2 trois marches maison pour praticables (1m et 0,9m)
 
 Reflecteur
- - [ ] poser velcro ★★★
- - [ ] fabriquer tissus noir ★★★
- - [ ] voir remplacer papillon par mieux ★★★
- - [ ] roues plus grosses ★
+ - [ ] ★★★ poser velcro
+ - [ ] ★★★ fabriquer tissus noir
+ - [ ] ★★★ voir remplacer papillon par mieux
+ - [ ] ★ roues plus grosses
 
 Rail, Amici et planchette
- - [ ] faire 2 rails de 5m (3+2) avec 3 crochet ★★★
- - [ ] faire 2 support bas de 5m (3+2) avec 3 crochet ★★★
- - [ ] rainure moyeux tourelle ★★★
- - [ ] changement miroir Amici (4 mm decoupe laser) coller alu sur cadre ★★★
- - [ ] revoir 2 réglages ★★★
- - [ ] revoir calage rotation objectif ★★★
+ - [ ] ★★★ faire 2 rails de 5m (3+2) avec 3 crochet
+ - [ ] ★★★ faire 2 support bas de 5m (3+2) avec 3 crochet
+ - [ ] ★★★ rainure moyeux tourelle
+ - [ ] ★★★ changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
+ - [ ] ★★★ revoir 2 réglages
+ - [ ] ★★★ revoir calage rotation objectif
 
 Régie
 
@@ -669,11 +666,9 @@ Régie
  - [ ] ★★★ revoir embouchure pavillon
  - [ ] ★★★ support tom tonerre, coquillages, clés etc...
  - [ ] ★★★ SAS régie
- 
  - [ ] ★★ porte guitare
  - [ ] ★★ raccourcir manivelle vent
  - [ ] ★★ connection audio extérieur
-
  - [ ] ★ diffusion arrière passer les PVC ?
  - [ ] ★ Couper verre (VITRE)
  - [ ] ★ préparer pare close
@@ -698,7 +693,6 @@ Fauteuil
  - [ ] ★ montage fauteuils
 
 Décor
-
  - [ ] ★★★ décor cuisine (rassembler élément)
  - [ ] ★★ syteme rangement décors (housse en skaï blanc)
  - [ ] ★ finitions décor chambre
