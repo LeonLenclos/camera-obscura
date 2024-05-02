@@ -580,7 +580,7 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Choisir une palette limitée
 - Filmer à l'horizontale et à la verticale.
 
-# Maintenant
+
 
 ## Premières résidences de mise en scène
 
@@ -595,23 +595,21 @@ Pirouette Circaouette mercredi 24 avril entre 15h30 et 16h30 dans la roulotte
 29/4 à 15h am ou 30/4 à 11h
 
 Objectif pour auch, pouvoir travailler toutes les scènes sauf :
-- Le bon sens
-- Les vacances à Saint-Tropez
 - Je me souviens de l’embouteillage
-- La mode
-- La conversation
+
 - écriture et jeu
+
+# Maintenant
 
 ### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
 
 
 Todo reportés de avant nimes
 
-- [ ] fixation du cache avant
-- [ ] caisse plaques
+- [ ] finalisation fixation du cache avant
+- [ ] 3 eme Rack plaques + finition. Caches latéraux ?
 - [ ] rangement des outils
-- [ ] vis du rail a raccourcir au ras des écrous bas
-- [ ] cache arrière
+
 - [ ] caméra de recul 
 
 Todo notés à Nimes Concernant les plaques
@@ -641,19 +639,16 @@ Todo notés à Nimes Concernant les plaques
 
 Autres Totos noté à Nimes
 
-Rallonger le rail de 2m
-
+Rail
+ - [ ] faire 2 rails de 5m (3+2) avec crochet
+ - [ ] faire 2 support bas de 5m (3+2) avec crochet
 
 Plaques
-
  - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
  - [ ] monter plaque ST Tropez et mode
  - [ ] faire plaque générique
 
 Fauteuil
- 
- - [ ] cale accoudoir
- - [ ] soudure cales
  - [ ] prépa fauteuil peinture
  - [ ] peinture fauteuil
  - [ ] prépa bois fauteuil
@@ -663,21 +658,17 @@ Fauteuil
  - [ ] montage fauteuils
 
 Décor
-
  - [ ] journal
  - [ ] structure portante décors
  - [ ] décor chambre
  - [ ] décor cuisine
- - [ ] décor voiture
+ - [ ] syteme rangement décors
 
 Costume
-
  - [ ] achat costumes      
- - [ ] finition prothèse
+ - [ ] finition prothèse (rallonge tige et col)
 
 Etanchéité
-
-
  - [ ] poignée trappe
  - [ ] pose joint trappe
  - [ ] pose joint plaque arrière
@@ -685,23 +676,28 @@ Etanchéité
  - [ ] remplacement rivet
  - [ ] passe sica bas de caisse
 
-Finition salle
+Fermeture/huisserie
+ - [ ] verrou régie
+ - [ ] verrou ext trappes
+ - [ ] groom x 4
+ - [ ] plexi hublot
+ - [ ] pose volets hublot
+ - [ ] cache arrière
 
+Finition salle
  - [ ] pose plafond
  - [ ] pose tissus
- - [ ] pose volets hublot
  - [ ] cache régie et écran (côtés en tissus)
  - [ ] sortie secour
+ - [ ] pose moquette
 
 acces public 
-
  - [ ] dessiner escalier
  - [ ] coupe alu escalier
  - [ ] Escalier principal
  - [ ] Escalier secours
 
 finition régie
-
  - [ ] SAS régie
  - [ ] diffusion arrière passer les PVC
  - [ ] Couper verre (VITRE)
@@ -709,19 +705,15 @@ finition régie
  - [ ] Installer vitre
 
 clim
-
  - [ ] poignée caisses clim
  - [ ] Achat Excelsior : matériel intérieur caisse clim
  - [ ] conception ventilation
 
 finiion extérieure
- 
  - [ ] dessin extérieur (peinture ou transfert)
  - [ ] niveau + boussole
  - [ ] passage au MINES
  - [ ] bas de caisse avec Didier
-
-
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
