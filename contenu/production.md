@@ -592,7 +592,9 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 ### Du 6/05/2024 au 07/06/2024 : Graulhet chez les Plasticiens (81)
 
-Achat : tracker
+Achat : 
+
+- [ ] tracker
 
 | modele | prix | abo | autonomie |
 |---|---|---|---|
@@ -603,7 +605,9 @@ Achat : tracker
 | [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
 
-velcro
+- [ ] velcro
+
+
 
 
 Todo reportés de avant nimes
@@ -644,6 +648,11 @@ Divers
  - [ ] passage au MINES
  - [ ] Cabinet expert
  - [ ] pompier
+
+Reflecteur
+ - [ ] poser verclo
+ - [ ] fabriquer tissus noir
+ - [ ] voir remplacer papillon par mieux
 
 Rail, Amici et planchette
  - [ ] faire 2 rails de 5m (3+2) avec crochet
