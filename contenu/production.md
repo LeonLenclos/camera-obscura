@@ -421,8 +421,6 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [x] coupe et perce 40 barres de 800 en alu ep 5 x 40
  - [x] reserver FabLab du mardi au vendredi pour laser plexi et coupe vinyle
 
-
-
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
 Dans l'ordre du plus ou moins urgent:
@@ -432,8 +430,6 @@ Dans l'ordre du plus ou moins urgent:
 - [x] Percer les plaques (barres)
 - [x] crochets plaques
 - [x] Réflecteur (roues, surface, système de réglage)
-
-
 
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
 
@@ -569,8 +565,6 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Choisir une palette limitée
 - Filmer à l'horizontale et à la verticale.
 
-
-
 ## Premières résidences de mise en scène
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
@@ -606,9 +600,6 @@ Achat :
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
 
 - [ ] velcro
-
-
-
 
 Todo reportés de avant nimes
 
@@ -662,6 +653,7 @@ Rail, Amici et planchette
 
 Régie
  - [ ] revoir calage rotation objectif
+ - [ ] cache régie
  - [ ] raccourcir manivelle vent
  - [ ] trouver machine à applaudir
  - [ ] plaque orage
@@ -717,7 +709,7 @@ Fermeture/huisserie
 Finition salle
  - [ ] pose plafond
  - [ ] pose tissus
- - [ ] cache régie et écran (côtés en tissus)
+ - [ ] cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
  - [ ] sortie secour
  - [ ] pose moquette
 
