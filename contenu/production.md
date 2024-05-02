@@ -44,7 +44,7 @@ Interlocuteurices :
 - Juan P. Martínez Pastor (Opticien)
 - Ronan Bouvier 
 - Marc Reynaud (Opticien)
-- Paco Labat (Expert en instruments sonnore)
+- Paco Labat (Expert en percussions et boites à bruits)
 
 Constructeurice :
 
