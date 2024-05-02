@@ -658,6 +658,11 @@ Régie
  - [ ] porte guitare
  - [ ] caisse orgue
  - [ ] support tom tonerre, coquillages, clés etc...
+ - [ ] SAS régie
+ - [ ] diffusion arrière passer les PVC ?
+ - [ ] Couper verre (VITRE)
+ - [ ] préparer pare close
+ - [ ] Installer vitre (amovible ?)
 
 Plaques
  - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
@@ -675,7 +680,7 @@ Fauteuil
 
 Décor
  - [ ] finitions décor chambre
- - [ ] décor cuisine (verso chambre ?)
+ - [ ] décor cuisine
  - [ ] syteme rangement décors
 
 Costume
@@ -710,13 +715,6 @@ acces public
  - [ ] coupe alu escalier
  - [ ] Escalier principal
  - [ ] Escalier secours
-
-finition régie
- - [ ] SAS régie
- - [ ] diffusion arrière passer les PVC
- - [ ] Couper verre (VITRE)
- - [ ] préparer pare close
- - [ ] Installer vitre
 
 clim
  - [ ] poignée caisses clim
