@@ -599,25 +599,27 @@ Achat :
 | [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
 
-- [ ] velcro
+- [ ] velcro ★★★
+- [ ] acrifix ★★★
 
 Todo reportés de avant nimes
 
-- [ ] finalisation fixation du cache avant
-- [ ] 3 eme Rack plaques + finition. Caches latéraux ?
-- [ ] rangement des outils
-- [ ] caméra de recul 
+- [ ] ★ finalisation fixation du cache avant 
+- [ ] ★★★ 3 eme Rack plaques
+- [ ] ★★ finition : Caches (plastic alvéolé ?) dessous et latéraux en fixe / dessus et avant-arrière amovibles ?
+- [ ] ★★★ rangement des outils
+- [ ] ★★ caméra de recul 
 
 Todo notés à Nimes Concernant les plaques
 
-- [ ] *Prologue* Améliorer fluidité bateau 
-- [ ] Trouver, acheter et percer petites pinces pour anim
-- [ ] *Niveau de l'eau* Butée pour l'eau en position haute
-- [ ] *Niveau de l'eau* Poignées poissons
-- [ ] *Niveau de l'eau* raboter la plaque de l'eau (ou passer en plexi de 2mm pour plus de legereté)
-- [ ] *Période heureuse* Poignées en alu et roulettes pour la mario
-- [ ] *Podium* Poignées en plexi pour le 8e (4mm)
-- [ ] *Podium* Suite des marches (raccord + aimant)
+- [ ] *Prologue* Améliorer fluidité bateau essayer une manivelle ★
+- [ ] Trouver, acheter 12 petites pinces dexter pour anim ★★
+- [ ] *Niveau de l'eau* Poignées poissons ★★
+- [x] *Niveau de l'eau* raboter la plaque de l'eau (ou passer en plexi de 2mm pour plus de legereté)
+- [ ] *Période heureuse* fluidité ★
+- [ ] *Podium* test collage réparation ★★★
+- [ ] *Podium* Poignées en plexi pour le 8e (4mm) ★
+- [ ] *Podium* dessiner et découpe laser Suite des marches (raccord + aimant) ★★
 - [ ] *Podium* Vinyle points verts
 - [ ] *Période malheureuse* doubler les rails
 - [ ] *Période malheureuse* poignée en plexi (4mm)
