@@ -601,7 +601,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 # Maintenant
 
-### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
+### Du 6/05/2024 au 07/06/2024 : Graulhet chez les Plasticiens (81)
 
 
 Todo reportés de avant nimes
@@ -609,7 +609,6 @@ Todo reportés de avant nimes
 - [ ] finalisation fixation du cache avant
 - [ ] 3 eme Rack plaques + finition. Caches latéraux ?
 - [ ] rangement des outils
-
 - [ ] caméra de recul 
 
 Todo notés à Nimes Concernant les plaques
@@ -637,11 +636,28 @@ Todo notés à Nimes Concernant les plaques
   - [ ] *Golden Record* 
   - [ ] *Comportement*
 
-Autres Totos noté à Nimes
+Divers
+ - [ ] SACD/SACEM
+ - [ ] Pesée
+ - [ ] passage au MINES
+ - [ ] Cabinet expert
+ - [ ] pompier
 
-Rail
+Rail, Amici et planchette
  - [ ] faire 2 rails de 5m (3+2) avec crochet
  - [ ] faire 2 support bas de 5m (3+2) avec crochet
+ - [ ] rainure moyeux tourelle
+ - [ ] changement miroir Amici
+
+Régie
+ - [ ] revoir calage rotation objectif
+ - [ ] raccourcir manivelle vent
+ - [ ] trouver machine à applaudir
+ - [ ] plaque orage
+ - [ ] revoir embouchure pavillon
+ - [ ] porte guitare
+ - [ ] caisse orgue
+ - [ ] support tom tonerre, coquillages, clés etc...
 
 Plaques
  - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
@@ -658,10 +674,8 @@ Fauteuil
  - [ ] montage fauteuils
 
 Décor
- - [ ] journal
- - [ ] structure portante décors
- - [ ] décor chambre
- - [ ] décor cuisine
+ - [ ] finitions décor chambre
+ - [ ] décor cuisine (verso chambre ?)
  - [ ] syteme rangement décors
 
 Costume
@@ -712,7 +726,6 @@ clim
 finiion extérieure
  - [ ] dessin extérieur (peinture ou transfert)
  - [ ] niveau + boussole
- - [ ] passage au MINES
  - [ ] bas de caisse avec Didier
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
