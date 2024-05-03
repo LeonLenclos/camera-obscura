@@ -19,14 +19,19 @@ Coproducteurs :
 - LE PARVIS
 - QUAI DES SAVOIRS
 
-Soutiens :
+Accueil en résidence :
 
 - LE KIWI / ARTO
 - LE PERISCOPE
-- RUE D'ÉTÉ
 - CIRCA
 - SCÈNES CROISÉES DE LOZÈRE
 - ASSOCIATION DES CLOUS
+
+Soutiens :
+
+- DRAC OCCITANIE
+- DGCA Commission Art de la Rue
+- RÉGION OCCITANIE
 
 Diffusion :
 
