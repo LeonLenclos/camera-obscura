@@ -1,3 +1,5 @@
+Dernière mise à jour : Résidence à Circa Avril 2024
+
 ## Générique de début
 
 
@@ -83,4 +85,52 @@
 
 ## Periode Malheureuse
 
-- Passer à la plaque periode malheureuse et l'animer.
+- Passer à la plaque periode malheureuse et l'animer. (assis)
+- Passer le titre
+
+(Noté de tête à partir de là...)
+
+## Golden Record
+
+- Obturateur fermé : installer gr1
+- Obturateur ouvert : animer gr1
+- Obturateur fermé : installer gr2
+- Obturateur ouvert : animer gr2
+- Se faire pousser par Lucile (gr3)
+- Amener les titres de l'autre côté (ouest) et en profiter pour le changer.
+- Aller s'installer pour le froid
+
+## Le Froid
+
+- En gros plan, ne pas trop bouger (entrée/sortie de champs)
+
+## Comportement
+
+- Venir avec Comportement 2
+- Animer Comportement 1 avec Lucile
+- Animer Comportement 2
+- Mettre le titre
+
+## Mode 
+
+- Mettre la mode
+- Mettre le titre
+
+## Conversation
+
+- Au premier cut (après titre) : Ranger la mode et préparer le dernier titre
+- À un moment, face cam, raccrocher et faire glisser le titre
+
+## Chanson
+
+- Se changer, prendre clavier,
+- Jouer
+- Partir quand lucile est en place
+
+## Epilogue
+
+- Préparer épilogue 2
+- Animer épiolgue 2 avec lucile
+- Noir, mettre le générique.
+
+
