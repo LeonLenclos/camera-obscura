@@ -599,9 +599,11 @@ Achat :
 | [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
 
-- [ ] velcro ★★★
-- [ ] acrifix ★★★
-- [ ] aimant x 40 percé fraisé 2cm  ★★★
+- [ ] ★★★ velcro
+- [ ] ★★★ acrifix
+- [ ] ★★★ aimant x 40 percé fraisé 2cm
+- [ ] ★★★ Lame de scie ruban (HY-7305080144)
+- [ ] ★★★ fil Alu 0,8mm
 
 Todo reportés de avant nimes
 
