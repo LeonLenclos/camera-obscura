@@ -13,7 +13,11 @@ Avec :
 - Bertrand Lenclos
 - Léon Lenclos
 
-Coproducteurs :
+Production :
+
+- NOKILL
+
+Coproduction :
 
 - MIMA
 - LE PARVIS
@@ -27,7 +31,7 @@ Accueil en résidence :
 - SCÈNES CROISÉES DE LOZÈRE
 - ASSOCIATION DES CLOUS
 
-Soutiens :
+Soutien :
 
 - DRAC OCCITANIE
 - DGCA Commission Art de la Rue
