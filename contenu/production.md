@@ -41,6 +41,19 @@ Diffusion :
 
 - Amparo Gallur
 
+Construction :
+
+- Fabien Durand (Soudeur remorque)
+- Zou Lenclos (Constructrice remorque)
+- Laurent Fayard (Constructeur remorque)
+- Didier Pons (Constructeur remorque)
+- Éva Ricard (Couturière Remorque)
+- Steffie Bayer (Prothésiste-marionnettiste)
+- Jean-Claude Azemar (Vitrier)
+- Marco Cohen (Constructeur réflecteur)
+- Aquabrasion (Constructeurs machinerie et carrosserie)
+- Schiavon (Constructeurs machinerie et carrosserie)
+
 Interlocuteurices :
 
 - Zou Lenclos (Proto-autrice)
@@ -54,19 +67,6 @@ Interlocuteurices :
 - Ronan Bouvier 
 - Marc Reynaud (Opticien)
 - Paco Labat (Expert en percussions et boites à bruits)
-
-Constructeurice :
-
-- Fabien Durand (Soudeur remorque)
-- Zou Lenclos (Constructrice remorque)
-- Laurent Fayard (Constructeur remorque)
-- Didier Pons (Constructeur remorque)
-- Éva Ricard (Couturière Remorque)
-- Steffie Bayer (Prothésiste-marionnettiste)
-- Jean-Claude Azemar (Vitrier)
-- Marco Cohen (Constructeur réflecteur)
-- Aquabrasion (Constructeurs machinerie et carrosserie)
-- Schiavon (Constructeurs machinerie et carrosserie)
 
 Mentionner une seconde fois au générique :
 
