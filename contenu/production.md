@@ -44,7 +44,7 @@ Interlocuteurices :
 - Juan P. Martínez Pastor (Opticien)
 - Ronan Bouvier 
 - Marc Reynaud (Opticien)
-- Paco Labat (Expert en instruments sonnore)
+- Paco Labat (Expert en percussions et boites à bruits)
 
 Constructeurice :
 
@@ -421,8 +421,6 @@ vitre soufflet 6mm à mesurer et commander coprover
  - [x] coupe et perce 40 barres de 800 en alu ep 5 x 40
  - [x] reserver FabLab du mardi au vendredi pour laser plexi et coupe vinyle
 
-
-
 ### Du 08/04/2024 au 13/04/2024 : Graulhet chez les Plasticiens (81)
 
 Dans l'ordre du plus ou moins urgent:
@@ -433,8 +431,6 @@ Dans l'ordre du plus ou moins urgent:
 - [x] crochets plaques
 - [x] Réflecteur (roues, surface, système de réglage)
 
-
-
 ### Du 15/04/2024 au 20/04/2024 : Nimes (30) - Périscope
 
 Objectifs :
@@ -443,18 +439,7 @@ Objectifs :
 - Travailler manip et bande son anims.
 - "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 
-Achat : tracker
 
-| modele | prix | abo | autonomie |
-|---|---|---|---|
-| [Slkon](https://www.sklon.fr/218-traceur-gps-espion-ultra-longue-autonomie-jusqu-a-240-jours.html) | 229€ | payer sim avec sms | 240 jours |
-| [Protech AT701](https://www.hd-protech.com/traceur-gps/795-traceur-gps-longue-autonomie-4g-lte-m1-nb-iot-suivi-temps-reel-at701.html) | 289€ | payer sim avec sms et data | 5 ans à 1 pos/j |
-| [Protech AT705](https://www.hd-protech.com/traceur-gps/808-traceur-gps-sans-cablage-sans-abonnement-aimante-tres-longue-autonomie-at705.html) | 299€ | payer sim avec sms et data | 10 ans à 1 pos/j |
-| [TrackMy](https://trakmy.fr/produit/traceur-gps-ultra/) | 129€TTC | 46.80€TTC/an (1 an offert) | 5 ans à 3h/5j/semaine |
-| [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
-| [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
-
-velcro
 
 ### Liste matos pour Nimes
 
@@ -580,8 +565,6 @@ J'ai listé les instruments cité dans le séquenciers aux sequences animées, a
 - Choisir une palette limitée
 - Filmer à l'horizontale et à la verticale.
 
-# Maintenant
-
 ## Premières résidences de mise en scène
 
 ### Du 22/04/2024 au 30/04/2024 : Auch (32) - Circa
@@ -595,143 +578,191 @@ Pirouette Circaouette mercredi 24 avril entre 15h30 et 16h30 dans la roulotte
 29/4 à 15h am ou 30/4 à 11h
 
 Objectif pour auch, pouvoir travailler toutes les scènes sauf :
-- Le bon sens
-- Les vacances à Saint-Tropez
 - Je me souviens de l’embouteillage
-- La mode
-- La conversation
+
 - écriture et jeu
 
-### Du 6/05/2024 au 30/05/2024 : Graulhet chez les Plasticiens (81)
+# Maintenant
 
+### Du 6/05/2024 au 07/06/2024 : Graulhet chez les Plasticiens (81)
+
+Achat : 
+
+- [ ] tracker ★★★
+
+| modele | prix | abo | autonomie |
+|---|---|---|---|
+| [Slkon](https://www.sklon.fr/218-traceur-gps-espion-ultra-longue-autonomie-jusqu-a-240-jours.html) | 229€ | payer sim avec sms | 240 jours |
+| [Protech AT701](https://www.hd-protech.com/traceur-gps/795-traceur-gps-longue-autonomie-4g-lte-m1-nb-iot-suivi-temps-reel-at701.html) | 289€ | payer sim avec sms et data | 5 ans à 1 pos/j |
+| [Protech AT705](https://www.hd-protech.com/traceur-gps/808-traceur-gps-sans-cablage-sans-abonnement-aimante-tres-longue-autonomie-at705.html) | 299€ | payer sim avec sms et data | 10 ans à 1 pos/j |
+| [TrackMy](https://trakmy.fr/produit/traceur-gps-ultra/) | 129€TTC | 46.80€TTC/an (1 an offert) | 5 ans à 3h/5j/semaine |
+| [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
+| [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
+
+- [ ] velcro ★★★
+- [ ] acrifix ★★★
+- [ ] aimant x 40 percé fraisé 2cm  ★★★
 
 Todo reportés de avant nimes
 
-- [ ] fixation du cache avant
-- [ ] caisse plaques
-- [ ] rangement des outils
-- [ ] vis du rail a raccourcir au ras des écrous bas
-- [ ] cache arrière
-- [ ] caméra de recul 
-
+- [ ] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
+- [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre.
+- [ ] ★★★ rangement des outils
+- [ ] ★★ finition : Caches (plastic alvéolé ?) dessous et latéraux en fixe / dessus et avant-arrière amovibles ?
+- [ ] ★★ caméra de recul 
+- [ ] ★ finalisation fixation du cache avant
+      
 Todo notés à Nimes Concernant les plaques
-
-- [ ] *Prologue* Améliorer fluidité bateau 
-- [ ] Trouver, acheter et percer petites pinces pour anim
-- [ ] *Niveau de l'eau* Butée pour l'eau en position haute
-- [ ] *Niveau de l'eau* Poignées poissons
-- [ ] *Niveau de l'eau* raboter la plaque de l'eau (ou passer en plexi de 2mm pour plus de legereté)
-- [ ] *Période heureuse* Poignées en alu et roulettes pour la mario
-- [ ] *Podium* Poignées en plexi pour le 8e (4mm)
-- [ ] *Podium* Suite des marches (raccord + aimant)
-- [ ] *Podium* Vinyle points verts
-- [ ] *Période malheureuse* doubler les rails
-- [ ] *Période malheureuse* poignée en plexi (4mm)
-- [ ] *Période malheureuse* Vinyle (tout)
-- [ ] *Comportement 1* Allonger rails des 2 petits caches noirs.
-- [ ] Raccourcir crochets :
-  - [ ] *Periode heureuse* Droit
-  - [ ] *Mutation 2* Gauche + droit
-  - [ ] *Période malheureuse* gauche + droit
-- [ ] Bavettes transitions :
+- [ ] ★★★ *Podium* test collage réparation
+- [ ] ★★★ *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
+- [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
+- [ ] ★★ *Niveau de l'eau* Poignées poissons
+- [ ] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
+- [ ] ★★ *Podium* dessiner et découpe laser Suite des marches (raccord + aimant)
+- [ ] ★★ *Période malheureuse* poignée en plexi (4mm)
+- [ ] ★★ *Période malheureuse* Vinyle (tout)
+- [ ] ★★ Bavettes transitions :
   - [ ] *Titres* 
   - [ ] *Mutation*
   - [ ] *Golden Record* 
   - [ ] *Comportement*
+- [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
+- [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
+- [ ] ★ *Podium* Vinyle points verts
+- [ ] ★ *Période malheureuse* doubler les rails
+- [ ] ★ *Niveau de l'eau* animer mario dame
+- [ ] ★ *Période heureuse* fluidité
+- [ ] ★ adapter fusée et *épilogue 1* en poulie
+- [x] Raccourcir crochets :
+  - [x] *Periode heureuse* Droit
+  - [x] *Mutation 2* Gauche + droit
+  - [x] *Période malheureuse* gauche + droit
 
-Autres Totos noté à Nimes
+Divers
+ - [ ] ★★★ SACD/SACEM 
+ - [ ] ★★★ Pesée
+ - [ ] ★★★ passage au MINES
+ - [ ] ★★★ Cabinet expert
+ - [ ] ★★★ pompier
+ - [ ] ★★★ 2 trois marches maison pour praticables (1m et 0,9m)
 
-Rallonger le rail de 2m
+Reflecteur
+ - [ ] ★★★ poser velcro
+ - [ ] ★★★ fabriquer tissus noir
+ - [ ] ★★★ voir remplacer papillon par mieux
+ - [ ] ★ roues plus grosses
 
+Rail, Amici et planchette
+ - [ ] ★★★ faire 2 rails de 5m (3+2) avec 3 crochet
+ - [ ] ★★★ faire 2 support bas de 5m (3+2) avec 3 crochet
+ - [ ] ★★★ rainure moyeux tourelle
+ - [ ] ★★★ changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
+ - [ ] ★★★ revoir 2 réglages
+ - [ ] ★★★ revoir calage rotation objectif
 
-Plaques
+Régie
 
- - [ ] faire photo ST Tropez, journal et mode + tirage Pixart
- - [ ] monter plaque ST Tropez et mode
- - [ ] faire plaque générique
+ - [ ] ★★★ cache régie (bas)
+ - [ ] ★★★ revoir embouchure pavillon
+ - [ ] ★★★ support tom tonerre, coquillages, clés etc...
+ - [ ] ★★★ SAS régie
+ - [ ] ★★ porte guitare
+ - [ ] ★★ raccourcir manivelle vent
+ - [ ] ★★ connection audio extérieur
+ - [ ] ★ diffusion arrière passer les PVC ?
+ - [ ] ★ Couper verre (VITRE)
+ - [ ] ★ préparer pare close
+ - [ ] ★ Installer vitre (amovible ?)
+ - [ ] ★ caisse orgue
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ plaque orage
+
+New Plaques
+ - [ ] ★★★ faire photo ST Tropez, journal et mode + tirage Pixart
+ - [ ] ★★★ monter plaque ST Tropez et mode
+ - [ ] ★★★ faire plaque générique
+ - [ ] ★★★ faire fichier journal
 
 Fauteuil
- 
- - [ ] cale accoudoir
- - [ ] soudure cales
- - [ ] prépa fauteuil peinture
- - [ ] peinture fauteuil
- - [ ] prépa bois fauteuil
- - [ ] achat mousse fauteuil
- - [ ] achat tissus fauteuil
- - [ ] couture housse
- - [ ] montage fauteuils
+ - [ ] ★★★ prépa fauteuil peinture
+ - [ ] ★★★ peinture fauteuil
+ - [ ] ★★★ prépa bois fauteuil
+ - [ ] ★★ achat mousse fauteuil
+ - [ ] ★★ achat tissus fauteuil
+ - [ ] ★ couture housse
+ - [ ] ★ montage fauteuils
 
 Décor
-
- - [ ] journal
- - [ ] structure portante décors
- - [ ] décor chambre
- - [ ] décor cuisine
- - [ ] décor voiture
+ - [ ] ★★★ décor cuisine (rassembler élément)
+ - [ ] ★★ syteme rangement décors (housse en skaï blanc)
+ - [ ] ★ finitions décor chambre
 
 Costume
-
- - [ ] achat costumes      
- - [ ] finition prothèse
+ - [ ] ★★★ achat costumes      
+ - [ ] ★ finition prothèse (rallonge tige et col)
 
 Etanchéité
+ - [ ] ★★★ poignée trappe
+ - [ ] ★★★ pose joint trappe
+ - [ ] ★★★ pose joint plaque arrière
+ - [ ] ★★★ achat rivet + rondelle caoutchou M5
+ - [ ] ★★★ remplacement rivet
+ - [ ] ★★★ passe sica bas de caisse
 
-
- - [ ] poignée trappe
- - [ ] pose joint trappe
- - [ ] pose joint plaque arrière
- - [ ] achat rivet + rondelle caoutchou M5
- - [ ] remplacement rivet
- - [ ] passe sica bas de caisse
+Fermeture/huisserie
+ - [ ] ★★★ verrou régie
+ - [ ] ★★★ plexi hublot
+ - [ ] ★★★ pose volets hublot
+ - [ ] ★★ groom x 4 ou poids
+ - [ ] ★ cache arrière
+ - [ ] ★ verrou ext trappes
 
 Finition salle
-
- - [ ] pose plafond
- - [ ] pose tissus
- - [ ] pose volets hublot
- - [ ] cache régie et écran (côtés en tissus)
- - [ ] sortie secour
+ - [ ] ★★★ pose plafond
+ - [ ] ★★★ cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
+ - [ ] ★★★ sortie secour
+ - [ ] ★★ pose tissus
+ - [ ] ★ pose moquette
 
 acces public 
-
- - [ ] dessiner escalier
- - [ ] coupe alu escalier
- - [ ] Escalier principal
- - [ ] Escalier secours
-
-finition régie
-
- - [ ] SAS régie
- - [ ] diffusion arrière passer les PVC
- - [ ] Couper verre (VITRE)
- - [ ] préparer pare close
- - [ ] Installer vitre
+ - [ ] ★★★ dessiner escalier
+ - [ ] ★★★ coupe alu escalier
+ - [ ] ★★★ Escalier principal
+ - [ ] ★★ Escalier secours
+ - [ ] ★★ acces handicapés
 
 clim
-
- - [ ] poignée caisses clim
- - [ ] Achat Excelsior : matériel intérieur caisse clim
- - [ ] conception ventilation
+ - [ ] ★★★ poignée caisses clim
+ - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
+ - [ ] ★ conception ventilation
 
 finiion extérieure
- 
- - [ ] dessin extérieur (peinture ou transfert)
- - [ ] niveau + boussole
- - [ ] passage au MINES
- - [ ] bas de caisse avec Didier
+ - [ ] ★★★ bas de caisse avec Didier
+ - [ ] ★ dessin extérieur (peinture ou transfert)
+ - [ ] ★ niveau + boussole
 
 
+### Le 29/05/2024 : Marseille (13) - Photos
+
+- 3 x St Tropez / 1 mode
+
+### Du 11/06/2024 au 13/06/2024 : Graulhet chez les Plasticiens (81)
+
+- Décor et installation technique/Montage
+
+### Du 16/06/2024 au 22/06/2024 : Graulhet chez les Plasticiens (81)
+
+- Mise en scène
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
       
-- écriture et mise en scène
+- Mise en scène
 
 ### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
  - [ ] Anticiper accés et emplacement roulotte
        
-- mise en scène + 2 avant-premières
+- Mise en scène + 2 avant-premières
 
 ### du 29/7/2024 au 4/8/2024, Mirepoix (09) - Mima
 - [ ] Anticiper accés et emplacement roulotte
