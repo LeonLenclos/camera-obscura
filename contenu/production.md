@@ -13,24 +13,46 @@ Avec :
 - Bertrand Lenclos
 - Léon Lenclos
 
-Coproducteurs :
+Production :
+
+- NOKILL
+
+Coproduction :
 
 - MIMA
 - LE PARVIS
 - QUAI DES SAVOIRS
 
-Soutiens :
+Accueil en résidence :
 
 - LE KIWI / ARTO
 - LE PERISCOPE
-- RUE D'ÉTÉ
 - CIRCA
 - SCÈNES CROISÉES DE LOZÈRE
 - ASSOCIATION DES CLOUS
 
+Soutien :
+
+- DRAC OCCITANIE
+- DGCA Commission Art de la Rue
+- RÉGION OCCITANIE
+
 Diffusion :
 
 - Amparo Gallur
+
+Construction :
+
+- Fabien Durand (Soudeur remorque)
+- Zou Lenclos (Constructrice remorque)
+- Laurent Fayard (Constructeur remorque)
+- Didier Pons (Constructeur remorque)
+- Éva Ricard (Couturière Remorque)
+- Steffie Bayer (Prothésiste-marionnettiste)
+- Jean-Claude Azemar (Vitrier)
+- Marco Cohen (Constructeur réflecteur)
+- Aquabrasion (Constructeurs machinerie et carrosserie)
+- Schiavon (Constructeurs machinerie et carrosserie)
 
 Interlocuteurices :
 
@@ -45,19 +67,6 @@ Interlocuteurices :
 - Ronan Bouvier 
 - Marc Reynaud (Opticien)
 - Paco Labat (Expert en percussions et boites à bruits)
-
-Constructeurice :
-
-- Fabien Durand (Soudeur remorque)
-- Zou Lenclos (Constructrice remorque)
-- Laurent Fayard (Constructeur remorque)
-- Didier Pons (Constructeur remorque)
-- Éva Ricard (Couturière Remorque)
-- Steffie Bayer (Prothésiste-marionnettiste)
-- Jean-Claude Azemar (Vitrier)
-- Marco Cohen (Constructeur réflecteur)
-- Aquabrasion (Constructeurs machinerie et carrosserie)
-- Schiavon (Constructeurs machinerie et carrosserie)
 
 Mentionner une seconde fois au générique :
 
@@ -588,7 +597,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 Achat : 
 
-- [ ] tracker ★★★
+- [x] tracker ★★★
 
 | modele | prix | abo | autonomie |
 |---|---|---|---|
@@ -599,9 +608,11 @@ Achat :
 | [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
 
-- [ ] velcro ★★★
-- [ ] acrifix ★★★
-- [ ] aimant x 40 percé fraisé 2cm  ★★★
+- [x] ★★★ velcro
+- [x] ★★★ acrifix
+- [x] ★★★ aimant x 40 percé fraisé 2cm
+- [x] ★★★ Lame de scie ruban (HY-7305080144)
+- [x] ★★★ fil Alu 0,8mm
 
 Todo reportés de avant nimes
 
