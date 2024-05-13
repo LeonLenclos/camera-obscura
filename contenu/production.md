@@ -656,6 +656,7 @@ Divers
  - [ ] ★★★ Cabinet expert
  - [ ] ★★★ pompier
  - [ ] ★★★ 2 trois marches maison pour praticables (1m et 0,9m)
+ - [ ] *** Isolation
 
 Reflecteur
  - [ ] ★★★ poser velcro
