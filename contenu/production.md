@@ -616,9 +616,9 @@ Achat :
 
 Todo reportés de avant nimes
 
-- [ ] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
+- [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
 - [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre.
-- [ ] ★★★ rangement des outils
+- [X] ★★★ rangement des outils
 - [ ] ★★ finition : Caches (plastic alvéolé ?) dessous et latéraux en fixe / dessus et avant-arrière amovibles ?
 - [ ] ★★ caméra de recul 
 - [ ] ★ finalisation fixation du cache avant
@@ -667,7 +667,7 @@ Reflecteur
 Rail, Amici et planchette
  - [ ] ★★★ faire 2 rails de 5m (3+2) avec 3 crochet
  - [ ] ★★★ faire 2 support bas de 5m (3+2) avec 3 crochet
- - [ ] ★★★ rainure moyeux tourelle
+ - [X] ★★★ rainure moyeux tourelle
  - [ ] ★★★ changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
  - [ ] ★★★ revoir 2 réglages
  - [ ] ★★★ revoir calage rotation objectif
@@ -700,7 +700,7 @@ Fauteuil
  - [ ] ★★★ peinture fauteuil
  - [ ] ★★★ prépa bois fauteuil
  - [ ] ★★ achat mousse fauteuil
- - [ ] ★★ achat tissus fauteuil
+ - [X] ★★ achat tissus fauteuil
  - [ ] ★ couture housse
  - [ ] ★ montage fauteuils
 
@@ -730,17 +730,17 @@ Fermeture/huisserie
  - [ ] ★ verrou ext trappes
 
 Finition salle
- - [ ] ★★★ pose plafond
+ - [X] ★★★ pose plafond
  - [ ] ★★★ cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
  - [ ] ★★★ sortie secour
  - [ ] ★★ pose tissus
  - [ ] ★ pose moquette
 
 acces public 
- - [ ] ★★★ dessiner escalier
- - [ ] ★★★ coupe alu escalier
- - [ ] ★★★ Escalier principal
- - [ ] ★★ Escalier secours
+ - [X] ★★★ dessiner escalier
+ - [X] ★★★ coupe alu escalier
+ - [ ] ★★★ coupe BOIS escalier
+ - [ ] ★★★ montage escaliers
  - [ ] ★★ acces handicapés
 
 clim
