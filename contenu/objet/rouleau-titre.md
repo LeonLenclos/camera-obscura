@@ -83,6 +83,8 @@ type: rouleau-titre
 <dl>
 <dt>Production</dt><dd>NOKILL</dd>
 <dt>Coproduction</dt><dd>MIMA<br/>Le Parvis<br/>Le Quai des savoirs</dd>
+<dt>Accueil en résidence</dt><dd>Le Kiwi / ARTO<br/>Le Périscope<br/>CIRCA<br/>Les Scènes croisées de Lozère<br/>L'Association des clous</dd>
+<dt>Soutiens</dt><dd>DRAC Occitanie<br/>DGCA Commission Art de la Rue<br/>Région Occitanie</dd>
 </dl>
 
 #### Production
