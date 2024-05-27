@@ -506,6 +506,7 @@ font-size:small;
   margin: 0;
   padding: 0;
   background:black;
+  animation: none;
 
 }
 
@@ -533,6 +534,8 @@ font-size:small;
   padding: 0;
   display: block;
   font-size:12pt !important;
+  background: none;
+  animation: none;
 
 }
 
@@ -610,5 +613,6 @@ font-size:small;
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
