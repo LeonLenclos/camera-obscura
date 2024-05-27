@@ -11,8 +11,10 @@ Objets utilisés dans le film [*Souvenirs du futur*](../ecriture/souvenirs-du-fu
 
 ## Rouleaux
 
-- [titre](rouleau-titre.md)
-- [photo](rouleau-photo.md)
+- [titre](rouleau-titre.md) (source)
+- [titre](rouleau-titre.pdf) (pdf)
+- [photo](rouleau-photo.md) (source)
+- [photo](rouleau-photo.pdf) (pdf)
 
 ```
 # Créer pdf rouleau titre

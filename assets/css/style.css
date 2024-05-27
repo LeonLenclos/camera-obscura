@@ -557,11 +557,11 @@ font-size:small;
 .rouleau-photo img {
   margin: 0;
   padding: 0;
-  width: 100%;
+  width: calc(100% - 10mm);
   height: unset;
   max-height: unset;
   max-width: unset;
-    margin: 5mm
+  margin: 5mm;
 
 }
 
@@ -632,6 +632,7 @@ display: block;
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
 
