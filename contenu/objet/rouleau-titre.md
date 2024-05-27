@@ -8,27 +8,27 @@ type: rouleau-titre
 
 # Souvenirs du futur
 
-## Je me souviens du jour</br>où personne ne s'est levé
+## Je me souviens du jour<br/>où personne ne s'est levé
 
-## Je me souviens le niveau de l'eau
+## Je me souviens<br/>le niveau de l'eau
 
 ## Le plein emploi
 
-## Une période heureuse (les gens étaient heureux même dans les files d'attente)
+## Une période heureuse<small>les gens étaient heureux même dans les files d'attente</small>
 
-## Le jour où la lune s’est écrasée sur terre
+## Le jour où la lune<br/>s’est écrasée sur terre
 
 ## Le bon sens
 
 ## La mutation
 
-## Les vacances à Saint-Tropez
+## Les vacances<br/>à Saint-Tropez
 
 ## Le podium
 
 ## La blague
 
-## Une période malheureuse (les gens étaient malheureux même dans les parcs d'attractions)
+## Une période malheureuse<small>(les gens étaient malheureux même dans les parcs d'attractions)</small>
 
 ## Le Golden Record
 
