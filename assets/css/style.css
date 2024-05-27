@@ -539,15 +539,18 @@ font-size:small;
 
 }
 
-.rouleau-titre > #main article,
 .rouleau-photo > #main article {
+  margin: 0;
+  padding: 0;
+  margin-top: 500mm;
+  margin-bottom: 500mm;
+}
 
+.rouleau-titre > #main article {
   margin: 0;
   padding: 0;
   margin-top: 1000mm;
-  margin-bottom: 1000mm;
-
-  
+  margin-bottom: 1500mm;
 }
 
 
