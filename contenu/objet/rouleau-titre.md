@@ -87,31 +87,7 @@ type: rouleau-titre
 <dt>Soutiens</dt><dd>DRAC Occitanie<br/>DGCA Commission Art de la Rue<br/>Région Occitanie</dd>
 </dl>
 
-#### Production
-
-- NOKILL
-
-#### Coproduction
-
-- MIMA
-- Le Parvis
-- Le Quai des savoirs
-
-#### Accueils en résidence
-
-- Le Kiwi / ARTO
-- Le Périscope
-- CIRCA
-- Les Scènes croisées de Lozère
-- L'Association des clous
-
-#### Soutiens
-
-- DRAC Occitanie
-- DGCA Commission Art de la Rue
-- Région Occitanie
-
-#### Remerciements
+#### Merci à
 
 - Eric Amblard
 - Sylvain Bahos

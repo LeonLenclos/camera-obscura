@@ -565,6 +565,9 @@ font-size:small;
 
 /* ROULEAU TITRE */
 
+.rouleau-titre #main h2:last-of-type{
+  margin-bottom: 700mm;
+}
 
 .rouleau-titre ul li:before {
   content: none;
@@ -627,6 +630,7 @@ display: block;
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
 
