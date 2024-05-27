@@ -28,7 +28,7 @@ type: rouleau-titre
 
 ## La blague
 
-## Une période malheureuse<small>(les gens étaient malheureux même dans les parcs d'attractions)</small>
+## Une période malheureuse<small>les gens étaient malheureux même dans les parcs d'attractions</small>
 
 ## Le Golden Record
 
