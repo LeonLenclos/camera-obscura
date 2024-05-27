@@ -533,7 +533,7 @@ font-size:small;
   margin:0;
   padding: 0;
   display: block;
-  font-size:12pt !important;
+  font-size:32pt !important;
   background: none;
   animation: none;
 
@@ -572,6 +572,7 @@ font-size:small;
 .rouleau-titre #main h4 {
  font-weight:normal;
   font-size: inherit;
+  margin-top : 2em;
 }
 
 .rouleau-titre dd,
@@ -595,7 +596,8 @@ font-size:small;
 }
 
 .rouleau-titre ul {
-    columns: 2;
+
+ 
 }
 
 .rouleau-titre article {
@@ -608,11 +610,14 @@ font-size:small;
 .rouleau-titre #main h3 {
   border: 1px solid green;
   margin:0;
+  font-size: 1.5em;
+  height:200mm;
 }
 
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
 
