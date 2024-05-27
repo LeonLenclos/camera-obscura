@@ -561,6 +561,8 @@ font-size:small;
   height: unset;
   max-height: unset;
   max-width: unset;
+    margin: 5mm
+
 }
 
 /* ROULEAU TITRE */
@@ -630,6 +632,7 @@ display: block;
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
 
