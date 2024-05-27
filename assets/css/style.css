@@ -533,7 +533,7 @@ font-size:small;
   margin:0;
   padding: 0;
   display: block;
-  font-size:32pt !important;
+  font-size:64pt !important;
   background: none;
   animation: none;
 
@@ -604,19 +604,31 @@ font-size:small;
   display: block;
   text-align:center;
 }
+.rouleau-titre #main small {
+display: block;
+  font-size:.5em;
+}
+
 
 .rouleau-titre #main h1,
 .rouleau-titre #main h2,
 .rouleau-titre #main h3 {
+    line-height: 1.3em;
   border: 1px solid green;
   margin:0;
   font-size: 1.5em;
   height:200mm;
 }
 
+.rouleau-titre #main h1 {
+    font-style: italic;
+      font-size: 2em;
+}
+
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
 
