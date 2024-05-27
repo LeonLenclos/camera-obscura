@@ -60,24 +60,24 @@ type: rouleau-titre
 #### Construction remorque
 
 <dl>
-<dt>Soudure<dt><dd>Fabien Durand</dd>
-<dt>Construction<dt><dd>Zou Lenclos</dd>
+<dt>Soudure</dt><dd>Fabien Durand</dd>
+<dt>Construction</dt><dd>Zou Lenclos</dd>
 </dl>
 
 #### Aménagement remorque
 
 <dl>
-<dt>Vitrerie<dt><dd>Jean-Claude Azemar</dd>
-<dt>Menuiserie<dt><dd>Laurent Fayard</dd>
-<dt>Peinture Carrosserie<dt><dd>Didier Pons</dd>
-<dt>Couture<dt><dd>Éva Ricard</dd>
+<dt>Vitrerie</dt><dd>Jean-Claude Azemar</dd>
+<dt>Menuiserie</dt><dd>Laurent Fayard</dd>
+<dt>Peinture Carrosserie</dt><dd>Didier Pons</dd>
+<dt>Couture</dt><dd>Éva Ricard</dd>
 </dl>
 
 #### Accessoires
 
 <dl>
-<dt>Prothèse-marionette<dt><dd>Steffie Bayer</dd>
-<dt>Réflecteur<dt><dd>Marco Cohen</dd>
+<dt>Prothèse-marionette</dt><dd>Steffie Bayer</dd>
+<dt>Réflecteur</dt><dd>Marco Cohen</dd>
 </dl>
 
 #### Costume
