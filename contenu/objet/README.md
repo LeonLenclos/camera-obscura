@@ -9,3 +9,15 @@ Objets utilisés dans le film [*Souvenirs du futur*](../ecriture/souvenirs-du-fu
 - [Animations](animations.md) (plaques animées et marionettes)
 - [Photos](photos.md)
 
+## Rouleaux
+
+- [titre](rouleau-titre.md)
+- [photo](rouleau-photo.md)
+
+```
+# Créer pdf rouleau titre
+wkhtmltopdf -T 0mm -B 0mm -L 0mm -R 0mm --page-width 500mm --page-height 5600mm  https://camera-obscura.cienokill.fr/contenu/objet/rouleau-titre rouleau-titre.pdf
+
+# Créer pdf rouleau photo
+wkhtmltopdf -T 0mm -B 0mm -L 0mm -R 0mm --page-width 780 --page-height 3000mm  https://camera-obscura.cienokill.fr/contenu/objet/rouleau-photo rouleau-photo.pdf
+```
