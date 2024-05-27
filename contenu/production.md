@@ -1,15 +1,24 @@
 [CLIQUER ICI POUR ALLER DIRECTEMENT À *MAINTENANT* DANS LE CALENDRIER DES RÉSIDENCES ↓](#maintenant)
 
+
+780
+
+500
+
+Marge haut et bas = pi * 50 + 350
+
+Vynile : 500 de large max
+
 # Générique
 
-De :
+Un film de :
 
 - Bertrand Lenclos
 - Léon Lenclos
 
 Avec :
 
-- Lucile Balezeaux
+- Lucile Balézeaux
 - Bertrand Lenclos
 - Léon Lenclos
 
@@ -24,10 +33,10 @@ Construction Remorque :
 
 Aménagement Remorque :
 
-- Éva Ricard (Couture)
+- Jean-Claude Azemar (Vitrerie)
 - Laurent Fayard (Menuiserie)
 - Didier Pons (Peinture Carrosserie)
-- Jean-Claude Azemar (Vitrerie)
+- Éva Ricard (Couture)
 
 Accessoires :
 
@@ -36,7 +45,7 @@ Accessoires :
 
 Costume
 
-- Lucile Balezeaux
+- Lucile Balézeaux
 
 Musique et Design Sonore
 
@@ -53,63 +62,64 @@ Production :
 Coproduction :
 
 - MIMA
-- LE PARVIS
-- QUAI DES SAVOIRS
+- Le Parvis
+- Le Quai des savoirs
 
 Accueil en résidence :
 
-- LE KIWI / ARTO
-- LE PERISCOPE
+- Le Kiwi / ARTO
+- Le Périscope
 - CIRCA
-- SCÈNES CROISÉES DE LOZÈRE
-- ASSOCIATION DES CLOUS
+- Les Scènes croisées de Lozère
+- L'Association des clous
 
 Soutien :
 
-- DRAC OCCITANIE
+- DRAC Occitanie
 - DGCA Commission Art de la Rue
-- RÉGION OCCITANIE
+- Région Occitanie
 
 Remerciements :
 
-- Zou Lenclos
-- Cie Titanos
-- Arnaud Vidal
-- Jérémie Dain
 - Eric Amblard
-- Evelyne Salançon
-- Gérard Tayeb
-- Juan P. Martínez Pastor
-- Ronan Bouvier 
-- Marc Reynaud
-- Joël Boya
-- Paco Labat
-- Thomas Letellier
-- Frederic Lombardo
 - Sylvain Bahos
-- Florence Laffitte
-- Virginie Talou
-- Francis Lopez
+- Ronan Bouvier 
+- Joël Boya
 - Elise de Couleurs Papilles
 - CréaLab de Graulhet 
-- Usine des plasticiens volants
+- Jérémie Dain
+- Paco Labat
+- Florence Laffitte
+- Zou Lenclos
+- Thomas Letellier
+- Frederic Lombardo
+- Francis Lopez
+- Juan P. Martínez Pastor
+- Les Pasticiens Volants
+- Marc Reynaud
+- Evelyne Salançon
+- Virginie Talou
+- Gérard Tayeb
+- Cie Titanos
+- Arnaud Vidal
 
 Logiciels libres :
 
+- GIMP
+- Git
 - Inkscape
 - LibreCAD 
-- Git 
 
 Fournisseur :
 
 - Aquabrasion
 - Schiavon
-- Ferrieres
+- Ferrières
 - Capus
 
 Musique additionnelle :
 
-*Marina*, Interprété par Georges Briez
+*Marina*, Interprété par Georges Briez et son orchestre
 
 
 

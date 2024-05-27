@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   {% seo %}
 </head>
-<body>
+<body class="{{ page.type }}">
   <header>
     <h1 class="title"><a href="http://camera-obscura.cienokill.fr/">{{ site.title | default: site.github.repository_name }}</a></h1>
     <nav>
@@ -22,7 +22,7 @@
   </header>
   <div id="main" role="main">
     {% include back.html %}
-    <article class="markdown-body {{ page.type }}">
+    <article class="markdown-body">
       {{ content }}
     </article>
   </div>

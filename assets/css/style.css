@@ -328,35 +328,35 @@ footer p {
 }
 
 
-.scenario{
+.scenario article{
   font-family: 'Tt-Kp', monospace;
   
 }
 
-.scenario * {
+.scenario article * {
   font-size :12pt;
   font-style: normal;
 }
 
-.scenario p {
+.scenario article p {
   margin-left: 40px;
 }
 
 
-.scenario em {
+.scenario article em {
   display: block;
   margin-left: -40px;
 }
 
-.scenario strong {
+.scenario article strong {
   display: block;
   text-align: center;
 }
 
-.scenario h1,
-.scenario h2,
-.scenario h3,
-.scenario h4 {
+.scenario article h1,
+.scenario article h2,
+.scenario article h3,
+.scenario article h4 {
   text-transform: uppercase;
 }
 
