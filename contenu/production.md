@@ -1,14 +1,5 @@
 [CLIQUER ICI POUR ALLER DIRECTEMENT À *MAINTENANT* DANS LE CALENDRIER DES RÉSIDENCES ↓](#maintenant)
 
-
-780
-
-500
-
-Marge haut et bas = pi * 50 + 350
-
-Vynile : 500 de large max
-
 # Générique
 
 Un film de :
