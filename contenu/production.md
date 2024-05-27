@@ -13,6 +13,39 @@ Avec :
 - Bertrand Lenclos
 - Léon Lenclos
 
+Diffusion :
+
+- Amparo Gallur
+
+Construction Remorque :
+
+- Fabien Durand (Soudure)
+- Zou Lenclos (Construction)
+
+Aménagement Remorque :
+
+- Éva Ricard (Couture)
+- Laurent Fayard (Menuiserie)
+- Didier Pons (Peinture Carrosserie)
+- Jean-Claude Azemar (Vitrerie)
+
+Accessoires :
+
+- Steffie Bayer (Prothèse-marionette)
+- Marco Cohen (Réflecteur)
+
+Costume
+
+- Lucile Balezeaux
+
+Musique et Design Sonore
+
+- Bertrand Lenclos
+
+Dessin
+
+- Léon Lenclos
+
 Production :
 
 - NOKILL
@@ -37,60 +70,48 @@ Soutien :
 - DGCA Commission Art de la Rue
 - RÉGION OCCITANIE
 
-Diffusion :
+Remerciements :
 
-- Amparo Gallur
-
-Construction :
-
-- Fabien Durand (Soudeur remorque)
-- Zou Lenclos (Constructrice remorque)
-- Laurent Fayard (Constructeur remorque)
-- Didier Pons (Constructeur remorque)
-- Éva Ricard (Couturière Remorque)
-- Steffie Bayer (Prothésiste-marionnettiste)
-- Jean-Claude Azemar (Vitrier)
-- Marco Cohen (Constructeur réflecteur)
-- Aquabrasion (Constructeurs machinerie et carrosserie)
-- Schiavon (Constructeurs machinerie et carrosserie)
-
-Interlocuteurices :
-
-- Zou Lenclos (Proto-autrice)
-- Cie Titanos (Expert·es en salles de spectacles itinérantes)
-- Arnaud Vidal (Expert en salles de spectacles itinérantes)
+- Zou Lenclos
+- Cie Titanos
+- Arnaud Vidal
 - Jérémie Dain
 - Eric Amblard
 - Evelyne Salançon
-- Gérard Tayeb (Opticien)
-- Juan P. Martínez Pastor (Opticien)
+- Gérard Tayeb
+- Juan P. Martínez Pastor
 - Ronan Bouvier 
-- Marc Reynaud (Opticien)
-- Paco Labat (Expert en percussions et boites à bruits)
-
-Mentionner une seconde fois au générique :
-
-- Lucile Balezeaux (Costumière)
-- Bertrand Lenclos (Musicien et Designer Sonore)
-- Léon Lenclos (Dessinateur)
-
-Autres lieux de travail :
-
+- Marc Reynaud
+- Joël Boya
+- Paco Labat
+- Thomas Letellier
+- Frederic Lombardo
+- Sylvain Bahos
+- Florence Laffitte
+- Virginie Talou
+- Francis Lopez
+- Elise de Couleurs Papilles
 - CréaLab de Graulhet 
 - Usine des plasticiens volants
 
 Logiciels libres :
 
-- Inkscape (Dessin)
-- LibreCAD (Plans)
-- Git (Écriture)
+- Inkscape
+- LibreCAD 
+- Git 
 
-Remerciements :
+Fournisseur :
 
-- Florence Laffitte
-- Virginie Talou
-- Francis Lopez
-- Elise de Couleurs Papilles
+- Aquabrasion
+- Schiavon
+- Ferrieres
+- Capus
+
+Musique additionnelle :
+
+*Marina*, Interprété par Georges Briez
+
+
 
 # Calendrier des résidences
 
