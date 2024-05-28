@@ -624,7 +624,8 @@ display: block;
     line-height: 1.3em;
   margin:0;
   font-size: 1.5em;
-  height:200mm;
+  height:100mm;
+  border-bottom:1px dotted white;
 }
 
 .rouleau-titre #main h1 {
