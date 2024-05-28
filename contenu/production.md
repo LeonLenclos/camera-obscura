@@ -639,7 +639,7 @@ Achat :
 Todo reportés de avant nimes
 
 - [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
-- [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre.
+- [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre. **1H**
 - [X] ★★★ rangement des outils
 - [ ] ★★ finition : Caches dessous et housses en skaï ?
 - [ ] ★★ caméra de recul 
