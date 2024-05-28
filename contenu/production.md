@@ -630,7 +630,7 @@ Achat :
 | [Capturs](https://www.capturs.com/fr/produit/endurance-traceur-gps/) | 139€HT | 36€HT/an | 5 ans à 1 pos/j |
 | [Secutec](https://www.secutec.fr/balise-gps-4g-ultra-longue-autonomie-4-ans-maximum.html/) | 349€ | 19/an (2 ans offert) | 4 ans à 1pos/j |
 
-- [x] ★★★ velcro
+- [x] ★★★ velcro reflo
 - [x] ★★★ acrifix
 - [x] ★★★ aimant x 40 percé fraisé 2cm
 - [x] ★★★ Lame de scie ruban (HY-7305080144)
@@ -641,7 +641,7 @@ Todo reportés de avant nimes
 - [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
 - [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre.
 - [X] ★★★ rangement des outils
-- [ ] ★★ finition : Caches (plastic alvéolé ?) dessous et latéraux en fixe / dessus et avant-arrière amovibles ?
+- [ ] ★★ finition : Caches dessous et housses en skaï ?
 - [ ] ★★ caméra de recul 
 - [ ] ★ finalisation fixation du cache avant
       
@@ -684,7 +684,7 @@ Reflecteur
  - [ ] ★★★ poser velcro
  - [ ] ★★★ fabriquer tissus noir
  - [ ] ★★★ voir remplacer papillon par mieux
- - [ ] ★ roues plus grosses
+ - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
  - [ ] ★★★ faire 2 rails de 5m (3+2) avec 3 crochet
@@ -692,7 +692,7 @@ Rail, Amici et planchette
  - [X] ★★★ rainure moyeux tourelle
  - [ ] ★★★ changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
  - [ ] ★★★ revoir 2 réglages
- - [ ] ★★★ revoir calage rotation objectif
+ - [ ] ★★★ remonter planchette / fabriquer cache
 
 Régie
 
@@ -712,17 +712,18 @@ Régie
  - [ ] ★ plaque orage
 
 New Plaques
- - [ ] ★★★ faire photo ST Tropez, journal et mode + tirage Pixart
+ - [ ] ★★★ faire photo St Tropez et mode
+ - [ ] ★★★ faire fichier film photos + journal pour print
+ - [ ] ★★★ faire fichier générique def
  - [ ] ★★★ monter plaque ST Tropez et mode
- - [ ] ★★★ faire plaque générique
- - [ ] ★★★ faire fichier journal
+ - [ ] ★★★ monter plaque générique
 
 Fauteuil
  - [ ] ★★★ prépa fauteuil peinture
  - [ ] ★★★ peinture fauteuil
  - [ ] ★★★ prépa bois fauteuil
- - [ ] ★★ achat mousse fauteuil
- - [X] ★★ achat tissus fauteuil
+ - [x] ★★ achat mousse fauteuil
+ - [x] ★★ achat tissus fauteuil
  - [ ] ★ couture housse
  - [ ] ★ montage fauteuils
 
@@ -739,13 +740,14 @@ Etanchéité
  - [ ] ★★★ poignée trappe
  - [ ] ★★★ pose joint trappe
  - [ ] ★★★ pose joint plaque arrière
- - [ ] ★★★ achat rivet + rondelle caoutchou M5
+ - [ ] ★★★ achat rivet M5
+ - [x] ★★★ achat rondelle caoutchou M5
  - [ ] ★★★ remplacement rivet
  - [ ] ★★★ passe sica bas de caisse
 
 Fermeture/huisserie
  - [ ] ★★★ verrou régie
- - [ ] ★★★ plexi hublot
+ - [ ] ★★★ pose plexi hublot
  - [ ] ★★★ pose volets hublot
  - [ ] ★★ groom x 4 ou poids
  - [ ] ★ cache arrière
@@ -761,7 +763,7 @@ Finition salle
 acces public 
  - [X] ★★★ dessiner escalier
  - [X] ★★★ coupe alu escalier
- - [ ] ★★★ coupe BOIS escalier
+ - [ ] ★★★ coupe Bois escalier
  - [ ] ★★★ montage escaliers
  - [ ] ★★ acces handicapés
 
