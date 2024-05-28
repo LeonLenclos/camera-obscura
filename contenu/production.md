@@ -639,15 +639,16 @@ Achat :
 Todo reportés de avant nimes
 
 - [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
-- [ ] ★★★ tronconner support droite dans un rack et support gauche dans l'autre. **1H**
+- [ ] ★★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
 - [X] ★★★ rangement des outils
-- [ ] ★★ finition : Caches dessous et housses en skaï ?
-- [ ] ★★ caméra de recul 
-- [ ] ★ finalisation fixation du cache avant
+- [ ] ★★ **2H** finition : Caches dessous et housses en skaï ?
+- [ ] ★★ **4H** finition : Caches dessous et housses en skaï ?
+- [ ] ★★ **2H** caméra de recul 
+- [ ] ★ c finalisation fixation du cache avant
       
 Todo notés à Nimes Concernant les plaques
-- [ ] ★★★ *Podium* test collage réparation
-- [ ] ★★★ *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
+- [ ] ★★★ **1H** *Podium* test collage réparation
+- [ ] ★★★ **1H** *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 - [ ] ★★ *Niveau de l'eau* Poignées poissons
 - [ ] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
@@ -672,34 +673,32 @@ Todo notés à Nimes Concernant les plaques
   - [x] *Période malheureuse* gauche + droit
 
 Divers
- - [ ] ★★★ SACD/SACEM 
- - [ ] ★★★ Pesée
+ - [ ] ★★★ **2H** SACD/SACEM 
+ - [ ] ★★★ **2H** Pesée
  - [ ] ★★★ passage au MINES
  - [ ] ★★★ Cabinet expert
  - [ ] ★★★ pompier
- - [ ] ★★★ 2 trois marches maison pour praticables (1m et 0,9m)
  - [ ] *** Isolation
 
 Reflecteur
- - [ ] ★★★ poser velcro
- - [ ] ★★★ fabriquer tissus noir
- - [ ] ★★★ voir remplacer papillon par mieux
+ - [ ] ★★★ **2H** poser velcro
+ - [ ] ★★★ **4H** fabriquer tissus noir
+ - [ ] ★★★ **1/2H** voir remplacer papillon par mieux
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
- - [ ] ★★★ faire 2 rails de 5m (3+2) avec 3 crochet
- - [ ] ★★★ faire 2 support bas de 5m (3+2) avec 3 crochet
+ - [ ] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
  - [X] ★★★ rainure moyeux tourelle
- - [ ] ★★★ changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
- - [ ] ★★★ revoir 2 réglages
- - [ ] ★★★ remonter planchette / fabriquer cache
+ - [ ] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
+ - [ ] ★★★ **1H** revoir 2 réglages
+ - [ ] ★★★ **2H** remonter planchette / fabriquer cache
 
 Régie
 
- - [ ] ★★★ cache régie (bas)
- - [ ] ★★★ revoir embouchure pavillon
- - [ ] ★★★ support tom tonerre, coquillages, clés etc...
- - [ ] ★★★ SAS régie
+ - [ ] ★★★ **2H** cache régie (bas)
+ - [ ] ★★★ **1H** revoir embouchure pavillon
+ - [ ] ★★★ **2H** support tom tonerre, coquillages, clés etc...
+ - [ ] ★★★ **2H** SAS régie
  - [ ] ★★ porte guitare
  - [ ] ★★ raccourcir manivelle vent
  - [ ] ★★ connection audio extérieur
@@ -715,20 +714,20 @@ New Plaques
  - [ ] ★★★ faire photo St Tropez et mode
  - [ ] ★★★ faire fichier film photos + journal pour print
  - [ ] ★★★ faire fichier générique def
- - [ ] ★★★ monter plaque ST Tropez et mode
- - [ ] ★★★ monter plaque générique
+ - [ ] ★★★ **2H** monter plaque ST Tropez et mode
+ - [ ] ★★★ **2H** monter plaque générique
 
 Fauteuil
- - [ ] ★★★ prépa fauteuil peinture
- - [ ] ★★★ peinture fauteuil
- - [ ] ★★★ prépa bois fauteuil
+ - [ ] ★★★ **8H** prépa fauteuil peinture
+ - [ ] ★★★ **8H** peinture fauteuil
+ - [ ] ★★★ **4H** prépa bois fauteuil
  - [x] ★★ achat mousse fauteuil
  - [x] ★★ achat tissus fauteuil
  - [ ] ★ couture housse
  - [ ] ★ montage fauteuils
 
 Décor
- - [ ] ★★★ décor cuisine (rassembler élément)
+ - [ ] ★★★ **4H** décor cuisine (rassembler élément)
  - [ ] ★★ syteme rangement décors (housse en skaï blanc)
  - [ ] ★ finitions décor chambre
 
@@ -737,18 +736,19 @@ Costume
  - [ ] ★ finition prothèse (rallonge tige et col)
 
 Etanchéité
- - [ ] ★★★ poignée trappe
- - [ ] ★★★ pose joint trappe
- - [ ] ★★★ pose joint plaque arrière
+
+ - [ ] ★★★ **2H** pose joint trappe et plaque arrière
  - [ ] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
- - [ ] ★★★ remplacement rivet
- - [ ] ★★★ passe sica bas de caisse
+ - [ ] ★★★ **16H** remplacement rivet toit et avant
+ - [ ] ★★★ **16H** remplacement autres rivets
+ - [ ] ★★★ **2H** passe sica bas de caisse
+ - [ ] ★★ poignée trappe
 
 Fermeture/huisserie
- - [ ] ★★★ verrou régie
- - [ ] ★★★ pose plexi hublot
- - [ ] ★★★ pose volets hublot
+ - [ ] ★★★ **1H** verrou régie
+ - [ ] ★★★ **4H** pose plexi hublot
+ - [ ] ★★★ **4H** pose volets hublot
  - [ ] ★★ groom x 4 ou poids
  - [ ] ★ cache arrière
  - [ ] ★ verrou ext trappes
