@@ -484,6 +484,7 @@ font-size:small;
     .print small {
       display: block;
       border-top : 1px solid black;
+		color:black;
       text-align: center;
       font-size: .7em;
       margin-top : 2em;
@@ -505,7 +506,7 @@ font-size:small;
 {
   margin: 0;
   padding: 0;
-  background:black;
+  background:white;
   animation: none;
 
 }
@@ -529,12 +530,15 @@ font-size:small;
 .rouleau-titre > #main,
 .rouleau-photo > #main
 {
+
   max-width: 100%;
   margin:0;
   padding: 0;
   display: block;
-  font-size:64pt !important;
+  font-size:48pt !important;
   background: none;
+  background:black;
+
   animation: none;
 
 }
@@ -542,15 +546,15 @@ font-size:small;
 .rouleau-photo > #main article {
   margin: 0;
   padding: 0;
-  margin-top: 500mm;
-  margin-bottom: 500mm;
+  padding-top: 200mm;
+  padding-bottom: 200mm;
 }
 
 .rouleau-titre > #main article {
   margin: 0;
   padding: 0;
-  margin-top: 1000mm;
-  margin-bottom: 1500mm;
+  padding-top: 480mm;
+  padding-bottom: 780mm;
 }
 
 
@@ -571,7 +575,7 @@ font-size:small;
 /* ROULEAU TITRE */
 
 .rouleau-titre #main h2:last-of-type{
-  margin-bottom: 700mm;
+  margin-bottom: 600mm;
 }
 
 .rouleau-titre ul li:before {
@@ -601,6 +605,11 @@ font-size:small;
 .rouleau-titre dd,
 .rouleau-titre li {
   font-weight: bold;
+	
+}
+
+.rouleau-titre ul:nth-last-of-type(3){
+	columns:2;
 }
 
 .rouleau-titre ul {
@@ -614,7 +623,7 @@ font-size:small;
 }
 .rouleau-titre #main small {
 display: block;
-  font-size:.5em;
+  font-size:.65em;
 }
 
 
@@ -624,8 +633,8 @@ display: block;
     line-height: 1.3em;
   margin:0;
   font-size: 1.5em;
-  height:100mm;
-  border-bottom:1px dotted white;
+  height:110mm;
+  /*border-bottom:1px dotted white;*/
 }
 
 .rouleau-titre #main h1 {
@@ -636,6 +645,7 @@ display: block;
 .rouleau-titre article *{
   color:white !important;;
 }
+
 
 
 

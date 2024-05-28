@@ -1,6 +1,6 @@
 @media print {
   @page {
-     size: 500mm 5460mm;
+     size: 780mm 4000mm;
      margin: 0;
   }
 }
