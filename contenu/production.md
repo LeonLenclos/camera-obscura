@@ -677,10 +677,10 @@ Todo notés à Nimes Concernant les plaques
 Divers
  - [ ] ★★★ **2H** SACD/SACEM 
  - [ ] ★★★ **2H** Pesée
- - [ ] ★★★ passage au MINES
- - [ ] ★★★ Cabinet expert
- - [ ] ★★★ pompier
- - [ ] *** Isolation
+ - [ ] ★★★ **4H** passage au MINES
+ - [ ] ★★★ **4H** Cabinet expert
+ - [ ] ★★★ **4H** pompier
+ - [ ] *** **4H** Isolation
 
 Reflecteur
  - [ ] ★★★ **2H** poser velcro
@@ -743,8 +743,8 @@ Etanchéité
  - [ ] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
  - [ ] ★★★ **16H** remplacement rivet toit et avant
- - [ ] ★★★ **16H** remplacement autres rivets
- - [ ] ★★★ **2H** passe sica bas de caisse
+ - [ ] ★★ **16H** remplacement autres rivets
+ - [ ] ★★ **2H** passe sica bas de caisse
  - [ ] ★★ poignée trappe
 
 Fermeture/huisserie
@@ -757,25 +757,25 @@ Fermeture/huisserie
 
 Finition salle
  - [X] ★★★ pose plafond
- - [ ] ★★★ cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
- - [ ] ★★★ sortie secour
+ - [ ] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
+ - [ ] ★★★ **2H** sortie secour
  - [ ] ★★ pose tissus
  - [ ] ★ pose moquette
 
 acces public 
  - [X] ★★★ dessiner escalier
  - [X] ★★★ coupe alu escalier
- - [ ] ★★★ coupe Bois escalier
- - [ ] ★★★ montage escaliers
+ - [ ] ★★★ **2H** coupe Bois escalier
+ - [ ] ★★★ **4H** montage escaliers
  - [ ] ★★ acces handicapés
 
 clim
- - [ ] ★★★ poignée caisses clim
+ - [ ] ★★ poignée caisses clim
  - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
  - [ ] ★ conception ventilation
 
 finiion extérieure
- - [ ] ★★★ bas de caisse avec Didier
+ - [ ] ★★ bas de caisse avec Didier
  - [ ] ★ dessin extérieur (peinture ou transfert)
  - [ ] ★ niveau + boussole
 
