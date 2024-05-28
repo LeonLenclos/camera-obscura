@@ -635,16 +635,18 @@ Achat :
 - [x] ★★★ aimant x 40 percé fraisé 2cm
 - [x] ★★★ Lame de scie ruban (HY-7305080144)
 - [x] ★★★ fil Alu 0,8mm
+- [ ] ★★★ velcro siège et mur
+- [ ] ★★★ rivets M5
 
 Todo reportés de avant nimes
 
 - [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
 - [ ] ★★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
 - [X] ★★★ rangement des outils
-- [ ] ★★ **2H** finition : Caches dessous et housses en skaï ?
-- [ ] ★★ **4H** finition : Caches dessous et housses en skaï ?
-- [ ] ★★ **2H** caméra de recul 
-- [ ] ★ c finalisation fixation du cache avant
+- [ ] ★★  finition : Caches dessous
+- [ ] ★★  finition : housses en skaï
+- [ ] ★★  caméra de recul 
+- [ ] ★   finalisation fixation du cache avant
       
 Todo notés à Nimes Concernant les plaques
 - [ ] ★★★ **1H** *Podium* test collage réparation
