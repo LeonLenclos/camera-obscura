@@ -63,20 +63,21 @@ type: rouleau-titre
 </dl>
 
 <dl>
+<dt>Regard exterieur</dt><dd>Laurent Cabrol<br/>Daisy Dominati</dd>
+</dl>
+
+<dl>
 <dt>Costume</dt><dd>Lucile Balézeaux</dd>
-<dt>Musique et Design Sonore</dt><dd>Bertrand Lenclos</dd>
+<dt>Musique et design sonore</dt><dd>Bertrand Lenclos</dd>
 <dt>Dessin</dt><dd>Léon Lenclos</dd>
+<dt>Prothèse-marionette</dt><dd>Steffie Bayer</dd>
 </dl>
 
 <dl>
 <dt>Vitrerie</dt><dd>Jean-Claude Azemar</dd>
 <dt>Menuiserie</dt><dd>Laurent Fayard</dd>
-<dt>Peinture Carrosserie</dt><dd>Didier Pons</dd>
+<dt>Peinture carrosserie</dt><dd>Didier Pons</dd>
 <dt>Couture</dt><dd>Éva Ricard</dd>
-</dl>
-
-<dl>
-<dt>Prothèse-marionette</dt><dd>Steffie Bayer</dd>
 <dt>Réflecteur</dt><dd>Marco Cohen</dd>
 </dl>
 
@@ -84,7 +85,7 @@ type: rouleau-titre
 <dt>Production</dt><dd>NOKILL</dd>
 <dt>Coproduction</dt><dd>MIMA<br/>Le Parvis<br/>Le Quai des savoirs</dd>
 <dt>Accueil en résidence</dt><dd>Le Kiwi / ARTO<br/>Le Périscope<br/>CIRCA<br/>Les Scènes croisées de Lozère<br/>L'Association des clous</dd>
-<dt>Soutiens</dt><dd>DRAC Occitanie<br/>DGCA Com. Art de la Rue<br/>Région Occitanie</dd>
+<dt>Soutien</dt><dd>DRAC Occitanie<br/>DGCA Com. Art de la Rue<br/>Région Occitanie</dd>
 </dl>
 
 #### Merci à
@@ -111,22 +112,19 @@ type: rouleau-titre
 - Cie Titanos
 - Arnaud Vidal
 
-#### Logiciels libres
-
-- GIMP — Git — Inkscape — LibreCAD 
-
-#### Fournisseurs
-
-- Aquabrasion — Capus — Ferrières — Schiavon
+<dl>
+<dt>Logiciel libre</dt><dd>Git<br/>Inkscape<br/>LibreCAD</dd>
+<dt>Fournisseur</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon</dd>
+</dl>
 
 #### Musique additionnelle
 
 - *Marina*, Georges Briez et son orchestre
 
-#### Ce film vous était présenté par
+#### <small>Ce film vous était présenté par</small>
 
 - *Camera Obscura*
 
-camera-obscura.cienokill.fr
+<small>camera-obscura.cienokill.fr</small>
 
 
