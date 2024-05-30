@@ -6,7 +6,7 @@ type: rouleau-titre
 
 ### <small>Une production</small>Cie NOKILL
 
-# Souvenirs du futur
+# Souvenirs du Futur
 
 ## Je me souviens du jour<br/>où personne ne s'est levé
 
@@ -28,7 +28,7 @@ type: rouleau-titre
 
 ## La blague
 
-## Une période malheureuse<small>les gens étaient malheureux même dans les parcs d'attractions</small>
+## Une période malheureuse<small>les gens étaient malheureux même dans les parcs d'attraction</small>
 
 ## Le Golden Record
 
@@ -63,14 +63,14 @@ type: rouleau-titre
 </dl>
 
 <dl>
-<dt>Regard exterieur</dt><dd>Laurent Cabrol<br/>Daisy Dominati</dd>
+<dt>Regard extérieur</dt><dd>Laurent Cabrol<br/>Daisy Dominati</dd>
 </dl>
 
 <dl>
 <dt>Costume</dt><dd>Lucile Balézeaux</dd>
 <dt>Musique et design sonore</dt><dd>Bertrand Lenclos</dd>
 <dt>Dessin</dt><dd>Léon Lenclos</dd>
-<dt>Prothèse-marionette</dt><dd>Steffie Bayer</dd>
+<dt>Prothèse-marionnette</dt><dd>Steffie Bayer</dd>
 </dl>
 
 <dl>
@@ -83,8 +83,8 @@ type: rouleau-titre
 
 <dl>
 <dt>Production</dt><dd>NOKILL</dd>
-<dt>Coproduction</dt><dd>MIMA<br/>Le Parvis<br/>Le Quai des savoirs</dd>
-<dt>Accueil en résidence</dt><dd>Le Kiwi / ARTO<br/>Le Périscope<br/>CIRCA<br/>Les Scènes croisées de Lozère<br/>L'Association des clous</dd>
+<dt>Coproduction</dt><dd>MIMA<br/>Le Parvis<br/>Le Quai des Savoirs</dd>
+<dt>Accueil en résidence</dt><dd>Le Kiwi / ARTO<br/>Le Périscope<br/>Circa<br/>Les Scènes Croisées de Lozère<br/>L'Association Des Clous</dd>
 <dt>Soutien</dt><dd>DRAC Occitanie<br/>DGCA Com. Art de la Rue<br/>Région Occitanie</dd>
 </dl>
 
@@ -103,6 +103,7 @@ type: rouleau-titre
 - Thomas Letellier
 - Frederic Lombardo
 - Francis Lopez
+- Anna Mano
 - Juan P. Martínez Pastor
 - Les Pasticiens Volants
 - Marc Reynaud
@@ -114,7 +115,7 @@ type: rouleau-titre
 
 <dl>
 <dt>Logiciel libre</dt><dd>Git<br/>Inkscape<br/>LibreCAD</dd>
-<dt>Fournisseur</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon</dd>
+<dt>Fournisseurs</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon</dd>
 </dl>
 
 #### Musique additionnelle
