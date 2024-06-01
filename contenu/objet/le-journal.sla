@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="1785.82677165354" PAGEHEIGHT="1332.28346456693" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="56.6929133858268" BORDERBOTTOM="85.0393700787402" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="2" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="Default Character Style (2)" FONT="Liberation Serif Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="es"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Default Paragraph Style (2)" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Liberation Serif Regular"/>
+        <STYLE NAME="Cuerpo nota" ALIGN="3" LINESPMode="2" FIRST="19.8425196850394" LANGUAGE="es"/>
+        <STYLE NAME="Cabeza 1" ALIGN="0" LINESPMode="1" FONT="DejaVu Sans Book" FONTSIZE="50" LANGUAGE="es"/>
+        <STYLE NAME="Sumario" LINESPMode="2" DROP="0" FONT="Liberation Serif Bold" FONTSIZE="14" SCALEH="110" wordTrack="1" LANGUAGE="es"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Canon_MX490_series" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Bitstream Vera Sans Bold"/>
+            <Fonts Name="Liberation Serif Regular"/>
+            <Subset Name="Built Titling Bold"/>
+            <Subset Name="DejaVu Sans Book"/>
+            <Subset Name="DejaVu Serif Bold"/>
+            <Subset Name="Latin Modern Roman Slanted 10 Bold"/>
+            <Subset Name="Liberation Serif Bold"/>
+            <Subset Name="Liberation Serif Bold Italic"/>
+            <Subset Name="Liberation Serif Italic"/>
+            <Subset Name="Piscolabis Regular"/>
+            <Subset Name="Shrikhand Regular"/>
+            <Subset Name="TeX Gyre Schola Math Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1785.82677165354" PAGEHEIGHT="1332.28346456693" BORDERLEFT="85.0393700787402" BORDERRIGHT="85.0393700787402" BORDERTOP="85.0393700787402" BORDERBOTTOM="113.385826771654" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1785.82677165354" PAGEHEIGHT="1332.28346456693" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="56.6929133858268" BORDERBOTTOM="85.0393700787402" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="892.913 949.606 267.552 " HorizontalGuides="283.465 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="1581.47902097902" YPOS="1038.13905511811" OwnPage="0" ItemID="1413448778" PTYPE="6" WIDTH="246.633" HEIGHT="224.727" FRTYPE="0" CLIPEDIT="1" PWIDTH="3.83527559055118" PCOLOR2="Black" PLINEART="1" path="M0 0 L246.633 0 L246.633 224.727 L0 224.727 L0 0 Z" copath="M0 0 L246.633 0 L246.633 224.727 L0 224.727 L0 0 Z" gXpos="1581.47902097902" gYpos="1038.13905511811" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="688.527325037169" YPOS="514.13905511811" OwnPage="0" ItemID="1405735802" PTYPE="6" WIDTH="246.632867132867" HEIGHT="376.139111282418" FRTYPE="0" CLIPEDIT="1" PWIDTH="2.83464566929134" PCOLOR2="Black" PLINEART="7" PLINEEND="32" PLINEJOIN="128" path="M0 0 L246.633 0 L246.633 376.139 L0 376.139 L0 0 Z" copath="M0 0 L246.633 0 L246.633 376.139 L0 376.139 L0 0 Z" gXpos="688.527325037169" gYpos="514.13905511811" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1050.00062992126" YPOS="77.0012598425197" OwnPage="0" ItemID="1403191338" PTYPE="4" WIDTH="779.133858267717" HEIGHT="152.256318484665" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L779.134 0 L779.134 152.256 L0 152.256 L0 0 Z" copath="M0 0 L779.134 0 L779.134 152.256 L0 152.256 L0 0 Z" gXpos="910" gYpos="17" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT FONT="Latin Modern Roman Slanted 10 Bold" FONTSIZE="144" CH="Le Journal"/>
+                <trail ALIGN="1" LINESP="32"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1050.28671328671" YPOS="197.465826775591" OwnPage="0" ItemID="1402782442" PTYPE="4" WIDTH="779.412587412587" HEIGHT="15.64139009" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L779.413 0 L779.413 15.6414 L0 15.6414 L0 0 Z" copath="M0 0 L779.413 0 L779.413 15.6414 L0 15.6414 L0 0 Z" gXpos="910.146579485453" gYpos="1.71653543307087" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT CH="MARDI 25 FEVRIER DE L'ANNÉE 6 | NO. 542164 "/>
+                <trail ALIGN="1" LINESP="32"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1050.73343372541" YPOS="191.635338680127" OwnPage="0" ItemID="1404536826" PTYPE="5" WIDTH="776.694197825768" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" SHADE2="70" PLINEART="1" path="" gXpos="747" gYpos="0" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1051.3006993007" YPOS="402.867401574802" OwnPage="0" ItemID="1405566266" PTYPE="4" WIDTH="776.833788888278" HEIGHT="610.439795165463" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="19.8425196850394" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L776.834 0 L776.834 610.44 L0 610.44 L0 0 Z" copath="M0 0 L776.834 0 L776.834 610.44 L0 610.44 L0 0 Z" gXpos="1051.3006993007" gYpos="402.867401574803" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="11"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Depuis quelques jours là on marche sur la tête, c'est littéralement le monde à l'envers, depuis qu'une certaine personne a été vue en train de lire le journal à l'envers on est en proie à un grand retournement de situation. Son influence pourrait se faire sentir déjà un peu partout dans le monde et ailleurs, et si c'est vrai que c'est plus difficile à lire à l'envers, on va pas se mentir, c'est hautement plus distingué, une mode en entraînant une autre, on parlera aussi peut être bientêt à l'envers, c'est à dire en commençant par les phrases du type &quot;enfin voilà quoi&quot; ou &quot;c'est tout ce que je voulais dire&quot; puis en disant, dans un second temps, les choses que l'on voulait vraiment dire."/>
+                <para PARENT="Cuerpo nota" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="1" DROPLIN="3" Bullet="0" Numeration="0"/>
+                <para PARENT="Cuerpo nota"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Quelles consequeneces cela aura sur le reste du monde et ailleurs ? Nulle ne peut le deviner pour l'instant, les us et coutumes et les habitudes et les usages des gens c'est pas comme la météo (voir dossier page 3) ça se devine pas avec des calculs savants... Nous avons tout de même interrogé quelques experts, spécialistes des questions concernant ce qu'il va se passer dans un futur proche au niveau de la société. Leur réponse : &quot;On ne sait pas, on ne peut pas dire, c'est une pratique totalement nouvelle, inédite et que l'on n'a jamais vu&quot; nous dit une experte en la question. Réponse décevante ? Non, réponse 100% normale selon une autre experte qui nous dit ceci : &quot;les réponses vagues ne sont pas décevantes, elles sont au contraire gage de sûreté&quot;. Vous m'en direz tant..."/>
+                <para PARENT="Cuerpo nota"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <ITEXT FONT="Liberation Serif Bold" FONTSIZE="18" CH="Le Journal continuera à être imprimé dans le même sens !"/>
+                <para PARENT="Sumario" ALIGN="1" LINESPMode="1"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Pour en revenir au Journal c'est à dire le sujet principal de ce dont on parle dans cet article (article qui parait lui-même dans un journal, voyez l'ironie de la chose), il sera toujours imprimé à l'endroit quoi qu'il en soit et quoi qu'on en dise : c'est-à-dire le titre en haut dans son sens traditionnel, et le reste du texte qui suit de haut en bas et de senestre à dextre. Après, libre à chacune de le tenir dans le sens de son choix ou dans l'orientation voulue ou même dans la direction que l'on souhaite."/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="En le retournant de 180° par exemple vous pourrez faire en sorte que chaque element soit retourné mais aussi que l'ensemble des elements soit retourné en lui-même. Essayez ! ça pourrait marcher, même chez vous. Si ça ne marche pas vérifiez peut-être le sens du reste des choses et puis faites attention à votre environnement, regardez autour de vous, une fois, deux fois, trois fois et si ça vous semble etrange, comme si les choses n'étaient pas à leur place ou qu'un p'tit truc avait changé, c'est peut être que sans vous en aperçevoir, vous y êtes parvenu malgré tout."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1049.97202797203" YPOS="233.989648147128" OwnPage="0" ItemID="1403151114" PTYPE="4" WIDTH="779.162460216949" HEIGHT="113.706293706294" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L779.162 0 L779.162 113.706 L0 113.706 L0 0 Z" copath="M0 0 L779.162 0 L779.162 113.706 L0 113.706 L0 0 Z" gXpos="1049.97202797203" gYpos="233.989648147128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="36" CH="Une personne très influente a été vue en train de tenir le journal à l'envers !"/>
+                <trail PARENT="Cabeza 1" ALIGN="4" LINESPMode="0" LINESP="49"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1050.93254776719" YPOS="341.143604427069" OwnPage="0" ItemID="1404663418" PTYPE="4" WIDTH="779.036586091075" HEIGHT="48.5626892792247" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L779.037 0 L779.037 48.5627 L0 48.5627 L0 0 Z" copath="M0 0 L779.037 0 L779.037 48.5627 L0 48.5627 L0 0 Z" gXpos="1050.93254776719" gYpos="341.143604427069" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="25" CH="L'information a été confirmée ce matin, mais on ne sait toujours pas qui est cette personne ni quelles sont ses intentions."/>
+                <trail PARENT="Sumario" ALIGN="1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1315.13286713287" YPOS="401.020538516601" OwnPage="0" ItemID="1407169722" PTYPE="2" WIDTH="514.00162105611" HEIGHT="365.538461538461" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" SHADE="50" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.168" LOCALSCY="0.168" LOCALX="-17.9555221681146" LOCALY="-11.0710811498192" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="journal/img3.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L514.002 0 L514.002 365.538 L0 365.538 L0 0 Z" copath="M0 0 L514.002 0 L514.002 365.538 L0 365.538 L0 0 Z" gXpos="1315.13286713287" gYpos="401.020538516602" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1048.97202797203" YPOS="1035.17075050934" OwnPage="0" ItemID="1408112202" PTYPE="4" WIDTH="518.916083916084" HEIGHT="117.881118881117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L518.916 0 L518.916 117.881 L0 117.881 L0 0 Z" copath="M0 0 L518.916 0 L518.916 117.881 L0 117.881 L0 0 Z" gXpos="1048.97202797203" gYpos="1035.17075050934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="21" CH="La Météo désormais fiable jusqu'à 12 jours"/>
+                <trail PARENT="Cabeza 1" LINESPMode="0" LINESP="36"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1050.73343372541" YPOS="218.635338680128" OwnPage="0" ItemID="1408231226" PTYPE="5" WIDTH="776.694197825768" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" SHADE2="70" PLINEART="1" path="" gXpos="747" gYpos="27" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1581.47902097902" YPOS="1038.13905511811" OwnPage="0" ItemID="1408223306" PTYPE="6" WIDTH="246.632867132867" HEIGHT="224.726523869831" FRTYPE="0" CLIPEDIT="0" PWIDTH="3.83527559055118" PCOLOR2="Black" PLINEART="1" path="M0 0 L246.633 0 L246.633 224.727 L0 224.727 L0 0 Z" copath="M0 0 L246.633 0 L246.633 224.727 L0 224.727 L0 0 Z" gXpos="1581.47902097902" gYpos="1038.13905511811" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1154.30036285927" YPOS="328.454236317923" OwnPage="0" ItemID="1408225770" PTYPE="5" WIDTH="565.996974426582" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" SHADE2="70" PLINEART="1" path="" gXpos="850.566929133858" gYpos="136.818897637795" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1341.66483123175" YPOS="200.57667529321" OwnPage="0" ItemID="1408291402" PTYPE="4" WIDTH="779.036586091075" HEIGHT="48.5626892792247" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L779.037 0 L779.037 48.5627 L0 48.5627 L0 0 Z" copath="M0 0 L779.037 0 L779.037 48.5627 L0 48.5627 L0 0 Z" gXpos="1341.66483123175" gYpos="200.576675293211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="13" CH="Si on le dit c'est que c'est vrai !"/>
+                <trail PARENT="Sumario" ALIGN="1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1050.96999063928" YPOS="1070.37133858268" OwnPage="0" ItemID="1408253786" PTYPE="4" WIDTH="517.925114255822" HEIGHT="202.915815208413" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="19.8425196850394" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L517.925 0 L517.925 202.916 L0 202.916 L0 0 Z" copath="M0 0 L517.925 0 L517.925 202.916 L0 202.916 L0 0 Z" gXpos="1050.96999063928" gYpos="1070.37133858268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="11"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="Oui c'est vrai, à ce que l'on dit "/>
+                <ITEXT FONT="Liberation Serif Regular" CH="le seuil symbolique des 99% de fiabilité quant aux prévisions météo sur le temps qu'il fera dans 12 jours aurait été franchis statistiquement cette semaine. Ce que ça veut dire concrètement c'est que maintenant si on vous dit que dans 12 jours il va pleuvoir chez vous, vous pouvez être sûre à 99% que c'est vraissemblablement certain que ce soit certainement vrai selon ladite étude qui a été faite sur plus de 1000 prévisions météos avec les trois modèles les plus utilisés : MODIMONDE, Drometeo et URC-4 (anciennement URC-3).  "/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="Et comme on ne va pas s'arrêter en si bon chemin, on va continuer sur la route de toujours plus de fiabilité sur toujours plus de jours, et peut-être un jour on se dira : &quot;Ok là c'est bon c'est assez&quot; mais c'est pas demain la veille !"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <ITEXT FONT="Liberation Serif Bold" FONTSIZE="18" CH="La quête du treizième jour !"/>
+                <para PARENT="Sumario" ALIGN="1" LINESPMode="1"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="Selon les prédictions les plus probablement possibles, la fiabilité à 99% sur treize jours devrait être atteinte dans moins de 200 ans ! mais d'ici là on est quand meme sur des fiabilités supérieurs à 95% et entre nous, c'est déjà pas mal, ça n'a pas toujours été le cas... "/>
+                <ITEXT FONT="Liberation Serif Italic" FONTSIZE="11" CH="(SUITE PAGE 3)"/>
+                <trail PARENT="Cuerpo nota" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1580.97202797203" YPOS="1042.84004184792" OwnPage="0" ItemID="1408354682" PTYPE="4" WIDTH="245.162460216949" HEIGHT="52.1612179946019" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.162 0 L245.162 52.1612 L0 52.1612 L0 0 Z" copath="M0 0 L245.162 0 L245.162 52.1612 L0 52.1612 L0 0 Z" gXpos="1580.97202797203" gYpos="1042.84004184792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="Piscolabis Regular" FONTSIZE="51" CH="Abonnez-vous !"/>
+                <para PARENT="Cabeza 1" ALIGN="1" LINESPMode="0" LINESP="36"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1586.4759649799" YPOS="1102.21012058808" OwnPage="0" ItemID="1409043802" PTYPE="4" WIDTH="237.404834535542" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L237.405 0 L237.405 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L237.405 0 L237.405 53.6888 L0 53.6888 L0 0 Z" gXpos="1586.4759649799" gYpos="1102.21012058808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="TeX Gyre Schola Math Regular" FONTSIZE="16" CH="En lisant ce texte à voix haute à proximité d'un Voxy ou de n'importe quel DCVP :"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="18"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1582.80667364132" YPOS="1166.16287649359" OwnPage="0" ItemID="1408427514" PTYPE="4" WIDTH="245.162460216949" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.162 0 L245.162 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L245.162 0 L245.162 53.6888 L0 53.6888 L0 0 Z" gXpos="1582.80667364132" gYpos="1166.16287649359" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="Bitstream Vera Sans Bold" FONTSIZE="16" FEATURES="inherit underlinewords" BGCOLOR="None" CH="TRIVO DUBRI LATU 45 09"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1590.14525631848" YPOS="1197.82429381642" OwnPage="0" ItemID="1409461066" PTYPE="4" WIDTH="229.808270469689" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L229.808 0 L229.808 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L229.808 0 L229.808 53.6888 L0 53.6888 L0 0 Z" gXpos="1590.14525631848" gYpos="1197.82429381642" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="TeX Gyre Schola Math Regular" FONTSIZE="7" CH="Conditions d'utilisation : Lire ce texte à voix haute vous engage contractuellement à un abonnement à vie uniquement révocable sous condition de cause amenant des conséquences importante pour les deux parties concernées par les présentes mentions évoquées explicitement ou implicitement dans le présent contrat."/>
+                <trail ALIGN="3" LINESPMode="0" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1050.8979020979" YPOS="200.576675293211" OwnPage="0" ItemID="1409435530" PTYPE="4" WIDTH="233.018181818181" HEIGHT="53.1855624690269" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L233.018 0 L233.018 53.1856 L0 53.1856 L0 0 Z" copath="M0 0 L233.018 0 L233.018 53.1856 L0 53.1856 L0 0 Z" gXpos="1050.8979020979" gYpos="200.576675293211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="13" CH="Le meilleur des journals !"/>
+                <trail PARENT="Sumario" ALIGN="0" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.300699300699" YPOS="132.867401574803" OwnPage="0" ItemID="1409853674" PTYPE="4" WIDTH="776.833788888278" HEIGHT="371.41931171191" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="19.8425196850394" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L776.834 0 L776.834 371.419 L0 371.419 L0 0 Z" copath="M0 0 L776.834 0 L776.834 371.419 L0 371.419 L0 0 Z" gXpos="159.3006993007" gYpos="132.867401574803" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="11"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Que ce soit dans l'espace privé,dans l'espace semi-public ou dans l'espace full-public ou même dans les tiers-espaces, les lois générales interdisaient formellement toute publicité pour un produit jetable c'est à dire selon la définition en vigueur : &quot;Un produit que l'on peut jeter dans une poubelle alors qu'on en a encore besoin mais qu'on se dit que là ce serait bien d'en acheter un autre et de se débarasser de celui-ci&quot;. Cependant, en vue des évennements en cours actuellement à l'heure où je vous parle, il était évident que pour un certain type d'objet en particulier cette loi commençait à poser problème... L'objet dont je parle vous avez deviné duquel il s'agît si vous avez lu le titre de l'article. Je veux bien sûr parler des gants ! Ces petites chausettes que l'on met sur les mains pour les &quot;habiller&quot; comme disent les jeunes. D'ailleurs les jeunes tant que j'y pense : c'est toujours les jeunes qui se plaignent quand on ré-authorise un truc qui était interdit mais en même temps c'est les mêmes qui se plaignent que tel truc ou tel autre truc était interdit. Moi quand j'étais jeune je faisait ce qui était authorisé et point barre. Mais enfin revenons à notre sujet principal : Les gants. Car notre sujet aujourd'hui c'est bien les gants. Et en particulier, les gants jetables..."/>
+                <para PARENT="Cuerpo nota"/>
+                <para PARENT="Cuerpo nota" LINESPMode="1"/>
+                <ITEXT FONT="Liberation Serif Bold" FONTSIZE="18" CH="«Une mesure nécessaire» selon la personne en charge "/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Des gants aujourd'hui on ne voit que ça, mais le plus frappant c'est que les gens en achètent sans même qu'on leur fasse la publicité pour en acheter. Alors pourquoi faire une publicité ? C'est la question que nous avons posé à une personne en charge de décider des lois générales. Voici sa réponse : «Si on interdit la publicité pour un truc que tout le monde achète ça veut dire que si on authorisait la publicité ça changerait rien car déjà tout le monde l'achète, alors pourquoi pas l'authoriser comme ça, ça change rien, comme ça on a moins de lois. Et qui dis moins de lois dit un code juridique général plus simple, et qui dit un code jurique général plus simple dit plus facile à comprendre, et qui dit plus facile à comprendre dit plus facile à respecter à la lettre, donc moins de délinquance, donc moins de personne dans les prisons, donc moins d'argent publique dépensé pour les prisons, donc plus d'argent pour les autres postes de dépense comme par exemple l'orga de la fête nationale mensuelle»."/>
+                <para PARENT="Cuerpo nota"/>
+                <para PARENT="Cuerpo nota"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Voilà sa réponse. Convaincant ? pas convaincant ? à chacune de se faire son opinion, nous ne sommes pas un journal d'opinion (mais moi je trouve que c'est un peu limite comme argumentair...). Enfin bon, c'est déjà la fin de cet article, j'éspère qu'il vous a beaucoup plu, en tout cas moi j'ai bien aimé l'écrire c'était DI-VER-TI-SSANT ! comme disent les jeunes !!!"/>
+                <trail PARENT="Cuerpo nota"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="158.972027972028" YPOS="101.178624525088" OwnPage="0" ItemID="1409864474" PTYPE="4" WIDTH="779.545454545454" HEIGHT="83.661417322828" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L779.545 0 L779.545 83.6614 L0 83.6614 L0 0 Z" copath="M0 0 L779.545 0 L779.545 83.6614 L0 83.6614 L0 0 Z" gXpos="158.97202797203" gYpos="101.178624525088" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="22" CH="Les publicités pour les gants jetables de nouveau authorisées "/>
+                <trail PARENT="Cabeza 1" ALIGN="1" LINESPMode="0" LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="409.883156213865" YPOS="907.666813501466" OwnPage="0" ItemID="1409859050" PTYPE="4" WIDTH="523.965034965035" HEIGHT="83.661417322828" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L523.965 0 L523.965 83.6614 L0 83.6614 L0 0 Z" copath="M0 0 L523.965 0 L523.965 83.6614 L0 83.6614 L0 0 Z" gXpos="409.883156213867" gYpos="907.666813501466" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT FONT="Shrikhand Regular" FONTSIZE="54" CH="Petites annonces"/>
+                <trail PARENT="Cabeza 1" ALIGN="1" LINESPMode="0" LINESP="36"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="416.47902097902" YPOS="977.13905511811" OwnPage="0" ItemID="1413474778" PTYPE="6" WIDTH="246.632867132867" HEIGHT="284.090160233468" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.7007874015748" PCOLOR2="Black" PLINEART="1" path="M0 0 L246.633 0 L246.633 284.09 L0 284.09 L0 0 Z" copath="M0 0 L246.633 0 L246.633 284.09 L0 284.09 L0 0 Z" gXpos="416.47902097902" gYpos="977.13905511811" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="417.214224436979" YPOS="983.84004184792" OwnPage="0" ItemID="1413428570" PTYPE="4" WIDTH="245.162460216949" HEIGHT="52.1612179946019" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.162 0 L245.162 52.1612 L0 52.1612 L0 0 Z" copath="M0 0 L245.162 0 L245.162 52.1612 L0 52.1612 L0 0 Z" gXpos="417.214224436979" gYpos="983.84004184792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="Piscolabis Regular" FONTSIZE="33" CH="Votre petite annonce ici"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="421.093037277682" YPOS="1019.21012058808" OwnPage="0" ItemID="1413447210" PTYPE="4" WIDTH="237.404834535542" HEIGHT="147.496173118214" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L237.405 0 L237.405 147.496 L0 147.496 L0 0 Z" copath="M0 0 L237.405 0 L237.405 147.496 L0 147.496 L0 0 Z" gXpos="421.093037277683" gYpos="1019.21012058808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="TeX Gyre Schola Math Regular" FONTSIZE="16" CH="Pour que votre petite annonce soit publiée ici, soyez la première à vous manifester en lisant ce texte à voix haute suivi du texte de votre petite annonce (80 mots max) à proximité d'un Voxy ou de n'importe quel DCVP :"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="18"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="417.214224436979" YPOS="1168.16287649359" OwnPage="0" ItemID="1413477754" PTYPE="4" WIDTH="245.162460216949" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.162 0 L245.162 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L245.162 0 L245.162 53.6888 L0 53.6888 L0 0 Z" gXpos="417.214224436979" gYpos="1168.16287649359" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="Bitstream Vera Sans Bold" FONTSIZE="16" FEATURES="inherit underlinewords" BGCOLOR="None" CH="TRIVO DOTRO LUPU 32 11"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.891319310609" YPOS="1199.82429381642" OwnPage="0" ItemID="1413500346" PTYPE="4" WIDTH="229.808270469689" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L229.808 0 L229.808 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L229.808 0 L229.808 53.6888 L0 53.6888 L0 0 Z" gXpos="424.891319310609" gYpos="1199.82429381642" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="TeX Gyre Schola Math Regular" FONTSIZE="7" CH="Conditions d'utilisation : Lire ce texte à voix haute vous engage contractuellement à un paiement immédiat uniquement révocable sous condition de cause amenant des conséquences importante pour les deux parties concernés par les présentes mentions évoquées explicitement ou implicitement dans le présent contrat."/>
+                <trail ALIGN="3" LINESPMode="0" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="679.47902097902" YPOS="977.13905511811" OwnPage="0" ItemID="1413489850" PTYPE="6" WIDTH="246.632867132867" HEIGHT="284.090160233468" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.7007874015748" PCOLOR2="Black" PLINEART="1" path="M0 0 L246.633 0 L246.633 284.09 L0 284.09 L0 0 Z" copath="M0 0 L246.633 0 L246.633 284.09 L0 284.09 L0 0 Z" gXpos="679.47902097902" gYpos="977.13905511811" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="680.214224436979" YPOS="983.84004184792" OwnPage="0" ItemID="1413480922" PTYPE="4" WIDTH="245.162460216949" HEIGHT="52.1612179946019" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.162 0 L245.162 52.1612 L0 52.1612 L0 0 Z" copath="M0 0 L245.162 0 L245.162 52.1612 L0 52.1612 L0 0 Z" gXpos="680.214224436979" gYpos="983.84004184792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="Piscolabis Regular" FONTSIZE="33" CH="Votre petite annonce ici"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="684.093037277682" YPOS="1019.21012058808" OwnPage="0" ItemID="1413722954" PTYPE="4" WIDTH="237.404834535542" HEIGHT="147.496173118214" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L237.405 0 L237.405 147.496 L0 147.496 L0 0 Z" copath="M0 0 L237.405 0 L237.405 147.496 L0 147.496 L0 0 Z" gXpos="684.093037277683" gYpos="1019.21012058808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="TeX Gyre Schola Math Regular" FONTSIZE="16" CH="Pour que votre petite annonce soit publiée ici, soyez la première à vous manifester en lisant ce texte à voix haute suivi du texte de votre petite annonce (80 mots max) à proximité d'un Voxy ou de n'importe quel DCVP :"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="18"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="680.214224436979" YPOS="1168.16287649359" OwnPage="0" ItemID="1413641066" PTYPE="4" WIDTH="245.162460216949" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.162 0 L245.162 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L245.162 0 L245.162 53.6888 L0 53.6888 L0 0 Z" gXpos="680.214224436979" gYpos="1168.16287649359" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="Bitstream Vera Sans Bold" FONTSIZE="16" FEATURES="inherit underlinewords" BGCOLOR="None" CH="TRIVO DOTRO LUPU 32 12"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="687.891319310609" YPOS="1199.82429381642" OwnPage="0" ItemID="1413889322" PTYPE="4" WIDTH="229.808270469689" HEIGHT="53.6887770497201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L229.808 0 L229.808 53.6888 L0 53.6888 L0 0 Z" copath="M0 0 L229.808 0 L229.808 53.6888 L0 53.6888 L0 0 Z" gXpos="687.891319310609" gYpos="1199.82429381642" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="3" LINESP="16" FONT="Piscolabis Regular" FONTSIZE="38"/>
+                <ITEXT FONT="TeX Gyre Schola Math Regular" FONTSIZE="7" CH="Conditions d'utilisation : Lire ce texte à voix haute vous engage contractuellement à un paiement immédiat uniquement révocable sous condition de cause amenant des conséquences importante pour les deux parties concernés par les présentes mentions évoquées explicitement ou implicitement dans le présent contrat."/>
+                <trail ALIGN="3" LINESPMode="0" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="425.13286713287" YPOS="650.517482517482" OwnPage="0" ItemID="1413933562" PTYPE="2" WIDTH="243.971398050767" HEIGHT="241.041517537581" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" SHADE="50" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.875256" LOCALSCY="0.875256" LOCALX="3.48154607850525" LOCALY="-0.459887947114182" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="journal/img1.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L243.971 0 L243.971 241.042 L0 241.042 L0 0 Z" copath="M0 0 L243.971 0 L243.971 241.042 L0 241.042 L0 0 Z" gXpos="425.13286713287" gYpos="650.517482517482" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="158.972027972028" YPOS="530.674687517214" OwnPage="0" ItemID="1413936410" PTYPE="4" WIDTH="504.090279169651" HEIGHT="71.9551236165337" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L504.09 0 L504.09 71.9551 L0 71.9551 L0 0 Z" copath="M0 0 L504.09 0 L504.09 71.9551 L0 71.9551 L0 0 Z" gXpos="158.97202797203" gYpos="530.674687517214" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Serif Bold" FONTSIZE="23" CH="L'image du jour : On sait de nouveau à quoi ressemble la terre vue de l'espace"/>
+                <trail PARENT="Cabeza 1" ALIGN="1" LINESPMode="0" LINESP="29"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.300699300699" YPOS="596.139860139859" OwnPage="0" ItemID="1414036346" PTYPE="4" WIDTH="776.833788888278" HEIGHT="293.146853146853" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="19.8425196850394" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L776.834 0 L776.834 293.147 L0 293.147 L0 0 Z" copath="M0 0 L776.834 0 L776.834 293.147 L0 293.147 L0 0 Z" gXpos="159.3006993007" gYpos="596.13986013986" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="11"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="On le savait déjà à quoi elle ressemblait il y a longtemps à l'époque où on envoyait des personnes et des appareils photo dans l'espace, et puis les photos avaient toutes étaits perdues et on avait grossomodo oublié a quoi ressemblait notre belle planète. Et voilà que grace au projet très ambitieux du Centre Planétaire de Recherche et d'Imagerie Scientifique et Méthodique non Représentatif (CPRISMR) on a enfin une photo ! Enfin c'est pas vraiment une &quot;photo&quot; dans le sens où on l'entend mais on va dire photo en vrai c'est quasiment pareil qu'une photo c'est une image et ça décrit la réalité de à quoi ressemble la terre notre planète. Surpris de à quoi elle ressemble ? pas vraiment nous disent les scientifique du CPRISMR : &quot;On s'attendait grossomodo à ça, peut-être avec moins de nuages mais grossomodo c'est ça oui.&quot; Merci les scientifiques !!!!"/>
+                <trail PARENT="Cuerpo nota"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="696.133968393813" YPOS="528.840041847923" OwnPage="0" ItemID="1414013706" PTYPE="4" WIDTH="231.419580419579" HEIGHT="131.374704036114" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L231.42 0 L231.42 131.375 L0 131.375 L0 0 Z" copath="M0 0 L231.42 0 L231.42 131.375 L0 131.375 L0 0 Z" gXpos="696.133968393815" gYpos="528.840041847923" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Built Titling Bold" FONTSIZE="19" CH="Le conseil lecture de Chapolion"/>
+                <trail PARENT="Cabeza 1" ALIGN="1" LINESPMode="0" LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="698.119982379826" YPOS="633.525081218002" OwnPage="0" ItemID="1414977834" PTYPE="4" WIDTH="227.447552447552" HEIGHT="252.480755465" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.448 0 L227.448 252.481 L0 252.481 L0 0 Z" copath="M0 0 L227.448 0 L227.448 252.481 L0 252.481 L0 0 Z" gXpos="698.119982379828" gYpos="633.525081218002" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="16" CH="Aujourd'hui pour le conseil lecture je vous conseil de lire Le Journal ! c'est de la lecture saine et variée et garantie sans animatexte !"/>
+                <para PARENT="Cabeza 1" ALIGN="3" LINESPMode="0" LINESP="20"/>
+                <ITEXT CH="***"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Tous les jours en vente chez votre laverie ou dans votre boite-à-boite si vous êtes l'heureuse détentrice d'un abonnement !"/>
+                <para ALIGN="3"/>
+                <ITEXT CH="***"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="En plus ça tombe bien, vous êtes déjà en train de le lire ! C'est tout vu, continuez comme ça et surtout ne changez rien !"/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="748.369087605311" YPOS="556.840317163151" OwnPage="0" ItemID="1414295690" PTYPE="2" WIDTH="126.949341996583" HEIGHT="66.9404702384238" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="50" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.066873596641782" LOCALSCY="0.066873596641782" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="journal/img2.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L126.949 0 L126.949 66.9405 L0 66.9405 L0 0 Z" copath="M0 0 L126.949 0 L126.949 66.9405 L0 66.9405 L0 0 Z" gXpos="748.369087605311" gYpos="556.840317163151" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="153.302736633445" YPOS="908.674687517214" OwnPage="0" ItemID="1414290474" PTYPE="4" WIDTH="253.969519299598" HEIGHT="113.423214580688" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L253.97 0 L253.97 113.423 L0 113.423 L0 0 Z" copath="M0 0 L253.97 0 L253.97 113.423 L0 113.423 L0 0 Z" gXpos="153.302736633447" gYpos="908.674687517214" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT FONT="Liberation Serif Bold" FONTSIZE="25" CH="«Quelle heure est-il ?» Une question tout sauf innocente. Enquête."/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="154.969990639282" YPOS="980.13986013986" OwnPage="0" ItemID="1415144250" PTYPE="4" WIDTH="238.466022796102" HEIGHT="293.146853146853" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="19.8425196850394" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L238.466 0 L238.466 293.147 L0 293.147 L0 0 Z" copath="M0 0 L238.466 0 L238.466 293.147 L0 293.147 L0 0 Z" gXpos="154.969990639283" gYpos="980.13986013986" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="11"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="15" CH="Vos arrières-arrières-grands-parents vous le diront : à leur époque demander l'heure était très tabou voir totalement interdit par la morale. L'heure devait être connue de toutes et si on avait un doute on ne demandait surtout pas autour de soi, on allait au bureau de l'heure pour se renseigner. Mais depuis les années 40 avant la nouvelle aire, demander l'heure est redevenue normal. Cependant dans certains milieux c'est encore vu de manière chelou, nous avons infiltré ces milieux pour en savoir plus. Résultat de l'enquête : il semblerait que dans ce milieu ce serait tout simplement mal vu de se parler tout court, demander l'heure ou demander la date, aucune difference, vous serez regardé chelou..."/>
+                <trail PARENT="Cuerpo nota"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
