@@ -113,12 +113,13 @@ type: rouleau-titre
 - Cie Titanos
 - Arnaud Vidal
 
-#### Logiciels libres
-
-Git / GIMP / Inkscape / LibreCAD / Scribus
-
+<dl>
 <dt>Fournisseurs</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon</dd>
 </dl>
+
+#### Logiciels libres
+
+- Git / GIMP / Inkscape / LibreCAD / Scribus
 
 #### Musique additionnelle
 
