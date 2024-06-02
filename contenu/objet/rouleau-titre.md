@@ -16,7 +16,7 @@ type: rouleau-titre
 
 ## Une période heureuse<small>les gens étaient heureux même dans les files d'attente</small>
 
-## Le jour où la lune<br/>s’est écrasée sur terre
+## Le jour où la Lune<br/>s’est écrasée sur Terre
 
 ## Le bon sens
 
@@ -63,7 +63,7 @@ type: rouleau-titre
 </dl>
 
 <dl>
-<dt>Regard extérieur</dt><dd>Laurent Cabrol<br/>Daisy Dominati</dd>
+<dt>Regard extérieur</dt><dd>Laurent Cabrol<br/>Daisy Domino</dd>
 </dl>
 
 <dl>
@@ -101,11 +101,11 @@ type: rouleau-titre
 - Florence Laffitte
 - Zou Lenclos
 - Thomas Letellier
-- Frederic Lombardo
+- Frédéric Lombardo
 - Francis Lopez
 - Anna Mano
 - Juan P. Martínez Pastor
-- Les Pasticiens Volants
+- Les Plasticiens Volants
 - Marc Reynaud
 - Evelyne Salançon
 - Virginie Talou
@@ -113,8 +113,10 @@ type: rouleau-titre
 - Cie Titanos
 - Arnaud Vidal
 
-<dl>
-<dt>Logiciel libre</dt><dd>Git<br/>Inkscape<br/>LibreCAD</dd>
+#### Logiciels libres
+
+Git / GIMP / Inkscape / LibreCAD / Scribus
+
 <dt>Fournisseurs</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon</dd>
 </dl>
 
