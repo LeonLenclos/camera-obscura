@@ -1,6 +1,4 @@
 
-
-
 ## Optiques, objectifs, prismes, verre
 
 - [Camley - UK](www.camleyphotographic.com/)

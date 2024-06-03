@@ -1,5 +1,4 @@
-## Intruments de musique et bruitage
-
+## Instruments de musique et bruitage
 
 - Guitare en open tuning Cm avec bottle neck
 - Harmonium (standard mini Bhava) modifié pour pouvoir jouer le soufflet au pied.
@@ -23,6 +22,10 @@
 - Papier (journal, livre)
 - Boite à café (moteur)
 - Bocal en verre (toc-toc vitre)
+- Ocean Drum
+- Machine à vent
+- Machine à pluie
+
 
 ### Baguettes
 
@@ -31,11 +34,9 @@
 - Baguettes de cymbalum sans le coton
 - Baquette de batterie
 
-
 ### à trouver
 
-- Ocean Drum
-- Tambour tournant : effet pluie, effet vent, effet moteur, effet rythmique, effet applaudissement
+- Machine à  applaudissement
 - Tube Ambiance exterieur ?
 - Machine à touiller
 - Machine à bulles
@@ -47,6 +48,7 @@
 On a retapé un gramophone HMV 102.
 
 On joue dessus des 78 tours. C'est des disques en shellac. Malheureusement on ne sais pas en graver.
+
 Liens au sujet des aiguilles :
 - [https://forum.retrotechnique.org/t/aiguille-gramophone/24555]
 - [http://collection-frioud.ch/view.php?E=36&P=1879#]
@@ -54,6 +56,9 @@ Liens au sujet des aiguilles :
 ### Disques joués
 
 - *Marina*, Georges Briez ([écouter sur archive.org)[https://archive.org/details/78_marina_georges-briez-et-son-orchestre-georges-briez_gbia0435352a])
+
+### Disques abandonnés
+
 - Sonate Pathétique N°8 op.13, 1e mv. 1e pt., Beethoven
-- Sonate Pathétique N°8 op.13, 3e mv. 1e pt., Beethoven (qu'on utilise juste pour le son craquement du début)
+- Sonate Pathétique N°8 op.13, 3e mv. 1e pt., Beethoven (qu'on utilisait juste pour le son craquement du début)
 

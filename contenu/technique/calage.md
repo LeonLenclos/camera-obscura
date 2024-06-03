@@ -4,16 +4,14 @@
 
 - Les dimensions limitées de la remorque nous imposent un léger gradinage (20 cm par rang) et une rétroprojection. C'est avec cette configuration que nous obtenons le meilleur confort de vision pour une taille de remorque raisonnable.
 - La régie : Nous voulons un espace de jeu d'1,4 m dans la remorque à l'arrière de l'écran.
-- Nous visons une taille d’image de 1,80 m × 1,31 m (format 1,37) sans trop de vignettage.
-
-### Choix des objectifs
-
-- Nous aimerions utiliser plusieurs objectifs avec des focales différentes et des renvois d’angle, et alterner leur usage avec un système de caches manuels afin de reproduire l’illusion d’un montage type cinéma où plusieurs plans différents s’enchaînent.
-- Nous sommes encore à la recherche de lentilles parfaitement adaptées à notre usage.
+- Nous voulons une taille d’image de 1,80 m × 1,31 m (format 1,37) sans trop de vignettage.
+- Nous voulons utiliser plusieurs objectifs avec des focales différentes et des renvois d’angle, et alterner leur usage avec un système d'obturateurs manuels afin de reproduire l’illusion d’un montage type cinéma où plusieurs plans différents s’enchaînent.
 
 ### liste des objectifs et lentilles mis en oeuvre dans les essais :
 
-Objectifs et lentilles :
+Nous sommes encore à la recherche de lentilles parfaitement adaptées à notre usage.
+
+Objectifs et lentilles essayées et abandonnés :
 
 - Process lens Fax Rokkor 150mm F4.5 : **Champs trop limité par le fût**
 - Process lens Zeiss S-tessar 300 mm f5,6 : **Champs trop limité par le fût**
@@ -24,17 +22,18 @@ Objectifs et lentilles :
 - Lentilles brut d'opticien ø60 - 2000mm / 1500 mm / 1000 mm / 750 mm : **Très bon résultats, mais pas assez lumineux**
 - Doublet achromatique ø154 - 2250 mm : **Trop d'abérations sur les bords**
 
-À tester :
+Meilleur résultat obtenu avec :
 
-- Lentilles brut d'opticien ø80 - 2000mm / 1000 mm / 750 mm / 660 mm
+- Lentilles brut d'opticien ø80 - 2000mm / 1000mm / 750mm / 660mm : **Très satisfaisant mais si on trouvait plus lumineux ce serait cool**
+
+Lentilles en notre possession pas encore essayées :
+
 - Doublet achromatique ø154 - 750 mm
+- Lentilles "Full field diopters" (cinéma) ø138 - 2000mm / 1000mm / 500mm
 
-À trouver :
+Solutions envisagées mais pas encore essayées :
 
-- Lentille ménisque ø154 - 2000mm / 1000 mm / 660 mm
-
-Évoqué :
-
+- Fabrication sur mesure de Lentilles ménisque ø154 - 2000mm / 1000 mm / 660 mm
 - Fabrication de lentilles "maison" à partir de verres bombés d'horloges.
 
 ### Réglage de la mise au point
@@ -45,7 +44,7 @@ Nous changeons de focale (changement d'objectif) pour changer radicalement la mi
 
 Nous déplacons la planchette (l'objectif) sur son axe pour un réglage plus fin de la mise au point. Ce mouvement est possible grace à l'utilisation d'un [soufflet](soufflet.md) d'un débatement de 40 cm.
 
-Ces deux réglages (selection de l'objectif et translation de la planchette) devront  être commandé depuis la régie.
+Ces deux réglages (selection de l'objectif et translation de la planchette) sont commandés depuis la régie.
 
 Les diagrammes suivants montrent la distance de mise au point en fonction de la distance de tirage pour les trois focales utilisées :
 
@@ -55,25 +54,30 @@ Les diagrammes suivants montrent la distance de mise au point en fonction de la 
 
 ### Angle de champ
 
+
 Pour des raisons pratiques et artistiques nous avons fixé l’angle de champ horizontal à ~45°, ce qui correspond à un tirage de ~2,2 m pour notre écran de 1,8 m.
 
-Contre-intuitivement, le changement de focale n'affecte pas l'angle de champ si le tirage reste le même.
+Cet angle (~45°) correspond à un objectif de 35mm en photo (format 24x36) et à un objectif de 24mm en cinéma (format 35mm).
 
-Cet angle correspond à un objectif de 35mm en photo (format 24x36) et à un objectif de 24mm en cinéma (format 35mm)
+Contre-intuitivement, le changement de focale n'affecte pas l'angle de champ si le tirage reste le même. L'angle de champ ne dépend que du tirage (distance lentille-écran).
+
+Lorsque l'on déplace la planchette (translation) pour faire la mise au point, l'angle de champs varie (de +/- 3°) ce qui donne un effet *zoom*.
+
+On a pris l'habitude de parler de l'angle entre la gauche et la droite de l'image (horizontal). Plus tard lors de discussions avec des opticiens on a compris qu'il pouvait être plus pertinent de parler de l'angle diagonal. Avec notre ratio d'image (1:1,37) un angle horizontal de ~45° correspond à un angle diagonal de ~55°.
 
 ### Valeur de plan
 
 L'option choisie pour obtenir differentes valeurs de plan est de maintenir un tirage constant et de changer la focale.
 
-Avec une focale égale à la distance de tirage on aura le point à l'infini et donc un plan large.
+Avec une focale égale à la distance de tirage, on aura le point à l'infini et donc un plan large.
 
-Avec une plus courte focale, l'angle ne change pas mais la distance de mise au point diminue et un personnage pourra par exemple apparaître en gros plan.
+Avec une focale plus courte, l'angle ne change pas mais la distance de mise au point diminue et un personnage pourra par exemple apparaître en gros plan.
 
 Contre-intuitivement, les longues focales nous permetteront de faire les plans larges et les courtes focales, les plans serrés.
 
 ### Dynamiques
 
-Avec une focale fixe
+Avec une focale fixe, comment differentes valeurs changent si l'on change la distance lentille-écran.
 
 Distance lentille-écran          | ↗ | ↘ |
 ---------------------------------|---|---|
@@ -84,7 +88,7 @@ Distance objet-écran avec f≲1000 | ↗ | ↘ |
 Grandissement objet net          | ↗ | ↘ |
 Grandissement objet fixe         | ↗ | ↘ |
 
-Avec une distance lentille-écran fixe
+Avec une distance lentille-écran fixe, comment differentes valeurs changent si l'on change la focale.
 
 Focale                           | ↗ | ↘ |
 ---------------------------------|---|---|
@@ -97,7 +101,7 @@ Grandissement objet net          | ↘ | ↗ |
 Grandissement objet fixe         | = | = |
 Angle de champ                   | = | = |
 
-### Résumé et formules
+### Valeurs et formules
 
 Valeurs :
 
@@ -106,6 +110,7 @@ Valeurs :
 - Distance lentille-écran (tirage) : 2,15 m
 
 Formules :
+
 - Relation de conjugaison : `1/2,15 + 1/d = 1/f`
 - Distance objet en fonction de la largeur objet : `d ≈ l/(2*tan(22.5)) ≈ l/0.83`
 - Focale en fonction de la distance objet : `f ≈ 1/(1/2,15 - 1/d) ≈ 1/(0.47-1/d)`

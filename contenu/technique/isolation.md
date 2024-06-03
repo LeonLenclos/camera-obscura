@@ -21,13 +21,15 @@ Camera Obscura est un spectacle de rue, diffusé en été, et nécessitant une b
 
 ## En détail
 
-### Traitement de surface de la remorque
+### Surface de la remorque
 
-Application d'un peinture ou pose d'un revètement antichaleur sur la remorque pour limiter le rayonnement solaire (peinture bi-composant spécifique, matiériau collé type couverture de survie ?).
+La remorque est majoritairement blanche pour refleter un maximum du rayonnement solair.
 
 ### Isolation thermique
 
-Utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Les contraintes de dimension (largeur) et de jauge (24 spectateurs) nous imposent une épaisseur d’isolant très réduite. Épaisseur max envisagée : 100 mm.
+Utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Les contraintes de dimension (largeur) et de jauge (24 spectateurs) nous imposent une épaisseur d’isolant très réduite.
+
+Épaisseur de l'isolant : 100 mm.
 
 
 #### Sandwich
@@ -47,8 +49,12 @@ Pour le faux plafond
 
 | materiaux | épaisseur | rôle | lien |
 |-----------|-----------|------|--|
+| Tôle alu laquée           | 1.5mm | Finition + Rigide + Réflecteur | [lien](https://e-steel.arcelormittal.com/FR/fr/Aluminium/T%C3%B4le-Aluminium/T%C3%B4le-aluminium-laqu%C3%A9e/T%C3%B4le-aluminium
+| Panneau coton METISSE | 100mm  | Isolant | [lien](https://www.eco-logis.com/boutique/isolation/laine-coton-panneaux/?attribute_conditionnement=BUITEX) |
 | Protecflam HDF | 2,5mm  | Rigide |[lien](https://protecflam.fr/fibroflam-panneaux-ignifuges/73-fibroflam-igni-m-protection-ignifuges-hdf.html) |
-| kalmut  | 2mm | Finition | [lien](https://www.azur-scenic.com/produit/kalmuk/) |
+| Air            | 100mm ? | Aération | |
+| Protecflam HDF | 2,5mm  | Rigide |[lien](https://protecflam.fr/fibroflam-panneaux-ignifuges/73-fibroflam-igni-m-protection-ignifuges-hdf.html) |
+| Peinture noire  | | Finition | |
 
 
 Pour l'isolation du sol
@@ -70,7 +76,7 @@ Bouches :
 - Bouche d'aeration de l'interieur à sous les gradins
 - Bouche d'aération de sous les gradins à sous la remorque
 
-Verre :
+Vitres :
 
 - 10 hublots (2 vitres de 4mm par hublot)
 - Vitre de projection  (6mm)
@@ -84,15 +90,15 @@ Portes :
 
 ### Renouvellement de l’air
 
-Mise en place d'un système de renouvellement de l’air à l’intérieur de la remorque. Nous imaginons un système d'extraction d'air composé d'un faux-plafond équipé de bouches d'aération qui débouchent sur l'extérieur, à l'arrière de la remorque.
+Mise en place d'un système de renouvellement de l’air à l’intérieur de la remorque. Système d'extraction d'air composé d'un faux-plafond équipé de bouches d'aération qui débouchent sur l'extérieur, à l'arrière de la remorque.
 
-L'arrivée d'air se ferait par le sol à travers des bouches d'aération individuelles sous chaque siège.
+L'arrivée d'air se fait par le sol à travers des bouches d'aération individuelles sous chaque siège.
 
-Cette implantation permettrait une convection naturelle. Mais peut-être faut-il imaginer un ventilation mécanique pour forcer l'extraction et accélérer le renouvellement de l'air. L'hélice de l'extracteur pourrait être animée par un système de poids entrainant un engrenage et remonté entre chaque représentation. Un système de poulies peut permettre de démultiplier la longueur de corde.
+Cette implantation permet une convection naturelle. Mais peut-être faut-il imaginer un ventilation mécanique pour forcer l'extraction et accélérer le renouvellement de l'air. L'hélice de l'extracteur pourrait être animée par un système de poids entrainant un engrenage et remonté entre chaque représentation. Un système de poulies peut permettre de démultiplier la longueur de corde.
 
 ### Raffraichissement de l’air
 
-Installation de systèmes de rafraichissement d'air sur le trajet du flux. En s'inspirant des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide, imaginer des caissons de paille régulièrement humidifiés sur le chemin de l'air. Le plus simple semble être des caissons placés sous les sièges des spectateurs.
+Installation de systèmes de rafraichissement d'air sur le trajet du flux. En s'inspirant des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide, imaginer des caissons de paille régulièrement humidifiés sur le chemin de l'air.
 
 Voir : RAE, [rafraîchisseur d'air évaporatif (wikipedia)](https://fr.wikipedia.org/wiki/Refroidisseur_par_%C3%A9vaporation)
 

@@ -1,5 +1,12 @@
-**n.b. Ces abaques ont étés mesurés empiriquement avec la première série de process lens testée, à priori, ces objectifs ne seront pas utilisés dans la remorque.**
+**Ces abaques ont étés mesurés empiriquement avec la première série de process lens testée, à priori, ces objectifs ne seront pas utilisés dans la remorque.**
 
+En fait c'est drôle parce que à l'époque où on a fait ces abaques on avait vraiment zéro connaissance théorique. Un peu après on a appris l'existence de *la relation de conjugaison* :
+
+> l'inverse de la focale est égale à la somme des inverses des distances objet-lentille et image-lentille
+
+Et du coup ces données quand on les regarde aujourd'hui on peut voir qu'ils vérifient cette loi (de manière très approximative car on ne mesurait pas vraiment les distances au centre optique de la lentille). 
+
+## Les abaques
 
 Pour le Apo-Nikkor 610mm posé contre la vitre à l'intérieur de la CO
 

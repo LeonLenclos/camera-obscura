@@ -22,6 +22,6 @@ En outre, l’utilisation d’énergie électrique de source photovoltaïque ou 
 
 ### Low-tech et récupération
 
-Notre projet s’inscrit dans la continuité du travail de la Cie, où nous cherchons à utiliser des dispositifs simples et ancestraux sans renoncer aux imaginaires et aux formes que le progrès et la modernité à engendrés.
+Notre projet s’inscrit dans la continuité du travail de la Cie, où nous cherchons à utiliser des dispositifs simples et ancestraux sans renoncer aux imaginaires et aux formes que la modernité à engendrés.
 
 Aussi, il nous semble important de privilégier au maximum la récupération de matériaux et d’objets obsolètes pour leur redonner vie au travers d’une démarche artistique.
