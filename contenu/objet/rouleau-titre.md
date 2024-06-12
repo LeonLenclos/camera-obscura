@@ -95,7 +95,6 @@ type: rouleau-titre
 - Ronan Bouvier 
 - Joël Boya
 - CréaLab de Graulhet 
-- Jérémie Dain
 - Paco Labat
 - Florence Laffitte
 - Élise Lagalle
