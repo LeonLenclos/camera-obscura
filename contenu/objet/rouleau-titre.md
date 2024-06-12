@@ -74,10 +74,10 @@ type: rouleau-titre
 </dl>
 
 <dl>
+<dt>Couture</dt><dd>Éva Ricard</dd>
 <dt>Vitrerie</dt><dd>Jean-Claude Azemar</dd>
 <dt>Menuiserie</dt><dd>Laurent Fayard</dd>
 <dt>Peinture carrosserie</dt><dd>Didier Pons</dd>
-<dt>Couture</dt><dd>Éva Ricard</dd>
 <dt>Réflecteur</dt><dd>Marco Cohen</dd>
 </dl>
 
@@ -94,12 +94,11 @@ type: rouleau-titre
 - Sylvain Bahos
 - Ronan Bouvier 
 - Joël Boya
-- Élise Lagalle
 - CréaLab de Graulhet 
 - Jérémie Dain
 - Paco Labat
 - Florence Laffitte
-- Zou Lenclos
+- Élise Lagalle
 - Thomas Letellier
 - Frédéric Lombardo
 - Francis Lopez
@@ -112,9 +111,10 @@ type: rouleau-titre
 - Gérard Tayeb
 - Cie Titanos
 - Arnaud Vidal
+- Léa Zanotti
 
 <dl>
-<dt>Fournisseurs</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon</dd>
+<dt>Fournisseurs</dt><dd>Aquabrasion<br/>Capus<br/>Ferrières<br/>Schiavon<br/>Vieu</dd>
 </dl>
 
 #### Logiciels libres
