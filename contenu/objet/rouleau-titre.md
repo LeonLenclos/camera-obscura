@@ -54,7 +54,7 @@ type: rouleau-titre
 - Léon Lenclos
 
 <dl>
-<dt>Diffusion</dt><dd>Amparo Gallur</dd>
+<dt>Diffusion</dt><dd>Amparo Gallur Barabarroja</dd>
 </dl>
 
 <dl>
@@ -94,7 +94,7 @@ type: rouleau-titre
 - Sylvain Bahos
 - Ronan Bouvier 
 - Joël Boya
-- Elise de Couleurs Papilles
+- Élise Lagalle
 - CréaLab de Graulhet 
 - Jérémie Dain
 - Paco Labat
