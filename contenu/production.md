@@ -635,13 +635,13 @@ Achat :
 - [x] ★★★ aimant x 40 percé fraisé 2cm
 - [x] ★★★ Lame de scie ruban (HY-7305080144)
 - [x] ★★★ fil Alu 0,8mm
-- [ ] ★★★ velcro siège et mur
-- [ ] ★★★ rivets M5
+- [x] ★★★ velcro siège et mur
+- [x] ★★★ rivets M5
 
 Todo reportés de avant nimes
 
 - [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
-- [ ] ★★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
+- [ ] ★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
 - [X] ★★★ rangement des outils
 - [ ] ★★  finition : Caches dessous
 - [ ] ★★  finition : housses en skaï
@@ -649,7 +649,7 @@ Todo reportés de avant nimes
 - [ ] ★   finalisation fixation du cache avant
       
 Todo notés à Nimes Concernant les plaques
-- [ ] ★★★ **1H** *Podium* test collage réparation
+- [x] ★★★ **1H** *Podium* test collage réparation
 - [ ] ★★★ **1H** *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 - [ ] ★★ *Niveau de l'eau* Poignées poissons
@@ -675,17 +675,17 @@ Todo notés à Nimes Concernant les plaques
   - [x] *Période malheureuse* gauche + droit
 
 Divers
- - [ ] ★★★ **2H** SACD/SACEM 
+ - [ ] ★★ **2H** SACD/SACEM 
  - [ ] ★★★ **2H** Pesée
- - [ ] ★★★ **4H** passage au MINES
- - [ ] ★★★ **4H** Cabinet expert
- - [ ] ★★★ **4H** pompier
- - [ ] *** **4H** Isolation
+ - [ ] ★★ **4H** passage au MINES
+ - [ ] ★★ **4H** Cabinet expert
+ - [ ] ★★ **4H** pompier
+ - [ ] ** **4H** Isolation
 
 Reflecteur
- - [ ] ★★★ **2H** poser velcro
+ - [x] ★★★ **2H** poser velcro
  - [ ] ★★★ **4H** fabriquer tissus noir
- - [ ] ★★★ **1/2H** voir remplacer papillon par mieux
+ - [ ] ★★ **1/2H** voir remplacer papillon par mieux
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
@@ -697,9 +697,9 @@ Rail, Amici et planchette
 
 Régie
 
- - [ ] ★★★ **2H** cache régie (bas)
- - [ ] ★★★ **1H** revoir embouchure pavillon
- - [ ] ★★★ **2H** support tom tonerre, coquillages, clés etc...
+ - [ ] ★★ **2H** cache régie (bas)
+ - [ ] ★★ **1H** revoir embouchure pavillon
+ - [ ] ★★ **2H** support tom tonerre, coquillages, clés etc...
  - [ ] ★★★ **2H** SAS régie
  - [ ] ★★ porte guitare
  - [ ] ★★ raccourcir manivelle vent
@@ -713,16 +713,16 @@ Régie
  - [ ] ★ plaque orage
 
 New Plaques
- - [ ] ★★★ faire photo St Tropez et mode
- - [ ] ★★★ faire fichier film photos + journal pour print
- - [ ] ★★★ faire fichier générique def
+ - [x] ★★★ faire photo St Tropez et mode
+ - [x] ★★★ faire fichier film photos + journal pour print
+ - [x] ★★★ faire fichier générique
  - [ ] ★★★ **2H** monter plaque ST Tropez et mode
  - [ ] ★★★ **2H** monter plaque générique
 
 Fauteuil
- - [ ] ★★★ **8H** prépa fauteuil peinture
- - [ ] ★★★ **8H** peinture fauteuil
- - [ ] ★★★ **4H** prépa bois fauteuil
+
+ - [ ] ★★★ **4H** polissage fauteuil
+ - [x] ★★★ **4H** prépa bois fauteuil
  - [x] ★★ achat mousse fauteuil
  - [x] ★★ achat tissus fauteuil
  - [ ] ★ couture housse
@@ -740,17 +740,17 @@ Costume
 Etanchéité
 
  - [ ] ★★★ **2H** pose joint trappe et plaque arrière
- - [ ] ★★★ achat rivet M5
+ - [x] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
- - [ ] ★★★ **16H** remplacement rivet toit et avant
+ - [x] ★★★ **16H** remplacement rivet toit et avant
  - [ ] ★★ **16H** remplacement autres rivets
  - [ ] ★★ **2H** passe sica bas de caisse
  - [ ] ★★ poignée trappe
 
 Fermeture/huisserie
  - [ ] ★★★ **1H** verrou régie
- - [ ] ★★★ **4H** pose plexi hublot
- - [ ] ★★★ **4H** pose volets hublot
+ - [x] ★★★ **4H** pose plexi hublot
+ - [ ] ★★ **4H** pose volets hublot
  - [ ] ★★ groom x 4 ou poids
  - [ ] ★ cache arrière
  - [ ] ★ verrou ext trappes
@@ -758,16 +758,17 @@ Fermeture/huisserie
 Finition salle
  - [X] ★★★ pose plafond
  - [ ] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
- - [ ] ★★★ **2H** sortie secour
+ - [ ] ★★ **2H** sortie secour
  - [ ] ★★ pose tissus
  - [ ] ★ pose moquette
 
 acces public 
  - [X] ★★★ dessiner escalier
  - [X] ★★★ coupe alu escalier
- - [ ] ★★★ **2H** coupe Bois escalier
- - [ ] ★★★ **4H** montage escaliers
- - [ ] ★★ acces handicapés
+ - [x] ★★★ **2H** coupe Bois escalier
+ - [x] ★★★ **4H** montage escaliers
+ - [ ] ** Rampes escalier
+ - [ ] ★★ acces pmr
 
 clim
  - [ ] ★★ poignée caisses clim

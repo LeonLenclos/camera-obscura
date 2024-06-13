@@ -63,6 +63,14 @@ Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 ![Photo de l'intérieur de la remorque en chantier](photos/remorque-chantier-interieur-2.jpg)
 ![Photo de la structure de la remorque](photos/remorque-structure.jpg)
 
+## Affichage
+
+Notes sur :
+
+- Disques de vitesse : pas obligatoire pour nous mais on les met quand-même (Voir : [Arrêté](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000163897))
+- Signalisation position angles morts : pas obligatoire pour nous mais on met juste un message texte (Voir : [Arrêté](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042534807))
+- À porpos des plaques voir : [Arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042865682)
+
 
 ## Plans
 
