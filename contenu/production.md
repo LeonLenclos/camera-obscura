@@ -684,16 +684,17 @@ Divers
 
 Reflecteur
  - [x] ★★★ **2H** poser velcro
- - [ ] ★★★ **4H** fabriquer tissus noir
+ - [x] ★★★ **4H** fabriquer tissus noir
  - [ ] ★★ **1/2H** voir remplacer papillon par mieux
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
- - [ ] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
+ - [x] ★★★ **2H** faire 2 rails de 5m (3+2)  2 support bas de 5m (3+2)
+ - [ ] ★★★ **1H** Pose crochet rail 5m
  - [X] ★★★ rainure moyeux tourelle
- - [ ] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
+ - [x] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
  - [ ] ★★★ **1H** revoir 2 réglages
- - [ ] ★★★ **2H** remonter planchette / fabriquer cache
+ - [x] ★★★ **2H** remonter planchette / fabriquer cache
 
 Régie
 
@@ -717,7 +718,7 @@ New Plaques
  - [x] ★★★ faire fichier film photos + journal pour print
  - [x] ★★★ faire fichier générique
  - [ ] ★★★ **2H** monter plaque ST Tropez et mode
- - [ ] ★★★ **2H** monter plaque générique
+ - [x] ★★★ **2H** monter plaque générique
 
 Fauteuil
 
@@ -742,13 +743,13 @@ Etanchéité
  - [ ] ★★★ **2H** pose joint trappe et plaque arrière
  - [x] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
- - [x] ★★★ **16H** remplacement rivet toit et avant
- - [ ] ★★ **16H** remplacement autres rivets
+ - [x] ★★★ **32H** remplacement rivet toit et avant
+ - [ ] ★★ **1H** remplacement rivets arrière
  - [ ] ★★ **2H** passe sica bas de caisse
  - [ ] ★★ poignée trappe
 
 Fermeture/huisserie
- - [ ] ★★★ **1H** verrou régie
+ - [x] ★★★ **1H** verrou régie
  - [x] ★★★ **4H** pose plexi hublot
  - [ ] ★★ **4H** pose volets hublot
  - [ ] ★★ groom x 4 ou poids
@@ -757,7 +758,7 @@ Fermeture/huisserie
 
 Finition salle
  - [X] ★★★ pose plafond
- - [ ] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
+ - [x] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
  - [ ] ★★ **2H** sortie secour
  - [ ] ★★ pose tissus
  - [ ] ★ pose moquette
