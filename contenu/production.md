@@ -654,7 +654,7 @@ Todo notés à Nimes Concernant les plaques
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 - [ ] ★★ *Niveau de l'eau* Poignées poissons
 - [x] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
-- [ ] ★★ *Podium* dessiner et découpe laser Suite des marches (raccord + aimant)
+- [ ] ★★ *Podium* dessiner et dé<coupe laser Suite des marches (raccord + aimant)
 - [x] ★★ *Période malheureuse* poignée en plexi (4mm)
 - [x] ★★ *Période malheureuse* Vinyle (tout)
 - [ ] ★★ Bavettes transitions :
@@ -689,20 +689,21 @@ Reflecteur
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
+
  - [x] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
  - [x] ★★★ rainure moyeux tourelle
  - [x] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
- - [ ] ★★★ **1H** revoir 2 réglages
- - [ ] ★★★ **2H** remonter planchette / fabriquer cache
+ - [ ] ★★ **1H** revoir 2 réglages
+ - [x] ★★★ **2H** remonter planchette / fabriquer cache
 
 Régie
 
  - [ ] ★★ **2H** cache régie (bas)
- - [ ] ★★ **1H** revoir embouchure pavillon
- - [ ] ★★ **2H** support tom tonerre, coquillages, clés etc...
- - [ ] ★★★ **2H** SAS régie
- - [ ] ★★ porte guitare
- - [ ] ★★ raccourcir manivelle vent
+ - [x] ★★ **1H** revoir embouchure pavillon
+ - [x] ★★ **2H** support tom tonerre, coquillages, clés etc...
+ - [x] ★★★ **2H** SAS régie
+ - [x] ★★ porte guitare
+ - [x] ★★ raccourcir manivelle vent
  - [ ] ★★ connection audio extérieur
  - [ ] ★ diffusion arrière passer les PVC ?
  - [ ] ★ Couper verre (VITRE)
@@ -717,11 +718,11 @@ New Plaques
  - [x] ★★★ faire fichier film photos + journal pour print
  - [x] ★★★ faire fichier générique
  - [ ] ★★★ **2H** monter plaque photo
- - [ ] ★★★ **2H** monter plaque générique
+ - [x] ★★★ **2H** monter plaque générique
 
 Fauteuil
 
- - [ ] ★★★ **4H** polissage fauteuil
+ - [ ] ★★★ **1H** fin polissage fauteuil
  - [x] ★★★ **4H** prépa bois fauteuil
  - [x] ★★ achat mousse fauteuil
  - [x] ★★ achat tissus fauteuil
@@ -742,13 +743,13 @@ Etanchéité
  - [ ] ★★★ **2H** pose joint trappe et plaque arrière
  - [x] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
- - [x] ★★★ **16H** remplacement rivet toit et avant
- - [ ] ★★ **16H** remplacement autres rivets
+ - [x] ★★★ **32H** remplacement rivet toit et avant
+ - [ ] ★★ **1H** remplacement rivets arrière
  - [ ] ★★ **2H** passe sica bas de caisse
  - [ ] ★★ poignée trappe
 
 Fermeture/huisserie
- - [ ] ★★★ **1H** verrou régie
+ - [x] ★★★ **1H** verrou régie
  - [x] ★★★ **4H** pose plexi hublot
  - [ ] ★★ **4H** pose volets hublot
  - [ ] ★★ groom x 4 ou poids
@@ -756,6 +757,7 @@ Fermeture/huisserie
  - [ ] ★ verrou ext trappes
 
 Finition salle
+
  - [x] ★★★ pose plafond
  - [x] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
  - [ ] ★★ **2H** sortie secour
