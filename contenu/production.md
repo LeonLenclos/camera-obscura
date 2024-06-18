@@ -210,53 +210,53 @@ Musique additionnelle :
    
 
   - Lundi matin
-    - [X] Passage Fabien sur soudure et meulage
-    - [X] encadrement des portes (prépa)
-    - [X] prépa structure ecran
-    - [X] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [x] Passage Fabien sur soudure et meulage
+    - [x] encadrement des portes (prépa)
+    - [x] prépa structure ecran
+    - [x] Prépa renfort plancher gradins et toiture et renforts 1 (environ 22 renforts)
   
   - Lundi aprem
-    - [X] Prépa Manchons x 80
-    - [X] Soudure  renforts
+    - [x] Prépa Manchons x 80
+    - [x] Soudure  renforts
    
   - Mardi matin
-    - [X] Courses
-    - [X] Soudure encadrement portes
-    - [X] prépa trapes arrières et trapes latérale
-    - [X] Souder Manchons x 80
-    - [X] pate et fourrure (2 personnes)
-    - [X] appeler Les clous.
-    - [X] bouchage plateau
-    - [X] fixer portes (1h)
+    - [x] Courses
+    - [x] Soudure encadrement portes
+    - [x] prépa trapes arrières et trapes latérale
+    - [x] Souder Manchons x 80
+    - [x] pate et fourrure (2 personnes)
+    - [x] appeler Les clous.
+    - [x] bouchage plateau
+    - [x] fixer portes (1h)
 
   - Mardi aprem
-    - [X] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
-    - [X] Poser Manchons
-    - [X] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [x] Soudure renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
+    - [x] Poser Manchons
+    - [x] Pose renforts plancher gradins et toiture et renforts 1 (environ 22 renforts)
 
   - Mercredi/Jeudi
-    - [X] souder trapes arrières et trapes latérale
-    - [X] Proto chaise avec accoudoir (2h prépa + 2h soudure)
-    - [X] Tole et joints
+    - [x] souder trapes arrières et trapes latérale
+    - [x] Proto chaise avec accoudoir (2h prépa + 2h soudure)
+    - [x] Tole et joints
 
   - Vendredi
     - [x] hublots
-    - [X] faisseau electrique
+    - [x] faisseau electrique
     - [x] régler l'occultation base souflet
     
 ### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - Aménagement remorque :
-    - [X] finition carosserie
-    - [X] joint mastic PU
-    - [X] plancher principal
+    - [x] finition carosserie
+    - [x] joint mastic PU
+    - [x] plancher principal
     - [x] mofif trappe avant
     - [x] plancher coffre
-    - [X] joint mastic PU
+    - [x] joint mastic PU
  
 - Peut-être inviter Florian et Ludmila des scènes croisées à venir visiter la remorque (pour le choix du lieu quand on ira chez eux)
 
 ### Du 22/01/2024 au 30/01/2024 : Serre Boyer (04) - Chez Florence.
-  - [X] écriture textes et musiques
+  - [x] écriture textes et musiques
   - [x] découpage et storyboard
   - [x] réalisation animatic
   - [x] dépouillement du storyboard
@@ -640,9 +640,9 @@ Achat :
 
 Todo reportés de avant nimes
 
-- [X] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
-- [ ] ★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
-- [X] ★★★ rangement des outils
+- [x] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
+- [x] ★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
+- [x] ★★★ rangement des outils
 - [ ] ★★  finition : Caches dessous
 - [ ] ★★  finition : housses en skaï
 - [ ] ★★  caméra de recul 
@@ -650,13 +650,13 @@ Todo reportés de avant nimes
       
 Todo notés à Nimes Concernant les plaques
 - [x] ★★★ **1H** *Podium* test collage réparation
-- [ ] ★★★ **1H** *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
+- [x] ★★★ **1H** *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 - [ ] ★★ *Niveau de l'eau* Poignées poissons
-- [ ] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
+- [x] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
 - [ ] ★★ *Podium* dessiner et découpe laser Suite des marches (raccord + aimant)
-- [ ] ★★ *Période malheureuse* poignée en plexi (4mm)
-- [ ] ★★ *Période malheureuse* Vinyle (tout)
+- [x] ★★ *Période malheureuse* poignée en plexi (4mm)
+- [x] ★★ *Période malheureuse* Vinyle (tout)
 - [ ] ★★ Bavettes transitions :
   - [ ] *Titres* 
   - [ ] *Mutation*
@@ -665,8 +665,8 @@ Todo notés à Nimes Concernant les plaques
 - [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
 - [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
 - [ ] ★ *Podium* Vinyle points verts
-- [ ] ★ *Période malheureuse* doubler les rails
-- [ ] ★ *Niveau de l'eau* animer mario dame
+- [x] ★ *Période malheureuse* doubler les rails
+- [x] ★ *Niveau de l'eau* animer mario dame
 - [ ] ★ *Période heureuse* fluidité
 - [ ] ★ adapter fusée et *épilogue 1* en poulie
 - [x] Raccourcir crochets :
@@ -684,14 +684,14 @@ Divers
 
 Reflecteur
  - [x] ★★★ **2H** poser velcro
- - [ ] ★★★ **4H** fabriquer tissus noir
+ - [x] ★★★ **4H** fabriquer tissus noir
  - [ ] ★★ **1/2H** voir remplacer papillon par mieux
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
- - [ ] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
- - [X] ★★★ rainure moyeux tourelle
- - [ ] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
+ - [x] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
+ - [x] ★★★ rainure moyeux tourelle
+ - [x] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
  - [ ] ★★★ **1H** revoir 2 réglages
  - [ ] ★★★ **2H** remonter planchette / fabriquer cache
 
@@ -716,7 +716,7 @@ New Plaques
  - [x] ★★★ faire photo St Tropez et mode
  - [x] ★★★ faire fichier film photos + journal pour print
  - [x] ★★★ faire fichier générique
- - [ ] ★★★ **2H** monter plaque ST Tropez et mode
+ - [ ] ★★★ **2H** monter plaque photo
  - [ ] ★★★ **2H** monter plaque générique
 
 Fauteuil
@@ -756,15 +756,15 @@ Fermeture/huisserie
  - [ ] ★ verrou ext trappes
 
 Finition salle
- - [X] ★★★ pose plafond
- - [ ] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
+ - [x] ★★★ pose plafond
+ - [x] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
  - [ ] ★★ **2H** sortie secour
  - [ ] ★★ pose tissus
  - [ ] ★ pose moquette
 
 acces public 
- - [X] ★★★ dessiner escalier
- - [X] ★★★ coupe alu escalier
+ - [x] ★★★ dessiner escalier
+ - [x] ★★★ coupe alu escalier
  - [x] ★★★ **2H** coupe Bois escalier
  - [x] ★★★ **4H** montage escaliers
  - [ ] ** Rampes escalier
