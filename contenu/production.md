@@ -798,7 +798,7 @@ finiion extérieure
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
 
-LISTE MATÉRIEL CO
+LISTE MINI MATÉRIEL CO
  - [ ] 3 Rack anim
  - [ ] pochette mario + pochette bateau
  - [ ] 2 décors
@@ -809,6 +809,17 @@ LISTE MATÉRIEL CO
  - [ ] Cage (HE, HO, HN, NE, NO)
  - [ ] rail (2 arches + 2 traverses)
  - [ ] Chariot + miroir Amici
+ - [ ] Valises costumes
+
+OUTILS/ACCESSOIRES
+ - [ ] Makita
+ - [ ] niveau bulle
+ - [ ] Caisse outil rouge
+ - [ ] Caisse bleue rivet
+ - [ ] Sac scotch/sangles/pinces
+ - [ ] Sac bijoute
+ - [ ] Caisses visserie
+ - [ ] meuleuses/scie sauteuse/base consommables (disque/papier de verre/lame scie)
  - [ ] 
       
 - Mise en scène
