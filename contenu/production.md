@@ -800,7 +800,7 @@ finiion extérieure
 
 LISTE MATÉRIEL CO
  - [ ] 3 Rack anim
- - [ ] pochette mario
+ - [ ] pochette mario + pochette bateau
  - [ ] 2 décors
  - [ ] reflecteur + 2 triangles + 4 traverses + 2 bidons + 2 élingues
  - [ ] 3 praticables + 8 pieds 80 + 4 peids 40 + 4 escaliers + 16 lawyer
@@ -809,6 +809,7 @@ LISTE MATÉRIEL CO
  - [ ] Cage (HE, HO, HN, NE, NO)
  - [ ] rail (2 arches + 2 traverses)
  - [ ] Chariot + miroir Amici
+ - [ ] 
       
 - Mise en scène
 
