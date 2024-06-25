@@ -812,7 +812,68 @@ finiion extérieure
 
 ### Du 17/06/2024 au 23/06/2024 ou du 24/06/2024 au 30/06/2024 : Mende (48) - Scènes croisées de Lozère
  - [ ] Anticiper accés et emplacement roulotte à Mende
-      
+
+
+- Tringle costumes
+- Table accessoires
+- Table marionettes
+- Efffet neige
+- Effet vent
+
+
+LISTE MINI MATÉRIEL CO
+ - [ ] 3 Rack anim
+ - [ ] pochette mario + pochette bateau
+ - [ ] 2 décors
+ - [ ] reflecteur + 2 triangles + 4 traverses + 2 bidons + 2 élingues
+ - [ ] 3 praticables + 8 pieds 80 + 4 peids 40 + 4 escaliers + 16 lawyer
+ - [ ] sac accessoire CO (Poulie niveau de l'eau, 12 jonctions praticables, 2 cornières réflecteur)
+ - [ ] 4 rails plaques (3m + 2m)+ pied gravity avec adaptateur + support décor
+ - [ ] Cage (HE, HO, HN, NE, NO)
+ - [ ] rail (2 arches + 2 traverses)
+ - [ ] Chariot + miroir Amici
+ - [ ] Soufflet
+ - [ ] Valises costumes
+ - [ ] Instruments
+ - [ ] Accessoires
+ - [ ] Table marionettes
+ - [ ] Table accessoires
+
+ 
+OUTILS/ACCESSOIRES
+ - [ ] Makita
+ - [ ] niveau bulle
+ - [ ] Caisse outil rouge
+ - [ ] Caisse bleue rivet
+ - [ ] Sac scotch/sangles/pinces
+ - [ ] Sac bijoute
+ - [ ] Caisses visserie
+ - [ ] meuleuses/scie sauteuse/base consommables (disque/papier de verre/lame scie)
+ - [ ] Talkie
+ - [ ] Frein filet
+ - [ ] Colle plexi
+ - [ ] Chutes plexi + Chutes vynile
+ - [ ] Marches en bois
+
+CAPTA
+- [ ] Appareil photo
+- [ ] VP
+- [ ] Schopes
+- [ ] Cables
+- [ ] Ordi
+
+ MATERIEL
+ - [ ] Tube de 35
+ - [ ] Crochets
+ - [ ] Planches
+ - [ ] Vynile noir
+ - [ ] Vitre 6mm
+ - [ ] Fil de fer
+
+
+COURSES
+- [ ] 2x tiges filetés 1m M12
+
 - Mise en scène
 
 ### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
