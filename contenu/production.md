@@ -1,5 +1,24 @@
 [CLIQUER ICI POUR ALLER DIRECTEMENT À *MAINTENANT* DANS LE CALENDRIER DES RÉSIDENCES ↓](#maintenant)
 
+
+
+# Historique de la création
+
+- Août 2016 : Léon rencontre une camera obscura au musée du cinéma de Gérone
+- Décembre 2017 : Bertrand rencontre une camera obscura naturelle dans sa chambre à coucher
+- Mai 2019 : Léon rencotre une camera obscura naturelle dans le Camion de la compagnie lors d'une résidence de *Turing Test*
+- Mai 2020 : Début du développement du spectacle
+- Juillet 2020 : Première tentative de créer des camera obscura dans des pièces de la maison avec différents objectifs placés sur des fenêtres obstruées.
+- Janvier 2021 : Premier dossier de présentation
+- Décembre 2022 : Fabrication du premier prototype de camera obscura, *Les yeux dans le dos*
+- Octobre 2023 : Début de construction de la remorque
+- Janvier 2024 : Finalisation du scénario de Souvenirs du Futur
+- Avril 2024 : Début du travail de mise en scène avec Lucile
+- Août 2024 : Première du spectacle
+
+Soit quatre ans de d'échanges et de réflexion éparses, deux ans de recherche et développement, un an de prototypage, un an de création à plein temps
+
+
 # Générique
 
 Un film de :
