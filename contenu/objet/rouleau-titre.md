@@ -8,13 +8,15 @@ type: rouleau-titre
 
 # Souvenirs du Futur
 
-## Je me souviens du jour<br/>où personne ne s'est levé
+## Le jour où personne ne s'est levé
 
-## Je me souviens<br/>le niveau de l'eau
+## Le niveau de l'eau
 
 ## Le plein emploi
 
-## Une période heureuse<small>les gens étaient heureux même dans les files d'attente</small>
+## La mode
+
+## Une période heureuse<small>les gens étaient heureux<br/>même dans les files d'attente</small>
 
 ## Le jour où la Lune<br/>s’est écrasée sur Terre
 
@@ -28,15 +30,13 @@ type: rouleau-titre
 
 ## La blague
 
-## Une période malheureuse<small>les gens étaient malheureux même dans les parcs d'attraction</small>
+## Une période malheureuse<small>les gens étaient malheureux<br/>même dans les parcs d'attraction</small>
 
 ## Le Golden Record
 
-## Je me souviens le froid
+## La température idéale
 
 ## Le comportement
-
-## La mode
 
 ## La conversation
 
@@ -77,6 +77,7 @@ type: rouleau-titre
 <dt>Couture</dt><dd>Éva Ricard</dd>
 <dt>Vitrerie</dt><dd>Jean-Claude Azemar</dd>
 <dt>Menuiserie</dt><dd>Laurent Fayard</dd>
+<dt>Habillage carrosserie</dt><dd>Ulysse Lopez</dd>
 <dt>Peinture carrosserie</dt><dd>Didier Pons</dd>
 <dt>Réflecteur</dt><dd>Marco Cohen</dd>
 </dl>
@@ -94,10 +95,12 @@ type: rouleau-titre
 - Sylvain Bahos
 - Ronan Bouvier 
 - Joël Boya
-- CréaLab de Graulhet 
+- CréaLab de Graulhet
+- Claude Canac
+- Patricia Canac
+- Élise de Couleurs Papilles
 - Paco Labat
 - Florence Laffitte
-- Élise Lagalle
 - Thomas Letellier
 - Frédéric Lombardo
 - Francis Lopez
