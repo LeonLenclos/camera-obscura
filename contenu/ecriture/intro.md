@@ -1,4 +1,28 @@
+
 # Intro
+
+Bertrand est allé s'installer parmis ses instruments, derrière l'écran.
+
+Lucile est en train de finir de préparer les élements de machinerie que vous avez-vu dehors en arrivant.
+
+Je vais vous demander de petit à petit fermer les hublots, prenez le temps de les fermer à votre rythme quand vous vous sentez prêt·es, pas necessairement tous en même temps, l'idée c'est d'arriver à l'obscurité totale de manière lente et progressive.
+
+Pendant les 30 prochaines minutes on va activer differents dispositifs optiques, acoustiques et méchaniques pour fabriquer un film qui sera projeté sur cet écran.
+
+C'est un film qui est produit sans utiliser du tout d'électricité, pas de micro, pas de caméra, pas de projecteur.
+
+Le principe optique qui fait que vous allez voir une image sur l'écran ça s'appelle la camera obscura. C'est un phénomène qui se produit quand on est dans une pièce très obscure et qu'il y a dans le mur un petit trou ou une lentille qui donne vers un environnement très lumineux. Quand on est dans ces conditions, on voit une image de l'exterieur apparaître à l'interieur.
+
+Cette image est assez sombre, c'est pour ça qu'on se plonge dans le noir pour la regarder et aussi qu'on prend le temps d'adapter notre vision à l'obscurité avant de commencer la séance.
+
+Maintenant que tous les hublots sont fermés je vais aller rejoindre lucile à l'exterieur et dans quelques instant on va pouvoir commencer.
+
+Bon film
+
+
+
+
+## Ancienne Intro
 
 Bienvenue dans notre camera obscura.
 
