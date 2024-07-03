@@ -647,7 +647,7 @@ Objectif pour auch, pouvoir travailler toutes les scènes sauf :
 
 - écriture et jeu
 
-# Maintenant
+
 
 ### Du 6/05/2024 au 07/06/2024 : Graulhet chez les Plasticiens (81)
 
@@ -699,20 +699,17 @@ Reflecteur
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
-
  - [x] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
  - [x] ★★★ rainure moyeux tourelle
  - [x] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
  - [x] ★★★ **2H** remonter planchette / fabriquer cache
 
 Régie
-
  - [x] ★★ **1H** revoir embouchure pavillon
  - [x] ★★ **2H** support tom tonerre, coquillages, clés etc...
  - [x] ★★★ **2H** SAS régie
  - [x] ★★ porte guitare
  - [x] ★★ raccourcir manivelle vent
-
 
 New Plaques
  - [x] ★★★ faire photo St Tropez et mode
@@ -722,15 +719,11 @@ New Plaques
  - [x] ★★★ **2H** monter plaque générique
 
 Fauteuil
-
-
  - [x] ★★★ **4H** prépa bois fauteuil
  - [x] ★★ achat mousse fauteuil
  - [x] ★★ achat tissus fauteuil
 
-
 Etanchéité
-
  - [x] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
  - [x] ★★★ **32H** remplacement rivet toit et avant
@@ -739,33 +732,15 @@ Fermeture/huisserie
  - [x] ★★★ **1H** verrou régie
  - [x] ★★★ **4H** pose plexi hublot
 
-
 Finition salle
-
  - [x] ★★★ pose plafond
  - [x] ★★★ **4H** cache écran (côtés et haut en tissus) fixé avec velcro éventuellement finition cornière noire.
- - [ ] ★★ **2H** sortie secour
- - [ ] ★★ pose tissus
- - [ ] ★ pose moquette
 
 acces public 
  - [x] ★★★ dessiner escalier
  - [x] ★★★ coupe alu escalier
  - [x] ★★★ **2H** coupe Bois escalier
  - [x] ★★★ **4H** montage escaliers
- - [ ] ** Rampes escalier
- - [ ] ★★ acces pmr
-
-clim
- - [ ] ★★ poignée caisses clim
- - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
- - [ ] ★ conception ventilation
-
-finiion extérieure
- - [ ] ★★ bas de caisse avec Didier
- - [ ] ★ dessin extérieur (peinture ou transfert)
- - [ ] ★ niveau + boussole
-
 
 ### Le 29/05/2024 : Marseille (13) - Photos
 
@@ -844,7 +819,7 @@ COURSES
 - [x] 2x tiges filetés 1m M12
 
 - Mise en scène
-
+# Maintenant
 - ### Du 03/07/2024 au 14/07/2024 : Graulhet chez les Plasticiens (81)
 finitions remorque et autres
 
