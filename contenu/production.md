@@ -677,49 +677,25 @@ Todo reportés de avant nimes
 - [x] ★★★ Rack plaques XL + 10 cm en haut + 20 cm en bas + profonde (voir manivelle photo)
 - [x] ★★ **1H** tronconner support droite dans un rack et support gauche dans l'autre. 
 - [x] ★★★ rangement des outils
-- [ ] ★★  finition : Caches dessous
-- [ ] ★★  finition : housses en skaï
-- [ ] ★★  caméra de recul 
-- [ ] ★   finalisation fixation du cache avant
+
       
 Todo notés à Nimes Concernant les plaques
 - [x] ★★★ **1H** *Podium* test collage réparation
 - [x] ★★★ **1H** *Golden Record 2*  Fixer un bout de plexi pour butée là où c'est cassé
-- [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
-- [ ] ★★ *Niveau de l'eau* Poignées poissons
 - [x] ★★ *Podium* Poignées en plexi pour le 8e (4mm) 
-- [ ] ★★ *Podium* dessiner et dé<coupe laser Suite des marches (raccord + aimant)
+- [x] ★★ *Podium* dessiner et dé<coupe laser Suite des marches (raccord + aimant)
 - [x] ★★ *Période malheureuse* poignée en plexi (4mm)
 - [x] ★★ *Période malheureuse* Vinyle (tout)
-- [ ] ★★ Bavettes transitions :
-  - [ ] *Titres* 
-  - [ ] *Mutation*
-  - [ ] *Golden Record* 
-  - [ ] *Comportement*
-- [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
-- [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
-- [ ] ★ *Podium* Vinyle points verts
 - [x] ★ *Période malheureuse* doubler les rails
 - [x] ★ *Niveau de l'eau* animer mario dame
-- [ ] ★ *Période heureuse* fluidité
-- [ ] ★ adapter fusée et *épilogue 1* en poulie
 - [x] Raccourcir crochets :
   - [x] *Periode heureuse* Droit
   - [x] *Mutation 2* Gauche + droit
   - [x] *Période malheureuse* gauche + droit
 
-Divers
- - [ ] ★★ **2H** SACD/SACEM 
- - [ ] ★★★ **2H** Pesée
- - [ ] ★★ **4H** passage au MINES
- - [ ] ★★ **4H** Cabinet expert
- - [ ] ★★ **4H** pompier
- - [ ] ** **4H** Isolation
-
 Reflecteur
  - [x] ★★★ **2H** poser velcro
  - [x] ★★★ **4H** fabriquer tissus noir
- - [ ] ★★ **1/2H** voir remplacer papillon par mieux
  - [x] ★ roues plus grosses
 
 Rail, Amici et planchette
@@ -727,68 +703,42 @@ Rail, Amici et planchette
  - [x] ★★★ **1H** faire 2 rails de 5m (3+2) avec 3 crochet et 2 support bas de 5m (3+2) avec 3 crochet
  - [x] ★★★ rainure moyeux tourelle
  - [x] ★★★ **3H** changement miroir Amici (4 mm decoupe laser) coller alu sur cadre
- - [ ] ★★ **1H** revoir 2 réglages
  - [x] ★★★ **2H** remonter planchette / fabriquer cache
 
 Régie
 
- - [ ] ★★ **2H** cache régie (bas)
  - [x] ★★ **1H** revoir embouchure pavillon
  - [x] ★★ **2H** support tom tonerre, coquillages, clés etc...
  - [x] ★★★ **2H** SAS régie
  - [x] ★★ porte guitare
  - [x] ★★ raccourcir manivelle vent
- - [ ] ★★ connection audio extérieur
- - [ ] ★ diffusion arrière passer les PVC ?
- - [ ] ★ Couper verre (VITRE)
- - [ ] ★ préparer pare close
- - [ ] ★ Installer vitre (amovible ?)
- - [ ] ★ caisse orgue
- - [ ] ★ trouver machine à applaudir
- - [ ] ★ plaque orage
+
 
 New Plaques
  - [x] ★★★ faire photo St Tropez et mode
  - [x] ★★★ faire fichier film photos + journal pour print
  - [x] ★★★ faire fichier générique
- - [ ] ★★★ **2H** monter plaque photo
+ - [x] ★★★ **2H** monter plaque photo
  - [x] ★★★ **2H** monter plaque générique
 
 Fauteuil
 
- - [ ] ★★★ **1H** fin polissage fauteuil
+
  - [x] ★★★ **4H** prépa bois fauteuil
  - [x] ★★ achat mousse fauteuil
  - [x] ★★ achat tissus fauteuil
- - [ ] ★ couture housse
- - [ ] ★ montage fauteuils
 
-Décor
- - [ ] ★★★ **4H** décor cuisine (rassembler élément)
- - [ ] ★★ syteme rangement décors (housse en skaï blanc)
- - [ ] ★ finitions décor chambre
-
-Costume
- - [ ] ★★★ achat costumes      
- - [ ] ★ finition prothèse (rallonge tige et col)
 
 Etanchéité
 
- - [ ] ★★★ **2H** pose joint trappe et plaque arrière
  - [x] ★★★ achat rivet M5
  - [x] ★★★ achat rondelle caoutchou M5
  - [x] ★★★ **32H** remplacement rivet toit et avant
- - [ ] ★★ **1H** remplacement rivets arrière
- - [ ] ★★ **2H** passe sica bas de caisse
- - [ ] ★★ poignée trappe
 
 Fermeture/huisserie
  - [x] ★★★ **1H** verrou régie
  - [x] ★★★ **4H** pose plexi hublot
- - [ ] ★★ **4H** pose volets hublot
- - [ ] ★★ groom x 4 ou poids
- - [ ] ★ cache arrière
- - [ ] ★ verrou ext trappes
+
 
 Finition salle
 
@@ -894,6 +844,117 @@ COURSES
 - [ ] 2x tiges filetés 1m M12
 
 - Mise en scène
+
+- ### Du 03/07/2024 au 14/07/2024 : Graulhet chez les Plasticiens (81)
+finitions remorque et autres
+
+CAMION
+- [ ] ★★★ reparation camion
+- [ ] ★★  caméra de recul
+
+RACK
+- [ ] ★★  finition : Caches dessous
+- [ ] ★★  finition : housses en skaï
+
+REMORQUE
+- [ ] ★   finalisation fixation du cache avant
+
+PLAQUES
+- [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
+- [ ] ★★ *Niveau de l'eau* Poignées poissons
+- [ ] ★★ Bavettes transitions :
+  - [ ] *Titres* 
+  - [ ] *Mutation*
+  - [ ] *Golden Record* 
+  - [ ] *Comportement*
+- [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
+- [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
+- [ ] ★ *Podium* Vinyle points verts
+- [ ] ★ *Période heureuse* fluidité
+- [ ] ★ adapter fusée et *épilogue 1* en poulie
+
+NEW PLAQUES
+ - [ ] ★★★ faire fichier générique OK
+ - [ ] ★★★ print générique OK
+ - [ ] ★★★ achat support plastique
+ - [ ] ★★★ monter rouleau photo
+ - [ ] ★★★ monter rouleau générique
+
+DIVERS
+ - [ ] ★★ **2H** SACD/SACEM 
+ - [ ] ★★★ **2H** Pesée
+ - [ ] ★★ **4H** passage au MINES
+ - [ ] ★★ **4H** Cabinet expert
+ - [ ] ★★ **4H** pompier
+ - [ ] ** **4H** Isolation
+
+REFLECTEUR
+ - [ ] ★★ **1/2H** voir remplacer papillon par mieux
+ - [ ] ★★★ decaler axe
+ - [ ] ★★★ reparer barre bouladou
+
+AMICI
+ - [ ] ★★ **1H** revoir 2 réglages
+ - [ ] ★★ commander Verre cassé en 6mm
+
+FAUTEUIL
+ - [ ] ★★★ **1H** fin polissage fauteuil
+ - [ ] ★ fin couture housse
+ - [ ] ★ montage fauteuils
+
+REGIE
+ - [ ] ★★★ tube extérieur avec passage de cuve
+ - [ ] ★ diffusion arrière passer les PVC ?
+ - [ ] ★ caisse orgue
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ plaque orage
+ - [ ] ★ corde contrebasse
+ - [ ] ★★ fixer Trackmy
+
+DECOR
+ - [ ] ★★★ **4H** décor chambre taille double (rassembler élément)
+ - [ ] ★★ syteme rangement décors (housse en skaï blanc)
+ - [ ] ★ 2 ème décor ?
+
+COSTUME
+ - [ ] ★★★ achat costumes      
+ - [ ] ★ finition prothèse (rallonge tige et col)
+
+ETANCHEITÉ
+ - [ ] ★★★ **2H** finition pose joint trappe et plaque arrière
+ - [ ] ★★ **1H** remplacement rivets arrière
+ - [ ] ★★ **2H** passe sica bas de caisse
+ - [ ] ★★ poignée trappe
+
+FERMETURE
+ - [ ] ★★ **4H** pose volets hublot
+ - [ ] ★★ groom x 4 ou poids
+ - [ ] ★ cache arrière
+ - [ ] ★ verrou ext trappes
+
+SALLE
+ - [ ] ★★ **2H** sortie secour
+ - [ ] ★★ pose tissus
+ - [ ] ★ pose moquette
+
+PUBLIC
+ - [ ] ** Rampes escalier
+ - [ ] ★★ acces pmr
+
+CLIM
+ - [ ] ★★ poignée caisses clim
+ - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
+ - [ ] ★ conception ventilation
+
+FINITION EXT
+ - [ ] ★★ bas de caisse avec Didier
+ - [ ] ★ dessin extérieur (peinture ou transfert)
+ - [ ] ★ niveau + boussole
+
+A FAIRE ?
+ - [ ] ★ Couper verre (VITRE)
+ - [ ] ★ préparer pare close
+ - [ ] ★ Installer vitre (amovible ?)
 
 ### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
  - [ ] Anticiper accés et emplacement roulotte
