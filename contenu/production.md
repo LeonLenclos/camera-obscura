@@ -884,12 +884,13 @@ MARIOS
  - [ ] ★★★ système rangement mario
 
 DIVERS
- - [ ] ★★ **2H** SACD/SACEM 
+ - [x] ★★ **2H** SACD
+ - [ ] ★★ **2H** SACEM 
  - [ ] ★★★ **2H** Pesée
  - [ ] ★★ **4H** passage au MINES
  - [ ] ★★ **4H** Cabinet expert
  - [ ] ★★ **4H** pompier
- - [ ] ** **4H** Isolation
+ - [ ] ** **4H** Isolation trappes
 
 REFLECTEUR
  - [ ] ★★ **1/2H** voir remplacer papillon par mieux
