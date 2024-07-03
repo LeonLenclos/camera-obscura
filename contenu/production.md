@@ -841,7 +841,7 @@ CAPTA
 
 
 COURSES
-- [ ] 2x tiges filetés 1m M12
+- [x] 2x tiges filetés 1m M12
 
 - Mise en scène
 
@@ -880,6 +880,9 @@ NEW PLAQUES
  - [ ] ★★★ monter rouleau photo
  - [ ] ★★★ monter rouleau générique
 
+MARIOS
+ - [ ] ★★★ système rangement mario
+
 DIVERS
  - [ ] ★★ **2H** SACD/SACEM 
  - [ ] ★★★ **2H** Pesée
@@ -893,9 +896,10 @@ REFLECTEUR
  - [ ] ★★★ decaler axe
  - [ ] ★★★ reparer barre bouladou
 
-AMICI
+MACHINERIE
  - [ ] ★★ **1H** revoir 2 réglages
  - [ ] ★★ commander Verre cassé en 6mm
+ - [ ] raccourcir l'avant du chariot
 
 FAUTEUIL
  - [ ] ★★★ **1H** fin polissage fauteuil
@@ -910,9 +914,10 @@ REGIE
  - [ ] ★ plaque orage
  - [ ] ★ corde contrebasse
  - [ ] ★★ fixer Trackmy
+ - [ ] new installation percu basse
 
 DECOR
- - [ ] ★★★ **4H** décor chambre taille double (rassembler élément)
+ - [ ] ★★★ **4H** décor chambre taille double (200x145 - Remonter décor de 5cm - matelas du bord gauche au centre à 35cm du haut du décor, couverture à 20cm du haut du matelas)
  - [ ] ★★ syteme rangement décors (housse en skaï blanc)
  - [ ] ★ 2 ème décor ?
 
