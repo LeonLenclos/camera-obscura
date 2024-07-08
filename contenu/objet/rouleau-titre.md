@@ -32,7 +32,7 @@ type: rouleau-titre
 
 ## Une période malheureuse<small>les gens étaient malheureux<br/>même dans les parcs d'attraction</small>
 
-## Le Golden Record
+## Le golden record
 
 ## La température idéale
 
@@ -54,7 +54,7 @@ type: rouleau-titre
 - Léon Lenclos
 
 <dl>
-<dt>Diffusion</dt><dd>Amparo Gallur Barabarroja</dd>
+<dt>Diffusion</dt><dd>Amparo Gallur Barbarroja</dd>
 </dl>
 
 <dl>
@@ -98,8 +98,7 @@ type: rouleau-titre
 - Ronan Bouvier 
 - Joël Boya
 - CréaLab de Graulhet
-- Claude Canac
-- Patricia Canac
+- Patricia et Claude Canac
 - Élise de Couleurs Papilles
 - Angèle Dumont
 - Paco Labat
