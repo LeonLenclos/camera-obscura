@@ -8,7 +8,7 @@ type: rouleau-titre
 
 # Souvenirs du Futur
 
-## Le jour où personne ne s'est levé
+## Le jour où<br/>personne ne s'est levé
 
 ## Le niveau de l'eau
 
@@ -91,14 +91,17 @@ type: rouleau-titre
 
 #### Merci à
 
+- Théo Abadie
 - Eric Amblard
 - Sylvain Bahos
+- Elio Balezeaux
 - Ronan Bouvier 
 - Joël Boya
 - CréaLab de Graulhet
 - Claude Canac
 - Patricia Canac
 - Élise de Couleurs Papilles
+- Angèle Dumont
 - Paco Labat
 - Florence Laffitte
 - Thomas Letellier
@@ -106,6 +109,7 @@ type: rouleau-titre
 - Francis Lopez
 - Anna Mano
 - Juan P. Martínez Pastor
+- Théo Petit
 - Les Plasticiens Volants
 - Marc Reynaud
 - Evelyne Salançon
