@@ -98,7 +98,8 @@ type: rouleau-titre
 - Ronan Bouvier 
 - Joël Boya
 - CréaLab de Graulhet
-- Patricia et Claude Canac
+- Claude Canac
+- Patricia Canac
 - Élise de Couleurs Papilles
 - Angèle Dumont
 - Paco Labat
@@ -107,6 +108,7 @@ type: rouleau-titre
 - Frédéric Lombardo
 - Francis Lopez
 - Anna Mano
+- Loup-Étienne Margerie
 - Juan P. Martínez Pastor
 - Théo Petit
 - Les Plasticiens Volants
