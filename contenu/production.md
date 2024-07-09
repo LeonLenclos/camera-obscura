@@ -824,7 +824,7 @@ COURSES
 finitions remorque et autres
 
 CAMION
-- [ ] ★★★ reparation camion
+- [x] ★★★ reparation camion
 - [ ] ★★  caméra de recul
 
 RACK
@@ -849,7 +849,7 @@ PLAQUES
 - [ ] ★ adapter fusée et *épilogue 1* en poulie
 
 NEW PLAQUES
- - [ ] ★★★ faire fichier générique OK
+ - [x] ★★★ faire fichier générique OK
  - [ ] ★★★ print générique OK
  - [ ] ★★★ achat support plastique
  - [ ] ★★★ monter rouleau photo
@@ -869,7 +869,7 @@ DIVERS
 
 REFLECTEUR
  - [ ] ★★ **1/2H** voir remplacer papillon par mieux
- - [ ] ★★★ decaler axe
+ - [x] ★★★ decaler axe
  - [ ] ★★★ reparer barre bouladou
 
 MACHINERIE
@@ -883,13 +883,13 @@ FAUTEUIL
  - [ ] ★ montage fauteuils
 
 REGIE
- - [ ] ★★★ tube extérieur avec passage de cuve
+ - [x] ★★★ tube extérieur avec passage de cuve
  - [ ] ★ diffusion arrière passer les PVC ?
  - [ ] ★ caisse orgue
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ plaque orage
  - [ ] ★ corde contrebasse
- - [ ] ★★ fixer Trackmy
+ - [x] ★★ fixer Trackmy
  - [ ] new installation percu basse
 
 DECOR
