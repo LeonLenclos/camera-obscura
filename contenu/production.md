@@ -832,7 +832,7 @@ RACK
 - [ ] ★★  finition : housses en skaï
 
 REMORQUE
-- [ ] ★   finalisation fixation du cache avant
+- [x] ★   finalisation fixation du cache avant
 
 PLAQUES
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
@@ -851,7 +851,7 @@ PLAQUES
 NEW PLAQUES
  - [x] ★★★ faire fichier générique OK
  - [ ] ★★★ print générique OK
- - [ ] ★★★ achat support plastique
+ - [x] ★★★ achat support plastique
  - [ ] ★★★ monter rouleau photo
  - [ ] ★★★ monter rouleau générique
 
