@@ -842,7 +842,7 @@ PLAQUES
   - [ ] *Mutation*
   - [ ] *Golden Record* 
   - [ ] *Comportement*
-- [ ] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
+- [x] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
 - [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
 - [ ] ★ *Podium* Vinyle points verts
 - [ ] ★ *Période heureuse* fluidité
@@ -875,7 +875,7 @@ REFLECTEUR
 MACHINERIE
  - [ ] ★★ **1H** revoir 2 réglages
  - [ ] ★★ commander Verre cassé en 6mm
- - [ ] raccourcir l'avant du chariot
+ - [x] raccourcir l'avant du chariot
 
 FAUTEUIL
  - [ ] ★★★ **1H** fin polissage fauteuil
@@ -890,7 +890,7 @@ REGIE
  - [ ] ★ plaque orage
  - [ ] ★ corde contrebasse
  - [x] ★★ fixer Trackmy
- - [ ] new installation percu basse
+ - [ ] ★★ new installation percu basse
 
 DECOR
  - [ ] ★★★ **4H** décor chambre taille double (200x145 - Remonter décor de 5cm - matelas du bord gauche au centre à 35cm du haut du décor, couverture à 20cm du haut du matelas)
@@ -923,7 +923,7 @@ PUBLIC
  - [ ] ★★ acces pmr
 
 CLIM
- - [ ] ★★ poignée caisses clim
+ - [x] ★★ poignée caisses clim
  - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
  - [ ] ★ conception ventilation
 
