@@ -34,10 +34,10 @@ Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interi
 
 ### Durée 
 - Accueil public : 5 minutes
-- Spectacle : 20 minutes
+- Spectacle : 30 minutes
 - Sortie : 5 minutes
 
-Total : 30 minutes
+Total : 40 minutes
 
 ### Horaires
 4 représentations par jour à des horaires ensoleillés.
@@ -61,7 +61,8 @@ Par représentation :
 - Personnes malentendantes : peut convenir (spectacle très visuel).
 
 ### Accueil public
-- Prévoir une personne aux horaires de représentation en renfort pour accueil et gestion du public.
+- Prévoir une personne avant les représentations pour accueil billetterie.
+- Prévoir éventuellement une personne pendant les représentations pour gestion du public à l'extérieur (à valider en amont en fonction des lieus).
 
 ## Accueil compagnie
 
@@ -83,8 +84,8 @@ Caractéristiques véhicules :
 Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit être étudié en amont avec la compagnie.
 
 ### Montage/Démontage
-- Montage : 1 jour
-- Démontage : 0,5 jour
+- Montage : 1 service
+- Démontage : 1 service
 - Pas de technicien·ne supplémentaire nécessaire pour le montage et le démontage
 
 ### Transport, repas, nuitées
@@ -101,15 +102,15 @@ Pas de régime alimentaire particulier.
 - Dimensions remorque : 2,50 × 7,50 m
 - Espace minimum nécessaire : 10 × 15 m
 - Terrain : plat
-- Orientation : l'avant de la remorque doit être orienté vers le nord (nord-est ou vers le nord-ouest en fonction des endroits)
-- Ensoleillement : l'espace de jeu doit être ensoleillé (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu)
+- Orientation : l'avant de la remorque doit être orienté nord-nord-est (entre 20 et 25°)
+- Ensoleillement : l'espace de jeu doit être ensoleillé pendant les horaires de jeu (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu)
 
 La Camera Obscura s'installe en ville ou à la campagne, sur une place vivante, dans une zone industrielle abandonnée, dans un parc, en pleine nature, au coeur d'un festival, etc.
 
-Le camion doit rester à proximité de l'espace de jeu (à moins de 50 m).
+Le camion doit rester à proximité de l'espace de jeu (à moins de 30 m).
 
 ###  À fournir
 
-- Un point d'eau (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
-- Une ligne 16A (pour la loge dans le camion)
+- Un point d'eau à moins de 25 m (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
+- Une ligne 16A au camion (pour la loge)
 
