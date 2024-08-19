@@ -111,6 +111,6 @@ Le camion doit rester à proximité de l'espace de jeu (à moins de 30 m).
 
 ###  À fournir
 
-- Un point d'eau à moins de 25 m (pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air)
-- Une ligne 16A au camion (pour la loge)
+- Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air.
+- Une ligne 16A au camion (pour la loge).
 
