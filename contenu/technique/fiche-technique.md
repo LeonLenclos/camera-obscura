@@ -109,6 +109,8 @@ La Camera Obscura s'installe en ville ou à la campagne, sur une place vivante, 
 
 Le camion doit rester à proximité de l'espace de jeu (à moins de 30 m).
 
+Prévoir un gardiennage la nuit.
+
 ###  À fournir
 
 - Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air.
