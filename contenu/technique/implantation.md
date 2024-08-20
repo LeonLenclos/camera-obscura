@@ -12,7 +12,7 @@ Il y a deux axes de prise de vue, axe frontal et axe latéral la médiane entre 
 
 ## Schéma de l'orientation nord-nord-est
 
-{% include pdf.html url="https://camera-obscura.cienokill.fr/contenu/plans/implantation-orientation-NE.pdf" %}
+{% include pdf.html url="https://camera-obscura.cienokill.fr/contenu/plans/implantation-orientation-NNE.pdf" %}
 
 ## Schéma de l'orientation nord-ouest
 
