@@ -4,6 +4,7 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
 
 - [Introduction](introtechnique.md) : principes généraux qui guident notre travail
 - [Fiche technique](fiche-technique.md) : provisoire !
+- [Shéma d'implantation de la Camera Obscura dans l'espace public](implantation-orientation-NNE.pdf): Quelle place occupe le dispositif
 
 ## Optique
 - [Principes optiques](optique.md) : généralités sur la caméra obscura
