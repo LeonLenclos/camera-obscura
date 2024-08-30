@@ -3,7 +3,6 @@
 ## Description générale
 Une remorque est transformée en cinéma itinérant en adaptant l'avant du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
-
 ![Photo de la remorque à MIMA](photos/DSC07348%20copie%20light.JPG)
 
 ## Allure
@@ -11,37 +10,38 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent.
 
 ## Matériaux
 
-### Chassis
-- Remorque BW TINY HOUSE CH 600 et charpente alu.
+### Chassis et structure
+- Remorque BW TINY HOUSE CH 600, charpente et carosserie alu.
+
+### Isolation et finition
+- Laine de coton M1 100mm, Panneau de bois et molleton M1.
+
+### huisserie
+- Porte isolante alu et hublot double vitrage.
 
 ### Écran
 - Toile de rétroprojection (translucide/dépoli) tendue sur cadre
 
 ### Objectif
-- à définir
+- bonnettes macros pour objectifs cinéma (dia : 138 mm) et palets bruts d'opticien en polycarbonate (dia : 80 mm)
 
 ### Accessoires
-- Pour retourner l'image, il est envisagé d'utiliser un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
+- Pour retourner l'image, on utilise un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
 
 ## Évaluation des avantages et des inconvénients
 
 ### Avantages
 - image dans l'axe
 - ultra grand format
-- très confortable
+- très confortable pour le public
+- ensemble relativement léger
 
 ### Inconvénients
+- climatisation et ventilation correcte mais perfectible
 
-## Améliorations envisagées
-- hublots avec fermeture (iris ?)
-- trappe entre cabine et extérieur avec sas.
-- rideau sur l'écran ?
-- système de ventilation mécanique
-- système de refroidissement paille/eau
-- porte PMR 90 cm
 
-## Moment envisagé pour la construction et/ou les améliorations
-automne 2023
+## Date de construction
+Du 1 octobre 2023 au 15 juillet 2024
 
 ## Détails de construction et description technique
 
@@ -72,7 +72,6 @@ Notes sur :
 - Disques de vitesse : pas obligatoire pour nous mais on les met quand-même (Voir : [Arrêté](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000163897))
 - Signalisation position angles morts : pas obligatoire pour nous mais on met juste un message texte (Voir : [Arrêté](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042534807))
 - À porpos des plaques voir : [Arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042865682)
-
 
 ## Plans
 
