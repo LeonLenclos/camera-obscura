@@ -4,9 +4,9 @@ Théâtre optique post-cinéma
 
 ### travail en cours
 
-*Camera Obscura* est un projet de théâtre optique itinérant de la Cie Nokill dont la première est prévue pour l'été 2024. 
+*Camera Obscura* est un spectacle de théâtre optique itinérant de la Cie Nokill dont la première a eu lieu le 3 aout 2024. 
 
-Sur ce site nous rassemblons au fur et à mesure de la création, tous les contenus artistiques et techniques qui nous sont utiles. 
+Sur ce site nous avons rassemblé au fur et à mesure de la création, tous les contenus artistiques et techniques utiles. 
 
 Même si à la base cette documentation est un outil de travail personnel, nous avons décidé de la mettre à disposition de toute personne intéressée par ce projet.
 
