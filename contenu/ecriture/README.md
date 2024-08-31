@@ -2,7 +2,7 @@
 
 *En travaux*
 
-C'est un court metrage de 20 minutes sous forme de notes ou de fragments qui s'enchaînent.
+C'est un court metrage de 30 minutes sous forme de notes ou de fragments qui s'enchaînent.
 
 ## écriture en cours
 
