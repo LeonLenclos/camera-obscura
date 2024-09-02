@@ -14,7 +14,7 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 - Remorque BW TINY HOUSE CH 600, charpente et carosserie alu.
 
 ### Isolation et finition
-- Laine de coton M1 100mm, Panneau de bois et molleton M1.
+- Laine de coton 100mm, Panneau de bois et molleton.
 
 ### huisserie
 - Porte isolante alu et hublot double vitrage.
@@ -23,10 +23,10 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 - Toile de rétroprojection (translucide/dépoli) tendue sur cadre.
 
 ### Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
-- Structure en alu, assise et dossier en contre-plaqué, mousse et tissus
+- Structure en alu, assise et dossier en contre-plaqué, mousse et tissus.
 
 ### Objectif
-- bonnettes macros pour objectifs cinéma (dia : 138 mm) et palets bruts d'opticien en polycarbonate (dia : 80 mm)
+- bonnettes macros pour objectifs cinéma (dia : 138 mm) et palets bruts d'opticien en polycarbonate (dia : 80 mm).
 
 ### Accessoires
 - Pour retourner l'image, on utilise un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
