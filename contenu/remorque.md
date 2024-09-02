@@ -20,7 +20,10 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent.
 - Porte isolante alu et hublot double vitrage.
 
 ### Écran
-- Toile de rétroprojection (translucide/dépoli) tendue sur cadre
+- Toile de rétroprojection (translucide/dépoli) tendue sur cadre.
+
+### Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
+- Structure en alu, assise et dossier en contre-plaqué, mousse et tissus
 
 ### Objectif
 - bonnettes macros pour objectifs cinéma (dia : 138 mm) et palets bruts d'opticien en polycarbonate (dia : 80 mm)
@@ -39,13 +42,10 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent.
 ### Inconvénients
 - climatisation et ventilation correcte mais perfectible
 
-
 ## Date de construction
 Du 1 octobre 2023 au 15 juillet 2024
 
 ## Détails de construction et description technique
-
-Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
 
 - dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
 - dimension hors-tout caisse : 6600 x 2450 x 2452
