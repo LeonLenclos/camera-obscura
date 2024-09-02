@@ -22,9 +22,10 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 ### Écran
 - Toile de rétroprojection (translucide/dépoli) tendue sur cadre.
 
-### Fauteuils : [La page consacrée aux fauteuils](technique/fauteuils.md)
+### Fauteuils
 - Structure en alu, assise et dossier en contre-plaqué, mousse et tissus.
-
+- [La page consacrée aux fauteuils](technique/fauteuils.md)
+  
 ### Objectif
 - bonnettes macros pour objectifs cinéma (dia : 138 mm) et palets bruts d'opticien en polycarbonate (dia : 80 mm).
 
