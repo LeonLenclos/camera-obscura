@@ -6,7 +6,7 @@ Une remorque est transformée en cinéma itinérant en adaptant l'avant du véhi
 ![Photo de la remorque à MIMA](photos/DSC07348%20copie%20light.JPG)
 
 ## Allure
-Une remorque avec un soufflet et une exo-struture en alu qui dépassent.
+Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté flèche.
 
 ## Matériaux
 
