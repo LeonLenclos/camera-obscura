@@ -12,22 +12,21 @@ Une vingtaine de fragments qui s'enchaînent.  Chaque fragment est numéroté et
 
 ## Liste des souvenirs
 
-- Je me souviens du jour où personne ne s'est levé
-- Je me souviens le niveau de l'eau
+- Le jour où personne ne s'est levé
+- Le niveau de l'eau
 - Le plein emploi
+- La mode
 - Une période heureuse (les gens étaient heureux même dans les files d'attente)
 - Le jour où la lune s’est écrasée sur terre
 - Le bon sens
 - La mutation
 - Les vacances à Saint-Tropez
-- Je me souviens de l'embouteillage
 - Le podium
 - La blague
 - Une période malheureuse (les gens étaient malheureux même dans les parcs d'attractions)
 - Le Golden Record
-- Je me souviens le froid
+- La température idéale
 - Le comportement
-- La mode
 - La conversation
 - L’ultime chanson
 
