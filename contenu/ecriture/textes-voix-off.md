@@ -7,21 +7,20 @@
 3. Je me souviens le niveau de l’eau
 4. Le plein emploi
 5. La mode
-6. Une période heureuse (les gens étaient heureux même dans les files
-d’attente)
+6. Une période heureuse (les gens étaient heureux même dans les files d’attente)
 7. Le jour où la lune s’est écrasée sur terre
 8. Le bon sens
 9. La mutation
-10.Les vacances à Saint-Tropez
-11.Le podium
-12.La blague
-13.Une période malheureuse (les gens étaient malheureux même dans les parcs
+10. Les vacances à Saint-Tropez
+11. Le podium
+12. La blague
+13. Une période malheureuse (les gens étaient malheureux même dans les parcs
 d’attractions)
-14.Le Golden Record 
-15.Je me souviens le froid 
-16.Le comportement 17.La conversation 
-18.L’ultime chanson 
-19.Épilogue
+14. Le Golden Record 
+15. Je me souviens le froid 
+16. Le comportement 17.La conversation 
+18. L’ultime chanson 
+19. Épilogue
 
 ### 1. Prologue
 Je me souviens les guerres de l’eau. Des fêtes qui n’en finissaient pas dans les centres commerciaux abandonnés, le discours des “deux façons de voir les choses” et la révolte du paradigme.
