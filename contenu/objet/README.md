@@ -1,6 +1,6 @@
 # Objet
 
-![Photo de la remorque à MIMA](photos/co-mima-1.JPG)
+![Photo de la remorque à l'abbaye de l'Escaladieu](../photos/co-escaladieu-1.JPG)
 
 Objets utilisés dans le film [*Souvenirs du futur*](../ecriture/souvenirs-du-futur.md).
 
