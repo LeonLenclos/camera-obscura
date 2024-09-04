@@ -1,5 +1,5 @@
 # Objet
-![Photo de la remorque à l'Abbaye de l'Escaladieu](photos/co-escaladieu-1.JPG)
+![Photo de la remorque à l'Abbaye de l'Escaladieu](/photos/co-escaladieu-1.JPG)
 
 Objets utilisés dans le film [*Souvenirs du futur*](../ecriture/souvenirs-du-futur.md).
 
