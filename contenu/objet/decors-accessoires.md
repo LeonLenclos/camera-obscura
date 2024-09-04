@@ -24,12 +24,9 @@ Voici le tableaux des dimensions que doivent avoir les feuilles de décors en fo
 
 ## Fond noir
 
-Rideau noir de 2000×2300 mm suspendu à +500 (2370 mm).
+- Scratché sur le dos du réflecteur.
 
 ## Chambre
-
-ATTENTION : modifier au moins le decors de la chambre pour focale de 1000 mm
-
 
 Une feuille de 2000×1500 mm. Tous les accéssoires sont fixés dessus :
 
@@ -58,7 +55,6 @@ Peut-être affiche de pub pour le feu sans fumée, grafiti du futur, ou autre.
 
 
 Voiture jouée en debout faux assis.
-
 Une feuille de décors avec en trompe l'oeil :
   - Portière
   - Tableau de bord
@@ -72,11 +68,9 @@ Effets :
 
 # Accéssoires
 
-Facile :
 - Cuillère
 - Verre d'eau
 - Lunettes de retournement de la vision
-- Livre conducteur
 - clavier
 
 Effets :
