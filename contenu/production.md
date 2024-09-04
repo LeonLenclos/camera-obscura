@@ -1,6 +1,6 @@
+
+
 [CLIQUER ICI POUR ALLER DIRECTEMENT À *MAINTENANT* DANS LE CALENDRIER DES RÉSIDENCES ↓](#maintenant)
-
-
 
 # Historique de la création
 
@@ -819,130 +819,146 @@ COURSES
 - [x] 2x tiges filetés 1m M12
 
 - Mise en scène
-# Maintenant
+
 - ### Du 03/07/2024 au 14/07/2024 : Graulhet chez les Plasticiens (81)
 finitions remorque et autres
 
+
+PLAQUES
+- [x] ★★ *Niveau de l'eau* Poignées poissons
+- [x] ★★ Bavettes transitions :
+  - [x] *Titres* 
+  - [x] *Mutation*
+  - [x] *Golden Record* 
+  - [x] *Comportement*
+- [x] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
+- [x] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
+- [x] ★ *Podium* Vinyle points verts
+- [x] ★ *Période heureuse* fluidité
+
+NEW PLAQUES
+ - [x] ★★★ faire fichier générique OK
+ - [x] ★★★ print générique OK
+ - [x] ★★★ achat support plastique
+ - [x] ★★★ monter rouleau photo
+ - [x] ★★★ monter rouleau générique
+
+MARIOS
+ - [x] ★★★ système rangement mario
+
+DIVERS
+ - [x] ★★ **2H** SACD
+ - [x] ** **4H** Isolation trappes
+
+REFLECTEUR
+ - [x] ★★★ decaler axe
+ - [x] ★★★ reparer barre bouladou
+
+MACHINERIE
+ - [x] ★★ **1H** revoir 2 réglages
+ - [x] raccourcir l'avant du chariot
+
+FAUTEUIL
+ - [x] ★★★ **1H** fin polissage fauteuil
+ - [x] ★ fin couture housse
+ - [x] ★ montage fauteuils
+
+REGIE
+ - [x] ★★★ tube extérieur avec passage de cuve
+ - [x] ★★ new installation percu basse
+
+DECOR
+ - [x] ★★★ **4H** décor chambre taille double (200x145 - Remonter décor de 5cm - matelas du bord gauche au centre à 35cm du haut du décor, couverture à 20cm du haut du matelas)
+ - [x] ★★ syteme rangement décors (housse en skaï blanc)
+
+COSTUME
+ - [x] ★★★ achat costumes      
+ - [x] ★ finition prothèse (rallonge tige et col)
+
+ETANCHEITÉ
+ - [x] ★★★ **2H** finition pose joint trappe et plaque arrière
+ - [x] ★★ **1H** remplacement rivets arrière
+
+FERMETURE
+ - [x] ★★ **4H** pose volets hublot
+
+SALLE
+ - [x] ★★ pose tissus
+
+PUBLIC
+ - [x] ** Rampes escalier
+
+CLIM
+ - [x] ★★ poignée caisses clim
+ - [x] ★★ Achat Excelsior : matériel intérieur caisse clim
+ - [x] ★ conception ventilation
+
+
+### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
+ - [x] Anticiper accés et emplacement roulotte
+       
+- Mise en scène + 2 avant-premières
+
+### du 29/7/2024 au 4/8/2024, Mirepoix (09) - Mima
+- [x] Anticiper accés et emplacement roulotte
+
+- Finitions et premières
+
+- # Maintenant
+
+  A faire :
+
 CAMION
-- [x] ★★★ reparation camion
+- [ ] ★★★ reparation camion
 - [ ] ★★  caméra de recul
 
 RACK
 - [ ] ★★  finition : Caches dessous
 - [ ] ★★  finition : housses en skaï
 
-REMORQUE
-- [x] ★   finalisation fixation du cache avant
-
 PLAQUES
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
-- [ ] ★★ *Niveau de l'eau* Poignées poissons
-- [ ] ★★ Bavettes transitions :
-  - [ ] *Titres* 
-  - [ ] *Mutation*
-  - [ ] *Golden Record* 
-  - [ ] *Comportement*
-- [x] ★ *Prologue* Améliorer fluidité bateau essayer une manivelle
-- [ ] ★ *Comportement 1* Allonger rails des 2 petits caches noirs.
-- [ ] ★ *Podium* Vinyle points verts
-- [ ] ★ *Période heureuse* fluidité
-- [ ] ★ adapter fusée et *épilogue 1* en poulie
-
-NEW PLAQUES
- - [x] ★★★ faire fichier générique OK
- - [ ] ★★★ print générique OK
- - [x] ★★★ achat support plastique
- - [ ] ★★★ monter rouleau photo
- - [ ] ★★★ monter rouleau générique
-
-MARIOS
- - [ ] ★★★ système rangement mario
 
 DIVERS
- - [x] ★★ **2H** SACD
  - [ ] ★★ **2H** SACEM 
  - [ ] ★★★ **2H** Pesée
  - [ ] ★★ **4H** passage au MINES
  - [ ] ★★ **4H** Cabinet expert
  - [ ] ★★ **4H** pompier
- - [ ] ** **4H** Isolation trappes
 
 REFLECTEUR
- - [ ] ★★ **1/2H** voir remplacer papillon par mieux
  - [x] ★★★ decaler axe
- - [ ] ★★★ reparer barre bouladou
+ - [x] ★★★ reparer barre bouladou
 
 MACHINERIE
- - [ ] ★★ **1H** revoir 2 réglages
  - [ ] ★★ commander Verre cassé en 6mm
- - [x] raccourcir l'avant du chariot
-
-FAUTEUIL
- - [ ] ★★★ **1H** fin polissage fauteuil
- - [ ] ★ fin couture housse
- - [ ] ★ montage fauteuils
 
 REGIE
- - [x] ★★★ tube extérieur avec passage de cuve
  - [ ] ★ diffusion arrière passer les PVC ?
  - [ ] ★ caisse orgue
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ plaque orage
  - [ ] ★ corde contrebasse
- - [x] ★★ fixer Trackmy
- - [ ] ★★ new installation percu basse
-
-DECOR
- - [ ] ★★★ **4H** décor chambre taille double (200x145 - Remonter décor de 5cm - matelas du bord gauche au centre à 35cm du haut du décor, couverture à 20cm du haut du matelas)
- - [ ] ★★ syteme rangement décors (housse en skaï blanc)
- - [ ] ★ 2 ème décor ?
-
-COSTUME
- - [ ] ★★★ achat costumes      
- - [ ] ★ finition prothèse (rallonge tige et col)
+ - [ ] ★★ revoir position Trackmy
 
 ETANCHEITÉ
- - [ ] ★★★ **2H** finition pose joint trappe et plaque arrière
- - [ ] ★★ **1H** remplacement rivets arrière
  - [ ] ★★ **2H** passe sica bas de caisse
- - [ ] ★★ poignée trappe
 
 FERMETURE
- - [ ] ★★ **4H** pose volets hublot
- - [ ] ★★ groom x 4 ou poids
- - [ ] ★ cache arrière
+ - [ ] ★★ poignée trappe
  - [ ] ★ verrou ext trappes
 
 SALLE
  - [ ] ★★ **2H** sortie secour
- - [ ] ★★ pose tissus
- - [ ] ★ pose moquette
 
 PUBLIC
- - [ ] ** Rampes escalier
  - [ ] ★★ acces pmr
 
 CLIM
- - [x] ★★ poignée caisses clim
- - [ ] ★★ Achat Excelsior : matériel intérieur caisse clim
- - [ ] ★ conception ventilation
+ - [] ★ fixation ventilation
 
 FINITION EXT
  - [ ] ★★ bas de caisse avec Didier
  - [ ] ★ dessin extérieur (peinture ou transfert)
  - [ ] ★ niveau + boussole
 
-A FAIRE ?
- - [ ] ★ Couper verre (VITRE)
- - [ ] ★ préparer pare close
- - [ ] ★ Installer vitre (amovible ?)
-
-### Du 15/07/2024 au 21/07/2024 ou du 22/07/2024 au 28/07/2024 : Tarbes (65) - Le Parvis
- - [ ] Anticiper accés et emplacement roulotte
-       
-- Mise en scène + 2 avant-premières
-
-### du 29/7/2024 au 4/8/2024, Mirepoix (09) - Mima
-- [ ] Anticiper accés et emplacement roulotte
-
-- Finitions et premières
