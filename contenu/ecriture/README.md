@@ -4,7 +4,7 @@
 
    ![Affiche Sovenirs du futur](/contenu/photos/affiche-souvenirs.png)
 
-C'est un court metrage de 30 minutes sous forme de notes ou de fragments qui s'enchaînent.
+Souvenirs du Futur un court metrage de 30 minutes sous forme de notes ou de fragments qui s'enchaînent.
 
 ## écriture en cours
 - [Le manifeste pour souvenirs du futur](manifeste.md), les règles qui guident l'écriture.
