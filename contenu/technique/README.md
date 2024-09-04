@@ -1,5 +1,7 @@
 # Technique
 
+![Shéma d'implantation](../plans/implantation-orientation-NNE.svg)
+
 Voici la liste des questions et spécifications techniques liés au spectacle *Camera Obscura*.
 
 - [Introduction](introtechnique.md) : principes généraux qui guident notre travail
