@@ -41,20 +41,18 @@ Une feuille de 2000×1500 mm. Tous les accéssoires sont fixés dessus :
 - Vetements qui traînent.
 - etc.
 
+# Décors abandonnés 
+
 ## Cuisine
 
 Feuille de décors avec du papier-peint 2000×1500 mm
-
 Ou portant à roulette avec tissu tendu de 2000×1500 mm
-
 Table avec nappe et dossier de chaise réfléchis pour un faux-assis (debout sur le praticable
 
 ## Mur de brique
 
 En faux-vertical : au sol comme si adossé à un mur.
-
 Rouleau de lino mur de brique.
-
 Peut-être affiche de pub pour le feu sans fumée, grafiti du futur, ou autre.
 
 ## Voiture
@@ -68,9 +66,7 @@ Une feuille de décors avec en trompe l'oeil :
   - Parbrise + vitres
 
 Un volant sur pied.
-
 La feuille de décors est recto verso pour contre-champ.
-
 Ou alors une autre feuille de décors pour un plan de face.
 
 Effets :
