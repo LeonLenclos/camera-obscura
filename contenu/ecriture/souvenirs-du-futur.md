@@ -43,7 +43,7 @@ Les séquences du film sont détaillées dans ce tableau : [sequences.ods](seque
 
 > Les lots de chaussettes dépareillées dans les magasins, la publicité pour “le feu sans fumée”. Je me souviens la mort de la science-fiction, traverser l’atlantique à pied, ce livre que tout le monde prétendait avoir lu, l’objet perdu, la météorite. une fine couche de neige sur les toits ce matin de janvier.
 
-Une personne assise sur un rocher, regarde la mer. Un bateau passe au loin, en signalant sa présence avec une sirène.
+*Une personne assise sur un rocher, regarde la mer. Un bateau passe au loin, en signalant sa présence avec une sirène.*
 
 #### Je me souviens du jour où personne ne s'est levé
 
