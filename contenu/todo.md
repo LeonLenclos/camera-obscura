@@ -13,10 +13,6 @@ RACK
 PLAQUES
 - [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
 
-REFLECTEUR
- - [x] ★★★ decaler axe
- - [x] ★★★ reparer barre bouladou
-
 MACHINERIE
  - [ ] ★★ commander Verre cassé en 6mm
 
