@@ -1,13 +1,11 @@
 # Les prototypes de chambres noires
 
-![Léon intervient sur Les yeux dans le dos](../photos/les_yeux_dans_le_dos_2.jpg)
+![dessin de trois prototypes](../dessins/protos.png)
+*De gauche à droite, les cameras 01, 02 et 03*
 
 D'ici, on peut accéder aux fiches des différents protos de chambres noires (camera obscura). On distingue 2 types de réalisations :
 - Les chambres individuelles, pour 1 regardeur à la fois (00, 01, 02, 03). Concues au départ pour tester les principes optiques du projet final (05) qui accueillera le spectacle, elles peuvent être disposées dans l'espace public en libre accès.
 - Les chambres collectives pour un groupe de regardeurs dont le nombre peut varier de six (04) à vingt (05).
-
-![dessin de trois prototypes](../dessins/protos.png)
-*De gauche à droite, les cameras 01, 02 et 03*
 
 ## Chambres individuelles
 
