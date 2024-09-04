@@ -1,5 +1,5 @@
 # Camera Obscura
-[Affiche Camera Obscura](/contenu/photos/afficheCO_v1.png)
+![Affiche Camera Obscura](/contenu/photos/afficheCO_v1.png)
 
 Théâtre optique post-cinéma
 
