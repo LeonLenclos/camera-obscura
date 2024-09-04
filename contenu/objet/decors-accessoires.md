@@ -66,7 +66,7 @@ Effets :
 - Paysage qui défile (branches d'arbres à la main)
 - Goutes d'eau sur la vitre
 
-# Accéssoires
+# Accessoires
 
 - Cuillère
 - Verre d'eau
@@ -89,6 +89,4 @@ Pour masquer le vrai corps : col roulé ou tissu noir tenu à la main.
 2. L'imprimer en 1 exemplaire.
 2. Prendre en photo la personne très influente qui le tient à l'envers.
 3. Maquetter un autre numéro de "Le journal". Avec une photo en une.
-4. L'imprimer en 10 exemplaires environ. Et aggrandir un détail du journal sur une feuille de 1000 × 730 mm. 
-
-
+4. L'imprimer en 10 exemplaires environ. Et aggrandir un détail du journal sur une feuille de 1000 × 730 mm.
