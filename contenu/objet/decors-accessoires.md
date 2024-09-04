@@ -4,7 +4,6 @@ Les décors sont réfléchis pour être filmés au 1000mm.
 
 ## Dimensions
 
-
 Le décors doit être à 300 du sujet. Avec la lentille de f=1000 mm le sujet est à 1870 mm de la lentille, le décors est donc à 2170 mm. à 2170 le plan visible est de 1817×1326. En prenant ~100 de marge de chaque côté et en arrondissant on a **une feuille de décors de 2000×1500**.
 
 Voici le tableaux des dimensions que doivent avoir les feuilles de décors en fonction de la distance relative au sujet
@@ -64,20 +63,13 @@ Une feuille de décors avec en trompe l'oeil :
   - Portière
   - Tableau de bord
   - Parbrise + vitres
-
 Un volant sur pied.
 La feuille de décors est recto verso pour contre-champ.
 Ou alors une autre feuille de décors pour un plan de face.
-
 Effets :
-
 - Paysage qui défile (branches d'arbres à la main)
 - Goutes d'eau sur la vitre
 
-### Photos de référence
-
-ATTENTION ces ref émulent un 750mm, sûrment plutot tournés au 1000mm
-![](../photos/reference_voiture_1.jpg) ![](../photos/reference_voiture_2.jpg) ![](../photos/reference_voiture_3.jpg)
 # Accéssoires
 
 Facile :
@@ -86,22 +78,15 @@ Facile :
 - Lunettes de retournement de la vision
 - Livre conducteur
 - clavier
-- Micro
-- 2 téléphones
-
 
 Effets :
-- Paillette
-- Buée
-
-Moins facile :
+- Paillette (à trouver)
+- Buée (à trouver)
 
 ## Prothèse
 
-Fausses mains, journal, bust, épaule et cou sur sac à dos ?
-
+Fausses mains, journal, buste, épaule et cou
 Manipulation possible des mains (légère souplesse)
-
 Pour masquer le vrai corps : col roulé ou tissu noir tenu à la main.
 
 ## Journaux
