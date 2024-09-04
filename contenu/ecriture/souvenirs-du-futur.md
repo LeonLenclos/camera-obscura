@@ -161,11 +161,11 @@ D'autres qui pour une raison que personne ne peut expliquer, n'avaient pas parti
 
 #### La conversation
 
-*Une longue conversation téléphonique passionnée pendant laquelle deux personnes ne disent rien. *
+*Une longue conversation téléphonique passionnée pendant laquelle deux personnes ne disent rien.*
 
 #### L'ultime chanson
 
-*Une mélodie jouée en gros plan sur un clavier*
+*Une mélodie jouée en gros plan sur un clavier.*
 
 > Il n’existe pas une infinité de mélodies possibles. À une époque où on pensait les avoir toutes inventées ce qui plongea le monde de la composition musicale dans une longue période de crise.
 
