@@ -7,9 +7,9 @@
 C'est un court metrage de 30 minutes sous forme de notes ou de fragments qui s'enchaînent.
 
 ## écriture en cours
-- [Textes voix-off](textes-voix-off.md), les textes interprétés pendant le films
 - [Le manifeste pour souvenirs du futur](manifeste.md), les règles qui guident l'écriture.
 - [*Souvenirs du futur*](souvenirs-du-futur.md), Le film.
+- [Textes voix-off](textes-voix-off.md), les textes interprétés pendant le films
 - [Story Board](storyboard.md), Storyboard pour *Souvenirs du futur*.
 - [intro](intro.md), Le texte d'intro pour accueillir les gens dans la camera obscura.
 - [Conduite Léon](conduite-leon.md), Une ébauche de conduite.
