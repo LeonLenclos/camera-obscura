@@ -36,23 +36,24 @@ Les séquences du film sont détaillées dans ce tableau : [sequences.ods](seque
 
 ## Éléments
 
+#### Générique début
 
 #### Prologue
+
+*Une personne assise sur un rocher, regarde la mer. Un bateau passe au loin, en signalant sa présence avec une sirène.*
 
 > Je me souviens les guerres de l’eau. Des fêtes qui n’en finissaient pas dans les centres commerciaux abandonnés, le discours des “deux façons de voir les choses” et la révolte du paradigme. Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l’interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouches qui nous tournaient autour. qui a écrit cette chanson ? personne n’a écrit cette chanson, cette chanson s’est écrite toute seule. 
 
 > Les lots de chaussettes dépareillées dans les magasins, la publicité pour “le feu sans fumée”. Je me souviens la mort de la science-fiction, traverser l’atlantique à pied, ce livre que tout le monde prétendait avoir lu, l’objet perdu, la météorite. une fine couche de neige sur les toits ce matin de janvier.
 
-*Une personne assise sur un rocher, regarde la mer. Un bateau passe au loin, en signalant sa présence avec une sirène.*
-
 #### Je me souviens du jour où personne ne s'est levé
+
+*Une personne dans son lit, la lumière du petit matin entre par la fenêtre.*
 
 > Tout le monde adore être dans son lit.  
 > Un jour les gens adorèrent tellement être dans leur lit, que sans se passer le mot personne ne se leva.  
 > Les personnes qui n'avaient pas de lit ou qui n'étaient pas dans leur lit à ce moment là, se sont précipités vers le premier lit qu'ils trouvèrent.  
 D'autres qui pour une raison que personne ne peut expliquer, n'avaient pas particulièrement envie d'être dans un lit, ont profité de l'occasion pour devenir les maîtres du monde.  
-
-*Une personne dans son lit, la lumière du petit matin entre par la fenêtre.*
 
 ![Dessin lit](/contenu/dessins/lit.jpg)
 
@@ -64,21 +65,21 @@ D'autres qui pour une raison que personne ne peut expliquer, n'avaient pas parti
 
 #### Le plein emploi
 
-> Les métiers des gens ne ressemblaient en rien à ce que le monde avait connu jusque là. Le travail de la personne assise à la terrasse là-bas c’était de boire du café. La personne qui marche avec le sac de course son métier c’était de toujours savoir l’heure. Telle autre personne avait pour travail de se cacher derrière des arbres. Même ne rien faire était devenu un métier.
-
 *Un plan large de l'espace public, où des gens s'affairent.*
+
+> Les métiers des gens ne ressemblaient en rien à ce que le monde avait connu jusque là. Le travail de la personne assise à la terrasse là-bas c’était de boire du café. La personne qui marche avec le sac de course son métier c’était de toujours savoir l’heure. Telle autre personne avait pour travail de se cacher derrière des arbres. Même ne rien faire était devenu un métier.
 
 #### La mode
 
-> La mode c'est des cycles de toute façon. Quelque chose qui était tendance il y a un siècle peut être démodé aujourd'hui et de nouveau à la mode dans un siècle. Et ça vaut autant pour les vêtements que pour l'architecture et même la façon de parler. Là par exemple quand je vois une image comme ça je me dis ça fait très 26e siècle. Mais ça pourrait être aussi les années 2200 parce que en vrai, esthétiquement le 26e siècle c'était juste un retour aux années 2200. Et pendant les années 2200 on était très influencés par la première moitié du 21e siècle... Donc c'est difficile de trancher, il faut bien connaître les périodes et se fier à des petits détails...
-
 *Une personne surligne au feutre les détails d'une photo intemporelle.*
+
+> La mode c'est des cycles de toute façon. Quelque chose qui était tendance il y a un siècle peut être démodé aujourd'hui et de nouveau à la mode dans un siècle. Et ça vaut autant pour les vêtements que pour l'architecture et même la façon de parler. Là par exemple quand je vois une image comme ça je me dis ça fait très 26e siècle. Mais ça pourrait être aussi les années 2200 parce que en vrai, esthétiquement le 26e siècle c'était juste un retour aux années 2200. Et pendant les années 2200 on était très influencés par la première moitié du 21e siècle... Donc c'est difficile de trancher, il faut bien connaître les périodes et se fier à des petits détails...
 
 #### Une période heureuse (les gens étaient heureux même dans les files d'attente)
 
-![Dessin période heureuse](/contenu/dessins/files-d-attente.jpg)
-
 *Une queue devant la pharmacie.*
+
+![Dessin période heureuse](/contenu/dessins/files-d-attente.jpg)
 
 #### Le jour où la lune s'est écrasée sur terre.
 
@@ -86,9 +87,9 @@ D'autres qui pour une raison que personne ne peut expliquer, n'avaient pas parti
 
 #### Le bon sens
 
-> Un jour, une personne très influente a été vue en train de tenir le journal à l’envers. Très vite, tout le monde s’est mis à l’imiter et c’est devenu l’usage. Pour simplifier la lecture on s’équipait de lunettes spéciales. On a ensuite inventé des dispositifs permettant de retourner, d’abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste. À partir du moment où tout s’est retrouvé dans le même sens, on a vite oublié l’incident.
-
 *La une d'un quotidien relate l'information. La personne qui lit ce journal le retourne puis s'équipe de lunettes spéciales. Une autre personne lit le journal la tête complètement retournée. Une autre personne lit le journal complètement retournée. finalement tout est retourné.*
+
+> Un jour, une personne très influente a été vue en train de tenir le journal à l’envers. Très vite, tout le monde s’est mis à l’imiter et c’est devenu l’usage. Pour simplifier la lecture on s’équipait de lunettes spéciales. On a ensuite inventé des dispositifs permettant de retourner, d’abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste. À partir du moment où tout s’est retrouvé dans le même sens, on a vite oublié l’incident.
 
 ![Dessin bon sens](/contenu/dessins/bon-sens.png)
 
@@ -116,9 +117,9 @@ D'autres qui pour une raison que personne ne peut expliquer, n'avaient pas parti
 
 #### La blague
 
-> De temps en temps on faisait semblant d'oublier le nom de la ville et du pays dans lesquels on habitait. C'était une blague très populaire et très représentative de l'humour pratiqué à cette époque.
-
 *Une personne face caméra esquisse un très subtil sourire.*
+
+> De temps en temps on faisait semblant d'oublier le nom de la ville et du pays dans lesquels on habitait. C'était une blague très populaire et très représentative de l'humour pratiqué à cette époque.
 
 #### Une période malheureuse (les gens étaient malheureux même dans les parcs d'attraction)
 
@@ -126,23 +127,25 @@ D'autres qui pour une raison que personne ne peut expliquer, n'avaient pas parti
 
 #### Le Golden Record
 
-> À la fin du 20e siècle, on avait fabriqué un disque en or sur lequel on avait gravé des musiques et d’autres traces d’humanité et on l’avait envoyé dans l’espace.
-
 *Une fusée s'envolle.*
 
-> C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir. Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu.
+> À la fin du 20e siècle, on avait fabriqué un disque en or sur lequel on avait gravé des musiques et d’autres traces d’humanité et on l’avait envoyé dans l’espace.
 
 *Un autre habitant de l'univers observe le golden record.*
 
-> La déception fut totale quand on retrouva le disque d’or en vente sur un site de petites annonces.
+> C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir. Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu.
 
 *Une personne devant son ordinateur.*
 
+> La déception fut totale quand on retrouva le disque d’or en vente sur un site de petites annonces.
+
 #### La température idéale
 
-Une personne enfile des doudounes les unes après les autres.
+*Une personne enfile des doudounes les unes après les autres.*
 
 #### Le comportement
+
+*Une personne inquiète regarde de droite à gauche.*
 
 > Naturellement les individus n'avaient aucun moyen de savoir si il étaient surveillés, par qui et pourquoi. Mais le simple fait d'imaginer que ça puisse être le cas déclenchait chez certains des comportements suspects.
 
@@ -150,12 +153,11 @@ Une personne enfile des doudounes les unes après les autres.
 
 > Un individu qui cumulait plusieurs de ces marqueurs était rapidement pris à partie par ses congénères. Mais en cherchant à justifier son comportement, il n'aurait fait qu'exacerber leur imagination quand aux raisons de sa fébrilité.
 
-*Regards qui évitent le contact visuel ou qui, a contrario, cherchent le contact avec d'autres individus éloignés.*
+*Regards d'un groupe de personnes qui évitent le contact visuel ou qui, a contrario, cherchent le contact avec d'autres individus éloignés.*
 
 > Il suffisait donc d'éviter de fournir des détails inutiles, donner des réponses simples, ne pas nourrir les fantasmes des autres. Et en général, ça se passait bien.
 
 *Ding. L'image se fige.*
-
 
 #### La conversation
 
@@ -163,16 +165,18 @@ Une personne enfile des doudounes les unes après les autres.
 
 #### L'ultime chanson
 
-> Il n’existe pas une infinité de mélodies possibles. À une époque où on pensait les avoir toutes inventées ce qui plongea le monde de la composition musicale dans une longue période de crise.
-
 *Une mélodie jouée en gros plan sur un clavier*
 
-> Puis un jour, un chanteur découvrit une nouvelle mélodie qui avait, pour une raison que personne ne peut expliquer, échappé aux générations précédentes. Cette ultime chanson devint vite un tube interplanétaire, c’était une légère variation d’un célèbre morceau de la fin du deuxième millénaire.
+> Il n’existe pas une infinité de mélodies possibles. À une époque où on pensait les avoir toutes inventées ce qui plongea le monde de la composition musicale dans une longue période de crise.
 
 *Un chanteur interprète un tube interplanétaire.*
 
+> Puis un jour, un chanteur découvrit une nouvelle mélodie qui avait, pour une raison que personne ne peut expliquer, échappé aux générations précédentes. Cette ultime chanson devint vite un tube interplanétaire, c’était une légère variation d’un célèbre morceau de la fin du deuxième millénaire.
+
 #### Épilogue
+
+*Une personne émerge de l'eau, et flotte doucement dans la mer.*
 
 > Je me souviens que tout était différent, toujours, différent et pourtant pareil, on ne s’y attendait pas, il n’y a plus de saison, il y a trop de saisons, il y a juste assez de saisons, la cruauté des humains n’a pas de limite, la cruauté des humains a des limites, c’est le meilleur petit-déjeuner de ma vie, qui a laissé la fenêtre ouverte ? j’ai déjà vu ça quelque part. Tout change, rien ne change, et chaque génération qui pense être la première génération du futur et qui finit par découvrir, amère, qu’elle n’est que la dernière génération du passé.
 
-*Une personne émerge de l'eau, et flotte doucement dans la mer.*
+#### Générique de fin
