@@ -3,8 +3,8 @@
 ### Séquences
 
 1. Prologue
-2. Je me souviens du jour où personne ne s’est levé
-3. Je me souviens le niveau de l’eau
+2. Le jour où personne ne s’est levé
+3. Le niveau de l’eau
 4. Le plein emploi
 5. La mode
 6. Une période heureuse (les gens étaient heureux même dans les files d’attente)
@@ -17,7 +17,7 @@
 13. Une période malheureuse (les gens étaient malheureux même dans les parcs
 d’attractions)
 14. Le Golden Record 
-15. Je me souviens le froid 
+15. La température idéale
 16. Le comportement 17.La conversation 
 18. L’ultime chanson 
 19. Épilogue
@@ -28,7 +28,7 @@ qui a écrit cette chanson ? personne n’a écrit cette chanson, cette chanson 
 
 Les lots de chaussettes dépareillées dans les magasins, la publicité pour “le feu sans fumée”. Je me souviens la mort de la science-fiction, traverser l’atlantique à pied, ce livre que tout le monde prétendait avoir lu, l’objet perdu, la météorite.
 une fine couche de neige sur les toits ce matin de janvier.
-### 2. Je me souviens du jour où personne ne s’est levé
+### 2. Le jour où personne ne s’est levé
 Tout le monde adore être dans son lit.
 
 Un jour les gens adorèrent tellement être dans leur lit, que sans se passer le mot personne ne se leva.
@@ -36,7 +36,7 @@ Un jour les gens adorèrent tellement être dans leur lit, que sans se passer le
 Ceux qui n’avaient pas de lit, ou qui n’étaient pas dans leur lit à ce moment là, se sont précipités vers le premier lit qu’ils trouvèrent.
 
 D’autres qui pour une raison que personne ne peut expliquer, n’avaient pas particulièrement envie d’être dans un lit, ont profité de l’occasion pour devenir les maîtres du monde.
-### 3. Je me souviens le niveau de l’eau 
+### 3. Le niveau de l’eau
 ### 4. Le plein emploi
 Les métiers des gens ne ressemblaient en rien à ce que le monde avait connu jusque là. Le travail de la personne assise à la terrasse là-bas c’était de boire du café. La personne qui marche avec le sac de course son métier c’était de toujours savoir l’heure. Telle autre personne avait pour travail de se cacher derrière des arbres. Même ne rien faire était devenu un métier.
 ### 5. Une période heureuse (les gens étaient heureux même dans les files d’attente)
@@ -62,7 +62,7 @@ De temps en temps on faisait semblant d’oublier le nom de la ville et du pays 
 À la fin du 20e siècle, on avait fabriqué un disque en or sur lequel on avait gravé des musiques et d’autres traces d’humanité et on l’avait envoyé dans l’espace.
 C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir.
 Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu. La déception fut totale quand on retrouva le disque d’or en vente sur un site de petites annonces.
-### 14. Je me souviens le froid 
+### 14. La température idéale 
 ### 15. Le comportement
 Les individus n’avaient aucun moyen de savoir si il étaient surveillés, par qui et pourquoi. Mais le simple fait d’imaginer que ça puisse être le cas déclenchait chez certains des comportements suspects.
 
