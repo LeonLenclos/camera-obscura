@@ -23,9 +23,7 @@ d’attractions)
 19. Épilogue
 
 ### 1. Prologue
-Je me souviens les guerres de l’eau. Des fêtes qui n’en finissaient pas dans les centres commerciaux abandonnés, le discours des “deux façons de voir les choses” et la révolte du paradigme.
-
-Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l’interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouches qui nous tournaient autour.
+Je me souviens les guerres de l’eau. Des fêtes qui n’en finissaient pas dans les centres commerciaux abandonnés, le discours des “deux façons de voir les choses” et la révolte du paradigme. Je me souviens du mot interdit, les bonbons à la betterave, la première nouvelle couleur, la deuxième nouvelle couleur, comment on était bien dans ce village sans nom, l’interdiction de regarder les agents dans les yeux. Deux couchés de soleil dans la même journée, je me souviens des mouches qui nous tournaient autour.
 qui a écrit cette chanson ? personne n’a écrit cette chanson, cette chanson s’est écrite toute seule.
 
 Les lots de chaussettes dépareillées dans les magasins, la publicité pour “le feu sans fumée”. Je me souviens la mort de la science-fiction, traverser l’atlantique à pied, ce livre que tout le monde prétendait avoir lu, l’objet perdu, la météorite.
