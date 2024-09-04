@@ -2,6 +2,7 @@
 
 ![Pose de vinyle](../photos/plaque-vinyle-1-light.jpeg)
 
+
 Objets utilisés dans le film [*Souvenirs du futur*](../ecriture/souvenirs-du-futur.md).
 
 - [Décors et accessoires](decors-accessoires.md)
