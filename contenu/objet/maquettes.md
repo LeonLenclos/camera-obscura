@@ -1,4 +1,4 @@
-# Maquettes
+# Maquettes (abandonné)
 
 Deux paysages de route en campagne, dans deux saisons (printemps/hiver).
 
