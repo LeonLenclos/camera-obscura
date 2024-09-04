@@ -1,9 +1,10 @@
 #  Chambre Remorque
 
 ## Description générale
-Une remorque est transformée en cinéma itinérant en adaptant l'avant du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
 ![Photo de la remorque à MIMA](photos/DSC07348%20copie%20light.JPG)
+
+Une remorque est transformée en cinéma itinérant en adaptant l'avant du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
 ## Allure
 Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté flèche.
