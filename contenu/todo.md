@@ -1,137 +1,67 @@
 {% include alert.html type="pas-interessant" %}
 
 # TODO
-
-## À faire production
-
-- [ ] Relance courrier partenaires avec dossier + lien du site
-- [ ] Dossier Adami
-- [ ] Contact Louis Lumière
-- [ ] Contacter GAP
-- [x] Rdv Scenes croisées
-
-## À faire contruction remorque et extrastucture
-
-### Aménagement intérieur 
-
-- [x] Réparer manchons décentrés
-- [x] Faire les hublots 
-- [x] couper les verres hublots
-- [x] Huisseries
-- [x] Finir trappes avant (charnières)
-- [x] Fixation Écran
-- [x] pose grille extraction
-- [x] Finir pose des rails
-- [x] Passer des gaines
-- [ ] diffusion arrière passer les PVC
-- [ ] Faire passe étanchéité dans les trappes (Mastic PU)
-- [ ] Fermoir trappe + pose joint trappe
-- [ ] réparer lumière (avant G)
-- [x] habillage alu bas grille extraction
-- [x] cornière trappe est
-- [x] Médium mur sud
-- [x] cales plafond
-- [x] finition Médium raccord plafond
-- [x] alu trappe
-- [x] verrou trappe
-- [x] contre marche
-- [x] isolation sous plancher bas
-- [x] grille sur plancher
-- [x] coup de peinture noire
-- [ ] pose Caméra recul
-- [x] coupe alu fauteuil
-- [x] test enduit bas de caisse galva
-- [x] redessiner caisses à la bonne dimension
-- [x] prepa alu caisses
-- [ ] dessiner escalier
-- [ ] couper alu escalier
-
-### Avec Fabien
-
- - [x] série fauteuils
- - [x] claisse clim
- - [x] support Amici
- - [ ] Escalier principal
-
-### Exostructure/écran
-
- - [x] cadre vitre soufflet
- - [ ] conception accroche souflet
- - [ ] réalisation accroche souflet
- - [ ] Adapter le soufflet
- - [ ] Fabriquer le cache avant
- - [ ] conception cage exterieure/Exostructure en tube
- - [ ] réalisation cage exterieure/Exostructure en tube
- - [ ] diffusion arrière passer les PVC
- - [ ] conception barillet
- - [ ] réalisation barillet
- - [ ] conception télécommande
- - [ ] réalisation télécommande
- - [ ] conception réflecteur
- - [ ] réalisation réflecteur
- - [ ] conception castelet
- - [ ] réalisation castelet
- - [ ] medium mur nord
- - [ ] pose Caméra recul
- - [ ] cache écran
- - [ ] Habillage structure écran
- - [ ] escalier de service et ascenseur PMR
-
-### Finition siège
-
-- [ ] bois sièges
-- [ ] mousse sièges
-- [ ] tissus sièges
-
-### Finitions
-
-- [ ] ventilation
-- [ ] pose tissus
-- [ ] conception volet hublot
-- [ ] réalisation volet hublot
-- [ ] Finitions interieur hublot
-- [ ] faux plafond en CP 5mm
-- [ ] pose moquette
-- [ ] dessin extérieur (peinture ou transfert)
-- [ ] niveau + boussole
-
-
-### Long terme
-
-- [ ] Étanchéifier rivets
-- [ ] supplément isolation trappes régie (liège ?)
-- [ ] Ascenceur
       
-## À faire homologation remorque
+CAMION
+- [ ] ★★★ reparation camion
+- [ ] ★★  caméra de recul
 
-- [ ] passer la remorque aux Mines :
+RACK
+- [ ] ★★  finition : Caches dessous
+- [ ] ★★  finition : housses en skaï
 
+PLAQUES
+- [ ] ★★ Trouver, acheter 12 petites pinces dexter pour anim
+
+REFLECTEUR
+ - [x] ★★★ decaler axe
+ - [x] ★★★ reparer barre bouladou
+
+MACHINERIE
+ - [ ] ★★ commander Verre cassé en 6mm
+
+REGIE
+ - [ ] ★ diffusion arrière passer les PVC ?
+ - [ ] ★ caisse orgue
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ plaque orage
+ - [ ] ★ corde contrebasse
+ - [ ] ★★ revoir position Trackmy
+
+ETANCHEITÉ
+ - [ ] ★★ **2H** passe sica bas de caisse
+
+FERMETURE
+ - [ ] ★★ poignée trappe
+ - [ ] ★ verrou ext trappes
+
+SALLE
+ - [ ] ★★ **2H** sortie secour
+
+PUBLIC
+ - [ ] ★★ acces pmr
+
+CLIM
+ - [] ★ fixation ventilation
+
+FINITION EXT
+ - [ ] ★★ bas de caisse avec Didier
+ - [ ] ★ dessin extérieur (peinture ou transfert)
+ - [ ] ★ niveau + boussole
+
+
+DIVERS
+ - [ ] ★★ **2H** SACEM 
+ - [ ] ★★★ **2H** Pesée
+ - [ ] ★★ **4H** Cabinet expert
+ - [ ] ★★ **4H** pompier
+ - [ ] ★★ **4H** passage au MINES
 **Unité inter-départementale du Tarn et de l’Aveyron**  
 Cité administrative  
 19, Avenue de Ciron  
 81013 ALBI CEDEX 9  
 jeudi matin de 9h00 à 11h30 	
 Renseignements d’ordre technique uniquement le jeudi de 9h00 à 11h30 au 05.81.27.54.99  
-
 Courriel : uid-81-12.dreal-occitanie@developpement-durable.gouv.fr
-
-- [ ] contacter bureau de controle BVCTS ou DIVERSIS
-- [ ] Soumettre dossier au SDIS81
-
-## À acheter
-
-### Courses
-
-- [x] Visseries hublots (25mm M5 ??? BTR bombé)
-- [x] camera de recul
-- [ ] joint trappe
-- [ ] CP M1 plafond et sièges 5mm peuplier
-- [ ] 10 crochets de 50 mm
-- [ ] 12 crochets de 35 mm
-- [ ] vitres (Avant)
-- [ ] moquette
-- [ ] mousse siège CMHR (5 cm pour assise/3 cm pour le dossier) - contact@guiraud-mousse.fr
-- [ ] tissus siège
-
 
 
