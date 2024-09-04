@@ -14,7 +14,7 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 ## Matériaux
 
 ### Chassis et structure
-- Remorque BW TINY HOUSE CH 600, charpente et carosserie alu.
+- Remorque BW TINY HOUSE CH 600 en galva, charpente et carosserie en alu.
 
 ### Isolation et finition
 - Laine de coton 100mm, Panneau de bois et molleton.
@@ -27,14 +27,19 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 
 ### Fauteuils
 - Structure en alu, assise et dossier en contre-plaqué, mousse et tissus.
-- [La page consacrée aux fauteuils](technique/fauteuils.md)
-  
+
+### souflet
+- skay blanc, carton et coton gratté noir.
+
 ### Objectif
 - bonnettes macros pour objectifs cinéma (dia : 138 mm) et palets bruts d'opticien en polycarbonate (dia : 80 mm).
 
-### Accessoires
-- Pour retourner l'image, on utilise un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
+### Miroirs
+- Pour retourner l'image, on utilise un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90° fixés sur un cadre alu.
 
+### Exostructure et praticables
+- structure en tube alu carré 30 et rond 50 mm et 35 mm, plancher en CP antidérapant
+  
 ## Évaluation des avantages et des inconvénients
 
 ### Avantages
@@ -42,6 +47,7 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 - ultra grand format
 - très confortable pour le public
 - ensemble relativement léger
+- montage rapide
 
 ### Inconvénients
 - climatisation et ventilation correcte mais perfectible
