@@ -2,7 +2,7 @@
 
 ## Description générale
 
-![Photo de la remorque à MIMA](photos/co-mima-1.JPG)
+![Photo de la remorque à l'escaladieu](photos/co-escaladieu-1.JPG)
 
 Une remorque est transformée en cinéma itinérant en adaptant l'avant du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
 
