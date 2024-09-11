@@ -17,11 +17,7 @@ JEU
  - [ ] rail (2 arches + 2 traverses)
  - [ ] Chariot + miroir Amici
  - [ ] Soufflet
- - [ ] Valises costumes : ?
- - [ ] Instruments en place
->  - [ ]  (gramophone avec disque, cale et aiguilles + Guitare avec médiateur et bottle neck + scie + orgue + sanza + machine à pluie + machien à vent + clés + coquillages +
  - [ ] Tuyau PVC voix extérieures
- - [ ] Accessoires jeu : ?
  - [ ] 2 ventilos sur pieds
  - [ ] 4 ventilos 12 V
  - [ ] 1 batterie 12V + Chargeur
@@ -30,6 +26,31 @@ JEU
  - [ ] Tissus Bavettes noires
  - [ ] 1 enrouleur tuyau eau + adaptateur
  - [ ] Talkies
+ - [ ]  Instruments en place
+>  - [ ]  (gramophone avec disque, cale et aiguilles
+>  - [ ]  Guitare avec médiateur et bottle neck
+>  - [ ]  scie avec colophane et archet
+>  - [ ]  orgue avec pédale et ficelle
+>  - [ ]  sanza
+>  - [ ]  machine à pluie
+>  - [ ]  machien à vent
+>  - [ ]  clés
+>  - [ ]  coquillages
+>  - [ ]  machine à tonerre
+>  - [ ]  daff
+>  - [ ]  appeau
+>  - [ ]  Tube ré
+>  - [ ]  2 sticks et 2 mailloches
+>  - [ ]  sceau eau + éponge
+>  - [ ]  talon aiguille
+ - [ ] Valises costumes
+>  - [ ]
+>  - [ ]
+>  - [ ]
+ - [ ] Accessoires jeu
+>  - [ ]
+>  - [ ]
+>  - [ ]
 
 OUTILS/MAINTENANCE
  - [ ] Makita avec embouts et selection mèches
