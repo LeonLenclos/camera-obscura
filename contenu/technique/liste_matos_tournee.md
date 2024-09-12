@@ -52,6 +52,12 @@ JEU
 >  - [ ]
 >  - [ ]
 
+SPARE
+ - [ ] spare optiques
+ - [ ] spare miroirs
+ - [ ] spare gramophone + disque
+
+
 OUTILS/MAINTENANCE
  - [ ] Makita avec embouts et selection mèches
  - [ ] Caisse outil rouge
