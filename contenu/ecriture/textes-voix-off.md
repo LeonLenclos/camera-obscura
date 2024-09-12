@@ -18,7 +18,8 @@
 d’attractions)
 14. Le Golden Record 
 15. La température idéale
-16. Le comportement 17.La conversation 
+16. Le comportement
+17. La conversation 
 18. L’ultime chanson 
 19. Épilogue
 
@@ -39,38 +40,38 @@ D’autres qui pour une raison que personne ne peut expliquer, n’avaient pas p
 ### 3. Le niveau de l’eau
 ### 4. Le plein emploi
 Les métiers des gens ne ressemblaient en rien à ce que le monde avait connu jusque là. Le travail de la personne assise à la terrasse là-bas c’était de boire du café. La personne qui marche avec le sac de course son métier c’était de toujours savoir l’heure. Telle autre personne avait pour travail de se cacher derrière des arbres. Même ne rien faire était devenu un métier.
-### 5. Une période heureuse (les gens étaient heureux même dans les files d’attente)
-### 6. Le jour où la lune s’est écrasée sur terre.
-### 7. Le bon sens
+### 5. La mode
+La mode c’est des cycles de toute façon. Quelque chose qui était tendance il y a un siècle peut être démodé aujourd’hui et de nouveau à la mode dans un siècle. Et ça vaut autant pour les vêtements que pour l’architecture et même la façon de parler. Une image comme celle là est vraiment difficile à dater. Il faut bien connaître les périodes et se fier à des petits détails...
+### 6. Une période heureuse (les gens étaient heureux même dans les files d’attente)
+### 7. Le jour où la lune s’est écrasée sur terre.
+### 8. Le bon sens
 Un jour, une personne très influente a été vue en train de tenir le journal à l’envers. Très vite, tout le monde s’est mis à l’imiter et c’est devenu l’usage. Pour simplifier la lecture on s’équipait de lunettes spéciales. On a ensuite inventé des dispositifs permettant de retourner, d’abord seulement la tête, puis le corps et bientôt les maisons, les arbres, les voitures, les villes et le reste. À partir du moment où tout s’est retrouvé dans le même sens, on a vite oublié l’incident.
-### 8. La mutation
+### 9. La mutation
 Même si personne n’était d’accord sur les raisons d’un tel changement, tout le monde est bien obligé de constater que la puissance du soleil déclinait.
 
 Imperceptiblement les journées étaient de plus en plus sombres et commençaient à ressembler aux nuits. Génération après génération les humains évoluèrent pour s’adapter à cette situation.
-### 9. Les vacances à Saint-Tropez 
-### 10. Le podium
+### 10. Les vacances à Saint-Tropez 
+### 11. Le podium
 Tout a commencé quand une personne très influente est arrivée quatrième et s’est plainte de ne pas être sur le podium.
 Mais comme quatre marches c’était pas beau, on a tout de suite décidé d’en faire cinq. Le cinquième qui n’avait rien demandé était bien content,
 Mais le sixième et le septième pas du tout.
 Une chose en entraînant une autre on s’est retrouvé avec vraiment beaucoup de marches.
 Monter tout en haut est devenu difficile, très long et épuisant.
 Une chose en entraînant une autre, monter en haut du podium est devenu le nouveau sport.
-### 11. La blague
+### 12. La blague
 De temps en temps on faisait semblant d’oublier le nom de la ville et du pays dans lesquels on habitait. C’était une blague assez populaire et très représentative de l’humour pratiqué à cette époque.
-### 12. Une période malheureuse (les gens étaient malheureux même dans les parcs d’attraction)
-### 13. Le Golden Record
+### 13. Une période malheureuse (les gens étaient malheureux même dans les parcs d’attraction)
+### 14. Le Golden Record
 À la fin du 20e siècle, on avait fabriqué un disque en or sur lequel on avait gravé des musiques et d’autres traces d’humanité et on l’avait envoyé dans l’espace.
 C’était un genre de cadeau destiné aux autres habitants de l’univers en espérant que ça leur ferait plaisir.
 Les autres habitants avaient fini par répondre 100 ans plus tard en envoyant un petit mot de remerciement très poli mais un peu convenu. La déception fut totale quand on retrouva le disque d’or en vente sur un site de petites annonces.
-### 14. La température idéale 
-### 15. Le comportement
+### 15. La température idéale 
+### 16. Le comportement
 Les individus n’avaient aucun moyen de savoir si il étaient surveillés, par qui et pourquoi. Mais le simple fait d’imaginer que ça puisse être le cas déclenchait chez certains des comportements suspects.
 
 Un individu qui cumulait plusieurs de ces marqueurs était rapidement pris à partie par ses congénères. Mais en cherchant à justifier son comportement, il n’aurait fait qu’exacerber leur imagination quand aux raisons de sa fébrilité.
 
 Il valait mieux éviter de fournir des détails inutiles, donner des réponses simples, ne pas nourrir les fantasmes des autres. Et en général, ça se passait bien.
-### 16. La mode
-La mode c’est des cycles de toute façon. Quelque chose qui était tendance il y a un siècle peut être démodé aujourd’hui et de nouveau à la mode dans un siècle. Et ça vaut autant pour les vêtements que pour l’architecture et même la façon de parler. Une image comme celle là est vraiment difficile à dater. Il faut bien connaître les périodes et se fier à des petits détails...
 ### 17. La conversation 
 ### 18. L’ultime chanson
 Il n’existe pas une infinité de mélodies possibles. À une époque où on pensait les avoir toutes inventées ce qui plongea le monde de la composition musicale dans une longue période de crise.
