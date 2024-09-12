@@ -58,12 +58,12 @@ JEU
    - [ ]  Seau eau + éponge
    - [ ]  Talon aiguille
  - [ ] Valises costumes
-   - [ ]
-   - [ ]
+   - [ ] ...
+   - [ ] ...
  - [ ] Prothèse
  - [ ] Valise Accessoires jeu
-   - [ ]
-   - [ ]
+   - [ ] ...
+   - [ ] ...
  - [ ] Clavier
  - [ ] Tabouret de jeu
  - [ ] Corde et pancartes "spectacle en cours"
