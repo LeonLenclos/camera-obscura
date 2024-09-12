@@ -1,14 +1,14 @@
 JEU
- - [ ] remorque Camera Obscura + roue de secour + antivol + clés
+ - [ ] remorque Camera Obscura + roue de secour + antivol rouge + clés
  - [ ] jeu de cales bois et basteing
  - [ ] Manivelle
  - [ ] 2 cales métal
  - [ ] niveau bulle jaune
  - [ ] sac mangrove accessoire CO (poignées portes, Poulie niveau de l'eau, 12 jonctions praticables, 2 cornières réflecteur, 12 ? colliers clamp)
- - [ ] 3 rack anim
- - [ ] 1 rack mario
- - [ ] 2 décors cuisine
- - [ ] reflecteur + 2 triangles + 4 traverses + 2 bidons + 2 élingues + table polycarbonate accessoires
+ - [ ] 3 racks anim
+ - [ ] 1 racks mario
+ - [ ] 2 décors chambre
+ - [ ] reflecteur + 2 triangles + 4 traverses + 2 bidons + 2 élingues + table polycarbonate accessoires +
  - [ ] 3 praticables + 8 pieds 80 + 8 pieds 40 + 4 escaliers
  - [ ] 16 lawyer
  - [ ] 4 rails plaques (3m + 2m)+ pied gravity avec adaptateur
