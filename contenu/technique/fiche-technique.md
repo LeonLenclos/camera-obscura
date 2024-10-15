@@ -7,7 +7,7 @@
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
-[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
+[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/Fiche technique _ Camera Obscura_2410.pdf)</span>
 
 ## Équipe
 
