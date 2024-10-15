@@ -40,9 +40,9 @@ Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interi
 Total : 40 minutes
 
 ### Horaires
-4 représentations par jour à des horaires ensoleillés.
+5 représentations par jour à des horaires ensoleillés.
 
-Par exemple : 11h00 - 11h30 / 13h00 - 13h30 / 14h30 - 15h00 / 16h00 - 16h30
+Par exemple : 11h00 - 11h30 / 12h00 - 12h30 / 14h00 - 14h30 / 15h00 - 15h30 / 16h00 - 16h30
 
 <div class="page-break"></div>
 
@@ -51,9 +51,9 @@ Par exemple : 11h00 - 11h30 / 13h00 - 13h30 / 14h30 - 15h00 / 16h00 - 16h30
 ### Jauge 
 Par représentation :
 
-- 21 places assises
-- ou 19 places assises + 1 place PMR
-- ou 17 places assises + 2 places PMR
+- 25 places assises (21 fauteuils et 4 strapontins)
+- ou 23 places assises + 1 place PMR
+- ou 21 places assises + 2 places PMR
 
 ### Accessibilité
 - Accès PMR : en cours de conception, accès non-garanti pour l'instant.
@@ -68,7 +68,7 @@ Par représentation :
 
 ### Accès au site
 
-Véhicules :
+Véhicules sur site :
 - La "remorque" : la salle de spectacle *Camera Obscura*
 - Le "camion" : transport du matériel, tracteur de la remorque et loge
 
@@ -86,7 +86,7 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 ### Montage/Démontage
 - Montage : 1 service
 - Démontage : 1 service
-- Pas de technicien·ne supplémentaire nécessaire pour le montage et le démontage
+- Un technicien·ne supplémentaire nécessaire pour le montage et le démontage
 
 ### Transport, repas, nuitées
 À la charge de l'organisateur.
