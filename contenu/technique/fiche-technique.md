@@ -125,4 +125,4 @@ Prévoir un gardiennage la nuit.
 
 <div class="page-break"></div>
 
-<img src="/contenu/plans/implantation-orientation-NNE.svg" alt="implantation" style="width:100%;"/>
+<img src="/contenu/plans/implantation-orientation-NNE.svg" alt="implantation" style="width:100%; max-height:none; max-width:none;"/>
