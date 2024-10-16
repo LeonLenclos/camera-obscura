@@ -13,19 +13,19 @@
 ## Équipe
 
 ### Contact comédien·nes
-- Léon Lenclos - 06 27 65 68 33 – contact@leonlenclos.net
-- Bertrand Lenclos - 06 09 90 38 97 - bebert@nokill.fr
-- Lucile Balezeaux - 06 64 08 84 31 - lucile.balezeaux@gmail.com
+- Léon Lenclos – 06 27 65 68 33 – contact@leonlenclos.net
+- Bertrand Lenclos – 06 09 90 38 97 – bebert@nokill.fr
+- Lucile Balezeaux – 06 64 08 84 31 – lucile.balezeaux@gmail.com
 
 ### Contact technique
-- Léon Lenclos - 06 27 65 68 33 – contact@leonlenclos.net
-- Bertrand Lenclos - 06 09 90 38 97 - bebert@nokill.fr
+- Léon Lenclos – 06 27 65 68 33 – contact@leonlenclos.net
+- Bertrand Lenclos – 06 09 90 38 97 – bebert@nokill.fr
 
 ### Contact diffusion
 - Amparo Gallur – 07 68 52 29 53 – cie@nokill.fr
 
 ### Contact administration et production
-- Bertrand Lenclos - 06 09 90 38 97 – admin@nokill.fr
+- Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
 
 
 ## Représentations
@@ -52,7 +52,7 @@ Par exemple : 11h00 - 11h30 / 12h00 - 12h30 / 14h00 - 14h30 / 15h00 - 15h30 / 16
 ### Jauge 
 Par représentation :
 
-- 25 places assises (21 fauteuils et 4 strapontins)
+- 25 places assises (21 fauteuils et 4 "strapontins")
 - ou 23 places assises + 1 place PMR
 - ou 21 places assises + 2 places PMR
 
@@ -62,6 +62,7 @@ Par représentation :
 - Personnes malentendantes : peut convenir (spectacle très visuel).
 
 ### Accueil public
+- À partir de 8 ans.
 - Prévoir une personne avant les représentations pour accueil billetterie.
 - Prévoir éventuellement une personne pendant les représentations pour gestion du public à l'extérieur (à valider en amont en fonction des lieus).
 
@@ -87,7 +88,7 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 ### Montage/Démontage
 - Montage : 1 service
 - Démontage : 1 service
-- Un technicien·ne supplémentaire nécessaire pour le montage et le démontage
+- Un·e technicien·ne supplémentaire nécessaire pour le montage et le démontage
 
 ### Transport, repas, nuitées
 À la charge de l'organisateur.
@@ -101,7 +102,7 @@ Pas de régime alimentaire particulier.
 ### Implantation
 
 - Dimensions remorque : 2,50 × 7,50 m
-- Espace minimum nécessaire : 10 × 15 m
+- Espace minimum nécessaire : 8 × 13 m
 - Terrain : plat
 - Orientation : l'avant de la remorque doit être orienté nord-nord-est (entre 20 et 25°)
 - Ensoleillement : l'espace de jeu doit être ensoleillé pendant les horaires de jeu (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu)
@@ -116,4 +117,9 @@ Prévoir un gardiennage la nuit.
 
 - Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air.
 - Une ligne 16A au camion (pour la loge).
+
+###  Contraintes météo
+
+- Le spectacle peut être joué par temps couvert et faibles précipitations.
+- Le spectacle ne peut pas être joué en cas de pluie abondante (>1 mm/h) ou de vent dépassant 65 km/h.
 
