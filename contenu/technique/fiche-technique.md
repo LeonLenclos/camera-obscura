@@ -2,7 +2,7 @@
 # *Camera Obscura*, Cie NOKILL
 
 
-<small>Version d'octobre 2024 <span class="print">(La version la plus récente est consultable en ligne à cette adresse : [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>)</small>
+<small>Version d'octobre 2024 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> )</small>
 
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
@@ -122,8 +122,8 @@ Prévoir un gardiennage la nuit.
 - Le spectacle peut être joué par temps couvert et faibles précipitations.
 - Le spectacle ne peut pas être joué en cas de pluie abondante (>1 mm/h) ou de vent dépassant 65 km/h.
 
-## Plan
-
 <div class="page-break"></div>
+
+## Plan
 
 <img src="/contenu/plans/implantation-orientation-NNE.svg" alt="implantation" style="width:100%; max-height:none; max-width:none;"/>
