@@ -123,3 +123,4 @@ Prévoir un gardiennage la nuit.
 - Le spectacle peut être joué par temps couvert et faibles précipitations.
 - Le spectacle ne peut pas être joué en cas de pluie abondante (>1 mm/h) ou de vent dépassant 65 km/h.
 
+![implantation](/contenu/plans/implantation-orientation-NNE.svg)
