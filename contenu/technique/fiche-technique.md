@@ -1,13 +1,14 @@
 # Fiche technique
 # *Camera Obscura*, Cie NOKILL
 
-**Attention : Fiche technique provisoire, création en cours, ces informations sont susceptibles de changer dans les prochains mois.**
 
-<span class="print">La version la plus récente de ce document est consultable en ligne à cette adresse :<br/>
-[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>
+<small>Version d'octobre 2024 <span class="print">(En cas de mise à jour de la fiche technique, la version la plus récente est consultable en ligne à cette adresse :<br/>
+[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span>)</small>
+
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
+
 
 ## Équipe
 
