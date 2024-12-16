@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="214.2366mm"
+   height="98.815208mm"
+   viewBox="0 0 214.2366 98.815208"
+   version="1.1"
+   id="svg2896"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="angle-soleil-arto-ves.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2898"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.56189594"
+     inkscape:cx="439.58318"
+     inkscape:cy="243.81739"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="1112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6424" />
+  <defs
+     id="defs2893">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.7172852e-6,-16.584753)">
+    <g
+       id="g6424"
+       transform="matrix(0.86605385,0,0,0.86605385,14.348085,8.839422)"
+       style="stroke-width:1.15466">
+      <g
+         id="g6388"
+         transform="translate(-103.41422,2.9483234)"
+         style="stroke-width:1.15466">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 143.63037,86.3891 31.3262,-25.367455"
+           id="path6149" />
+        <rect
+           style="fill:#000000;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="rect6182"
+           width="27.194016"
+           height="2.6847625"
+           x="103.91422"
+           y="87.282852"
+           rx="4.61865"
+           ry="1.1616261" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="rect6180"
+           width="5.9565902"
+           height="22.524302"
+           x="128.12993"
+           y="66.603951"
+           rx="2.9782951"
+           ry="2.9782951" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 143.63037,75.805766 31.3262,-25.367455"
+           id="path6188" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 143.63037,65.222432 31.3262,-25.367455"
+           id="path6190" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 143.63037,54.639098 31.3262,-25.367455"
+           id="path6192" />
+      </g>
+      <g
+         id="g6380"
+         transform="translate(34.088381,-88.999202)"
+         style="stroke-width:1.15466">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="M 144.05725,178.98157 179.64823,160.0575"
+           id="path6147" />
+        <rect
+           style="fill:#000000;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="rect6178"
+           width="39.853455"
+           height="2.6847625"
+           x="88.534523"
+           y="179.23038"
+           rx="4.61865"
+           ry="1.1616261" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="rect6172"
+           width="5.9565902"
+           height="22.524302"
+           x="125.40968"
+           y="158.55147"
+           rx="2.9782951"
+           ry="2.9782951" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 144.05725,168.39823 35.59098,-18.92407"
+           id="path6184" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 144.05725,157.8149 35.59098,-18.92407"
+           id="path6186" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow);paint-order:markers fill stroke;stop-color:#000000"
+           d="m 144.05725,147.23155 35.59098,-18.92407"
+           id="path6198" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10.4264px;font-family:Junicode;-inkscape-font-specification:'Junicode, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         x="168.20776"
+         y="115.26249"
+         id="text6258"><tspan
+           sodipodi:role="line"
+           id="tspan6256"
+           style="fill:#000000;stroke:none;stroke-width:1.15466"
+           x="168.20776"
+           y="115.26249">Soleil à 28° alt.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.4264px;font-family:Junicode;-inkscape-font-specification:'Junicode, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         x="36.049164"
+         y="115.21484"
+         id="text6314"><tspan
+           sodipodi:role="line"
+           id="tspan6312"
+           style="fill:#000000;stroke:none;stroke-width:1.15466"
+           x="36.049164"
+           y="115.21484">Soleil à 39° alt.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;font-family:Junicode;-inkscape-font-specification:'Junicode, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         x="35.48735"
+         y="21.198425"
+         id="text6368"><tspan
+           sodipodi:role="line"
+           id="tspan6366"
+           style="font-size:6.35px;stroke-width:1.15466"
+           x="35.48735"
+           y="21.198425">Toulouse septembre 17h</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;font-family:Junicode;-inkscape-font-specification:'Junicode, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.15466;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         x="168.29294"
+         y="21.198425"
+         id="text6372"><tspan
+           sodipodi:role="line"
+           id="tspan6370"
+           style="font-size:6.35px;stroke-width:1.15466"
+           x="168.29294"
+           y="21.198425">Avignon juillet 19h30</tspan></text>
+    </g>
+  </g>
+</svg>
