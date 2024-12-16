@@ -90,11 +90,11 @@ On va aborder 3 axes :
 - En rouge : L'épaisseur d'isolant.
 - Flèches : Direction de l'air à chaque endroit où une bouche d'aération permet une circulation de l'air.
 - Zones :
-  1. Sous la remorque : l'endroit ou l'air est le plus frai (voir : [raffraichissement-de-lair](Raffraichissement de l’air))
-  2. Une bouche d'aération laiss entrer l'air de l'exterieur vers l'interieur.
+  1. Sous la remorque : l'endroit ou l'air est le plus frais (voir : [raffraichissement-de-lair](Raffraichissement de l’air))
+  2. Une bouche d'aération laisse entrer l'air de l'extérieur vers l'interieur.
   3. Sous le gradin : le système de ventilation (voir : [renouvellement-de-lair](Renouvellement de l’air))
   4. Sous le gradin : l'endroit le plus frais de la remorque, une bouche sous chaque paire de siège envoie l'air aux pieds des spectateurs.
-  5. La salle : au plafond des bouches laissent s'échappé l'air par le faux-plafond, Des petits ventilateurs peuvent être placés pour donner une sensation de frais (voir :  [sensation-de-frais](Sensation de frais)).
+  5. La salle : au plafond des bouches laissent s'échapper l'air par le faux-plafond, Des petits ventilateurs peuvent être placés pour donner une sensation de frais (voir :  [sensation-de-frais](Sensation de frais)).
   6. La régie.
   7. Le faux plafond : un large conduit de 80mm de hauteur qui permet d'évacuer l'air sans faire entrer de lumière.
   8. Évacuation : l'air ressort par le haut.
@@ -115,7 +115,7 @@ L'air arrive de sous la remorque, c'est naturellement l'endroit où l'air est le
 
 Pour qu'il soit encore plus frais on mouille le sol. Si c'est de l'herbe on mouille l'herbe et ça marche super bien. Sinon on a aussi des gros tapis qu'on place sous la remorque et qu'on mouille et ça marche bien aussi.
 
-L'idée de rafraîchir l'air sur le trajet du flux avec un matériaux humidité, s'inspire des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide. À un moment on a un peu essayé un truc comme ça mais c'était pas si efficace et ça sentait très fort...
+L'idée de rafraîchir l'air sur le trajet du flux avec un matériaux humidie, s'inspire des climatisations pour chapiteau, où un flux d'air traverse un ballot de paille humide. À un moment on a un peu essayé un truc comme ça mais c'était pas si efficace et ça sentait très fort...
 
 Voir : RAE, [rafraîchisseur d'air évaporatif (wikipedia)](https://fr.wikipedia.org/wiki/Refroidisseur_par_%C3%A9vaporation)
 

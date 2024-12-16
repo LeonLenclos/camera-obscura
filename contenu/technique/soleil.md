@@ -8,7 +8,7 @@ La hauteur du soleil se mesure en degrés. 90° Correspond à un soleil pile au 
 
 Il existe des [outils en ligne pour connaître la hauteur du soleil](https://fr.planetcalc.com/4270/) à un endroit et à un moment donné. On peut donc comparer la luminosité théorique d'une séance dans le futur à celle d'une séance passée pour se rendre compte de ce que ça peut donner.
 
-![../plans/angle-soleil-arto-ves.svg](Difference entre l'angle du soleil à ARTO et à Villeneuve en Scène).
+![Difference entre l'angle du soleil à ARTO et à Villeneuve en Scène](../plans/angle-soleil-arto-ves.svg).
 
 # Diagramme solaire azimut-hauteur
 
