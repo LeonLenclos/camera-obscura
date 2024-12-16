@@ -20,10 +20,11 @@ Il y a deux axes de prise de vue, axe frontal et axe latéral la médiane entre 
 
 ## Schéma sur plan
 
-Pour chaque lieu on peut créer un schéma d'orientation plus spécifique sur un plan :
+Pour chaque lieu on peut créer un schéma d'orientation plus spécifique sur un plan. Voici quelques exemples :
 
 - [Implantation Carte Arto](https://camera-obscura.cienokill.fr/contenu/plans/implantation-carte-arto.pdf)
 - [Implantation Carte MIMA](https://camera-obscura.cienokill.fr/contenu/plans/implantation-carte-mima.pdf)
+- [Implantation Carte Periscope](https://camera-obscura.cienokill.fr/contenu/plans/implantation-carte-periscope.pdf)
 
 ### Créer un schéma d'implantation à partir d'un plan OSM
 
