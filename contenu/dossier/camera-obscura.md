@@ -1,5 +1,8 @@
- 
-<img src="/contenu/photos/afficheCO_v1.png" alt="implantation" style="width:100%; max-height:none; max-width:none;"/>
+---
+type: dossier
+---
+
+<img src="/contenu/photos/afficheCO_v1.png"/>
 
 <div class="page-break"></div>
 
