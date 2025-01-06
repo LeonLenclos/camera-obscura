@@ -19,9 +19,13 @@ Dossier de présentation
 
 <div class="page-break"></div>
 
-<em>Texte d'introduction déclamé par Léon lors de l'installation du public dans la Camera Obscura</em>
+<small>Texte d'introduction déclamé par Léon lors de l'installation du public dans la Camera Obscura</small>
+
+<blockquote>
 
 [Intro](/contenu/ecriture/intro#intro)
+
+</blockquote>
 
 <div class="page-break"></div>
 
@@ -49,10 +53,13 @@ Dossier de présentation
 
 <div class="page-break"></div>
 
-<em>Prologue de Souvenirs du futur</em>
+<small>Le prologue de Souvenirs du futur</small>
+
+<blockquote>
 
 [Prologue](/contenu/ecriture/textes-voix-off#1-prologue)
 
+</blockquote>
 
 <div class="page-break"></div>
 
