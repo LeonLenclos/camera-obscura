@@ -8,7 +8,7 @@ Cette page rassemble différents éléments liés à l'écriture de ce film.
 
 ## Construction
 
-Le film *Souvenirs du futur* est pensé comme un film à sketch, construit à partir d'une vingtaine de fragments indépendants. Les fragments sont courts ou longs ; avec ou sans voix off ; en animation ou en prise de vue réelle ; portés sur une histoire anecdotique ou un fait général.
+*Souvenirs du futur* est pensé comme un film à sketch, construit à partir d'une vingtaine de fragments indépendants. Les fragments sont courts ou longs ; avec ou sans voix off ; en animation ou en prise de vue réelle ; portés sur une histoire anecdotique ou un fait général.
 
 ## Liste des souvenirs
 
