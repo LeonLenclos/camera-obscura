@@ -1,8 +1,12 @@
 # Principe optique
 
-## Découverte du principe de la camera obscura
+## Le principe de la camera obscura
 
-Une chambre noire (camera obscura en latin) est un dispositif optique étonnement basique et simple à mettre en oeuvre. Dans sa forme la plus primitive c'est :
+Le spectacle consiste à inviter le public à l'interieur d'une chambre noire géante. La chambre noire (camera obscura en latin) est le principe optique à la base du fonctionnement de l'œil, des cameras et des appareils photos. C'est le procédé par lequel une image apparait sur un écran, quand on se trouve dans milieu sombre avec une petite ouverture donnant sur un milieu lumineux.
+
+## Découverte de la camera obscura
+
+La chambre noire est un dispositif étonnement basique et simple à mettre en oeuvre. Dans sa forme la plus primitive c'est donc :
 
 - un espace obscure (intérieur)
 - un espace éclairé (extérieur)
