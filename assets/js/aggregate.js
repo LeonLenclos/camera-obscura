@@ -62,4 +62,5 @@ function replaceContent(){
 	});
 }
 
-document.addEventListener('DOMContentLoaded',replaceContent);
+replaceContent();
+//document.addEventListener('DOMContentLoaded',replaceContent);
