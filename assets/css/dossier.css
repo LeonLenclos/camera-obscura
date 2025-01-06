@@ -13,6 +13,7 @@
 
 body{
   font-size: 14pt;
+
 }
 
 .markdown-body{
@@ -21,7 +22,8 @@ body{
 }
 .markdown-body article {
     text-align: justify;
-  margin: 30mm;
+  margin: 0 30mm ;
+  margin-bottom:10mm;
 
 }
 p {
@@ -48,7 +50,8 @@ blockquote:before{
   display:inline;
   font-size:3em;
     position:absolute;
-  left: .2em;
+  left: .6em;
+  top:0;
 }
 
 blockquote:after{
@@ -56,9 +59,10 @@ blockquote:after{
   display:inline;
   font-size:3em;
     position:absolute;
-  right: .2em;
+  right: .6em;
   bottom:0;
 }
+
 .page-texte{
   break-after: page;
   width: 100%;
@@ -80,9 +84,12 @@ blockquote:after{
   align-items: center;
 }
 
+
+body>div.print {
+  display: none !important;
+}
+
 .markdown-body>p:has(img){
-  width: 100%;
-  height: 100vh;
   margin:0
 }
 
@@ -91,5 +98,13 @@ blockquote:after{
   max-height:unset;
     width: 100%;
 height:100%;
-    object-fit: contain;
+    object-fit: cover;
+}
+
+.markdown-body{
+    background:#fefdfe;
+}
+
+body{
+  animation:none;
 }
