@@ -446,6 +446,9 @@ font-size:small;
   display: none;
 }
 
+.page-break {
+  border-bottom: 1pt solid lightgray;
+}
   @media print {
     /* All your print styles go here */
     header,
