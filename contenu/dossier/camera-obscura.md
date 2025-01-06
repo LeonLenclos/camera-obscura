@@ -17,16 +17,22 @@ Cie NOKILL
 
 Dossier de présentation
 
-<div class="page-break"></div>
+<div class="page-break page-macarons">
+
 
 ![](/contenu/dessins/macaron_1.png) ![](/contenu/dessins/macaron_2.png)
 
-<small>Texte d'introduction déclamé par Léon lors de l'installation du public dans la Camera Obscura</small>
+
+</div>
+
+
 
 <blockquote>
  <a href="/contenu/ecriture/intro#intro">Intro</a>
 </blockquote>
- 
+
+<small>Texte d'introduction dit par Léon à l'entrée du public dans la Camera Obscura</small>
+
 <div class="page-break"></div>
 
 # Le dispositif
@@ -55,12 +61,13 @@ Dossier de présentation
 
 <div class="page-break"></div>
 
-<small>Le prologue de Souvenirs du futur</small>
 
 <blockquote>
  <a href="/contenu/ecriture/textes-voix-off#1-prologue">Prologue</a>
 </blockquote>
- 
+
+<small>Le prologue de Souvenirs du futur</small>
+
 
 <div class="page-break"></div>
 
