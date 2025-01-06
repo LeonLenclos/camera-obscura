@@ -1,19 +1,19 @@
 
 ## Intro
 
-Bertrand est en train de s'installer parmis ses instruments, derrière l'écran.
+Bertrand est en train de s'installer parmi ses instruments, derrière l'écran.
 
-Lucile est sortie de la remorque, elle est allé finir de préparer les élements de machinerie que vous avez-vu dehors en arrivant.
+Lucile est sortie de la remorque, elle est allée finir de préparer les éléments de machinerie que vous avez vu dehors en arrivant.
 
 Je vais vous demander de petit à petit fermer les hublots de chaque côté du gradin. L'idée c'est d'entrer, petit à petit dans l'obscurité.
 
-Pendant les 30 prochaines minutes, tous les trois, on va activer differents dispositifs optiques, acoustiques et méchaniques pour fabriquer un film qui sera projeté sur cet écran.
+Pendant les 30 prochaines minutes, tous les trois, on va activer différents dispositifs optiques, acoustiques et mécaniques pour fabriquer un film qui sera projeté sur cet écran.
 
 C'est un film qui est produit en direct et sans utiliser du tout d'électricité, pas de micro, pas de caméra, pas de projecteur.
 
-Le principe optique qui fait que vous voyez une image sur l'écran ça s'appelle la camera obscura. C'est un phénomène qui se produit quand on est dans une pièce très obscure et qu'il y a dans le mur un petit trou ou une lentille qui donne vers un environnement très lumineux. Quand on est dans ces conditions, on voit, comme ça, une image de l'exterieur apparaître à l'interieur.
+Le principe optique qui fait que vous voyez une image sur l'écran ça s'appelle la camera obscura. C'est un phénomène qui se produit quand on est dans une pièce très obscure et qu'il y a dans le mur un petit trou ou une lentille qui donne vers un environnement très lumineux. Quand on est dans ces conditions, on voit, comme ça, une image de l'extérieur apparaître à l'intérieur.
 
-Cette image est assez sombre, c'est pour ça qu'on se plonge dans le noir pour la regarder et aussi qu'on prend le temps d'adapter notre vision à l'obscurité avant de commencer la séance. Mais là je pense qu'on commence à être pas mal, je vais aller rejoindre lucile à l'exterieur et dans quelques instant on va pouvoir commencer.
+Cette image est assez sombre, c'est pour ça qu'on se plonge dans le noir pour la regarder et aussi qu'on prend le temps d'adapter notre vision à l'obscurité avant de commencer la séance. Mais là je pense qu'on commence à être pas mal, je vais aller rejoindre lucile à l'extérieur et dans quelques instant on va pouvoir commencer.
 
 Bon film...
 
