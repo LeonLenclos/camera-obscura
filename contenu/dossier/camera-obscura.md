@@ -19,6 +19,8 @@ Dossier de présentation
 
 <div class="page-break"></div>
 
+![](/contenu/dessins/macaron_1.png) ![](/contenu/dessins/macaron_2.png)
+
 <small>Texte d'introduction déclamé par Léon lors de l'installation du public dans la Camera Obscura</small>
 
 <blockquote>
@@ -33,9 +35,8 @@ Dossier de présentation
 
 # Le principe de la camera obscura
 
-![](/contenu/dessins/macaron_7.png)
+![](/contenu/dessins/macaron_7.png) ![](/contenu/dessins/macaron_8.png)
 
-![](/contenu/dessins/macaron_8.png)
 [Le principe de la camera obscura](/contenu/technique/optique#le-principe-de-la-camera-obscura)
 
 # La remorque
