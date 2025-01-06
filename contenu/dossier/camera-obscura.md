@@ -17,7 +17,7 @@ Cie NOKILL
 
 Dossier de présentation
 
-<div class="page-break page-macarons">
+<div class="page-break page-macarons" markdown=1>
 
 
 ![](/contenu/dessins/macaron_1.png) ![](/contenu/dessins/macaron_2.png)
