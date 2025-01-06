@@ -52,10 +52,6 @@ Dossier de présentation
 
 [Dispositif](/#le-dispositif)
 
-# Le principe de la camera obscura
-
-[Le principe de la camera obscura](/contenu/technique/optique#le-principe-de-la-camera-obscura)
-
 # La remorque
 
 [Description de la remorque](/contenu/remorque#description-de-la-remorque)
@@ -72,7 +68,6 @@ Dossier de présentation
 </div>
 
 
-
 # Souvenirs du futur
 
 [Souvenirs du futur](/#souvenirs-du-futur)
@@ -81,7 +76,15 @@ Dossier de présentation
 
 [Construction](/contenu/ecriture/souvenirs-du-futur#construction)
 
-<div class="page-break"></div>
+
+
+<div class="page-images" markdown=1>
+
+
+![](/contenu/photos/affiche-souvenirs.png)
+
+
+</div>
 
 
 <blockquote>
@@ -90,10 +93,40 @@ Dossier de présentation
 
 <small>Le prologue de Souvenirs du futur</small>
 
+<div class="page-images" markdown=1>
 
-<div class="page-break"></div>
+![](/contenu/dessins/files-d-attente.jpg)
+
+</div>
+
+## Historique de la création
 
 [Historique de la création](/contenu/production.html#historique-de-la-création)
 
+## Pour plus d'informations
+
+Nous vous invitons à consulter :
+
+- Le site du spectacle : https://camera-obscura.cienokill.fr
+- Le site de la compagnie : https://cienokill.fr
+- La fiche technique du spectacle : https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf
+
+## Équipe
+
+En tournée, l'équipe artistique et technique est composée de
+
+- Lucile Balézeaux
+- Bertrand Lenclos
+- Léon Lenclos
+
+## Contact
+
+La diffusion de *Camera Obscura* est assurée par Amparo Gallur du collectif Pronto
+
+- Téléphone : 07 68 52 29 53
+- Mail : cie@nokill.fr
+- Site : https://prontodiffusion.fr
+
+[Contact](/contenu/production.html#contact)
 
  <script src="/assets/js/aggregate.js"></script> 
