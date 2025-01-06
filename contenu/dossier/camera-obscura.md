@@ -56,5 +56,5 @@ Dossier de présentation
 [Historique de la création](/contenu/production.html#historique-de-la-création)
 
 
-
+  <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
  <script src="/assets/js/aggregate.js"></script> 
