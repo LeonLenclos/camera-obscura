@@ -459,6 +459,7 @@ font-size:small;
 
     .page-break {
       break-after : page;
+	    border-bottom:none;
     }
     img {
       break-inside: avoid;
