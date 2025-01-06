@@ -1,10 +1,10 @@
 function getURLAnchor(url) {		
-    return url.includes('#')?url.split('#')[1] : null;
+    return url.includes('#')?decodeURI(url.split('#')[1]) : null;
 }
 
 function getNextSiblingUntilSameTag(element){
 
-   let currentSibling = element;
+   let currentSibling = element.nextSibling;
    let siblings = [];
    do{
       siblings.push(currentSibling);
