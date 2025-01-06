@@ -22,11 +22,9 @@ Dossier de présentation
 <small>Texte d'introduction déclamé par Léon lors de l'installation du public dans la Camera Obscura</small>
 
 <blockquote>
-
-[Intro](/contenu/ecriture/intro#intro)
-
+ <a href="/contenu/ecriture/intro#intro">Intro</a>
 </blockquote>
-
+ 
 <div class="page-break"></div>
 
 # Le dispositif
@@ -59,10 +57,9 @@ Dossier de présentation
 <small>Le prologue de Souvenirs du futur</small>
 
 <blockquote>
-
-[Prologue](/contenu/ecriture/textes-voix-off#1-prologue)
-
+ <a href="/contenu/ecriture/textes-voix-off#1-prologue">Prologue</a>
 </blockquote>
+ 
 
 <div class="page-break"></div>
 
