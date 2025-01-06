@@ -81,10 +81,13 @@ Dossier de présentation
 <div class="page-images" markdown=1>
 
 
-![](/contenu/photos/affiche-souvenirs.png)
+![](/contenu/dessins/macaron_5.png)
+
+![](/contenu/dessins/macaron_6b.png)
 
 
 </div>
+
 
 
 <blockquote>
@@ -99,11 +102,25 @@ Dossier de présentation
 
 </div>
 
-## Historique de la création
+# Historique de la création
 
 [Historique de la création](/contenu/production.html#historique-de-la-création)
 
+
+
+<div class="page-images" markdown=1>
+
+
+![](/contenu/dessins/macaron_9.png)
+
+![](/contenu/dessins/macaron_10.png)
+
+
+</div>
+
 ## Pour plus d'informations
+
+<article markdown=1>
 
 Nous vous invitons à consulter :
 
@@ -111,7 +128,11 @@ Nous vous invitons à consulter :
 - Le site de la compagnie : https://cienokill.fr
 - La fiche technique du spectacle : https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf
 
+</article>
+
 ## Équipe
+
+<article markdown=1>
 
 En tournée, l'équipe artistique et technique est composée de
 
@@ -119,14 +140,19 @@ En tournée, l'équipe artistique et technique est composée de
 - Bertrand Lenclos
 - Léon Lenclos
 
+</article>
+
 ## Contact
 
+<article markdown=1>
+ 
 La diffusion de *Camera Obscura* est assurée par Amparo Gallur du collectif Pronto
 
 - Téléphone : 07 68 52 29 53
 - Mail : cie@nokill.fr
 - Site : https://prontodiffusion.fr
+  
+</article>
 
-[Contact](/contenu/production.html#contact)
-
- <script src="/assets/js/aggregate.js"></script> 
+![](/contenu/photos/affiche-souvenirs.png)
+ <script src="/assets/js/aggregate.js"></script>
