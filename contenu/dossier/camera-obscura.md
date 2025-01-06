@@ -77,8 +77,6 @@ Dossier de présentation
 
 [Souvenirs du futur](/#souvenirs-du-futur)
 
-# Construction du film
-
 [Construction](/contenu/ecriture/souvenirs-du-futur#construction)
 
 
