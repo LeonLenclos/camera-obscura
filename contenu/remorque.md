@@ -1,15 +1,13 @@
 #  Chambre Remorque
 
-## Description générale
-
 ![Photo de la remorque à MIMA](photos/co-mima-2.JPG)
 
-Une remorque est transformée en cinéma itinérant en adaptant l'avant du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 21 personnes assisent sur un gradin peuvent assister simultanémant à la projection.
+## Description de la remorque
 
-## Allure
+Le spectacle *Camea Obscura* se regarde de l'interieur d'une remorque, un cinéma itinérant construit sur-mesure équipé d'un gradin de 25 places et d'un écran de 1,80 m de large. La remorque se déploie avec un système optique (soufflet, objectifs, obturateurs, etc.) à l'avant du dispositif, de larges escaliers pour l'accès public et une structure scénique servant d'espace de jeu et de manipulation.
 
 ![Photo de la remorque à l'escaladieu](photos/co-escaladieu-1.JPG)
-Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté flèche.
+
 
 ## Matériaux
 
@@ -56,7 +54,7 @@ Une remorque avec un soufflet et une exo-struture en alu qui dépassent côté f
 Du 1 octobre 2023 au 15 juillet 2024
 
 ## Détails de construction et description technique
-
+- écran : 1,80 m x 1,31 m (format 1,37) 
 - dimension hors-tout caisse + chassis : 7473 x 2550 x 3000
 - dimension hors-tout caisse : 6600 x 2450 x 2452
 - dimension utile intérieur : 6400 x 2250 x 2252
