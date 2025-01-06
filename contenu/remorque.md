@@ -2,11 +2,12 @@
 
 ![Photo de la remorque à MIMA](photos/co-mima-2.JPG)
 
+![Photo de la remorque à l'escaladieu](photos/co-escaladieu-1.JPG)
+
 ## Description de la remorque
 
 Le spectacle *Camea Obscura* se regarde de l'interieur d'une remorque, un cinéma itinérant construit sur-mesure équipé d'un gradin de 25 places et d'un écran de 1,80 m de large. La remorque se déploie avec un système optique (soufflet, objectifs, obturateurs, etc.) à l'avant du dispositif, de larges escaliers pour l'accès public et une structure scénique servant d'espace de jeu et de manipulation.
 
-![Photo de la remorque à l'escaladieu](photos/co-escaladieu-1.JPG)
 
 
 ## Matériaux
