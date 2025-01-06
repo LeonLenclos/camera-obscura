@@ -35,6 +35,9 @@ Dossier de présentation
 
 # Le principe de la camera obscura
 
+![](/contenu/dessins/macaron_7.png)
+
+![](/contenu/dessins/macaron_8.png)
 [Le principe de la camera obscura](/contenu/technique/optique#le-principe-de-la-camera-obscura)
 
 # La remorque
