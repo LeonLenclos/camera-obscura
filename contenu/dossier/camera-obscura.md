@@ -2,7 +2,6 @@
 type: dossier
 ---
 
-<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
 
 
 <img src="/contenu/photos/afficheCO_v1.png"/>
