@@ -1,13 +1,14 @@
+
 @page {
   size: 148mm 210mm;
-  margin-top: 10mm;
+  margin-top: 0mm;
   margin-right: 0mm;
   margin-bottom: 0mm;
   margin-left: 0mm;
 }
 
 body{
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 .markdown-body{
@@ -16,7 +17,7 @@ body{
 }
 .markdown-body article {
     text-align: justify;
-  padding: 3em;
+  margin: 30mm;
 
 }
 p {
@@ -26,12 +27,11 @@ p {
 
 
 [src*="macaron"]{
-  width:45%;
   display: inline;
 }
 
 blockquote{ 
-  font-size: inherit;
+  font-size: 1.2em;
   font-style: italic;
   position:relative;
   padding: 0;
@@ -44,7 +44,7 @@ blockquote:before{
   display:inline;
   font-size:3em;
     position:absolute;
-  left: -.7em;
+  left: .2em;
 }
 
 blockquote:after{
@@ -52,18 +52,17 @@ blockquote:after{
   display:inline;
   font-size:3em;
     position:absolute;
-  right: -.7em;
+  right: .2em;
   bottom:0;
 }
 
-.page-macarons{
+.page-images{
   background:#000;
   break-after: page;
   break-before: page;
-  width: 100%;
+  width: 104%;
   height: 100vh;
-  margin: 0;
-  padding: 0;
+  margin-left: -2%;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
