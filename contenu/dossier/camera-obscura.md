@@ -1,5 +1,6 @@
 ---
 type: dossier
+pagedjs: true
 ---
 
 
