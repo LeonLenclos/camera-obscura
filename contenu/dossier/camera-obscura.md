@@ -17,7 +17,7 @@ Cie NOKILL
 
 Dossier de présentation
 
-<div class="page-break page-macarons" markdown=1>
+<div class="page-images" markdown=1>
 
 
 ![](/contenu/dessins/macaron_1.png)
@@ -35,7 +35,18 @@ Dossier de présentation
 
 <small>Texte d'introduction dit par Léon à l'entrée du public dans la Camera Obscura</small>
 
-<div class="page-break"></div>
+
+
+
+<div class="page-images" markdown=1>
+
+
+![](/contenu/dessins/macaron_7.png)
+
+![](/contenu/dessins/macaron_8.png)
+
+
+</div>
 
 # Le dispositif
 
@@ -43,15 +54,24 @@ Dossier de présentation
 
 # Le principe de la camera obscura
 
-![](/contenu/dessins/macaron_7.png) ![](/contenu/dessins/macaron_8.png)
-
 [Le principe de la camera obscura](/contenu/technique/optique#le-principe-de-la-camera-obscura)
 
 # La remorque
 
 [Description de la remorque](/contenu/remorque#description-de-la-remorque)
 
-<div class="page-break"></div>
+
+<div class="page-images" markdown=1>
+
+
+![](/contenu/photos/co-escaladieu-1.JPG)
+
+![](/contenu/photos/co-mima-1.JPG)
+
+
+</div>
+
+
 
 # Souvenirs du futur
 
