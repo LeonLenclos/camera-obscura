@@ -3,11 +3,7 @@ type: dossier
 pagedjs: false
 ---
 
-
-
 <img src="/contenu/photos/afficheCO_v1.png"/>
-
-<div class="page-break"></div>
 
 # Camera Obscura
 
@@ -126,7 +122,7 @@ Nous vous invitons à consulter :
 
 - Le site du spectacle : https://camera-obscura.cienokill.fr
 - Le site de la compagnie : https://cienokill.fr
-- La fiche technique du spectacle : https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf
+- La fiche technique du spectacle :<br/>https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf
 
 </article>
 
@@ -154,5 +150,6 @@ La diffusion de *Camera Obscura* est assurée par Amparo Gallur du collectif Pro
   
 </article>
 
-![](/contenu/photos/affiche-souvenirs.png)
  <script src="/assets/js/aggregate.js"></script>
+
+![](/contenu/photos/affiche-souvenirs.png)
