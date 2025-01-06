@@ -5,6 +5,8 @@ pagedjs: false
 
 <img src="/contenu/photos/afficheCO_v1.png"/>
 
+<div class="page-texte" markdown=1>
+ 
 # Camera Obscura
 
 Théâtre optique post-cinéma
@@ -12,6 +14,8 @@ Théâtre optique post-cinéma
 Cie NOKILL
 
 Dossier de présentation
+
+</div>
 
 <div class="page-images" markdown=1>
 
@@ -23,6 +27,7 @@ Dossier de présentation
 
 </div>
 
+<div class="page-texte" markdown=1>
 
 
 <blockquote>
@@ -32,7 +37,7 @@ Dossier de présentation
 <small>Texte d'introduction dit par Léon à l'entrée du public dans la Camera Obscura</small>
 
 
-
+</div>
 
 <div class="page-images" markdown=1>
 
@@ -44,6 +49,8 @@ Dossier de présentation
 
 </div>
 
+<div class="page-texte" markdown=1>
+
 # Le dispositif
 
 [Dispositif](/#le-dispositif)
@@ -52,6 +59,7 @@ Dossier de présentation
 
 [Description de la remorque](/contenu/remorque#description-de-la-remorque)
 
+</div>
 
 <div class="page-images" markdown=1>
 
@@ -63,6 +71,7 @@ Dossier de présentation
 
 </div>
 
+<div class="page-texte" markdown=1>
 
 # Souvenirs du futur
 
@@ -73,6 +82,7 @@ Dossier de présentation
 [Construction](/contenu/ecriture/souvenirs-du-futur#construction)
 
 
+</div>
 
 <div class="page-images" markdown=1>
 
@@ -84,7 +94,7 @@ Dossier de présentation
 
 </div>
 
-
+<div class="page-texte" markdown=1>
 
 <blockquote>
  <a href="/contenu/ecriture/textes-voix-off#1-prologue">Prologue</a>
@@ -92,17 +102,21 @@ Dossier de présentation
 
 <small>Le prologue de Souvenirs du futur</small>
 
+</div>
+
 <div class="page-images" markdown=1>
 
 ![](/contenu/dessins/files-d-attente.jpg)
 
 </div>
 
+<div class="page-texte" markdown=1>
+
 # Historique de la création
 
 [Historique de la création](/contenu/production.html#historique-de-la-création)
 
-
+</div>
 
 <div class="page-images" markdown=1>
 
@@ -113,6 +127,8 @@ Dossier de présentation
 
 
 </div>
+
+<div class="page-texte" markdown=1>
 
 ## Pour plus d'informations
 
@@ -149,6 +165,8 @@ La diffusion de *Camera Obscura* est assurée par Amparo Gallur du collectif Pro
 - Site : https://prontodiffusion.fr
   
 </article>
+
+</div>
 
  <script src="/assets/js/aggregate.js"></script>
 
