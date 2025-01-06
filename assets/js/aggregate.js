@@ -1,7 +1,14 @@
 function getURLAnchor(url) {		
     return url.includes('#')?decodeURI(url.split('#')[1]) : null;
 }
-
+function getSource(source){
+	let source = document.createElement('a');
+	source.href=source;
+	source.classList.add('web');
+	source.innerHTML  = '(source)';
+	return source;
+}
+	
 function getNextSiblingUntilSameTag(element){
 
    let currentSibling = element.nextSibling;
@@ -33,12 +40,16 @@ function fetchArticle(adress){
       let elements = getNextSiblingUntilSameTag(masterElement);
       elements.forEach(e=>article.append(e));
     }
+    article.appendChild(getSource(adress));
+	  
     return article; 
    })
    .catch((error)=>{
       let article = document.createElement('article');
       article.classList.add('error');
       article.innerHTML=error;
+      article.appendChild(getSource(adress));
+
       return article;
    })
 }
