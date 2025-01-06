@@ -2,11 +2,11 @@ function getURLAnchor(url) {
     return url.includes('#')?decodeURI(url.split('#')[1]) : null;
 }
 function getSource(source){
-	let source = document.createElement('a');
-	source.href=source;
-	source.classList.add('web');
-	source.innerHTML  = '(source)';
-	return source;
+	let a = document.createElement('a');
+	a.href=source;
+	a.classList.add('web');
+	a.innerHTML  = '(source)';
+	return a;
 }
 	
 function getNextSiblingUntilSameTag(element){
