@@ -28,7 +28,7 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 - [Prototypes](contenu/prototypes), liste des chambres construites pendant la création.
 - [Production](contenu/production.md), partenaires du projet et calendrier des résidences.
 - [Bibliographie](contenu/bibliographie.md), liens et documents utiles.
-- [Dossier de création](contenu/dossier/dossier-camera-obscura-2024-web.pdf), télécharger le dossier en pdf.
+- [Dossier de création](contenu/dossier/dossier-camera-obscura.pdf), télécharger le dossier en pdf.
 - [Présentation du projet](contenu/presentation-partenaires.md), à l’intention des partenaires techniques et scientifiques.
 - [Todo](contenu/todo.md), bloc-notes des trucs à faire.
 - [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
