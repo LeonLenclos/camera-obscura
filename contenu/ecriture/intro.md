@@ -1,5 +1,5 @@
 
-# Intro
+## Intro
 
 Bertrand est allé s'installer parmis ses instruments, derrière l'écran.
 
