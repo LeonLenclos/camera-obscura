@@ -130,3 +130,5 @@
 # Spectacles / Camera Obscura
 
 - Voir le travail d'Abbe Bitrand, qui a travaillé avec des camera obscura
+- Voir le travail de tricyclique dol avec des camera obscura https://vousetesicitricycliquedol.wordpress.com/l-e-s-p-e-c-t-a-c-l-e/
+- Voir le Roulot‘ographe de Neckel Scholtus (une camera obscura)
