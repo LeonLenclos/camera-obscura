@@ -126,3 +126,7 @@
 - [Anthotypes: explore the darkroom in your garden - Le livre de ref](http://leonlenclos.net/pro/pirate/anthotypes-explore-the-darkroom-in-your-garden-and-make-photographs-using-plants-1466261005-9781466261006_compress.pdf)
 - [Recette à base d'épinard](http://wiki.scienceamusante.net/index.php/Les_anthotypes)
 - [Mary Somerville, inventeuse oubliée de l'anthotypie ](https://en.wikipedia.org/wiki/Mary_Somerville)
+
+# Spectacles / Camera Obscura
+
+- Voir le travail d'Abbe Bitrand, qui a travaillé avec des camera obscura
