@@ -70,7 +70,7 @@ __TODO: Détailler les modes de préhension :__
 
 Voir la **notice de montage** en pièce jointe.
 
-### L'outillage et les moyens de manutention nécessaires pour le montage et le démontage en sécurité ;
+### L'outillage et les moyens de manutention nécessaires pour le montage et le démontage en sécurité ;
 
 Voir la **notice de montage** en pièce jointe.
 

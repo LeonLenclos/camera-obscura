@@ -34,44 +34,44 @@ La **notice technique du fabricant** ci-jointe donne une description détaillée
 
 Les **PV de réaction au feu** ci-joints complètent cette description. 
 
-##### 1.3.1. Plans de l'établissement proprement dit.
+##### 1.3.1. Plans de l'établissement proprement dit.
 
 La **notice technique du fabricant** ci-jointe contient les plans de l'établissement.
 
-##### 1.3.2. Plans des aménagements intérieurs possibles.
+##### 1.3.2. Plans des aménagements intérieurs possibles.
 
 La **notice technique du fabricant** ci-jointe contient les plans des aménagements intérieurs possibles.
 
-##### 1.3.3. Plans des installations électriques.
+##### 1.3.3. Plans des installations électriques.
 
 Veuillez trouver ci-joint le **plan des installations électriques**.
 
-##### 1.3.4. Plans des installations de chauffage et de ventilation.
+##### 1.3.4. Plans des installations de chauffage et de ventilation.
 
 Veuillez trouver ci-joint le **plan des installations de ventilation**. Aucun chauffage n'est installé dans l'établissment. 
 
-##### 1.3.5. Plans d'autres installations, techniques éventuelles.
+##### 1.3.5. Plans d'autres installations, techniques éventuelles.
 
 La **notice technique du fabricant** ci-jointe contient les plans de toutes les installations techniques de l'établissemnet.
 
 #### 1.4. Moyens de secours contre l'incendie.
 
-##### 1.4.1. Inventaire du matériel.
+##### 1.4.1. Inventaire du matériel.
 
 Le document **Consignes de sécurité** ci-joint contient l'inventaire du matériel de secours contre l'incendie.
 
-##### 1.4.2. Implantation des moyens d'extinction.
+##### 1.4.2. Implantation des moyens d'extinction.
 
 Le document **Consignes de sécurité** ci-joint contient un plan d'implantation des moyens d'extinction.
 
-##### 1.4.3. Liste nominative du personnel chargé de la sécurité.
+##### 1.4.3. Liste nominative du personnel chargé de la sécurité.
 
 Voici la liste des personnes chargées de la sécurité de l'établissement :
 
 - Léon Lenclos
 - Bertrand Lenclos
 
-##### 1.4.4. Consignes de sécurité.
+##### 1.4.4. Consignes de sécurité.
 
 Veuillez trouver ci-joint le document **Consignes de sécurité**.
 

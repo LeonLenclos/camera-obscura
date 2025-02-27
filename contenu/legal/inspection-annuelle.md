@@ -156,7 +156,7 @@ Ce rapport est rendu suite à la visite de l'ensemble démontable et après vér
 
 **Observations :**
 
-<textarea>
+<input class=long>
 
 **L'avis final est :** (Rayer la mention inutile)
 
