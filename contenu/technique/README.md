@@ -6,8 +6,9 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
 
 - [Introduction](introtechnique.md) : principes généraux qui guident notre travail
 - [Fiche technique](fiche-technique.md)
-- [Shéma d'implantation](../plans/implantation-orientation-NNE.svg): Quelle place occupe le dispositif dans l'espace public
+- [Schéma d'implantation](../plans/implantation-orientation-NNE.svg): Quelle place occupe le dispositif dans l'espace public
 - [Liste matos tournée](liste_matos_tournee.md) : pour ne rien oublier
+- [Notice de montage](notice-montage.md) : pour monter
 
 ## Optique
 - [Principes optiques](optique.md) : généralités sur la caméra obscura
