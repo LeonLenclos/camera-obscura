@@ -62,17 +62,15 @@ La compagnie laisse à la charge de l'organisation de l'événement les obligati
 
 Note : L'[article 3 de l'arrêté du 4 mai 2023](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000047533634) dispense l'exploitant de l'obligation d'établir le dossier de sécurité demandé par l'[article 39 de l'arrêté du 25 Juillet 2022](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046144049)
 
-#### Obligation de la compagnie
+#### Notice technique
 
-##### Notice technique
-
-- Voir le document : [Notice technique](notice-technique.md)
+Voir le document : [Notice technique](notice-technique.md)
 
 L'[article 36 de l'arrêté du 25 Juillet 2022](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046144046) nous oblige à fournir une notice technique en tant que fabriquant. Le modèle de cette Notice technique est donné à l'annexe I de l'[arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000046143987).
 
-##### Contrôle de la solidité et de la stabilité à la conception (Contrôle de conception)
+#### Contrôle de la solidité et de la stabilité à la conception (Contrôle de conception)
 
-- Voir le document : [Attestation du fabricant](attestation-fabricant-controle-conception.md)
+Voir le document : [Attestation du fabricant](attestation-fabricant-controle-conception.md)
 
 L'[article 37 de l'arrêté du 25 Juillet 2022](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046144047) nous dispense, en tant qu'ensemble démontable de catégories **OP1** et **OS1** de faire l'objet d'un contrôle par un Organisme accrédité ou un Contrôleur technique agréé. 
 
@@ -80,13 +78,13 @@ Nous avons simplement l'obligation de fournir une déclaration du fabricant atte
 
 L'[arrêté du 4 mai 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047533626) confirme que cela s'applique à notre établissement en tant qu'**EIRP du second groupe**. 
 
-##### Inspection annuelle
+#### Inspection annuelle
 
-- Voir le document : [Inspection annuelle](inspection-annuelle.md)
+Voir le document : [Inspection annuelle](inspection-annuelle.md)
 
 L'[article 7 §3 de l'arrêté du 4 mai 2023](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000047533640) rappelle l'obligation de faire établir un rapport d'inspection annuel par un·e technicien·ne compétent·e. Un tel rapport doit être établis chaque année suite à une visite du ou de la technicien·ne dans un contexte d'exploitation.
 
-##### Vérification de montage
+#### Vérification de montage
 
 Voir le document : [Attestation de bon montage](attestation-bon-montage.md)
 
@@ -97,7 +95,7 @@ L'attestation pré-remplie ci-dessus a été rédigée en suivant le modèle de 
 L'[arrêté du 4 mai 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047533626) confirme que cela s'applique à notre établissement en tant qu'**EIRP du second groupe**. 
 
 
-##### Registre de sécurité
+#### Registre de sécurité
 
 Voir le document : [Registre de sécurité](registre-securite.md)
 
@@ -105,7 +103,7 @@ Les articles 6 et 7 de l'[arrêté du 4 mai 2023](https://www.legifrance.gouv.fr
 
 Le registre de sécurité est composé de deux parties, la première partie constitue l'[attestation de conformité]](contenu-attestation-conformite.md) qui est délivrée par le Préfet pour une durée d'un an. La deuxième partie est le [registre d'exploitation](contenu-registre-exploitation.md)
 
-##### Documents annexes
+#### Documents annexes
 
 Les documents cités ci-dessus nécessitent d'autres documents en annexes :
 
@@ -117,29 +115,31 @@ Les documents cités ci-dessus nécessitent d'autres documents en annexes :
 - **Historique des exercices contre l'incendie**
 - [**PV de réaction au feu**](pv-reaction-feu.pdf)
 
-##### Lettre type
+#### Lettre type
 
-# TODO
+Voir le document : [Registre de sécurité](lettre-prefet.md)
 
-## TODO Administratif 
+## TODO
+
+### TODO Administratif 
 
 - Passage à la DREAL
 - Finir de rédiger tous les documents ci-dessus
 - Demande d'attestation de conformité au prefet
 
-## TODO Materiels
+### TODO Materiels
 
 Modification matérielles a effectuer pour etre en accord avec tous les trucs cités au dessus
 
-## Mise aux normes de l'installation électrique
+#### Mise aux normes de l'installation électrique
 
 - Installer un tableau
 
-## Installer un extincteur
+#### Installer un extincteur
 
 - 6L à eau pulverisée
 
-## Marquages des éléments démontables 
+#### Marquages des éléments démontables 
 
 Selon [cet article](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046144015)
 
