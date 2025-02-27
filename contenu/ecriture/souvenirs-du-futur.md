@@ -8,7 +8,7 @@ Cette page rassemble différents éléments liés à l'écriture de ce film.
 
 ## Construction
 
-Une vingtaine de fragments qui s'enchaînent.  Chaque fragment est numéroté et les fragments sont séparés par des intertitres (chapitrage). Les fragments sont courts ou longs ; avec ou sans voix off ; en animation ou en prise de vue réelle ; portés sur une histoire anecdotique ou un fait général.
+*Souvenirs du futur* est pensé comme un film à sketchs, construit à partir d'une vingtaine de fragments indépendants. Les fragments sont courts ou longs ; avec ou sans voix off ; en animation ou en prise de vue réelle ; portés par une histoire anecdotique ou un fait général.
 
 ## Liste des souvenirs
 

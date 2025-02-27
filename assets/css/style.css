@@ -446,6 +446,9 @@ font-size:small;
   display: none;
 }
 
+.page-break {
+  border-bottom: 1pt solid lightgray;
+}
   @media print {
     /* All your print styles go here */
     header,
@@ -456,6 +459,7 @@ font-size:small;
 
     .page-break {
       break-after : page;
+	    border-bottom:none;
     }
     img {
       break-inside: avoid;
