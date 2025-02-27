@@ -6,7 +6,7 @@ type: legal
 
 ## Notice technique du fabricant
 
-__TODO: Vérifier que ce document contient :__
+__TODO: Vérifier que ce document contient :__  
 Description detaillée  
 Plan de l'etablissement  
 Plan des amenagements interieurs possibles  
@@ -32,10 +32,10 @@ L'ensemble se compose :
 
 CAMERA OBSCURA a été fabriquée en 2025 par la Cie NOKILL
 
-SARL NOKILL
-Siège social : NOKILL — 6 rue du Dr Bastié — 81300 Graulhet
-SIRET :	39102418900055
-RSC : CASTRES 391 024 189
+SARL NOKILL  
+Siège social : NOKILL — 6 rue du Dr Bastié — 81300 Graulhet  
+SIRET :	39102418900055  
+RSC : CASTRES 391 024 189  
 Licence spectacle :	PLATESV-R-2022-004670 – Catégorie 2
 
 ### Nomenclature des pièces avec schémas

@@ -9,6 +9,8 @@
   .legal a {
     color:black;
   }
+  
+  .legal >.print {display: none;}
 }
 
 
@@ -111,7 +113,7 @@ input {
   margin: 0 .5em;
   width:50mm;
 }
-
+input.long {
     border:1pt dotted black;
  width: 100%;
   height:5em; 
@@ -136,3 +138,13 @@ input {
   color: inherit;
   text-align: left;
 }
+
+.legal hr {
+ 
+  margin: 1em 0 2em 0;
+  border: 0;
+  border-bottom: 1pt solid black;
+
+}
+
+
