@@ -45,7 +45,7 @@ Réalisée conformément aux dispositions de l'article 26 de l'arrêté du 25 ju
 
 ---
 
-Je, soussigné Léon Lenclos (Référent Technique)
+Je, soussigné <input> (Référent Technique)
 
 certifie avoir monté l'ensemble démontable conformément :
 
