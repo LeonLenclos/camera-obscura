@@ -148,6 +148,6 @@ input.long {
 }
 
 .legal > .print {
-  display:none;
+  display:none !important;
 }
 
