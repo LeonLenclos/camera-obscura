@@ -23,7 +23,8 @@ L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
 - Le public et le personnel se rassemble à au moins 7 m de la structure.
 - On contrôle qu'il ne reste personne à l'intérieur.
 - On attaque le feu sans prendre de risque.
-- On alerte les secours si nécessaire.
+- On alerte les secours si nécessaire (en cas d'incendie : 18 ou 112 ; en cas d'accident : 15 ou 112).
+
 
 ### Rappel des consignes de sécurité
 
@@ -37,8 +38,4 @@ Consignes d'évacuation :
 - ne pas revenir en arrière ;
 - utiliser les deux issues si possible ;
 - ne pas se précipiter dans les escaliers.
-
-Numéros utiles :
-- En cas d'incendie : 18 ou 112
-- En cas d'accident : 15 ou 112
 
