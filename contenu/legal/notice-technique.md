@@ -124,9 +124,6 @@ Le schéma ci-dessous montre comment deux places PMR sont créges en enlevant le
 ![plan](../plans/plan-amenagement-4.svg)
 
 
-<div class="page-break"></div>
-
-
 ### Limites d'utilisation
 
 L'utilisation de l'ensemble doit tenir compte des limitations suivantes pendant les phases de montage, d'exploitation et de démontage :
@@ -140,7 +137,7 @@ L'usure des différentes pièces doit être vérifiée à chaque montage. Les pi
 
 ### Notice de montage
 
-#### Préconisations relatives aux appuis au sol
+##### Préconisations relatives aux appuis au sol
 
 Lors du montage, vérifier :
 
@@ -148,7 +145,7 @@ Lors du montage, vérifier :
 - la bonne horizontalité de la STRUCTURE SCÉNIQUE et de la STRUCTURE optique par le réglage des socles réglables à vis.
 - l'utilisation de cales sous les appuis de la REMORQUE et de la STRUCTURE SCÉNIQUE si l'ensemble est implanté sur un sol meuble.
 
-#### Les modes de préhension et d'élingage
+##### Les modes de préhension et d'élingage
 
 L'assemblage des éléments se fait principalement avec des colliers clamps serrage à papillon et des raccords tubulaires serrage à vis.
 
@@ -157,7 +154,7 @@ Lors du montage, vérifier :
 - le bon serrage des colliers et raccords tubulaires.
 - l'utilisation d'élingues si du matériel est suspendu à la structure.
 
-#### Procédure de montage et de démontage en sécurité
+##### Procédure de montage et de démontage en sécurité
 
 Personnel pour le montage et le démontage : 2 personnes minimum.
 
