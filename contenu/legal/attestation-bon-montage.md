@@ -19,9 +19,9 @@ type: legal
 **Courriel :** cie@nokill.fr  
 **Téléphone :** 06 09 90 38 97
 
-**Responsable du montage :** Léon Lenclos  
-**Téléphone :** 0627656833  
-**Fonction :** artiste / référent technique
+**Responsable du montage :** <input>  
+**Téléphone :** <input>  
+**Fonction :** référent technique
 
 ### Caractéristiques de l'ensemble démontable
 

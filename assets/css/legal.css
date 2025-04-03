@@ -147,4 +147,7 @@ input.long {
 
 }
 
+.legal > .print {
+  display:none;
+}
 

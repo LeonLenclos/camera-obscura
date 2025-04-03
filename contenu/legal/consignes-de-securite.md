@@ -8,7 +8,7 @@ type: legal
 
 ### Plan d'évacuation et d'implantation des moyens d'extinction.
 
-__TODO: dessiner le plan__
+![Plan d'évacuation](../plans/plan-evacuation.svg)
 
 ### Procédure en cas d'incendie
 
@@ -33,11 +33,13 @@ __TODO: dessiner le plan__
 
 ### Modalités d'évacuation
 
-L'agencement et la surface de l'établissement (une seule pièce de 14 m²) permet à l'alerte d'être donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
+L'alerte d'être donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
 
 Une fois que l'alerte est donnée, l'évacuation se fait par deux issues de chaque côté de la structure.
 
 Le personnel rappel les consignes d'évacuation et aide le public à évacuer.
+
+Les premiers rangs (en particulier les personnes à mobilité réduite) sont évacués en priorité. 
 
 Le public et le personnel se rassemble à au moins 7 m de la structure.
 
