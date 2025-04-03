@@ -62,7 +62,9 @@ __TODO: Détailler la nomenclature des pièces__
 __TODO: Décider d'une codification__
 -->
 
-<div class=page-break>
+
+<div class="page-break"></div>
+
 
 ### Dimensions extérieures des parties
 
@@ -87,7 +89,9 @@ Le schéma ci-dessous détaille les dimensions de l'intérieur et des accès pub
 
 ![plan](../plans/plan-dimensions.svg)
 
-<div class=page-break>
+
+<div class="page-break"></div>
+
 
 ### Différentes configurations possibles pour l'accès public
 
@@ -99,7 +103,9 @@ En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et 
 **Escalier principal "à l'ouest" :**
 ![plan](../plans/plan-amenagement-2.svg)
 
-<div class=page-break>
+
+<div class="page-break"></div>
+
 
 ### Aménagements intérieurs
 
@@ -117,7 +123,9 @@ Le schéma ci-dessous montre comment deux places PMR sont créges en enlevant le
 
 ![plan](../plans/plan-amenagement-4.svg)
 
-<div class=page-break>
+
+<div class="page-break"></div>
+
 
 ### Limites d'utilisation
 
