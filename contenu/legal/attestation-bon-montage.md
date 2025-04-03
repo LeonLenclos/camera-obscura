@@ -31,7 +31,7 @@ type: legal
 **Documents et plans utilisés pour l'installation :**
 
 - [schéma d'implantation](../technique/implantation.md) ;
-- [notice de montage](../technique/notice-montage.md).
+- [notice technique](/notice-technique.md).
 
 **Liaison au sol :** autoporté
 
@@ -60,4 +60,3 @@ en deux exemplaires originaux.
 
 Signature du référent technique :
 
-**ATTENTION CE DOCUMENT EST EN COURS DE RÉDACTION NE PAS SIGNER**
