@@ -10,6 +10,10 @@ type: legal
 
 ![Plan d'évacuation](../plans/plan-evacuation.svg)
 
+### Matériel de secours contre l'incendie
+
+L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
+
 ### Procédure en cas d'incendie
 
 1. **Alarme :** Signaler l'incendie au public présent dans l'espace.
@@ -18,42 +22,33 @@ type: legal
 4. **Attaquer le feu :** à l'aide de l'extincteur.
 5. **Alerter les secours :** si nécessaire.
 
-### Consignes préventives
+### Modalités d'évacuation
+
+- L'alerte d'être donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
+- Une fois que l'alerte est donnée, l'évacuation se fait par deux issues de chaque côté de la structure.
+- Le personnel rappel les consignes d'évacuation et aide le public à évacuer.
+- Les premiers rangs (en particulier les personnes à mobilité réduite) sont évacués en priorité. 
+- Le public et le personnel se rassemble à au moins 7 m de la structure.
+- On contrôle qu'il ne reste personne à l'intérieur.
+
+### Rappel des consignes de sécurité
+
+Consignes préventives :
 
 - les issues de secours sont laissées libres ;
 - le matériel de secours n'est pas encombré ;
 - des exercices contre l'incendie sont menés périodiquement ;
 
-### Consignes d'évacuation
+Consignes d'évacuation :
 
 - Garder son calme ;
 - ne pas revenir en arrière ;
 - utiliser les deux issues si possible ;
 - ne pas se précipiter dans les escaliers.
 
-### Modalités d'évacuation
-
-L'alerte d'être donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
-
-Une fois que l'alerte est donnée, l'évacuation se fait par deux issues de chaque côté de la structure.
-
-Le personnel rappel les consignes d'évacuation et aide le public à évacuer.
-
-Les premiers rangs (en particulier les personnes à mobilité réduite) sont évacués en priorité. 
-
-Le public et le personnel se rassemble à au moins 7 m de la structure.
-
-On contrôle qu'il ne reste personne à l'intérieur.
-
-### Matériel de secours contre l'incendie
-
-L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
-
-### Numéros utiles
-
-Lors de votre appel, indiquez l'endroit où vous vous trouvez et un n° de téléphone
+Numéros utiles :
 
 - En cas d'incendie : 18 ou 112
 - En cas d'accident : 15 ou 112
-- Numéro d'urgence pour personnes sourdes ou malentendantes : 114
+- Lors de votre appel, indiquez l'endroit où vous vous trouvez et un n° de téléphone
 
