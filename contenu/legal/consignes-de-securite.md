@@ -16,7 +16,7 @@ L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
 
 ### Modalités d'évacuation
 
-- L'alerte d'être donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
+- L'alerte est donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
 - Une fois que l'alerte est donnée, l'évacuation se fait par deux issues de chaque côté de la structure.
 - Le personnel rappel les consignes d'évacuation et aide le public à évacuer.
 - Les premiers rangs (en particulier les personnes à mobilité réduite) sont évacués en priorité. 

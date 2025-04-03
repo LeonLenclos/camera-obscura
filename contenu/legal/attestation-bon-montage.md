@@ -39,6 +39,8 @@ type: legal
 
 **Vitesse de vent retenue (km/h) :** <input>
 
+(Vitesse de vent maximum : 72 km/h)
+
 ### Sécurisation des équipements techniques suspendus
 
 Réalisée conformément aux dispositions de l'article 26 de l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables.

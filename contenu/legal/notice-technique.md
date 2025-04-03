@@ -23,7 +23,7 @@ Ce document est fourni par NOKILL en tant que fabricant de CAMERA OBSCURA confor
 
 ### Fabricant
 
-CAMERA OBSCURA a été fabriquée en 2025 par la Cie NOKILL
+CAMERA OBSCURA a été fabriquée en 2025 par NOKILL
 
 SARL NOKILL  
 Siège social : NOKILL — 6 rue du Dr Bastié — 81300 Graulhet  
@@ -33,13 +33,13 @@ Licence spectacle :	PLATESV-R-2022-004670 – Catégorie 2
 
 ### Description du système
 
-L'ensemble CAMERA OBSCURA est une salle de spectacle itinérante conçu par la Cie NOKILL pour diffuser un spectacle utilisant le principe optique de la chambre noire.
+L'ensemble CAMERA OBSCURA est une salle de spectacle itinérante conçu par NOKILL pour diffuser un spectacle utilisant le principe optique de la chambre noire.
 
 ### Description de l'ensemble
 
 L'ensemble se compose :
 
-- d'une REMORQUE (1), espace clos pouvant accueillir 25 personnes.
+- d'une REMORQUE (1), espace clos pouvant accueillir 21 personnes.
 - d'une STRUCTURE SCÉNIQUE (2), démontable fixée à l'extérieur de la REMORQUE.
 - d'une STRUCTURE OPTIQUE (3), démontable fixée à l'extérieur de la REMORQUE.
 - d'un ESCALIER PRINCIPAL (4), démontable fixé à l'extérieur de la remorque devant une des deux portes.
@@ -103,7 +103,7 @@ En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et 
 **Escalier principal "à l'ouest" :**
 ![plan](../plans/plan-amenagement-2.svg)
 
-Une rampe de 4 m (pente de 15 %) peut être montée temporairement sur un des deux accès pour les séances où des personnes avec fauteuil sont accueillies.
+En cas d'accueil de personnes à mobilité réduite, un des deux escaliers peut être équipé d'une rampe amovible permettant, avec l'aide d'une personne valide, l'accès aux fauteuil roulant mécaniques ou électriques (pente 15 %).
 
 <div class="page-break"></div>
 
@@ -120,7 +120,7 @@ Le schéma ci-dessous montre le gradin avec tous les sièges montés (Configurat
 
 ![plan](../plans/plan-amenagement-4.svg)
 
-Le schéma ci-dessous montre comment deux places PMR sont créges en enlevant les quatre fauteuils du premier rang (Configuration C) :
+Le schéma ci-dessous montre comment deux places PMR sont créées en enlevant les quatre fauteuils du premier rang (Configuration C) :
 
 ![plan](../plans/plan-amenagement-3.svg)
 
