@@ -136,7 +136,7 @@ L'utilisation de l'ensemble doit tenir compte des limitations suivantes pendant 
 
 L'usure des différentes pièces doit être vérifiée à chaque montage. Les pièces défectueuses doivent être remplacées ou réparées avant toute utilisation.
 
-### Notice de montage
+### montage et démontage
 
 ##### Préconisations relatives aux appuis au sol
 
