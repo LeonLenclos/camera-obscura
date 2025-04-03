@@ -9,8 +9,8 @@ type: legal
 <!--
 __TODO: Vérifier que ce document contient :__  
 
-- Description detaillée  
-- Plan des installation techniques
+- Description détaillée  
+- Plan des installations techniques
 - Description des parties de l'ensemble
 - Nomenclature des pièces avec schémas
 - Codification du marquage des pièces
@@ -19,7 +19,7 @@ __TODO: Vérifier que ce document contient :__
 
 ### Préambule
 
-Ce document est fournit par NOKILL en tant que fabricant de CAMERA OBSCURA conformément à l'Arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables.
+Ce document est fourni par NOKILL en tant que fabricant de CAMERA OBSCURA conformément à l'Arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables.
 
 ### Fabricant
 
@@ -106,11 +106,11 @@ En cas d'accueil de personnes à mobilité réduite (PMR) il est possible de ret
 
 Le schéma ci-dessous montre le gradin avec tous les sièges montés (Configuration A) :
 
-![plan](../plans/plan-amenagement-1.svg)
-
-Le schéma ci-dessous montre comment deux places PMR sont crées en enlevant les quatre fauteuils du premier rang (Configuration C) :
-
 ![plan](../plans/plan-amenagement-3.svg)
+
+Le schéma ci-dessous montre comment deux places PMR sont créges en enlevant les quatre fauteuils du premier rang (Configuration C) :
+
+![plan](../plans/plan-amenagement-4.svg)
 
 ### Limites d'utilisation
 
@@ -155,6 +155,6 @@ Effectuer le montage dans cet ordre :
 
 1. Placement de la remorque
 2. Calage de la remorque
-3. Montage des plateforme et des escaliers
+3. Montage des plateformes et des escaliers
 4. Montage du reste de la structure
 

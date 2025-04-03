@@ -14,15 +14,15 @@ type: legal
 
 1. **Alarme :** Signaler l'incendie au public présent dans l'espace.
 2. **Évacuation :** Le personnel aide le public à évacuer l'espace.
-3. **Rassemblement :** Le public et le personnel se rassemble a l'extérieur.
+3. **Rassemblement :** Le public et le personnel se rassemble à l'extérieur.
 4. **Attaquer le feu :** à l'aide de l'extincteur.
 5. **Alerter les secours :** si nécessaire.
 
 ### Consignes préventives
 
 - les issues de secours sont laissées libres ;
-- le materiel de secours n'est pas encombrées ;
-- des exercices contre l'incendie sont menés périodiquements ;
+- le matériel de secours n'est pas encombré ;
+- des exercices contre l'incendie sont menés périodiquement ;
 
 ### Consignes d'évacuation
 
@@ -47,7 +47,7 @@ On contrôle qu'il ne reste personne à l'intérieur.
 
 ### Matériel de secours contre l'incendie
 
-L'établissement est équipé d'un extincteur à eau pulvérisé de 6L.
+L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
 
 ### Numéros utiles
 
