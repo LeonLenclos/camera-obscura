@@ -14,14 +14,6 @@ type: legal
 
 L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
 
-### Procédure en cas d'incendie
-
-1. **Alarme :** Signaler l'incendie au public présent dans l'espace.
-2. **Évacuation :** Le personnel aide le public à évacuer l'espace.
-3. **Rassemblement :** Le public et le personnel se rassemble à l'extérieur.
-4. **Attaquer le feu :** à l'aide de l'extincteur.
-5. **Alerter les secours :** si nécessaire.
-
 ### Modalités d'évacuation
 
 - L'alerte d'être donnée à voix nue par le responsable sécurité situé à l'intérieur de l'établissement.
@@ -30,25 +22,23 @@ L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
 - Les premiers rangs (en particulier les personnes à mobilité réduite) sont évacués en priorité. 
 - Le public et le personnel se rassemble à au moins 7 m de la structure.
 - On contrôle qu'il ne reste personne à l'intérieur.
+- On attaque le feu sans prendre de risque.
+- On alerte les secours si nécessaire.
 
 ### Rappel des consignes de sécurité
 
 Consignes préventives :
-
 - les issues de secours sont laissées libres ;
 - le matériel de secours n'est pas encombré ;
 - des exercices contre l'incendie sont menés périodiquement ;
 
 Consignes d'évacuation :
-
 - Garder son calme ;
 - ne pas revenir en arrière ;
 - utiliser les deux issues si possible ;
 - ne pas se précipiter dans les escaliers.
 
 Numéros utiles :
-
 - En cas d'incendie : 18 ou 112
 - En cas d'accident : 15 ou 112
-- Lors de votre appel, indiquez l'endroit où vous vous trouvez et un n° de téléphone
 

@@ -103,6 +103,7 @@ En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et 
 **Escalier principal "à l'ouest" :**
 ![plan](../plans/plan-amenagement-2.svg)
 
+Une rampe de 4 m (pente de 15 %) peut être montée temporairement sur un des deux accès pour les séances où des personnes avec fauteuil sont accueillies.
 
 <div class="page-break"></div>
 
