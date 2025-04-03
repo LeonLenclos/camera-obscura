@@ -118,11 +118,11 @@ En cas d'accueil de personnes à mobilité réduite (PMR) il est possible de ret
 
 Le schéma ci-dessous montre le gradin avec tous les sièges montés (Configuration A) :
 
-![plan](../plans/plan-amenagement-3.svg)
+![plan](../plans/plan-amenagement-4.svg)
 
 Le schéma ci-dessous montre comment deux places PMR sont créges en enlevant les quatre fauteuils du premier rang (Configuration C) :
 
-![plan](../plans/plan-amenagement-4.svg)
+![plan](../plans/plan-amenagement-3.svg)
 
 
 ### Limites d'utilisation
