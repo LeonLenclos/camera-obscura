@@ -62,6 +62,8 @@ __TODO: Détailler la nomenclature des pièces__
 __TODO: Décider d'une codification__
 -->
 
+<div class=page-break>
+
 ### Dimensions extérieures des parties
 
 L'ensemble une fois monté occupe une surface de 13 × 8 mètres.
@@ -85,16 +87,19 @@ Le schéma ci-dessous détaille les dimensions de l'intérieur et des accès pub
 
 ![plan](../plans/plan-dimensions.svg)
 
+<div class=page-break>
 
 ### Différentes configurations possibles pour l'accès public
 
 En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et l'ESCALIER DE SECOURS peuvent être placés d'un côté ou de l'autre de la remorque. Le schéma ci-dessous montre les deux possibilités :
 
-**Escalier principal "à l'est" :*
+**Escalier principal "à l'est" :**
 ![plan](../plans/plan-amenagement-1.svg)
 
-**Escalier principal "à l'ouest" :*
+**Escalier principal "à l'ouest" :**
 ![plan](../plans/plan-amenagement-2.svg)
+
+<div class=page-break>
 
 ### Aménagements intérieurs
 
@@ -111,6 +116,8 @@ Le schéma ci-dessous montre le gradin avec tous les sièges montés (Configurat
 Le schéma ci-dessous montre comment deux places PMR sont créges en enlevant les quatre fauteuils du premier rang (Configuration C) :
 
 ![plan](../plans/plan-amenagement-4.svg)
+
+<div class=page-break>
 
 ### Limites d'utilisation
 
