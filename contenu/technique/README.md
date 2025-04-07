@@ -39,6 +39,7 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
 - [Marionettes](marionettes.md)
 - [Habillage](habillage.md)
 - [Fournisseurs](fournisseurs.md) : liste de fournisseurs.
+- [Electricité](electricité.md) (oui, il y a un peu d'électricité au final...)
 - [Vrac](vrac.md) : idées à creuser
 
 ## Documents
