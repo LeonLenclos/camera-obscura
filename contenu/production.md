@@ -907,7 +907,7 @@ CLIM
 - # Maintenant
 
 ### du 12/4/2025 au 15/4/2025, Graulhet (81) - Plastoc
- - [x] ★★★ pose panneaux solaires/chargeur batterie
+ - [ ] ★★★ pose panneaux solaires/chargeur batterie
  - [ ] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
  - [ ] ★★★ sortie de secour
  - [ ] ★★★ rampe PMR
