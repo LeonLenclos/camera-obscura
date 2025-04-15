@@ -11,7 +11,7 @@ Théâtre optique post-cinéma
 
 ### Souvenirs du futur
 
-Le film projeté est [*Souvenirs du futur*](contenu/ecriture/souvenirs-du-futur.md). C'est une collection de fragments, des évocations vagues ou anecdotiques de futurs possibles. Des récits d'anticipations qui s'affranchissent des thèmes de la science fiction et proposent une vision ni utopique ni apocalyptique d'un futur pluriel, banal et étrange.
+Le film projeté est [*Souvenirs du futur*](contenu/ecriture/souvenirs-du-futur.md). C'est une collection de fragments, des évocations vagues ou anecdotiques de futurs possibles. Des récits d'anticipation qui s'affranchissent des thèmes de la science fiction et proposent une vision ni utopique ni apocalyptique d'un futur pluriel, banal et étrange.
 
 ### Documentation du projet
 
