@@ -8,7 +8,7 @@ Le spectacle comporte les sons suivants : musique live,  musiques enregistrée
 
 Pas de son susceptible de gêner des personnes sensibles.
 
-## Accessibilité visuelle
+## Accessibilité visuelle
 
 Le visuel a une place essentielle dans l’appréciation et la compréhension du spectacle. Une personne malvoyante ou aveugle manquera des éléments majeurs pour comprendre le propos.
 
@@ -24,13 +24,13 @@ Le spectacle est fixe. Les spectateur·ices sont assis·es dans des sièges avec
 
 Important : Afin de préparer les places pour fauteuils roulants, nous avons besoin d'être prévenus à l’avance.
 
-L’accès à la remorque se fait par un escalier principal aux normes (Hauteur de marche : 16 cm / Largeur de marche : 1,2m / Main courante). Cet accès peut convenir pour des personnes qui se déplacent avec difficulté. Dans ce cas, l’accès est le même que pour les autres spectateurs.
+L’accès à la remorque se fait par un escalier principal aux normes (Hauteur de marche : 16 cm / Largeur de marche : 1,2m / Main courante). Cet accès peut convenir pour des personnes qui se déplacent avec difficulté.
 
 Une entrée secondaire est équipée d'une rampe amovible à la norme TPMR permettant, avec l'aide d'une personne valide, l'accès aux fauteuil roulant mécaniques ou électriques (pente 25 %).
 
 Important : Prévoir 1 personne pour aider.
 
-## Accessibilité cognitive et contenu du spectacle
+## Accessibilité cognitive et contenu du spectacle
 
 Il y a dans le spectacle quelques références culturelles, historiques ou scientifiques qui peuvent enrichir sa compréhension. Cependant, le spectacle peut être vu et apprécié sans ces références.
 
