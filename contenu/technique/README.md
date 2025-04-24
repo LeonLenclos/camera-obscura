@@ -28,6 +28,7 @@ Voici la liste des questions et spécifications techniques liés au spectacle *C
 - [Instrumentarium](instrumentarium.md) : instruments de musique et de bruitage
 
 ## Accueil public
+- [Accessibilité](accrssibilite.md) : sur l'accessibilité du spectacle pour les publics.
 - [Isolation et climatisation](isolation.md) : faire du frais dans la remorque
 - [Fauteuils](fauteuils.md) : garantir un max de confort avec un minimum d'encombrement et de poid
 - Vendre des pop-corns cuits au four solaire
