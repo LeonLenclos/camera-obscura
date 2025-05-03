@@ -909,14 +909,13 @@ CLIM
 ### du 12/4/2025 au 15/4/2025, Graulhet (81) - Plastoc
  - [ ] ★★★ charge batterie TT
  - [ ] ★★★ rampe PMR
- - [ ] ★★★ système démontage sièges place PMR
- - [ ] ★★★ cablage  
- - [ ] ★★★ pose panneaux solaires/chargeur batterie dans boitier.
- - [ ] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
+ - [x] ★★★ système démontage sièges place PMR
+ - [x] ★★★ cablage  
+ - [x] ★★★ pose panneaux solaires/chargeur batterie dans boitier.
+ - [x] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
  - [ ] ★★★ sortie de secour
  - [ ] ★★★ système ventilation arrière
  - [ ] ★★★ peinture noire intérieure
  - [ ] ★★★ pose mini-ventilateur
-
  - [ ] ★★★ bavette scratch
 
