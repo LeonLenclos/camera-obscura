@@ -915,7 +915,7 @@ CLIM
  - [x] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
  - [ ] ★★★ sortie de secour
  - [ ] ★★★ système ventilation arrière
- - [ ] ★★★ peinture noire intérieure
- - [ ] ★★★ pose mini-ventilateur
+ - [x] ★★★ peinture noire intérieure
+ - [x] ★★★ pose mini-ventilateur
  - [ ] ★★★ bavette scratch
 
