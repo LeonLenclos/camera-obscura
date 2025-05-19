@@ -918,7 +918,7 @@ CLIM
 # Maintenant
 
 ### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
- - [ ] *** achat extincteur
+ - [ ] *** achat et installation extincteur
  - [ ] *** pose prise alume cigare 12V soute
  - [ ] *** achat lunette
  - [ ] *** modif reflo hauteur réglable (manchon)
@@ -931,12 +931,13 @@ CLIM
  - [ ] *** changer 1 ventilo
  - [ ] *** changer 1 mini-ventilo
  - [ ] *** fixation ventilo
- - [ ] *** lumière fau de gabarit
+ - [ ] *** lumière feu de gabarit
  - [ ] *** carte grise
- - [ ] *** ghgt matière machine à pluis
+ - [ ] *** chgt matière machine à pluie
  - [ ] *** renfort rampe PMR
  - [ ] *** étude IVECO C15 3.0l L2H2
  - [ ] *** ré-impresion générique et photo
- - [ ] *** trouver renfort pour montage VES
+ - [x] *** trouver renfort pour montage VES
  - [ ] *** prépa Bobigny
  - [ ] *** resa hotel Bobigny
+ - [ ] *** strap XLR
