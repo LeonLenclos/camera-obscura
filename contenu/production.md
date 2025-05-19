@@ -918,26 +918,26 @@ CLIM
 # Maintenant
 
 ### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
- - [ ] *** achat et installation extincteur
- - [ ] *** pose prise alume cigare 12V soute
- - [ ] *** achat lunette
- - [ ] *** modif reflo hauteur réglable (manchon)
- - [ ] *** régler flair soufflet
- - [ ] *** régler étanchéïté cache avant
- - [ ] *** boite Tracker
- - [ ] *** défonce plancher porte
- - [ ] *** range mailloche
- - [ ] *** reparation orgue
- - [ ] *** changer 1 ventilo
- - [ ] *** changer 1 mini-ventilo
- - [ ] *** fixation ventilo
- - [ ] *** lumière feu de gabarit
- - [ ] *** carte grise
- - [ ] *** chgt matière machine à pluie
- - [ ] *** renfort rampe PMR
- - [ ] *** étude IVECO C15 3.0l L2H2
- - [ ] *** ré-impresion générique et photo
- - [x] *** trouver renfort pour montage VES
- - [ ] *** prépa Bobigny
- - [ ] *** resa hotel Bobigny
- - [ ] *** strap XLR
+ - [ ] ★★★ achat et installation extincteur
+ - [ ] ★★★ pose prise alume cigare 12V soute
+ - [ ] ★★★ achat lunette
+ - [ ] ★★★ modif reflo hauteur réglable (manchon)
+ - [ ] ★★★ régler flair soufflet
+ - [ ] ★★★ régler étanchéïté cache avant
+ - [ ] ★★★ boite Tracker
+ - [ ] ★★★ défonce plancher porte
+ - [ ] ★★★ range mailloche
+ - [ ] ★★★ reparation orgue
+ - [ ] ★★★ changer 1 ventilo
+ - [ ] ★★★ changer 1 mini-ventilo
+ - [ ] ★★★ fixation ventilo
+ - [ ] ★★★ lumière feu de gabarit
+ - [ ] ★★★ carte grise
+ - [ ] ★★★ chgt matière machine à pluie
+ - [ ] ★★★ renfort rampe PMR
+ - [ ] ★★★ étude IVECO C15 3.0l L2H2
+ - [ ] ★★★ ré-impresion générique et photo
+ - [x] ★★★ trouver renfort pour montage VES
+ - [ ] ★★★ prépa Bobigny
+ - [ ] ★★★ resa hotel Bobigny
+ - [ ] ★★★ strap XLR
