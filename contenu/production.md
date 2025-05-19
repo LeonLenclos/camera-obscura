@@ -941,3 +941,4 @@ CLIM
  - [ ] ★★★ prépa Bobigny
  - [ ] ★★★ resa hotel Bobigny
  - [ ] ★★★ strap XLR
+ - [ ] ★★★ chargeur USB
