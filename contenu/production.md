@@ -904,18 +904,39 @@ CLIM
 
 - Finitions et premières
 
-- # Maintenant
-
-### du 12/4/2025 au 15/4/2025, Graulhet (81) - Plastoc
- - [ ] ★★★ charge batterie TT
- - [ ] ★★★ rampe PMR
+### du 12/4/2025 au 15/5/2025, Graulhet (81) - Plastoc - Améliorations techniques et reprise
+ - [x] ★★★ rampe PMR
  - [x] ★★★ système démontage sièges place PMR
  - [x] ★★★ cablage  
  - [x] ★★★ pose panneaux solaires/chargeur batterie dans boitier.
  - [x] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
- - [ ] ★★★ sortie de secour
- - [ ] ★★★ système ventilation arrière
+ - [x] ★★★ sortie de secour
+ - [x] ★★★ système ventilation arrière
  - [x] ★★★ peinture noire intérieure
  - [x] ★★★ pose mini-ventilateur
- - [ ] ★★★ bavette scratch
 
+# Maintenant
+
+### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
+ - [ ] *** achat extincteur
+ - [ ] *** pose prise alume cigare 12V soute
+ - [ ] *** achat lunette
+ - [ ] *** modif reflo hauteur réglable (manchon)
+ - [ ] *** régler flair soufflet
+ - [ ] *** régler étanchéïté cache avant
+ - [ ] *** boite Tracker
+ - [ ] *** défonce plancher porte
+ - [ ] *** range mailloche
+ - [ ] *** reparation orgue
+ - [ ] *** changer 1 ventilo
+ - [ ] *** changer 1 mini-ventilo
+ - [ ] *** fixation ventilo
+ - [ ] *** lumière fau de gabarit
+ - [ ] *** carte grise
+ - [ ] *** ghgt matière machine à pluis
+ - [ ] *** renfort rampe PMR
+ - [ ] *** étude IVECO C15 3.0l L2H2
+ - [ ] *** ré-impresion générique et photo
+ - [ ] *** trouver renfort pour montage VES
+ - [ ] *** prépa Bobigny
+ - [ ] *** resa hotel Bobigny
