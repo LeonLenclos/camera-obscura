@@ -919,7 +919,7 @@ CLIM
 
 ### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
  - [ ] ★★★ achat et installation extincteur
- - [ ] ★★★ pose prise alume cigare 12V soute
+ - [ ] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
  - [ ] ★★★ achat lunette
  - [ ] ★★★ modif reflo hauteur réglable (manchon)
  - [ ] ★★★ régler flair soufflet
@@ -941,4 +941,4 @@ CLIM
  - [ ] ★★★ prépa Bobigny
  - [ ] ★★★ resa hotel Bobigny
  - [ ] ★★★ strap XLR
- - [ ] ★★★ chargeur USB
+
