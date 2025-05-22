@@ -539,7 +539,7 @@ font-size:small;
   margin:0;
   padding: 0;
   display: block;
-  font-size:48pt !important;
+  font-size:56pt !important;
   background: none;
   background:black;
 
@@ -577,6 +577,7 @@ font-size:small;
 }
 
 /* ROULEAU TITRE */
+
 
 .rouleau-titre #main h2:last-of-type{
   margin-bottom: 600mm;
