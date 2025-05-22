@@ -59,7 +59,7 @@ type: rouleau-titre
 
 <dl>
 <dt>Soudure</dt><dd>Fabien Durand</dd>
-<dt>Construction</dt><dd>Zou Lenclos</dd>
+<dt>Construction</dt><dd>Ninon Lenclos</dd>
 </dl>
 
 <dl>
