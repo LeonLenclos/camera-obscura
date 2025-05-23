@@ -939,6 +939,6 @@ CLIM
  - [ ] ★★★ ré-impresion générique et photo
  - [x] ★★★ trouver renfort pour montage VES
  - [ ] ★★★ prépa Bobigny
- - [ ] ★★★ resa hotel Bobigny
+ - [x] ★★★ resa hotel Bobigny
  - [ ] ★★★ strap XLR
 
