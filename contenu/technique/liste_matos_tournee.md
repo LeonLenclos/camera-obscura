@@ -1,15 +1,14 @@
 JEU
- - [ ] Remorque Camera Obscura + roue de secour + antivol rouge + clés
- - [ ] jeu de cales bois et basteing
- - [ ] Manivelle
- - [ ] 2 cales métal
- - [ ] Niveau bulle jaune
+ - [ ] Remorque Camera Obscura + roue de secour + Manivelle + 2 cales métal + clés
+ - [ ] Caisse grise de cales boi + boule antivol rouges et basteing + Niveau bulle jaune
  - [ ] Sac mangrove accessoire CO
    - [ ] Poignées portes
    - [ ] Poulie niveau de l'eau
+   - [ ] contre-poids chariot
    - [ ] 12 jonctions praticables
    - [ ] 2 cornières réflecteur
    - [ ] 12 ? colliers clamp
+   - [ ] clavette commande tourelle
  - [ ] 4 Stapontins
  - [ ] 3 Racks anim
  - [ ] 1 Racks mario
@@ -22,20 +21,18 @@ JEU
    - [ ] Table polycarbonate accessoires
    - [ ] Miroirs
    - [ ] Sac linge sale
- - [ ] 3 praticables + 8 pieds 80 + 8 pieds 40 + 4 escaliers
- - [ ] 16 lawyer
+ - [ ] 4 praticables + 8 pieds 80 + 12 pieds 40 + 4 escaliers
+ - [ ] 8 lawyer grand + 8 lawyer petits
  - [ ] 4 rails plaques (3m + 2m)+ pied gravity avec adaptateur
  - [ ] 2 pieds manivelles avec crochets + Barre décor
  - [ ] Cage (HE, HO, HN, NE, NO)
  - [ ] Rail (2 arches + 2 traverses)
  - [ ] Chariot + miroir Amici
  - [ ] Soufflet
- - [ ] Drapeau reflecteur
+ - [ ] Drapeau reflecteur + clamp
  - [ ] Tuyau PVC voix extérieures
- - [ ] 2 ventilos sur pieds
  - [ ] 4 ventilos 12 V
- - [ ] 1 batterie 12V + Chargeur
- - [ ] Sac secteur
+ - [ ] Sac secteur (1 x P17/P17, 1 P17/secteur, 2 rallonge, 1 triplette)
  - [ ] 4 tapis brosses
  - [ ] Tissus Bavettes noires
  - [ ] 1 enrouleur tuyau eau + adaptateur
@@ -57,7 +54,7 @@ JEU
    - [ ]  2 sticks et 2 mailloches
    - [ ]  Seau eau + éponge
    - [ ]  Talon aiguille
- - [ ] Valises costumes
+ - [ ] sacs costumes
    - [ ] ...
    - [ ] ...
  - [ ] Prothèse
@@ -71,20 +68,15 @@ SPARE
  - [ ] Spare optiques
  - [ ] Spare miroirs
  - [ ] Spare gramophone + disque
-
-
 OUTILS/MAINTENANCE
  - [ ] Makita avec embouts et selection mèches
  - [ ] Caisse outil rouge
- - [ ] Sacs scotch/sangles/pinces
- - [ ] Sac bijoute
+ - [ ] Sacs scotch/sangles/pinces/bijoute
  - [ ] Caisses visserie vrac
- - [ ] caisse verte maintenance plexi (colle, visserie 4mm)
- - [ ] Chutes plexi + Chutes vynile (noir)
+ - [ ] caisse maintenance plexi (colle, visserie 4mm)
  - [ ] Balai, raclette
  - [ ] Poubelle
  - [ ] Sac chiffon et alcool
-
 MERCH/DETENTE/ACCUEIL
  - [ ] 4 chaises longues
  - [ ] Table campings + 4 tabourets
@@ -93,13 +85,6 @@ MERCH/DETENTE/ACCUEIL
  - [ ] Porte affiches/horaires
  - [ ] Caisse jouets optiques
  - [ ] Caisse bibliotheque
-
-OPTION CHANTIER
- - [ ] Meuleuses/scie sauteuse/base consommables (disque/papier de verre/lame scie)
- - [ ] Chutes plexi + Chutes vynile
- - [ ] Caisse bleue rivet
- - [ ] Caisses visserie complètes
-
 OPTION CAPTA
 - [ ] Appareil photo complet
 - [ ] Pied
