@@ -930,15 +930,15 @@ CLIM
  - [x] ★★★ prépa Bobigny
  - [x] ★★★ resa hotel Bobigny
  - [ ] ★★★ strap XLR
+ - [ ] ★★★ lumière feu de gabarit
+ - [ ] ★★★ range mailloche
+ - [ ] ★★★ chgt matière machine à pluie
+ - [ ] ★★★ carte grise
+ - [ ] ★★★ achat IVECO C15 3.0l L2H2
  - [ ] ★★★ storyboard clip
  - [ ] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
  - [ ] ★★★ boite Tracker
- - [ ] ★★★ range mailloche
- - [ ] ★★★ lumière feu de gabarit
- - [ ] ★★★ carte grise
- - [ ] ★★★ achat IVECO C15 3.0l L2H2
  - [ ] ★★★ ré-impresion générique et photo
- - [ ] ★★ chgt matière machine à pluie
  - [ ] ★★ renfort rampe PMR
  - [ ] ★★ régler flair soufflet
  - [ ] ★★ régler étanchéïté cache avant
