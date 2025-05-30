@@ -929,11 +929,12 @@ CLIM
  - [x] ★★★ trouver renfort pour montage VES
  - [x] ★★★ prépa Bobigny
  - [x] ★★★ resa hotel Bobigny
- - [ ] ★★★ strap XLR
+ - [ ] ★★★ 2 strap XLR
  - [ ] ★★★ lumière feu de gabarit
  - [ ] ★★★ range mailloche
  - [ ] ★★★ chgt matière machine à pluie
  - [ ] ★★★ carte grise
+ - [ ] ★★★ chgt assurance new CG
  - [ ] ★★★ achat IVECO C15 3.0l L2H2
  - [ ] ★★★ storyboard clip
  - [ ] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
