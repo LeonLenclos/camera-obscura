@@ -919,26 +919,26 @@ CLIM
 
 ### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
  - [x] ★★★ achat et installation extincteur
- - [ ] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
- - [ ] ★★★ achat lunette
+ - [x] ★★★ achat lunette
  - [x] ★★★ modif reflo hauteur réglable (manchon)
- - [ ] ★★★ régler flair soufflet
- - [ ] ★★★ régler étanchéïté cache avant
- - [ ] ★★★ boite Tracker
  - [x] ★★★ défonce plancher porte
- - [ ] ★★★ range mailloche
  - [x] ★★★ reparation orgue
  - [x] ★★★ changer 1 ventilo
  - [x] ★★★ changer 1 mini-ventilo
  - [x] ★★★ fixation ventilo
- - [ ] ★★★ lumière feu de gabarit
- - [ ] ★★★ carte grise
- - [ ] ★★★ chgt matière machine à pluie
- - [ ] ★★★ renfort rampe PMR
- - [ ] ★★★ achat IVECO C15 3.0l L2H2
- - [ ] ★★★ ré-impresion générique et photo
  - [x] ★★★ trouver renfort pour montage VES
  - [x] ★★★ prépa Bobigny
  - [x] ★★★ resa hotel Bobigny
  - [ ] ★★★ strap XLR
-
+ - [ ] ★★★ storyboard clip
+ - [ ] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
+ - [ ] ★★★ boite Tracker
+ - [ ] ★★★ range mailloche
+ - [ ] ★★★ lumière feu de gabarit
+ - [ ] ★★★ carte grise
+ - [ ] ★★★ achat IVECO C15 3.0l L2H2
+ - [ ] ★★★ ré-impresion générique et photo
+ - [ ] ★★ chgt matière machine à pluie
+ - [ ] ★★ renfort rampe PMR
+ - [ ] ★★ régler flair soufflet
+ - [ ] ★★ régler étanchéïté cache avant
