@@ -933,29 +933,35 @@ CLIM
  - [x] ★★★ lumière feu de gabarit
  - [x] ★★★ range mailloche
  - [x] ★★★ chgt matière machine à pluie
- - [ ] ★★★ carte grise
- - [ ] ★★★ chgt assurance new CG
  - [x] ★★★ achat IVECO C15 3.0l L2H2
  - [x] ★★★ storyboard clip
  - [x] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
  - [x] ★★★ boite Tracker
+
+
+# Maintenant
+
+### du 19/6/2025 au 30/6/2025, Graulhet (81) - Plastoc - Améliorations
+
+ - [ ] ★★★ carte grise
+ - [ ] ★★★ chgt assurance new CG
  - [ ] ★★★ ré-impresion générique et photo
  - [ ] ★★ renfort rampe PMR
  - [ ] ★★ régler flair soufflet
  - [ ] ★★ régler étanchéïté cache avant
- - [ ]  couchette remorque
- - [ ]  Arrêt sur les rails des plaques
- - [ ]  Refaire plaque période malheureuse 
-   - [ ]  découpe plexi
-   - [ ]  découpe vynile
- - [ ]  Maintence plaque 
- - [ ]  Prépa tournage
- - [ ]  Caméra(s) de recul
- - [ ]  Sono camion
- - [ ]  Cache fusible camion
- - [ ]  Kit nettoyage optique 
- - [ ]  système locket trappe arrière en acier
- - [ ]  cadenas trappes arrieres
+ - [ ] ★★★ couchette remorque
+ - [ ] ★★★ Arrêt sur les rails des plaques
+ - [ ] ★★★ Refaire plaque période malheureuse 
+   - [ ] ★★★ découpe plexi
+   - [ ] ★★★ découpe vynile
+ - [ ]  ★★★ Maintence plaque 
+ - [ ]  ★★★ Prépa tournage
+ - [ ]  ★★★ Caméra(s) de recul
+ - [ ]  ★★★ Sono camion
+ - [ ]  ★★★ Cache fusible camion
+ - [ ]  ★★★ Kit nettoyage optique 
+ - [ ]  ★★★ système locket trappe arrière en acier
+ - [ ]  ★★★ cadenas trappes arrieres
 
 
 En option :
