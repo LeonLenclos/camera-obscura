@@ -5,20 +5,7 @@
 
 POUR AVIGNON
 
-- couchette remorque
-- Arrêt sur les rails des plaques
-- Refaire plaque période malheureuse 
-  - découpe plexi
-  - découpe vynile
-- Maintence plaque 
-- Prépa tournage
-- Caméra(s) de recul
-- Sono camion
-- Cache fusible camion
-- Kit nettoyage optique 
-- système locket trappe arrière en acier
-- cadenas trappes arrieres
-
+-
 CAMION
 - [ ] ★★★ reparation camion
 - [ ] ★★  caméra de recul
