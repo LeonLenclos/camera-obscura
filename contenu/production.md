@@ -957,3 +957,23 @@ CLIM
  - [ ]  système locket trappe arrière en acier
  - [ ]  cadenas trappes arrieres
 
+
+En option :
+
+RACK
+- [ ] ★★  finition : Caches dessous
+- [ ] ★★  finition : housses en skaï
+
+REGIE
+ - [ ] ★ diffusion arrière passer les PVC ?
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ corde contrebasse
+
+FINITION EXT
+ - [ ] ★★ bas de caisse avec Didier
+ - [ ] ★ niveau + boussole
+
+
+
+
+
