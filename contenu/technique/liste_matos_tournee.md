@@ -113,10 +113,11 @@ CAMPING
 - [ ] frigo
 - [ ] 4 vélos
 - [ ] une remorque
-- [ ] 1 table + 4 chaises
+- [ ] 1 table etabli
+- [ ] 4 eme transat  
 - [ ] réchaud à gaz
 - [ ] kit vaiselle
-- [ ] auvent
+- [ ] auvent barnum
 - [ ] lumière extérieure
 - [ ] douchette
 - [ ] couchage
