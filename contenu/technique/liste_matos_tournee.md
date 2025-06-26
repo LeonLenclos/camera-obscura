@@ -123,6 +123,7 @@ CAMPING
 - [ ] couchage
 - [ ] hamac
 - [ ] drap Léon + Ber + Nina
+- [ ] gros bidon eau potable
 
 
 EXTRA
