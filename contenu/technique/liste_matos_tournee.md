@@ -1,4 +1,5 @@
 JEU
+
  - [ ] Remorque Camera Obscura + roue de secours + Manivelle + 2 cales métal + clés
  - [ ] Caisse grise de cales bois + boule antivol rouges et basteing + Niveau bulle jaune
  - [ ] Sac mangrove accessoire CO
@@ -65,11 +66,17 @@ JEU
  - [ ] Clavier
  - [ ] Tabouret de jeu
  - [ ] Corde et pancartes "spectacle en cours"
+
+
 SPARE
+
  - [ ] Spare optiques
  - [ ] Spare miroirs
  - [ ] Spare gramophone
+
+ 
 OUTILS/MAINTENANCE
+
  - [ ] Makita avec embouts et selection mèches
  - [ ] Caisse outil rouge
  - [ ] Sacs scotch/sangles/pinces/bijoute
@@ -78,7 +85,10 @@ OUTILS/MAINTENANCE
  - [ ] Balai, raclette
  - [ ] Poubelle
  - [ ] Sac chiffon et alcool
+
+
 MERCH/DETENTE/ACCUEIL
+
  - [ ] 4 chaises longues
  - [ ] Table campings + 4 tabourets
  - [ ] Voile ombrage
@@ -86,9 +96,27 @@ MERCH/DETENTE/ACCUEIL
  - [ ] Porte affiches/horaires
  - [ ] Caisse jouets optiques
  - [ ] Caisse bibliotheque
+
+
 OPTION CAPTA
+
 - [ ] Appareil photo complet
 - [ ] Pied
 - [ ] Schoeps
 - [ ] Cables
 - [ ] Ordi complet + casque
+- [ ] Ronin
+
+CAMPING
+
+- [ ] 2 ventilateurs Envol
+- [ ] frigo
+- [ ] 4 vélos
+- [ ] une remorque
+- [ ] 1 table + 4 chaises
+- [ ] réchaud à gaz
+- [ ] kit vaiselle
+- [ ] auvent
+- [ ] lumière extérieure
+- [ ] douchette
+- [ ] couchage
