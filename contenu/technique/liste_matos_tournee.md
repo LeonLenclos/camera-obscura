@@ -126,7 +126,8 @@ CAMPING
 - [ ] drap Léon + Ber + Nina
 - [ ] gros bidon eau potable
 - [ ] une tente (secours) ?
-- [ ] 2 matelas 
+- [ ] 2 matelas
+- [ ] kit rallonge triplette camping
 
 
 EXTRA
