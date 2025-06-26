@@ -944,8 +944,8 @@ CLIM
 ### du 19/6/2025 au 30/6/2025, Graulhet (81) - Plastoc - Améliorations
 
  - [x] ★★★ carte grise
- - [ ] ★★★ chgt assurance new CG
- - [ ] ★★★ ré-impresion générique et photo
+ - [x] ★★★ chgt assurance new CG
+ - [x] ★★★ ré-impresion générique et photo
  - [ ] ★★ renfort rampe PMR
  - [ ] ★★ régler flair soufflet
  - [ ] ★★ régler étanchéïté cache avant
@@ -957,7 +957,7 @@ CLIM
  - [ ]  ★★★ Maintence plaque 
  - [ ]  ★★★ Prépa tournage
  - [ ]  ★★★ Caméra(s) de recul
- - [ ]  ★★★ Sono camion
+ - [ ]  ★ Sono camion
  - [x]  ★★★ Cache fusible camion
  - [ ]  ★★★ Kit nettoyage optique 
  - [ ]  ★★★ système locket trappe arrière en acier
