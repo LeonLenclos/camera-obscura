@@ -124,6 +124,7 @@ CAMPING
 - [ ] hamac
 - [ ] drap Léon + Ber + Nina
 - [ ] gros bidon eau potable
+- [ ] une tente (secours) ?
 
 
 EXTRA
