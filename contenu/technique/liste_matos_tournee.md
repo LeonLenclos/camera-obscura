@@ -122,6 +122,7 @@ CAMPING
 - [ ] douchette
 - [ ] couchage
 - [ ] hamac
+- [ ] drap Léon + Ber + Nina
 
 
 EXTRA
