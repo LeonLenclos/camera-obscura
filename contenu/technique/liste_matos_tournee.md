@@ -120,3 +120,7 @@ CAMPING
 - [ ] lumière extérieure
 - [ ] douchette
 - [ ] couchage
+
+EXTRA
+
+- [ ] livre des confs
