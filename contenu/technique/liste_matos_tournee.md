@@ -114,6 +114,7 @@ CAMPING
 - [ ] 4 vélos
 - [ ] une remorque
 - [ ] 1 table etabli
+- [ ] 1 table camping + 3 tabouret + 1 chair
 - [ ] 4 eme transat  
 - [ ] réchaud à gaz
 - [ ] kit vaiselle
