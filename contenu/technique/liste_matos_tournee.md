@@ -121,6 +121,7 @@ CAMPING
 - [ ] lumière extérieure
 - [ ] douchette
 - [ ] couchage
+- [ ] hamac
 
 
 EXTRA
