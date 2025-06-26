@@ -122,6 +122,9 @@ CAMPING
 - [ ] douchette
 - [ ] couchage
 
+
 EXTRA
 
 - [ ] livre des confs
+- [ ] jeux
+- [ ] fléchettes
