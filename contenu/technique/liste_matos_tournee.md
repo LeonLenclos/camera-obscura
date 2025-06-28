@@ -107,6 +107,14 @@ OPTION CAPTA
 - [ ] Ordi complet + casque
 - [ ] Ronin
 
+EXPERIENCE 2250mm
+
+- [ ] 2250mm
+- [ ] planchette 2250mm
+- [ ] pied (manfroto?) avec petite coupelle pour supporter planchette
+- [ ] chute de plexi transparent pour protéger le capteur pdt l'utilisation à nue du boîtier (avec éventuellement un cache de boîtier à modifier)
+
+
 CAMPING
 
 - [ ] 2 ventilateurs Envol
