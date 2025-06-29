@@ -915,7 +915,7 @@ CLIM
  - [x] ★★★ peinture noire intérieure
  - [x] ★★★ pose mini-ventilateur
 
-# Maintenant
+
 
 ### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
  - [x] ★★★ achat et installation extincteur
