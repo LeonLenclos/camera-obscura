@@ -67,13 +67,11 @@ JEU
  - [ ] Tabouret de jeu
  - [ ] Corde et pancartes "spectacle en cours"
 
-
 SPARE
 
  - [ ] Spare optiques
  - [ ] Spare miroirs
  - [ ] Spare gramophone
-
  
 OUTILS/MAINTENANCE
 
@@ -82,14 +80,14 @@ OUTILS/MAINTENANCE
  - [ ] Sacs scotch/sangles/pinces/bijoute
  - [ ] Caisses visserie vrac
  - [ ] caisse maintenance plexi (colle, visserie 4mm)
- - [ ] Balai, raclette
+ - [ ] Balai, raclette, aspirateur
  - [ ] Poubelle
  - [ ] Sac chiffon et alcool
 
 
 MERCH/DETENTE/ACCUEIL
 
- - [ ] 4 chaises longues
+ - [ ] 3 chaises longues
  - [ ] Table campings + 4 tabourets
  - [ ] Voile ombrage
  - [ ] Carton affiche, cartes postales et fanzines, caisse monnaie
@@ -97,6 +95,10 @@ MERCH/DETENTE/ACCUEIL
  - [ ] Caisse jouets optiques
  - [ ] Caisse bibliotheque
 
+BRICOLAGE
+
+ - [ ]  vis M4 + raclette à maroufler + vaporisateur
+ - [ ]  carton gaufre
 
 OPTION CAPTA
 
@@ -121,7 +123,7 @@ CAMPING
 - [ ] frigo
 - [ ] 4 vélos
 - [ ] une remorque
-- [ ] 1 table etabli
+- [ ] 1 table planche + treteaux
 - [ ] 1 table camping + 3 tabouret + 1 chair
 - [ ] 4 eme transat  
 - [ ] réchaud à gaz
@@ -132,7 +134,6 @@ CAMPING
 - [ ] hamac
 - [ ] drap Léon + Ber + Nina
 - [ ] gros bidon eau potable
-- [ ] une tente (secours) ?
 - [ ] 2 matelas
 - [ ] kit rallonge triplette camping
 - [ ] rideaux camion
