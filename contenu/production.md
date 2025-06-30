@@ -952,8 +952,8 @@ CLIM
  - [ ] ★★★ couchette remorque
  - [ ] ★★★ Arrêt sur les rails des plaques
  - [ ] ★★★ Refaire plaque période malheureuse 
-   - [ ] ★★★ découpe plexi
-   - [ ] ★★★ découpe vynile
+   - [x] ★★★ découpe plexi
+   - [x] ★★★ découpe vynile
  - [ ]  ★★★ Maintence plaque 
  - [ ]  ★★★ Prépa tournage
  - [ ]  ★★★ Caméra(s) de recul
@@ -962,6 +962,7 @@ CLIM
  - [ ]  ★★★ Kit nettoyage optique 
  - [ ]  ★★★ système locket trappe arrière en acier
  - [ ]  ★★★ cadenas trappes arrieres
+ - [ ]  ★★★ tester gaufre carton
 
 
 En option :
