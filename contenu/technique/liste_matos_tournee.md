@@ -108,6 +108,7 @@ OPTION CAPTA
 - [ ] Cables
 - [ ] Ordi complet + casque
 - [ ] Ronin
+- [ ] Led lenser
 
 EXPERIENCE 2250mm
 
