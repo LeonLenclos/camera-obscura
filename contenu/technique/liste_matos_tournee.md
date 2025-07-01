@@ -84,7 +84,6 @@ OUTILS/MAINTENANCE
  - [ ] Poubelle
  - [ ] Sac chiffon et alcool
 
-
 MERCH/DETENTE/ACCUEIL
 
  - [ ] 3 chaises longues
@@ -102,13 +101,17 @@ BRICOLAGE
 
 OPTION CAPTA
 
-- [ ] Appareil photo complet
-- [ ] Pied
+- [ ] Appareil photo complet 
+- [ ] 3 optiques fixes + 1 Zoom
+- [ ] Petit panneau LED + ses batteries
+- [ ] Pied camera
+- [ ] Clamp, Rotule, pied manfroto (meme que pour EXPERIENCE 2250mm)
 - [ ] Schoeps
 - [ ] Cables
 - [ ] Ordi complet + casque
+- [ ] 2 disques durs
 - [ ] Ronin
-- [ ] Led lenser
+- [ ] Led Lenser
 
 EXPERIENCE 2250mm
 
@@ -116,7 +119,6 @@ EXPERIENCE 2250mm
 - [ ] planchette 2250mm
 - [ ] pied (manfroto?) avec petite coupelle pour supporter planchette
 - [ ] chute de plexi transparent pour protéger le capteur pdt l'utilisation à nue du boîtier (avec éventuellement un cache de boîtier à modifier)
-
 
 CAMPING
 
