@@ -101,17 +101,27 @@ BRICOLAGE
 
 OPTION CAPTA
 
-- [ ] Appareil photo complet 
+Image
+
+- [ ] Appareil photo complet (4 cartes, 3 batteries, Chargeur, lecteur USBC)
 - [ ] 3 optiques fixes + 1 Zoom
-- [ ] Petit panneau LED + ses batteries
+- [ ] Petit panneau LED + ses batteries + chargeur
 - [ ] Pied camera
 - [ ] Clamp, Rotule, pied manfroto (meme que pour EXPERIENCE 2250mm)
-- [ ] Schoeps
-- [ ] Cables
-- [ ] Ordi complet + casque
-- [ ] 2 disques durs
 - [ ] Ronin
 - [ ] Led Lenser
+
+ordi
+
+- [ ] Ordi complet + casque
+- [ ] 2 disques durs
+
+Son
+- [ ] Schoeps + suspension
+- [ ] 4 Cables
+- [ ] pied de micro
+- [ ] perchette + suspension
+- [ ] HF Léon
 
 EXPERIENCE 2250mm
 
@@ -141,7 +151,7 @@ CAMPING
 - [ ] 2 matelas
 - [ ] kit rallonge triplette camping
 - [ ] rideaux camion
-
+- [ ] table ?
 
 EXTRA
 
