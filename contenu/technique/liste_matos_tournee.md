@@ -130,6 +130,7 @@ CAMPING
 - [ ] 1 table camping + 3 tabouret + 1 chair
 - [ ] 4 eme transat  
 - [ ] réchaud à gaz
+- [ ] bouteilles de gaz
 - [ ] kit vaiselle
 - [ ] auvent barnum
 - [ ] lumière extérieure
