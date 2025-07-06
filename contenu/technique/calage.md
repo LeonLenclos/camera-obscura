@@ -9,7 +9,7 @@
 
 ### liste des objectifs et lentilles mis en oeuvre dans les essais :
 
-Nous sommes encore à la recherche de lentilles parfaitement adaptées à notre usage.
+Nous avons mené une longue recherche de lentilles adaptées à notre usage.
 
 Objectifs et lentilles essayées et abandonnés :
 
@@ -19,22 +19,17 @@ Objectifs et lentilles essayées et abandonnés :
 - Process lens Ilex Paragon 380 mm - F9 : **Champs trop limité par le fût**
 - Process lens Nikon APO Nikkor 610 mm - F9 : **Champs trop limité par le fût**
 - Process lens Wray Lustrar 1060 mm - F16 : **Champs trop limité par le fût**
-- Lentilles brut d'opticien ø60 - 2000mm / 1500 mm / 1000 mm / 750 mm : **Très bon résultats, mais pas assez lumineux**
-- Doublet achromatique ø154 - 2250 mm : **Trop d'abérations sur les bords**
+- Lentilles brut d'opticien ø60 - 2000 mm / 1500 mm / 1000 mm / 750 mm : **Très bon résultats, mais pas assez lumineux**
+- Doublet achromatique ø154 - 2250 mm et 750 mm : **Bonne luminosité mais trop d'abérations sur les bords**
 
-Meilleur résultat obtenu avec :
+Meilleur résultat a été obtenu avec la combinaison des lentilles suivantes :
 
-- Lentilles brut d'opticien ø80 - 2000mm / 1000mm / 750mm / 660mm : **Très satisfaisant mais si on trouvait plus lumineux ce serait cool**
+- Lentilles brut d'opticien ø80 en polycarbonate - 800mm / 660mm : **Satisfaisant mais limite en luminosité**
+- Lentilles "Full field diopters" (cinéma) ø138 - 2000mm / 1000mm : **meilleur compromis obtenu jusqu'à maintenant**
 
-Lentilles en notre possession pas encore essayées :
+Solutions envisagées pour améliorer la luminosité des focales "courtes" :
 
-- Doublet achromatique ø154 - 750 mm
-- Lentilles "Full field diopters" (cinéma) ø138 - 2000mm / 1000mm / 500mm
-
-Solutions envisagées mais pas encore essayées :
-
-- Fabrication sur mesure de Lentilles ménisque ø154 - 2000mm / 1000 mm / 660 mm
-- Fabrication de lentilles "maison" à partir de verres bombés d'horloges.
+- Fabrication sur mesure de Lentilles type ø138 Full field diopters - 800mm et 660mm
 
 ### Réglage de la mise au point
 

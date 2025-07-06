@@ -904,19 +904,83 @@ CLIM
 
 - Finitions et premières
 
-- # Maintenant
+### du 12/4/2025 au 15/5/2025, Graulhet (81) - Plastoc - Améliorations techniques et reprise
+ - [x] ★★★ rampe PMR
+ - [x] ★★★ système démontage sièges place PMR
+ - [x] ★★★ cablage  
+ - [x] ★★★ pose panneaux solaires/chargeur batterie dans boitier.
+ - [x] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
+ - [x] ★★★ sortie de secour
+ - [x] ★★★ système ventilation arrière
+ - [x] ★★★ peinture noire intérieure
+ - [x] ★★★ pose mini-ventilateur
 
-### du 12/4/2025 au 15/4/2025, Graulhet (81) - Plastoc
- - [ ] ★★★ charge batterie TT
- - [ ] ★★★ rampe PMR
- - [ ] ★★★ système démontage sièges place PMR
- - [ ] ★★★ cablage  
- - [ ] ★★★ pose panneaux solaires/chargeur batterie dans boitier.
- - [ ] ★★★ pose Tableau 220V/circuit alim/circuit intérieur
- - [ ] ★★★ sortie de secour
- - [ ] ★★★ système ventilation arrière
- - [ ] ★★★ peinture noire intérieure
- - [ ] ★★★ pose mini-ventilateur
 
- - [ ] ★★★ bavette scratch
+
+### du 19/5/2025 au 30/5/2025, Graulhet (81) - Plastoc - Améliorations
+ - [x] ★★★ achat et installation extincteur
+ - [x] ★★★ achat lunette
+ - [x] ★★★ modif reflo hauteur réglable (manchon)
+ - [x] ★★★ défonce plancher porte
+ - [x] ★★★ reparation orgue
+ - [x] ★★★ changer 1 ventilo
+ - [x] ★★★ changer 1 mini-ventilo
+ - [x] ★★★ fixation ventilo
+ - [x] ★★★ trouver renfort pour montage VES
+ - [x] ★★★ prépa Bobigny
+ - [x] ★★★ resa hotel Bobigny
+ - [x] ★★★ 2 strap XLR
+ - [x] ★★★ lumière feu de gabarit
+ - [x] ★★★ range mailloche
+ - [x] ★★★ chgt matière machine à pluie
+ - [x] ★★★ achat IVECO C15 3.0l L2H2
+ - [x] ★★★ storyboard clip
+ - [x] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
+ - [x] ★★★ boite Tracker
+
+
+# Maintenant
+
+### du 19/6/2025 au 30/6/2025, Graulhet (81) - Plastoc - Améliorations
+
+ - [x] ★★★ carte grise
+ - [x] ★★★ chgt assurance new CG
+ - [x] ★★★ ré-impresion générique et photo
+ - [ ] ★★ renfort rampe PMR
+ - [ ] ★★ régler flair soufflet
+ - [ ] ★★ régler étanchéïté cache avant
+ - [ ] ★★★ couchette remorque
+ - [ ] ★★★ Arrêt sur les rails des plaques
+ - [ ] ★★★ Refaire plaque période malheureuse 
+   - [x] ★★★ découpe plexi
+   - [x] ★★★ découpe vynile
+ - [ ]  ★★★ Maintence plaque 
+ - [ ]  ★★★ Prépa tournage
+ - [ ]  ★★★ Caméra(s) de recul
+ - [ ]  ★ Sono camion
+ - [x]  ★★★ Cache fusible camion
+ - [ ]  ★★★ Kit nettoyage optique 
+ - [ ]  ★★★ système locket trappe arrière en acier
+ - [ ]  ★★★ cadenas trappes arrieres
+ - [ ]  ★★★ tester gaufre carton
+
+
+En option :
+
+RACK
+- [ ] ★★  finition : Caches dessous
+- [ ] ★★  finition : housses en skaï
+
+REGIE
+ - [ ] ★ diffusion arrière passer les PVC ?
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ corde contrebasse
+
+FINITION EXT
+ - [ ] ★★ bas de caisse avec Didier
+ - [ ] ★ niveau + boussole
+
+
+
+
 

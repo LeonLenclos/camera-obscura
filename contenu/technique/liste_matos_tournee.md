@@ -1,15 +1,15 @@
 JEU
- - [ ] Remorque Camera Obscura + roue de secour + antivol rouge + clés
- - [ ] jeu de cales bois et basteing
- - [ ] Manivelle
- - [ ] 2 cales métal
- - [ ] Niveau bulle jaune
+
+ - [ ] Remorque Camera Obscura + roue de secours + Manivelle + 2 cales métal + clés
+ - [ ] Caisse grise de cales bois + boule antivol rouges et basteing + Niveau bulle jaune
  - [ ] Sac mangrove accessoire CO
-   - [ ] Poignées portes
+   - [ ] Poignées portes x 4 + 2 carrés
    - [ ] Poulie niveau de l'eau
+   - [ ] contre-poids chariot
    - [ ] 12 jonctions praticables
    - [ ] 2 cornières réflecteur
    - [ ] 12 ? colliers clamp
+   - [ ] clavette commande tourelle
  - [ ] 4 Stapontins
  - [ ] 3 Racks anim
  - [ ] 1 Racks mario
@@ -22,20 +22,19 @@ JEU
    - [ ] Table polycarbonate accessoires
    - [ ] Miroirs
    - [ ] Sac linge sale
- - [ ] 3 praticables + 8 pieds 80 + 8 pieds 40 + 4 escaliers
- - [ ] 16 lawyer
+ - [ ] 4 praticables + 8 pieds 80 + 12 pieds 40 + 3 escaliers
+ - [ ] 8 lawyer grand + 8 lawyer petits
  - [ ] 4 rails plaques (3m + 2m)+ pied gravity avec adaptateur
- - [ ] 2 pieds manivelles avec crochets + Barre décor
+ - [ ] 2 pieds manivelles avec crochets + 2 Barres décor
  - [ ] Cage (HE, HO, HN, NE, NO)
  - [ ] Rail (2 arches + 2 traverses)
- - [ ] Chariot + miroir Amici
+ - [ ] Chariot
+ - [ ] miroir Amici
  - [ ] Soufflet
- - [ ] Drapeau reflecteur
+ - [ ] Drapeau reflecteur + clamp
  - [ ] Tuyau PVC voix extérieures
- - [ ] 2 ventilos sur pieds
- - [ ] 4 ventilos 12 V
- - [ ] 1 batterie 12V + Chargeur
- - [ ] Sac secteur
+ - [ ] 2 systèmes ventilos soutes 12 V
+ - [ ] Sac secteur (1 x P17/P17, 1 P17/secteur, 2 rallonges, 1 triplette)
  - [ ] 4 tapis brosses
  - [ ] Tissus Bavettes noires
  - [ ] 1 enrouleur tuyau eau + adaptateur
@@ -57,7 +56,7 @@ JEU
    - [ ]  2 sticks et 2 mailloches
    - [ ]  Seau eau + éponge
    - [ ]  Talon aiguille
- - [ ] Valises costumes
+ - [ ] sacs costumes
    - [ ] ...
    - [ ] ...
  - [ ] Prothèse
@@ -67,26 +66,27 @@ JEU
  - [ ] Clavier
  - [ ] Tabouret de jeu
  - [ ] Corde et pancartes "spectacle en cours"
+
 SPARE
+
  - [ ] Spare optiques
  - [ ] Spare miroirs
- - [ ] Spare gramophone + disque
-
-
+ - [ ] Spare gramophone
+ 
 OUTILS/MAINTENANCE
+
  - [ ] Makita avec embouts et selection mèches
  - [ ] Caisse outil rouge
- - [ ] Sacs scotch/sangles/pinces
- - [ ] Sac bijoute
+ - [ ] Sacs scotch/sangles/pinces/bijoute
  - [ ] Caisses visserie vrac
- - [ ] caisse verte maintenance plexi (colle, visserie 4mm)
- - [ ] Chutes plexi + Chutes vynile (noir)
- - [ ] Balai, raclette
+ - [ ] caisse maintenance plexi (colle, visserie 4mm)
+ - [ ] Balai, raclette, aspirateur
  - [ ] Poubelle
  - [ ] Sac chiffon et alcool
 
 MERCH/DETENTE/ACCUEIL
- - [ ] 4 chaises longues
+
+ - [ ] 3 chaises longues
  - [ ] Table campings + 4 tabourets
  - [ ] Voile ombrage
  - [ ] Carton affiche, cartes postales et fanzines, caisse monnaie
@@ -94,15 +94,67 @@ MERCH/DETENTE/ACCUEIL
  - [ ] Caisse jouets optiques
  - [ ] Caisse bibliotheque
 
-OPTION CHANTIER
- - [ ] Meuleuses/scie sauteuse/base consommables (disque/papier de verre/lame scie)
- - [ ] Chutes plexi + Chutes vynile
- - [ ] Caisse bleue rivet
- - [ ] Caisses visserie complètes
+BRICOLAGE
+
+ - [ ]  vis M4 + raclette à maroufler + vaporisateur
+ - [ ]  carton gaufre
 
 OPTION CAPTA
-- [ ] Appareil photo complet
-- [ ] Pied
-- [ ] Schoeps
-- [ ] Cables
+
+Image
+
+- [ ] Appareil photo complet (4 cartes, 3 batteries, Chargeur, lecteur USBC)
+- [ ] 3 optiques fixes + 1 Zoom
+- [ ] Petit panneau LED + ses batteries + chargeur
+- [ ] Pied camera
+- [ ] Clamp, Rotule, pied manfroto (meme que pour EXPERIENCE 2250mm)
+- [ ] Ronin
+- [ ] Led Lenser
+
+ordi
+
 - [ ] Ordi complet + casque
+- [ ] 2 disques durs
+
+Son
+- [ ] Schoeps + suspension
+- [ ] 4 Cables
+- [ ] pied de micro
+- [ ] perchette + suspension
+- [ ] HF Léon
+
+EXPERIENCE 2250mm
+
+- [ ] 2250mm
+- [ ] planchette 2250mm
+- [ ] pied (manfroto?) avec petite coupelle pour supporter planchette
+- [ ] chute de plexi transparent pour protéger le capteur pdt l'utilisation à nue du boîtier (avec éventuellement un cache de boîtier à modifier)
+
+CAMPING
+
+- [ ] 2 ventilateurs Envol
+- [ ] frigo
+- [ ] 4 vélos
+- [ ] une remorque
+- [ ] 1 table planche + treteaux
+- [ ] 1 table camping + 3 tabouret + 1 chair
+- [ ] 4 eme transat  
+- [ ] réchaud à gaz
+- [ ] bouteilles de gaz
+- [ ] kit vaiselle
+- [ ] auvent barnum
+- [ ] lumière extérieure
+- [ ] douchette
+- [ ] hamac
+- [ ] drap Léon + Ber + Nina
+- [ ] gros bidon eau potable
+- [ ] 2 matelas
+- [ ] kit rallonge triplette camping
+- [ ] rideaux camion
+- [ ] table ?
+
+EXTRA
+
+- [ ] livre des confs
+- [ ] jeux
+- [ ] fléchettes
