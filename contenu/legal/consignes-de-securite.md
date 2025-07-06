@@ -10,6 +10,9 @@ type: legal
 
 ![Plan d'évacuation](../plans/plan-evacuation.svg)
 
+<div class="page-break"></div>
+
+
 ### Matériel de secours contre l'incendie
 
 L'établissement est équipé d'un extincteur à eau pulvérisée de 6L.
