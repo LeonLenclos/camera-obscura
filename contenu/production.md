@@ -946,40 +946,47 @@ CLIM
  - [x] ★★★ carte grise
  - [x] ★★★ chgt assurance new CG
  - [x] ★★★ ré-impresion générique et photo
- - [ ] ★★ renfort rampe PMR
- - [ ] ★★ régler flair soufflet
- - [ ] ★★ régler étanchéïté cache avant
- - [ ] ★★★ couchette remorque
- - [ ] ★★★ Arrêt sur les rails des plaques
- - [ ] ★★★ Refaire plaque période malheureuse 
+ - [x] ★★★ couchette remorque
+ - [x] ★★★ Arrêt sur les rails des plaques
+ - [x] ★★★ Refaire plaque période malheureuse 
    - [x] ★★★ découpe plexi
    - [x] ★★★ découpe vynile
- - [ ]  ★★★ Maintence plaque 
- - [ ]  ★★★ Prépa tournage
- - [ ]  ★★★ Caméra(s) de recul
- - [ ]  ★ Sono camion
+ - [x]  ★★★ Maintence plaque 
+ - [x]  ★★★ Prépa tournage
  - [x]  ★★★ Cache fusible camion
- - [ ]  ★★★ Kit nettoyage optique 
- - [ ]  ★★★ système locket trappe arrière en acier
- - [ ]  ★★★ cadenas trappes arrieres
- - [ ]  ★★★ tester gaufre carton
+ - [x]  ★★★ tester gaufre carton
+
+
+### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
+
+
+ - [ ]  reparation reflo
+ - [ ]  test tuyau microporeux
+
+
 
 
 En option :
 
-RACK
-- [ ] ★★  finition : Caches dessous
-- [ ] ★★  finition : housses en skaï
+
+CAMION
+ - [ ]  ★★★ Caméra(s) de recul
+ - [ ]  ★ Sono camion
 
 REGIE
  - [ ] ★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ corde contrebasse
+ - [ ] ★★ renfort rampe PMR
+ - [ ] ★★ régler flair soufflet
+ - [ ] ★★ régler étanchéïté cache avant
+ - [ ]  ★★★ Kit nettoyage optique 
 
 FINITION EXT
  - [ ] ★★ bas de caisse avec Didier
  - [ ] ★ niveau + boussole
-
+ - [ ]  ★★★ système locket trappe arrière en acier
+ - [ ]  ★★★ cadenas trappes arrieres
 
 
 
