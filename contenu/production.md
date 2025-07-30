@@ -938,9 +938,6 @@ CLIM
  - [x] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
  - [x] ★★★ boite Tracker
 
-
-# Maintenant
-
 ### du 19/6/2025 au 30/6/2025, Graulhet (81) - Plastoc - Améliorations
 
  - [x] ★★★ carte grise
@@ -957,17 +954,14 @@ CLIM
  - [x]  ★★★ tester gaufre carton
 
 
-### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
+# Maintenant
 
+### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
 
  - [ ]  reparation reflo
  - [ ]  test tuyau microporeux
 
-
-
-
 En option :
-
 
 CAMION
  - [ ]  ★★★ Caméra(s) de recul
