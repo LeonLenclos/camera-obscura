@@ -1,24 +1,24 @@
 ## Instruments de musique et bruitage
 
-- Guitare en open tuning Cm avec bottle neck
+- Guitare folk en open tuning Cm avec bottle neck
 - Harmonium (standard mini Bhava) modifié pour pouvoir activer le soufflet au pied.
 - Lame sonore *Alexis* (Scie musicale)
-- Daff
+- Daf
 - Sanza
 - Spring drum, tambour tonerre (un tom avec un ressort)
 - Chapelet de coquillages
-- Key Shimes
+- Key Shimes (avec des vrais clés)
 - Tube alu accordé en Ré
 - Cymbale gong
-- Tige filetée sonore (plusieurs rondelles sur une tige filetée)
-- 1 Frog drums
+- Tige filetée sonore (plusieurs rondelles en liberté sur une tige filetée)
+- 1 taka-taka grenouille
 - Cymbale splash 8" (libre)
 - Appeau (à coulisse)
 - Grand pavillon de gramophone et tube (pour la voix)
 - Papier (journal, livre)
-- Bassine et éponge
+- Bassine et éponge (pour les bruits d'eau)
 - talon aiguille (bruitage des pas)
-- Ocean Drum
+- Ocean Drum (bruitage du ressac)
 - Machine à vent
 - Machine à pluie
 
