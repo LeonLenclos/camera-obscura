@@ -2,7 +2,7 @@
 # *Camera Obscura*, Cie NOKILL
 
 
-<small>Version d'octobre 2024 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> )</small>
+<small>Version d'aout 2025 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> )</small>
 
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
