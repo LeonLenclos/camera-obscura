@@ -6,7 +6,7 @@
 
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
-[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
+[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf)</span>
 
 
 ## Équipe
