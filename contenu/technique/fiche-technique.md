@@ -56,7 +56,7 @@ Par représentation :
 - ou 17 places assises + 2 places PMR
 
 ### Accessibilité
-- Accès PMR : par rampe TPMR.
+- Accès PMR : par rampe TPMR côté sortie de secour.
 - Personnes malvoyantes : peut convenir (contient textes, bruitages et musiques).
 - Personnes malentendantes : peut convenir (spectacle très visuel).
 
