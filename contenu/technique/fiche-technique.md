@@ -78,9 +78,9 @@ Caractéristiques véhicules :
 - Largeur remorque : 2,50 m
 - Longueur remorque : 7,50 m
 - Longueur remorque + camion : 13,5 m
-- Poids remorque : inférieur à 2,5 t
-- Poids camion : inférieur à 3 t
-- Poids remorque + camion : inférieur à 5,5 t
+- Poids remorque : inférieur à 3,5 t
+- Poids camion : inférieur à 3,5 t
+- Poids remorque + camion : inférieur à 7 t
 
 Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit être étudié en amont avec la compagnie.
 
