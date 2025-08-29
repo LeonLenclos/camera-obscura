@@ -954,21 +954,32 @@ CLIM
  - [x]  ★★★ tester gaufre carton
 
 
-# Maintenant
+
 
 ### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
 
- - [ ]  reparation reflo
- - [ ]  test tuyau microporeux
+ - [x]  reparation reflo
+ - [x]  test tuyau microporeux
+
+# Maintenant
+
+### du 30/8/2025 au 5/8/2025, Graulhet (81) - Plastoc - Améliorations
+
+ - [ ]  changer depron
+
+plus tard :
+
+ - [ ]  
+
 
 En option :
 
 CAMION
- - [ ]  ★★★ Caméra(s) de recul
+★★★ Caméra(s) de recul
  - [ ]  ★ Sono camion
 
 REGIE
- - [ ] ★ diffusion arrière passer les PVC ?
+ ★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ corde contrebasse
  - [ ] ★★ renfort rampe PMR
