@@ -1,52 +1,39 @@
 ## Instruments de musique et bruitage
 
-- Guitare en open tuning Cm avec bottle neck
-- Harmonium (standard mini Bhava) modifié pour pouvoir jouer le soufflet au pied.
+- Guitare folk en open tuning Cm avec bottle neck
+- Harmonium (standard mini Bhava) modifié pour pouvoir activer le soufflet au pied.
 - Lame sonore *Alexis* (Scie musicale)
-- Daff
+- Daf
 - Sanza
-- Spring drum (un tom avec un ressort)
+- Spring drum, tambour tonerre (un tom avec un ressort)
 - Chapelet de coquillages
-- Key Shimes
-- Clochette tibétaine
+- Key Shimes (avec des vrais clés)
 - Tube alu accordé en Ré
 - Cymbale gong
-- Tige filetée sonore
-- 2 Frog drums
-- Grosse caisse préparée (avec corde de basse)
-- Marker Twin Pilot (qui grince sur du papier glacé)
+- Tige filetée sonore (plusieurs rondelles en liberté sur une tige filetée)
+- 1 taka-taka grenouille
 - Cymbale splash 8" (libre)
-- Kazoo
 - Appeau (à coulisse)
-- Grand pavillon de gramophone (pour la voix)
+- Grand pavillon de gramophone et tube (pour la voix)
 - Papier (journal, livre)
-- Boite à café (moteur)
-- Bocal en verre (toc-toc vitre)
-- Ocean Drum
+- Bassine et éponge (pour les bruits d'eau)
+- talon aiguille (bruitage des pas)
+- Ocean Drum (bruitage du ressac)
 - Machine à vent
 - Machine à pluie
 
-
 ### Baguettes
 
-- Baguettes rebondissantes
 - Mailloche
-- Baguettes de cymbalum sans le coton
-- Baquette de batterie
+- Baquette de batterie (stick)
 
 ### à trouver
 
 - Machine à  applaudissement
-- Tube Ambiance exterieur ?
-- Machine à touiller
-- Machine à bulles
-- Sortie d'eau (chiffon)
-- klaxon
 
 ## Gramophone 
 
 On a retapé un gramophone HMV 102.
-
 On joue dessus des 78 tours. C'est des disques en shellac. Malheureusement on ne sais pas en graver.
 
 Liens au sujet des aiguilles :

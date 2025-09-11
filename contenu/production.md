@@ -938,48 +938,61 @@ CLIM
  - [x] ★★★ pose prise alume cigare 12V + USB + Voltmetre soute
  - [x] ★★★ boite Tracker
 
-
-# Maintenant
-
 ### du 19/6/2025 au 30/6/2025, Graulhet (81) - Plastoc - Améliorations
 
  - [x] ★★★ carte grise
  - [x] ★★★ chgt assurance new CG
  - [x] ★★★ ré-impresion générique et photo
+ - [x] ★★★ couchette remorque
+ - [x] ★★★ Arrêt sur les rails des plaques
+ - [x] ★★★ Refaire plaque période malheureuse 
+   - [x] ★★★ découpe plexi
+   - [x] ★★★ découpe vynile
+ - [x]  ★★★ Maintence plaque 
+ - [x]  ★★★ Prépa tournage
+ - [x]  ★★★ Cache fusible camion
+ - [x]  ★★★ tester gaufre carton
+
+
+
+
+### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
+
+ - [x]  reparation reflo
+ - [x]  test tuyau microporeux
+
+
+### du 30/8/2025 au 5/8/2025, Graulhet (81) - Plastoc - Améliorations
+
+ - [x]  changer depron
+
+# Maintenant
+
+ - [ ] ★★★ cale démarrage gramophone
+ - [ ] ★★★ pluie seau
+ - [ ] ★★★ sécu fermetures portes
+ - [ ] ★★★ Barre Alu pour pied pratos
+ - [ ] ★★★ achat cric + chandelles
+ - [ ] ★★★ installation tuyau micro poreux + structure
+
+CAMION
+ - [ ]  ★★★ Caméra(s) de recul
+ - [ ]  ★ Sono camion
+
+REGIE
+ ★ diffusion arrière passer les PVC ?
+ - [ ] ★ trouver machine à applaudir
+ - [ ] ★ corde contrebasse
  - [ ] ★★ renfort rampe PMR
  - [ ] ★★ régler flair soufflet
  - [ ] ★★ régler étanchéïté cache avant
- - [ ] ★★★ couchette remorque
- - [ ] ★★★ Arrêt sur les rails des plaques
- - [ ] ★★★ Refaire plaque période malheureuse 
-   - [x] ★★★ découpe plexi
-   - [x] ★★★ découpe vynile
- - [ ]  ★★★ Maintence plaque 
- - [ ]  ★★★ Prépa tournage
- - [ ]  ★★★ Caméra(s) de recul
- - [ ]  ★ Sono camion
- - [x]  ★★★ Cache fusible camion
  - [ ]  ★★★ Kit nettoyage optique 
- - [ ]  ★★★ système locket trappe arrière en acier
- - [ ]  ★★★ cadenas trappes arrieres
- - [ ]  ★★★ tester gaufre carton
-
-
-En option :
-
-RACK
-- [ ] ★★  finition : Caches dessous
-- [ ] ★★  finition : housses en skaï
-
-REGIE
- - [ ] ★ diffusion arrière passer les PVC ?
- - [ ] ★ trouver machine à applaudir
- - [ ] ★ corde contrebasse
 
 FINITION EXT
  - [ ] ★★ bas de caisse avec Didier
  - [ ] ★ niveau + boussole
-
+ - [ ]  ★★★ système locket trappe arrière en acier
+ - [ ]  ★★★ cadenas trappes arrieres
 
 
 

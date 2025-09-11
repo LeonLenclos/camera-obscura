@@ -2,11 +2,11 @@
 # *Camera Obscura*, Cie NOKILL
 
 
-<small>Version d'octobre 2024 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> )</small>
+<small>Version d'aout 2025 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> )</small>
 
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
-[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.pdf)</span>
+[camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf)</span>
 
 
 ## Équipe
@@ -40,9 +40,9 @@ Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interi
 Total : 40 minutes
 
 ### Horaires
-5 représentations par jour à des horaires ensoleillés.
+4 représentations par jour à des horaires ensoleillés.
 
-Par exemple : 11h00 - 11h30 / 12h00 - 12h30 / 14h00 - 14h30 / 15h00 - 15h30 / 16h00 - 16h30
+Par exemple : 12h00 - 12h30 / 13h00 - 13h30 / 14h30 - 15h00 / 15h30 - 16h00
 
 <div class="page-break"></div>
 
@@ -51,12 +51,12 @@ Par exemple : 11h00 - 11h30 / 12h00 - 12h30 / 14h00 - 14h30 / 15h00 - 15h30 / 16
 ### Jauge 
 Par représentation :
 
-- 25 places assises (21 fauteuils et 4 "strapontins")
-- ou 23 places assises + 1 place PMR
-- ou 21 places assises + 2 places PMR
+- 21 places assises
+- ou 19 places assises + 1 place PMR
+- ou 17 places assises + 2 places PMR
 
 ### Accessibilité
-- Accès PMR : en cours de conception, accès non-garanti pour l'instant.
+- Accès PMR : par rampe TPMR côté sortie de secour.
 - Personnes malvoyantes : peut convenir (contient textes, bruitages et musiques).
 - Personnes malentendantes : peut convenir (spectacle très visuel).
 
@@ -71,16 +71,16 @@ Par représentation :
 
 Véhicules sur site :
 - La "remorque" : la salle de spectacle *Camera Obscura*
-- Le "camion" : transport du matériel, tracteur de la remorque et loge
+- Le "camion" : transport du matériel, tracteur de la remorque et loge rapide
 
 Caractéristiques véhicules :
 - Hauteur remorque : 3,10 m
 - Largeur remorque : 2,50 m
 - Longueur remorque : 7,50 m
 - Longueur remorque + camion : 13,5 m
-- Poids remorque : inférieur à 2,5 t
-- Poids camion : inférieur à 3 t
-- Poids remorque + camion : inférieur à 5,5 t
+- Poids remorque : inférieur à 3,5 t
+- Poids camion : inférieur à 3,5 t
+- Poids remorque + camion : inférieur à 7 t
 
 Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit être étudié en amont avec la compagnie.
 
@@ -115,7 +115,7 @@ Prévoir un gardiennage la nuit.
 ###  À fournir
 
 - Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air.
-- Une ligne 16A au camion (pour la loge).
+- Une ligne 16A à la remorque.
 
 ###  Contraintes météo
 
