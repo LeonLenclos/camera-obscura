@@ -961,18 +961,19 @@ CLIM
  - [x]  reparation reflo
  - [x]  test tuyau microporeux
 
-# Maintenant
 
 ### du 30/8/2025 au 5/8/2025, Graulhet (81) - Plastoc - Améliorations
 
- - [ ]  changer depron
+ - [x]  changer depron
 
-plus tard :
+# Maintenant
 
- - [ ]  
-
-
-En option :
+ - [ ] cale démarrage gramophone
+ - [ ] pluie seau
+ - [ ] sécu fermetures portes
+ - [ ] Barre Alu pour pied pratos
+ - [ ] achat cric + chandelles
+ - [ ] installation tuyau micro poreux + structure
 
 CAMION
 ★★★ Caméra(s) de recul
