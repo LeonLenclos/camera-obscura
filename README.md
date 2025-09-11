@@ -33,6 +33,6 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 - [Todo](contenu/todo.md), bloc-notes des trucs à faire.
 - [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
 - [Meta](contenu/meta.md), Ressources liées à l'écriture de ce site.
-
+- [Fanzine](contenu/dossier/leprincipedelacameraobscura.pdf), *Le principe de la camera obscura*.
 
 ![Dessin de la remorque](contenu/dessins/visuel-camera-obscura.png)
