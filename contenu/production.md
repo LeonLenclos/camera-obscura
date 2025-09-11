@@ -968,15 +968,15 @@ CLIM
 
 # Maintenant
 
- - [ ] cale démarrage gramophone
- - [ ] pluie seau
- - [ ] sécu fermetures portes
- - [ ] Barre Alu pour pied pratos
- - [ ] achat cric + chandelles
- - [ ] installation tuyau micro poreux + structure
+ - [ ] ★★★ cale démarrage gramophone
+ - [ ] ★★★ pluie seau
+ - [ ] ★★★ sécu fermetures portes
+ - [ ] ★★★ Barre Alu pour pied pratos
+ - [ ] ★★★ achat cric + chandelles
+ - [ ] ★★★ installation tuyau micro poreux + structure
 
 CAMION
-★★★ Caméra(s) de recul
+ - [ ]  ★★★ Caméra(s) de recul
  - [ ]  ★ Sono camion
 
 REGIE
