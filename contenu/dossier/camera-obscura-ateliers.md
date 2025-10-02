@@ -14,26 +14,26 @@ La Cie Nokill propose un atelier autour du spectacle *Camera Obscura* animé par
 
 ### Présentation
 
-Cet atelier est une introduction au principe optique de la camera obscura qui malgré quelques élements théorique se concentre plus sur l'expérimentation pure a travers l'expérience de differentes camera obscura et la fabrication d'une camera originale par participant·e.
+Cet atelier est une introduction au principe optique de la *camera obscura*. Malgré quelques éléments théoriques, il se concentre plus sur l'expérimentation pure à travers l'expérience de différentes *camera obscura* et la fabrication d'une caméra originale par participant·e.
 
 ### Objectifs
 
-* Découvrir le principe de la camera obscura, un phénomène naturel utilisé jusque dans nos téléphones portables et se le réapproprier à travers une démarche low-tech. 
+* Découvrir le principe de la *camera obscura*, un phénomène naturel utilisé jusque dans nos téléphones portables et se le réapproprier à travers une démarche low-tech. 
 * Se construire une camera par personne en conciliant rigueur pour la réalisation technique et créativité pour la décoration.
-* Repartir de l'atelier avec une camera obscura par personne.
+* Repartir de l'atelier avec une *camera obscura* par personne.
 
 ### Déroulé
 
 * Présentation rapide du spectacle (~10 min)
-* Explication rapide du concept de camera obscura (~10 min) : Sans trop entrer dans les détails techniques, on explique en quoi consiste le principe de la camera obscura, son histoire et ses applications dans la vie de tous les jours.
-* Démonstration (~20 min) : Un prototype amené par la compagnie est montré aux participant·es. Si l'espace le permet on peut aussi tenter l'expérience de transformer la salle dans la quelle se déroule l'atelier en une camera obscura géante !
-* Fabrication (~60 min) : Chaque participant·e se lance dans la fabrication de sa camera en suivant les consignes données par les intervenant·es.
-* Décoration (~30 min) : À l'aide de ciseaux de papier et de colle : chaque participant·e décore sa camera de manière libre.
-* Exploration (~30 min) : Le groupe sort à l'extérieur pour regarder le monde à travers sa camera.
+* Explication rapide du concept de *camera obscura* (~10 min) : sans trop entrer dans les détails techniques, on explique en quoi consiste le principe de la *camera obscura*, son histoire et ses applications dans la vie de tous les jours.
+* Démonstration (~20 min) : un prototype amené par la compagnie est montré aux participant·es. Si l'espace le permet on peut aussi tenter l'expérience de transformer la salle dans laquelle se déroule l'atelier en une *camera obscura* géante !
+* Fabrication (~60 min) : chaque participant·e se lance dans la fabrication de sa caméra en suivant les consignes données par les intervenant·es.
+* Décoration (~30 min) : à l'aide de ciseaux de papier et de colle, chaque participant·e décore sa caméra de manière libre.
+* Exploration (~30 min) : le groupe sort à l'extérieur pour regarder le monde à travers sa caméra.
 
-### Les camera fabriquées
+### Les caméras fabriquées
 
-Les cameras sont conçues à partir d'une boite ou d'un tube un carton. D'un côté de la camera : une lentille (fournie par la compagnie). À l'intérieur un écran (en papier calque) sur lequel l'image de l'extérieur apparaît à l'envers. Sur les parois, on colle du papier découpé pour personnaliser la camera. L'objet obtenue mesure une trentaine de centimètres de long.
+Les caméras sont conçues à partir d'une boite ou d'un tube en carton. D'un côté de la caméra : une lentille (fournie par la compagnie). À l'intérieur un écran (en papier calque) sur lequel l'image de l'extérieur apparaît à l'envers. Sur les parois, on colle du papier découpé pour personnaliser la caméra. L'objet obtenu mesure une trentaine de centimètres de long.
 
 ![](../img/schema-ateliers.svg)
 
