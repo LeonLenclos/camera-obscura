@@ -24,6 +24,7 @@ JEU
    - [ ] Sac linge sale
  - [ ] 4 praticables + 8 pieds 80 + 12 pieds 40 + 3 escaliers
  - [ ] 8 lawyer grand + 8 lawyer petits
+ - [ ] 6 basteings
  - [ ] 4 rails plaques (3m + 2m)+ pied gravity avec adaptateur
  - [ ] 2 pieds manivelles avec crochets + 2 Barres décor
  - [ ] Cage (HE, HO, HN, NE, NO)
@@ -36,8 +37,10 @@ JEU
  - [ ] 2 systèmes ventilos soutes 12 V
  - [ ] Sac secteur (1 x P17/P17, 1 P17/secteur, 2 rallonges, 1 triplette)
  - [ ] 4 tapis brosses
+ - [ ] Piscine + Cartons gaufré
+ - [ ] pompe à vélo rouge
  - [ ] Tissus Bavettes noires
- - [ ] 1 enrouleur tuyau eau + adaptateur
+ - [ ] 1 enrouleur tuyau eau + petit tuyau + adaptateurs
  - [ ] Talkies
  - [ ]  Instruments en place
    - [ ]  (gramophone avec disque, cale et aiguilles
@@ -86,13 +89,14 @@ OUTILS/MAINTENANCE
 
 MERCH/DETENTE/ACCUEIL
 
- - [ ] 3 chaises longues
+ - [ ] 4 chaises longues
  - [ ] Table campings + 4 tabourets
  - [ ] Voile ombrage
  - [ ] Carton affiche, cartes postales et fanzines, caisse monnaie
  - [ ] Porte affiches/horaires
  - [ ] Caisse jouets optiques
  - [ ] Caisse bibliotheque
+ - [ ] livres des confs
 
 BRICOLAGE
 
@@ -123,22 +127,13 @@ Son
 - [ ] perchette + suspension
 - [ ] HF Léon
 
-EXPERIENCE 2250mm
-
-- [ ] 2250mm
-- [ ] planchette 2250mm
-- [ ] pied (manfroto?) avec petite coupelle pour supporter planchette
-- [ ] chute de plexi transparent pour protéger le capteur pdt l'utilisation à nue du boîtier (avec éventuellement un cache de boîtier à modifier)
-
-CAMPING
+OPTION CAMPING
 
 - [ ] 2 ventilateurs Envol
 - [ ] frigo
 - [ ] 4 vélos
 - [ ] une remorque
-- [ ] 1 table planche + treteaux
-- [ ] 1 table camping + 3 tabouret + 1 chair
-- [ ] 4 eme transat  
+- [ ] 1 table camping + 1 chair
 - [ ] réchaud à gaz
 - [ ] bouteilles de gaz
 - [ ] kit vaiselle
@@ -151,10 +146,4 @@ CAMPING
 - [ ] 2 matelas
 - [ ] kit rallonge triplette camping
 - [ ] rideaux camion
-- [ ] table ?
-
-EXTRA
-
-- [ ] livre des confs
-- [ ] jeux
-- [ ] fléchettes
+- [ ] bouilloire
