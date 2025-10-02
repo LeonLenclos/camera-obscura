@@ -96,6 +96,7 @@ MERCH/DETENTE/ACCUEIL
  - [ ] Porte affiches/horaires
  - [ ] Caisse jouets optiques
  - [ ] Caisse bibliotheque
+ - [ ] livres des confs
 
 BRICOLAGE
 
@@ -132,9 +133,7 @@ OPTION CAMPING
 - [ ] frigo
 - [ ] 4 vélos
 - [ ] une remorque
-- [ ] 1 table planche + treteaux
-- [ ] 1 table camping + 3 tabouret + 1 chair
-- [ ] 4 eme transat  
+- [ ] 1 table camping + 1 chair
 - [ ] réchaud à gaz
 - [ ] bouteilles de gaz
 - [ ] kit vaiselle
@@ -147,10 +146,4 @@ OPTION CAMPING
 - [ ] 2 matelas
 - [ ] kit rallonge triplette camping
 - [ ] rideaux camion
-- [ ] table ?
-
-EXTRA
-
-- [ ] livre des confs
-- [ ] jeux
-- [ ] fléchettes
+- [ ] bouilloire
