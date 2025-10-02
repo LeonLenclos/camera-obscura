@@ -41,5 +41,5 @@ Les caméras sont conçues à partir d'une boite ou d'un tube en carton. D'un c�
 
 Si vous souhaitez préparer l'atelier ou le spectacle en amont (facultatif) voici quelques pistes :
 
-* Le fanzine : https://camera-obscura.cienokill.fr/contenu/dossier/leprincipedelacameraobscura.pdf
-* Le site du spectacle : https://camera-obscura.cienokill.fr/
+* Le fanzine : [https://camera-obscura.cienokill.fr/contenu/dossier/leprincipedelacameraobscura.pdf](https://camera-obscura.cienokill.fr/contenu/dossier/leprincipedelacameraobscura.pdf)
+* Le site du spectacle : [https://camera-obscura.cienokill.fr/](https://camera-obscura.cienokill.fr/)

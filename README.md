@@ -19,20 +19,26 @@ Sur ce site nous avons rassemblé au fur et à mesure de la création, tous les 
 
 Même si à la base cette documentation est un outil de travail personnel, nous avons décidé de la mettre à disposition de toute personne intéressée par ce projet.
 
-### sommaire
+### Sommaire
 
 - [Remorque](contenu/remorque.md), construction du théâtre optique "Camera Obscura".
 - [Écriture](contenu/ecriture), textes, scenarios, découpages et références.
-- [Objet](contenu/objet), plaques animées, marionettes, costumes, accéssoires, décors, utilisés dans le film.
+- [Objets](contenu/objet), plaques animées, marionettes, costumes, accéssoires, décors, utilisés dans le film.
 - [Technique](contenu/technique), questions et réponses concernant les differents défis techniques. 
 - [Prototypes](contenu/prototypes), liste des chambres construites pendant la création.
 - [Production](contenu/production.md), partenaires du projet et calendrier des résidences.
 - [Bibliographie](contenu/bibliographie.md), liens et documents utiles.
+
+#### Documents
+
 - [Dossier de création](contenu/dossier/dossier-camera-obscura.pdf), télécharger le dossier en pdf.
-- [Présentation du projet](contenu/presentation-partenaires.md), à l’intention des partenaires techniques et scientifiques.
+- [Fanzine](contenu/dossier/leprincipedelacameraobscura.pdf), télécharger *Le principe de la camera obscura* en pdf.
+- [Ateliers](contenu/dossier/ateliers-camera-obscura.pdf), télécharger *Le principe de la camera obscura* en pdf.
+
+#### Divers
+
 - [Todo](contenu/todo.md), bloc-notes des trucs à faire.
 - [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
 - [Meta](contenu/meta.md), Ressources liées à l'écriture de ce site.
-- [Fanzine](contenu/dossier/leprincipedelacameraobscura.pdf), *Le principe de la camera obscura*.
 
 ![Dessin de la remorque](contenu/dessins/visuel-camera-obscura.png)
