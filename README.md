@@ -33,7 +33,7 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 
 - [Dossier de création](contenu/dossier/dossier-camera-obscura.pdf), télécharger le dossier en pdf.
 - [Fanzine](contenu/dossier/leprincipedelacameraobscura.pdf), télécharger *Le principe de la camera obscura* en pdf.
-- [Ateliers](contenu/dossier/ateliers-camera-obscura.pdf), télécharger *Le principe de la camera obscura* en pdf.
+- [Ateliers](contenu/dossier/ateliers-camera-obscura.pdf), télécharger la doc des ateliers en pdf.
 
 #### Divers
 
