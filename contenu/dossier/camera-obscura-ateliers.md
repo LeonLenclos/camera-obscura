@@ -1,4 +1,4 @@
-# Atelier Camera Obscura
+# Ateliers Camera Obscura
 
 La Cie Nokill propose un atelier autour du spectacle *Camera Obscura* animé par deux de ses comédien·nes.
 
