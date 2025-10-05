@@ -979,6 +979,9 @@ CLIM
  - [ ] peigne frites 
  - [ ] solution pour solidariser les deux cages 
  - [ ] avoir des pieds de 60 pour les praticables 
+ - [ ] descendre la vis de calage du podium
+ - [ ] centrer gravité antotype
+
 
 CAMION
  - [ ]  ★★★ Caméra(s) de recul
