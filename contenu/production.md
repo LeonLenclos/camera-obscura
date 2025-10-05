@@ -978,6 +978,7 @@ CLIM
  - [ ] faire spare marionnette parapluie 
  - [ ] peigne frites 
  - [ ] solution pour solidariser les deux cages 
+ - [ ] avoir des pieds de 60 pour les praticables 
 
 CAMION
  - [ ]  ★★★ Caméra(s) de recul
