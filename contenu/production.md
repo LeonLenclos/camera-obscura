@@ -974,10 +974,17 @@ CLIM
  - [ ] ★★★ Barre Alu pour pied pratos
  - [ ] ★★★ achat cric + chandelles
  - [ ] ★★★ installation tuyau micro poreux + structure
+ - [ ] réparer portes latérales 
+ - [ ] faire spare marionnette parapluie 
+ - [ ] peigne frites 
+ - [ ] solution pour solidariser les deux cages 
 
 CAMION
  - [ ]  ★★★ Caméra(s) de recul
  - [ ]  ★ Sono camion
+ - [ ] changer sim tracker 
+
+ 
 
 REGIE
  ★ diffusion arrière passer les PVC ?
@@ -993,6 +1000,7 @@ FINITION EXT
  - [ ] ★ niveau + boussole
  - [ ]  ★★★ système locket trappe arrière en acier
  - [ ]  ★★★ cadenas trappes arrieres
+ - [ ] bavette en skaï blanc
 
 
 
