@@ -964,7 +964,7 @@ CLIM
 
 ### hiver 2025/2026
 
-# GENERAL
+GENERAL
  - [ ] ★★★ Barre Alu pour pied pratos
  - [ ] ★★★ achat cric + chandelles
  - [ ] ★★★ installation tuyau micro poreux + structure
