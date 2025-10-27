@@ -953,59 +953,51 @@ CLIM
  - [x]  ★★★ Cache fusible camion
  - [x]  ★★★ tester gaufre carton
 
-
-
-
 ### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
-
  - [x]  reparation reflo
  - [x]  test tuyau microporeux
 
-
 ### du 30/8/2025 au 5/8/2025, Graulhet (81) - Plastoc - Améliorations
-
  - [x]  changer depron
 
-# Maintenant
-
- - [ ] ★★★ cale démarrage gramophone
- - [ ] ★★★ pluie seau
- - [ ] ★★★ sécu fermetures portes
+# GENERAL
  - [ ] ★★★ Barre Alu pour pied pratos
  - [ ] ★★★ achat cric + chandelles
  - [ ] ★★★ installation tuyau micro poreux + structure
  - [ ] réparer portes latérales 
- - [ ] faire spare marionnette parapluie 
- - [ ] peigne frites 
  - [ ] solution pour solidariser les deux cages 
  - [ ] avoir des pieds de 60 pour les praticables 
- - [ ] descendre la vis de calage du podium
  - [ ] centrer gravité antotype
-
+ - [ ] réparation porte principale
+ - [ ] peinture porte
+ - [ ] revoir jeu de cales
+ - [ ] ★★ renfort rampe PMR
 
 CAMION
  - [ ]  ★★★ Caméra(s) de recul
  - [ ]  ★ Sono camion
- - [ ] changer sim tracker 
-
- 
 
 REGIE
- ★ diffusion arrière passer les PVC ?
+ - [ ] ★★★ changer sim tracker 
+ - [ ] ★★★ cale démarrage gramophone
+ - [ ] ★★★ pluie seau
+ - [ ] ★★★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ corde contrebasse
- - [ ] ★★ renfort rampe PMR
  - [ ] ★★ régler flair soufflet
  - [ ] ★★ régler étanchéïté cache avant
- - [ ]  ★★★ Kit nettoyage optique 
+ - [ ] ★★★ Kit nettoyage optique
+ - [ ] ★★★ arret tourelle
 
-FINITION EXT
- - [ ] ★★ bas de caisse avec Didier
+EXT
  - [ ] ★ niveau + boussole
- - [ ]  ★★★ système locket trappe arrière en acier
- - [ ]  ★★★ cadenas trappes arrieres
- - [ ] bavette en skaï blanc
+ - [ ] ★★★ système locket trappe arrière en acier
+ - [ ] ★★★ cadenas trappes arrieres
+ - [ ] ★★★ bavette en skaï blanc
+ - [ ] ★★★ sécu ext fermetures portes trappes
 
-
-
-
+PLAQUES
+ - [ ] barre de vérouillage plaque
+ - [ ] descendre la vis de calage du podium
+ - [ ] peigne frites
+ - [ ] faire spare marionnette parapluie 
