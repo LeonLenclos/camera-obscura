@@ -965,16 +965,14 @@ CLIM
 ### hiver 2025/2026
 
 GENERAL
- - [ ] ★★★ Barre Alu pour pied pratos
+
  - [ ] ★★★ achat cric + chandelles
  - [ ] ★★★ installation tuyau micro poreux + structure
- - [ ] réparer portes latérales 
- - [ ] solution pour solidariser les deux cages 
- - [ ] avoir des pieds de 60 pour les praticables 
- - [ ] centrer gravité antotype
- - [ ] réparation porte principale
- - [ ] peinture porte
- - [ ] revoir jeu de cales
+ - [ ] ★★★ solution pour reglage latéral aimant principal
+ - [ ] ★★★ avoir des pieds de 60 pour les praticables 
+ - [ ] ★★★ centrer gravité antotype
+ - [ ] ★★ peinture porte
+ - [ ] ★★ revoir jeu de cales
  - [ ] ★★ renfort rampe PMR
 
 CAMION
@@ -985,7 +983,7 @@ REGIE
  - [ ] ★★★ changer sim tracker 
  - [ ] ★★★ cale démarrage gramophone
  - [ ] ★★★ pluie seau
- - [ ] ★★★ diffusion arrière passer les PVC ?
+ - [ ] ★★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ corde contrebasse
  - [ ] ★★ régler flair soufflet
@@ -999,9 +997,11 @@ EXT
  - [ ] ★★★ cadenas trappes arrieres
  - [ ] ★★★ bavette en skaï blanc
  - [ ] ★★★ sécu ext fermetures portes trappes
+ - [ ] ★★★ réparer portes trappes latérales 
+ - [ ] ★★★ réparation porte principale
 
 PLAQUES
- - [ ] barre de vérouillage plaque
- - [ ] descendre la vis de calage du podium
- - [ ] peigne frites
- - [ ] faire spare marionnette parapluie 
+ - [ ] ★★★ barre de vérouillage plaque
+ - [ ] ★★★ descendre la vis de calage du podium
+ - [ ] ★★★ peigne frites
+ - [ ] ★★★ faire spare marionnette parapluie 
