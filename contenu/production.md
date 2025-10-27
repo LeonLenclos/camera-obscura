@@ -960,6 +960,10 @@ CLIM
 ### du 30/8/2025 au 5/8/2025, Graulhet (81) - Plastoc - Améliorations
  - [x]  changer depron
 
+# MAINTENANT
+
+### hiver 2025/2026
+
 # GENERAL
  - [ ] ★★★ Barre Alu pour pied pratos
  - [ ] ★★★ achat cric + chandelles
