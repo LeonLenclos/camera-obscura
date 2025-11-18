@@ -953,47 +953,55 @@ CLIM
  - [x]  ★★★ Cache fusible camion
  - [x]  ★★★ tester gaufre carton
 
-
-
-
 ### du 30/7/2025 au 3/8/2025, Graulhet (81) - Plastoc - Améliorations
-
  - [x]  reparation reflo
  - [x]  test tuyau microporeux
 
-
-### du 30/8/2025 au 5/8/2025, Graulhet (81) - Plastoc - Améliorations
-
+### du 30/8/2025 au 5/9/2025, Graulhet (81) - Plastoc - Améliorations
  - [x]  changer depron
 
-# Maintenant
+# MAINTENANT
 
- - [ ] ★★★ cale démarrage gramophone
- - [ ] ★★★ pluie seau
- - [ ] ★★★ sécu fermetures portes
- - [ ] ★★★ Barre Alu pour pied pratos
+### hiver 2025/2026
+
+GENERAL
+
  - [ ] ★★★ achat cric + chandelles
  - [ ] ★★★ installation tuyau micro poreux + structure
+ - [ ] ★★★ solution pour reglage latéral aimant principal
+ - [ ] ★★★ avoir des pieds de 60 pour les praticables 
+ - [ ] ★★★ centrer gravité antotype
+ - [ ] ★★ peinture porte
+ - [ ] ★★ revoir jeu de cales
+ - [ ] ★★ renfort rampe PMR
 
 CAMION
  - [ ]  ★★★ Caméra(s) de recul
  - [ ]  ★ Sono camion
 
 REGIE
- ★ diffusion arrière passer les PVC ?
+ - [ ] ★★★ changer sim tracker 
+ - [ ] ★★★ cale démarrage gramophone
+ - [ ] ★★★ pluie seau
+ - [ ] ★★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
  - [ ] ★ corde contrebasse
- - [ ] ★★ renfort rampe PMR
  - [ ] ★★ régler flair soufflet
  - [ ] ★★ régler étanchéïté cache avant
- - [ ]  ★★★ Kit nettoyage optique 
+ - [ ] ★★★ Kit nettoyage optique
+ - [ ] ★★★ arret tourelle
 
-FINITION EXT
- - [ ] ★★ bas de caisse avec Didier
+EXT
  - [ ] ★ niveau + boussole
- - [ ]  ★★★ système locket trappe arrière en acier
- - [ ]  ★★★ cadenas trappes arrieres
+ - [ ] ★★★ système locket trappe arrière en acier
+ - [ ] ★★★ cadenas trappes arrieres
+ - [ ] ★★★ bavette en skaï blanc
+ - [ ] ★★★ sécu ext fermetures portes trappes
+ - [ ] ★★★ réparer portes trappes latérales 
+ - [ ] ★★★ réparation porte principale
 
-
-
-
+PLAQUES
+ - [ ] ★★★ barre de vérouillage plaque
+ - [ ] ★★★ descendre la vis de calage du podium
+ - [ ] ★★★ peigne frites
+ - [ ] ★★★ faire spare marionnette parapluie 
