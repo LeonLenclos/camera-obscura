@@ -43,7 +43,7 @@ L'ensemble se compose :
 - d'une STRUCTURE SCÉNIQUE (2), démontable fixée à l'extérieur de la REMORQUE.
 - d'une STRUCTURE OPTIQUE (3), démontable fixée à l'extérieur de la REMORQUE.
 - d'un ESCALIER PRINCIPAL (4), démontable fixé à l'extérieur de la remorque devant une des deux portes.
-- d'un ESCALIER DE SECOURS (5), démontable fixé à l'extérieur de la remorque devant l'autre porte.
+- d'une RAMPE D'ACCÈS (5), démontable fixé à l'extérieur de la remorque devant l'autre porte.
 - d'un REFLECTEUR (6), mobile sur roulettes.
 - d'un PORTIQUE (7), permettant de suspendre des feuilles de décors.
 
@@ -77,7 +77,7 @@ Le tableau ci-dessous détaille la dimension en mètres de chaque partie de l'en
 | 2 | STRUCTURE SCÉNIQUE | 5,7 | 4,6 | 3 |
 | 3 | STRUCTURE OPTIQUE | 1 | 1,5 | 2,5 |
 | 4 | ESCALIER PRINCIPAL | 2,4 | 1,3 | 0,6 |
-| 5 | ESCALIER DE SECOURS | 0,8 | 1,2 | 0,6 |
+| 5 | RAMPE D'ACCÈS | 1 | 4,2 | 0,6 |
 | 6 | REFLECTEUR | 2 | 2 | 3 |
 | 7 | PORTIQUE | 4 |   | 3 |
 
@@ -95,7 +95,7 @@ Le schéma ci-dessous détaille les dimensions de l'intérieur et des accès pub
 
 ### Différentes configurations possibles pour l'accès public
 
-En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et l'ESCALIER DE SECOURS peuvent être placés d'un côté ou de l'autre de la remorque. Le schéma ci-dessous montre les deux possibilités :
+En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et la RAMPE D'ACCÈS peuvent être placés d'un côté ou de l'autre de la remorque. Le schéma ci-dessous montre les deux possibilités :
 
 **Escalier principal "à l'est" :**
 ![plan](../plans/plan-amenagement-1.svg)
@@ -103,7 +103,7 @@ En fonction de l'espace ou la structure est implantée, l'ESCALIER PRINCIPAL et 
 **Escalier principal "à l'ouest" :**
 ![plan](../plans/plan-amenagement-2.svg)
 
-En cas d'accueil de personnes à mobilité réduite, un des deux escaliers peut être équipé d'une rampe amovible permettant, avec l'aide d'une personne valide, l'accès aux fauteuil roulant mécaniques ou électriques (pente 15 %).
+En cas d'accueil de personnes à mobilité réduite, la RAMPE D'ACCÈS permet, avec l'aide d'une personne valide, l'accès aux fauteuil roulant mécaniques ou électriques (pente 15 %).
 
 <div class="page-break"></div>
 
