@@ -967,7 +967,7 @@ CLIM
 GENERAL
 
  - [ ] ★★★ achat cric + chandelles
- - [ ] ★★★ installation tuyau micro poreux + structure
+ - [x] ★★★ installation tuyau micro poreux + structure
  - [ ] ★★★ solution pour reglage latéral aimant principal
  - [ ] ★★★ avoir des pieds de 60 pour les praticables 
  - [ ] ★★★ centrer gravité antotype
@@ -980,7 +980,7 @@ CAMION
  - [ ]  ★ Sono camion
 
 REGIE
- - [ ] ★★★ changer sim tracker 
+ - [x] ★★★ changer sim tracker 
  - [ ] ★★★ cale démarrage gramophone
  - [ ] ★★★ pluie seau
  - [ ] ★★ diffusion arrière passer les PVC ?
@@ -994,7 +994,7 @@ REGIE
 EXT
  - [ ] ★ niveau + boussole
  - [ ] ★★★ système locket trappe arrière en acier
- - [ ] ★★★ cadenas trappes arrieres
+ - [x] ★★★ cadenas trappes arrieres
  - [ ] ★★★ bavette en skaï blanc
  - [ ] ★★★ sécu ext fermetures portes trappes
  - [ ] ★★★ réparer portes trappes latérales 
