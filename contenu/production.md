@@ -972,7 +972,7 @@ GENERAL
  - [ ] ★★★ avoir des pieds de 60 pour les praticables 
  - [ ] ★★★ centrer gravité antotype
  - [ ] ★★ peinture porte
- - [ ] ★★ revoir jeu de cales
+ - [x] ★★ revoir jeu de cales
  - [ ] ★★ renfort rampe PMR
 
 CAMION
@@ -981,7 +981,7 @@ CAMION
 
 REGIE
  - [x] ★★★ changer sim tracker 
- - [ ] ★★★ cale démarrage gramophone
+ - [x] ★★★ cale démarrage gramophone
  - [ ] ★★★ pluie seau
  - [ ] ★★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
@@ -1001,7 +1001,7 @@ EXT
  - [ ] ★★★ réparation porte principale
 
 PLAQUES
- - [ ] ★★★ barre de vérouillage plaque
+ - [/] ★★★ barre de vérouillage plaque
  - [ ] ★★★ descendre la vis de calage du podium
- - [ ] ★★★ peigne frites
+ - [x] ★★★ peigne frites
  - [ ] ★★★ faire spare marionnette parapluie 
