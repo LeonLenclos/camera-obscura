@@ -28,16 +28,18 @@ JEU
  - [ ] 4 rails plaques (3m + 2m)+ pied gravity avec adaptateur
  - [ ] 2 pieds manivelles avec crochets + 2 Barres décor
  - [ ] Cage (HE, HO, HN, NE, NO)
- - [ ] Rail (2 arches + 2 traverses)
+ - [ ] Rail (2 arches + 1 traverse)
  - [ ] Chariot
  - [ ] miroir Amici
  - [ ] Soufflet
  - [ ] Drapeau reflecteur + clamp
  - [ ] Tuyau PVC voix extérieures
  - [ ] 2 systèmes ventilos soutes 12 V
+ - [ ] 2 cadres refroidissement + pompe + Tuyan en Y
+ - [ ] Piscine + bache 2m
+ - [ ] gonfleur Ryobi
  - [ ] Sac secteur (1 x P17/P17, 1 P17/secteur, 2 rallonges, 1 triplette)
- - [ ] 4 tapis brosses
- - [ ] Piscine + Cartons gaufré
+ - [ ] 1 tapis brosses
  - [ ] pompe à vélo rouge
  - [ ] Tissus Bavettes noires
  - [ ] 1 enrouleur tuyau eau + petit tuyau + adaptateurs
@@ -59,7 +61,7 @@ JEU
    - [ ]  2 sticks et 2 mailloches
    - [ ]  Seau eau + éponge
    - [ ]  Talon aiguille
- - [ ] sacs costumes
+ - [ ] 3 housses costumes
    - [ ] ...
    - [ ] ...
  - [ ] Prothèse
@@ -83,7 +85,7 @@ OUTILS/MAINTENANCE
  - [ ] Sacs scotch/sangles/pinces/bijoute
  - [ ] Caisses visserie vrac
  - [ ] caisse maintenance plexi (colle, visserie 4mm)
- - [ ] Balai, raclette, aspirateur
+ - [ ] Raclette, aspirateur
  - [ ] Poubelle
  - [ ] Sac chiffon et alcool
 
@@ -91,7 +93,6 @@ MERCH/DETENTE/ACCUEIL
 
  - [ ] 4 chaises longues
  - [ ] Table campings + 4 tabourets
- - [ ] Voile ombrage
  - [ ] Carton affiche, cartes postales et fanzines, caisse monnaie
  - [ ] Porte affiches/horaires
  - [ ] Caisse jouets optiques
