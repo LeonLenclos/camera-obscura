@@ -770,7 +770,33 @@ flex-direction:column;
 .planche-billets > #main >article {
   display: flex;
   flex-wrap: wrap;
+  
   margin:0;
   padding: 5mm;
+}
+
+@media screen {
+  .planche-billets #main>article{
+    transform-origin: top left;
+        scale:150%;
+
+    border:1px solid gray;
+    width: 210mm;
+    height: 297mm;
+    background: white;
+    align-content: flex-start
+    
+  }
+
+  .planche-billets  {
+          background: #facade !important;
+    height:100vh;
+        padding: 10mm;
+
+
+    }
+  .planche-billets #main {
+    background: none;
+  }
 }
 
