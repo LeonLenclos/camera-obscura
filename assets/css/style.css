@@ -703,21 +703,52 @@ flex-direction:column;
   position: relative;
   width:65mm;
   height: 30mm;
-  border:1px solid red;
   background-image: url('/contenu/objet/billets/bg.png');
   background-size: contain;
 }
 .planche-billets textarea {
   position: absolute;
-  border: 1px solid green;
+  border: none;
     resize: none;
   overflow: hidden;
   padding: 0;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  background: none;
+  font-family: 'Anonymous';
   
 }
 .planche-billets .titre {
-  left:196px;
-  top:123px;
+  left:25%;
+  top:32%;
+    font-size: 5pt;
+
 }
 
+.planche-billets .infos {
+  left:5%;
+  top:45%;
+  font-size: 5pt;
+}
+
+.planche-billets .heure {
+  right:6%;
+  top:45%;
+  font-size: 15pt;
+  font-weight: bold;
+  text-align: right;
+}
+
+.planche-billets .note {
+  left:5%;
+  top:74%;
+  font-size: 3.5pt;
+}
+
+.planche-billets > #main >article {
+  display: flex;
+  flex-wrap: wrap;
+  margin:0;
+  padding: 5mm;
+}
 

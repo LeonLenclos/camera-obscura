@@ -26,3 +26,22 @@ ACCES NON GARANTI APRÈS
 </div>
 
 
+<script>
+let billet = document.querySelector('.billet');
+let container = document.querySelector('#main>article');
+for(let i = 0 ; i < 21; i++){
+  container.appendChild(billet.cloneNode(true));
+}
+let billets = document.querySelectorAll('.billet');
+billets.forEach(b=>{
+  let fields = ['titre', 'infos', 'heure', 'note'];
+  fields.forEach(f=>{
+    b.querySelector('.'+f).addEventListener('input', e=>{
+      console.log(f + e.target.value);
+      billets.forEach(b2=>{
+        b2.querySelector('.'+f).value = e.target.value;
+      });
+    });
+  });
+}); 
+</script>
