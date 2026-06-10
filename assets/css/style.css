@@ -699,7 +699,25 @@ flex-direction:column;
 
 
 
-
-
+.planche-billets .billet {
+  position: relative;
+  width:65mm;
+  height: 30mm;
+  border:1px solid red;
+  background-image: url('/contenu/objet/billets/bg.png');
+  background-size: contain;
+}
+.planche-billets textarea {
+  position: absolute;
+  border: 1px solid green;
+    resize: none;
+  overflow: hidden;
+  padding: 0;
+  
+}
+.planche-billets .titre {
+  left:196px;
+  top:123px;
+}
 
 

@@ -18,7 +18,7 @@ AURILLAC 2025
 15H30
 </textarea>
 
-<textarea class="titre" rows="2" cols="42">
+<textarea class="note" rows="2" cols="42">
 ARRIVER 5 MIN AVANT LE DÉBUT DE LA SÉANCE
 ACCES NON GARANTI APRÈS
 </textarea>
