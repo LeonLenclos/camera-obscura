@@ -659,6 +659,45 @@ flex-direction:column;
 
 
 
+/* BILLETS */
+
+.planche-billets
+{
+  margin: 0;
+  padding: 0;
+  background:white;
+  animation: none;
+
+}
+
+
+.planche-billets p
+{
+  margin: 0;
+  padding: 0;
+}
+
+.planche-billets > *,
+.planche-billets > #main > a.back
+{
+  display: none;
+}
+
+.planche-billets > #main
+{
+
+  max-width: 100%;
+  margin:0;
+  padding: 0;
+  display: block;
+  background: none;
+  background:white;
+
+  animation: none;
+
+}
+
+
 
 
 
