@@ -28,7 +28,7 @@ ACCES NON GARANTI APRÈS
 
 <script>
 
-const NOMBRE_DE_BILLETS = 21;
+const NOMBRE_DE_BILLETS = 21+6;
 
 let billet = document.querySelector('.billet');
 let container = document.querySelector('#main>article');

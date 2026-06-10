@@ -706,6 +706,26 @@ flex-direction:column;
   background-image: url('/contenu/objet/billets/bg.png');
   background-size: contain;
 }
+.planche-billets .billet:nth-last-child(1) {
+  background-image: url('/contenu/objet/billets/bg-6.png');
+}
+.planche-billets .billet:nth-last-child(2) {
+  background-image: url('/contenu/objet/billets/bg-5.png');
+}
+.planche-billets .billet:nth-last-child(3) {
+  background-image: url('/contenu/objet/billets/bg-4.png');
+}
+.planche-billets .billet:nth-last-child(4) {
+  background-image: url('/contenu/objet/billets/bg-3.png');
+}
+.planche-billets .billet:nth-last-child(5) {
+  background-image: url('/contenu/objet/billets/bg-2.png');
+}
+.planche-billets .billet:nth-last-child(6) {
+  background-image: url('/contenu/objet/billets/bg-1.png');
+}
+
+
 .planche-billets textarea {
   position: absolute;
   border: none;
