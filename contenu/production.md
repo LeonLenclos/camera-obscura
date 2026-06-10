@@ -967,12 +967,12 @@ CLIM
 GENERAL
 
  - [ ] ★★★ achat cric + chandelles
- - [ ] ★★★ installation tuyau micro poreux + structure
+ - [x] ★★★ installation tuyau micro poreux + structure
  - [ ] ★★★ solution pour reglage latéral aimant principal
  - [ ] ★★★ avoir des pieds de 60 pour les praticables 
  - [ ] ★★★ centrer gravité antotype
  - [ ] ★★ peinture porte
- - [ ] ★★ revoir jeu de cales
+ - [x] ★★ revoir jeu de cales
  - [ ] ★★ renfort rampe PMR
 
 CAMION
@@ -980,8 +980,8 @@ CAMION
  - [ ]  ★ Sono camion
 
 REGIE
- - [ ] ★★★ changer sim tracker 
- - [ ] ★★★ cale démarrage gramophone
+ - [x] ★★★ changer sim tracker 
+ - [x] ★★★ cale démarrage gramophone
  - [ ] ★★★ pluie seau
  - [ ] ★★ diffusion arrière passer les PVC ?
  - [ ] ★ trouver machine à applaudir
@@ -994,14 +994,14 @@ REGIE
 EXT
  - [ ] ★ niveau + boussole
  - [ ] ★★★ système locket trappe arrière en acier
- - [ ] ★★★ cadenas trappes arrieres
+ - [x] ★★★ cadenas trappes arrieres
  - [ ] ★★★ bavette en skaï blanc
  - [ ] ★★★ sécu ext fermetures portes trappes
  - [ ] ★★★ réparer portes trappes latérales 
  - [ ] ★★★ réparation porte principale
 
 PLAQUES
- - [ ] ★★★ barre de vérouillage plaque
+ - [/] ★★★ barre de vérouillage plaque
  - [ ] ★★★ descendre la vis de calage du podium
- - [ ] ★★★ peigne frites
+ - [x] ★★★ peigne frites
  - [ ] ★★★ faire spare marionnette parapluie 
