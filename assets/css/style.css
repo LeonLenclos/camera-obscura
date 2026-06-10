@@ -712,7 +712,7 @@ flex-direction:column;
     resize: none;
   overflow: hidden;
   padding: 0;
-  letter-spacing: .2em;
+  letter-spacing: .3em;
   text-transform: uppercase;
   background: none;
   font-family: 'Anonymous';
@@ -720,29 +720,31 @@ flex-direction:column;
 }
 .planche-billets .titre {
   left:25%;
-  top:32%;
+  top:33%;
     font-size: 5pt;
 
 }
 
 .planche-billets .infos {
-  left:5%;
-  top:45%;
-  font-size: 5pt;
+  left:6%;
+  top:46%;
+  font-size: 6pt;
 }
 
 .planche-billets .heure {
-  right:6%;
-  top:45%;
-  font-size: 15pt;
+  right:8%;
+  top:46%;
+  font-size: 18pt;
   font-weight: bold;
   text-align: right;
+  font-family: 'Tt-Kp';
+    letter-spacing:unset;
 }
 
 .planche-billets .note {
-  left:5%;
-  top:74%;
-  font-size: 3.5pt;
+  left:6%;
+  top:73%;
+  font-size: 4pt;
 }
 
 .planche-billets > #main >article {

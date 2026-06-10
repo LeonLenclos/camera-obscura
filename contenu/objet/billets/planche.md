@@ -27,9 +27,12 @@ ACCES NON GARANTI APRÈS
 
 
 <script>
+
+const NOMBRE_DE_BILLETS = 21;
+
 let billet = document.querySelector('.billet');
 let container = document.querySelector('#main>article');
-for(let i = 0 ; i < 21; i++){
+for(let i = 1 ; i < NOMBRE_DE_BILLETS; i++){
   container.appendChild(billet.cloneNode(true));
 }
 let billets = document.querySelectorAll('.billet');
