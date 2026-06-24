@@ -91,10 +91,7 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 - Un·e technicien·ne supplémentaire nécessaire pour le montage et le démontage
 
 ### Transport, repas, nuitées
-À la charge de l'organisateur.
-
-Pas de régime alimentaire particulier.
-
+À la charge de l'organisateur. Nuitées en chambres individuelles. Pas de régime alimentaire particulier.
 
 ## Besoins techniques
 
