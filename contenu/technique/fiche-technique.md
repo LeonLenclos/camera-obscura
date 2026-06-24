@@ -1,4 +1,4 @@
-# Fiche technique
+## Fiche technique
 # *Camera Obscura*, Cie NOKILL
 
 <small>Version du 24 juin 2026 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> </small>
@@ -7,19 +7,19 @@
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf)</span>
 
 ## Équipe
-### Contact comédien·nes
+#### Contact comédien·nes
 - Léon Lenclos – 06 27 65 68 33 – contact@leonlenclos.net
 - Bertrand Lenclos – 06 09 90 38 97 – bebert@nokill.fr
 - Lucile Balezeaux – 06 64 08 84 31 – lucile.balezeaux@gmail.com
 
-### Contact technique
+#### Contact technique
 - Léon Lenclos – 06 27 65 68 33 – contact@leonlenclos.net
 - Bertrand Lenclos – 06 09 90 38 97 – bebert@nokill.fr
 
-### Contact diffusion
+#### Contact diffusion
 - Amparo Gallur – 07 68 52 29 53 – cie@nokill.fr
 
-### Contact administration et production
+#### Contact administration et production
 - Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
 
 
@@ -34,8 +34,6 @@ Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interi
 - Sortie : 5 minutes
 
 Total : 40 minutes
-
-<div class="page-break"></div>
 
 ### Horaires
 4 représentations par jour à des horaires ensoleillés.
@@ -103,7 +101,7 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 
 - Dimensions remorque : 2,50 × 7,50 m
 - Espace minimum nécessaire : 8 × 13 m
-- Terrain : plat
+- Terrain : plat (pente max : 3 %)
 - Orientation : l'avant de la remorque doit être orienté nord-nord-est (entre 20 et 25°)
 - Ensoleillement : l'espace de jeu doit être ensoleillé pendant les horaires de jeu (pas d'ombre portée d'arbre ou d'architecture sur l'espace de jeu)
 
@@ -115,7 +113,7 @@ Prévoir un gardiennage la nuit.
 
 ###  À fournir
 
-- Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air à l'intérieur de la remorque.
+- Un point d'eau à moins de 25 m (connecteur rapide type gardena) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air à l'intérieur de la remorque. 
 - Une ligne 16A à la remorque.
 
 ###  Contraintes météo
