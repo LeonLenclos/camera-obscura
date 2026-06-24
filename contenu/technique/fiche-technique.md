@@ -46,6 +46,7 @@ Les horaires possibles dépendent de l'angle d'élévation du soleil qui doit ê
 Par exemple : 
 - à Toulouse le 20 juin la plage des horaires possible est de 10h30 à 19h30 (Par exemple : 11h30 - 12h00 / 15h30 - 16h00 / 16h30 - 17h00 / 17h30 - 18h)
 - à Toulouse le 2 octobre la plage des horaires possible est de 12h à 17h30 (Par exemple : 12h30 - 13h / 14h30 - 15h00 / 15h30 - 16h00 / 16h30 - 17h)
+
 Il est indispensable de nous consulter avant de définir les horaires de jeu.
 
 
