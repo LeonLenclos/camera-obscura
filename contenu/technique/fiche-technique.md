@@ -22,7 +22,7 @@
 ### Contact administration et production
 - Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
 
-<div class="page-break"></div>
+
 
 ## Représentations
 ### Résumé
@@ -34,6 +34,8 @@ Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interi
 - Sortie : 5 minutes
 
 Total : 40 minutes
+
+<div class="page-break"></div>
 
 ### Horaires
 4 représentations par jour à des horaires ensoleillés.
@@ -64,7 +66,7 @@ Par représentation :
 - Prévoir une personne avant les représentations pour accueil billetterie.
 - Prévoir éventuellement une personne pendant les représentations pour gestion du public à l'extérieur (à valider en amont en fonction des lieus).
 
-<div class="page-break"></div>
+
 
 ## Accueil compagnie
 
@@ -92,6 +94,8 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 
 ### Transport, repas, nuitées
 À la charge de l'organisateur. Nuitées en chambres individuelles. Pas de régime alimentaire particulier.
+
+<div class="page-break"></div>
 
 ## Besoins techniques
 
