@@ -1,13 +1,10 @@
 # Fiche technique
 # *Camera Obscura*, Cie NOKILL
 
-
 <small>Version du 24 juin 2026 <span class="print">(La version la plus récente est consultable en ligne à cette adresse :<br/>[camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique.html)</span> </small>
-
 
 <span class="web">Une version PDF de ce document est téléchargeable à cette adresse :<br/>
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf)</span>
-
 
 ## Équipe
 
@@ -25,7 +22,6 @@
 
 ### Contact administration et production
 - Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
-
 
 ## Représentations
 
@@ -48,7 +44,6 @@ Par exemple :
 - à Toulouse le 2 octobre la plage des horaires possible est de 12h à 17h30 (Par exemple : 12h30 - 13h / 14h30 - 15h00 / 15h30 - 16h00 / 16h30 - 17h)
 
 Il est indispensable de nous consulter avant de définir les horaires de jeu.
-
 
 <div class="page-break"></div>
 
