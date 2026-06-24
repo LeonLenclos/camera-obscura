@@ -41,8 +41,13 @@ Total : 40 minutes
 
 ### Horaires
 4 représentations par jour à des horaires ensoleillés.
+Les horaires possibles dépendent de l'angle d'élévation du soleil qui doit être supérieur à 30°.
 
-Par exemple : 12h00 - 12h30 / 13h00 - 13h30 / 14h30 - 15h00 / 15h30 - 16h00
+Par exemple : 
+- à Toulouse le 20 juin la plage des horaires possible est de 10h30 à 19h30 (Par exemple : 11h30 - 12h00 / 15h30 - 16h00 / 16h30 - 17h00 / 17h30 - 18h)
+- à Toulouse le 2 octobre la plage des horaires possible est de 12h à 17h30 (Par exemple : 12h30 - 13h / 14h30 - 15h00 / 15h30 - 16h00 / 16h30 - 17h)
+Il est indispensable de nous consulter avant de définir les horaires de jeu.
+
 
 <div class="page-break"></div>
 
@@ -114,13 +119,14 @@ Prévoir un gardiennage la nuit.
 
 ###  À fournir
 
-- Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air.
+- Un point d'eau (à moins de 25 m) pour remplir des bidons pour lester le matériel et pour alimenter le système de refroidissement de l'air à l'intérieur de la remorque.
 - Une ligne 16A à la remorque.
 
 ###  Contraintes météo
 
 - Le spectacle peut être joué par temps couvert et faibles précipitations.
 - Le spectacle ne peut pas être joué en cas de pluie abondante (>1 mm/h) ou de vent dépassant 65 km/h.
+- Pour la santé des comédiens et le bien-être du public, le spectacle ne peut pas être joué sous des températures dépassant 40°C.
 
 <div class="page-break"></div>
 
