@@ -85,8 +85,6 @@ Caractéristiques véhicules :
 
 Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit être étudié en amont avec la compagnie.
 
-<div class="page-break"></div>
-
 ### Montage/Démontage
 - Montage : 1 service
 - Démontage : 1 service
@@ -94,6 +92,8 @@ Du fait de l'encombrement des véhicules, l'itinéraire d'accès au site doit ê
 
 ### Transport, repas, nuitées
 À la charge de l'organisateur. Nuitées en chambres individuelles. Pas de régime alimentaire particulier.
+
+<div class="page-break"></div>
 
 ## Besoins techniques
 
