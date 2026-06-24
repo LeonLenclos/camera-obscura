@@ -122,7 +122,7 @@ Prévoir un gardiennage la nuit.
 
 - Le spectacle peut être joué par temps couvert et faibles précipitations.
 - Le spectacle ne peut pas être joué en cas de pluie abondante (>1 mm/h) ou de vent dépassant 65 km/h.
-- Pour la santé des comédiens et le bien-être du public, le spectacle ne peut pas être joué sous des températures dépassant 40°C.
+- Pour la santé des comédiens et le bien-être du public, le spectacle ne peut pas être joué à des températures dépassant 40°C.
 
 <div class="page-break"></div>
 
