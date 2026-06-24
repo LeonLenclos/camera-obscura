@@ -7,7 +7,6 @@
 [camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf](https://camera-obscura.cienokill.fr/contenu/technique/fiche-technique-camera-obscura.pdf)</span>
 
 ## Équipe
-
 ### Contact comédien·nes
 - Léon Lenclos – 06 27 65 68 33 – contact@leonlenclos.net
 - Bertrand Lenclos – 06 09 90 38 97 – bebert@nokill.fr
@@ -24,7 +23,6 @@
 - Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
 
 ## Représentations
-
 ### Résumé
 Camera Obscura est une salle de cinéma itinérante. Le public entre à l'interieur de la camera obscura pour assister à la projection d'un film produit en direct à l'exterieur.
 
