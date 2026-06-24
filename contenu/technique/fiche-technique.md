@@ -22,7 +22,6 @@
 ### Contact administration et production
 - Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
 
-
 <div class="page-break"></div>
 
 ## Représentations
@@ -45,7 +44,6 @@ Par exemple :
 - à Toulouse le 2 octobre la plage des horaires possible est de 12h à 17h30 (Par exemple : 12h30 - 13h / 14h30 - 15h00 / 15h30 - 16h00 / 16h30 - 17h)
 
 Il est indispensable de nous consulter avant de définir les horaires de jeu.
-
 
 ## Public
 
