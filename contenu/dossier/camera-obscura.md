@@ -156,11 +156,10 @@ En tournée, l'équipe artistique et technique est composée de
 
 <article markdown=1>
  
-La diffusion de *Camera Obscura* est assurée par Amparo Gallur du collectif Pronto
+La diffusion de *Camera Obscura* est assurée par Myléna Profit
 
-- Téléphone : 07 68 52 29 53
-- Mail : cie@nokill.fr
-- Site : https://prontodiffusion.fr
+- Téléphone : 06 11 99 24 73
+- Mail : diff@nokill.fr
   
 </article>
 
