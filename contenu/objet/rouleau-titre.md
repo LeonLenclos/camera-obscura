@@ -54,7 +54,7 @@ type: rouleau-titre
 - Léon Lenclos
 
 <dl>
-<dt>Diffusion</dt><dd>Amparo Gallur Barbarroja</dd>
+<dt>Diffusion</dt><dd>Myléna Profit</dd>
 </dl>
 
 <dl>
@@ -102,6 +102,7 @@ type: rouleau-titre
 - Patricia Canac
 - Élise de Couleurs Papilles
 - Angèle Dumont
+- Amparo Gallur Barbarroja
 - Paco Labat
 - Florence Laffitte
 - Thomas Letellier
