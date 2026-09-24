@@ -17,8 +17,8 @@
 - Bertrand Lenclos – 06 09 90 38 97 – bebert@nokill.fr
 
 #### Contact diffusion
-- Amparo Gallur – 07 68 52 29 53 – cie@nokill.fr
-
+- Myléna Profit – 06 11 99 24 73 – diff@nokill.fr
+  
 #### Contact administration et production
 - Bertrand Lenclos – 06 09 90 38 97 – admin@nokill.fr
 
